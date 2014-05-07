@@ -5,6 +5,7 @@ BCg: Bolt Crag
 BzP: Blitz Plate
 CA: Crushing Anvil
 CJ: Covert Jet
+CP: Contaminant Purifier
 DQ: Draconian Queen
 DV: Dutiful Veteran
 Eerie: Narscious the Eerie
@@ -30,6 +31,7 @@ SacS: Sacred Sanctuary
 SS: Shining Sanctuary
 TB: Tartarus Brood
 TS: Tartarus Scion
+TtD: Tiamat the Destroyer
 Vex: Typhon Vex
 VK: Valiant Knight
 VR: Venomous Raptor
