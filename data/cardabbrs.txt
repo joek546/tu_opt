@@ -5,7 +5,9 @@ BCg: Bolt Crag
 BzP: Blitz Plate
 CA: Crushing Anvil
 CJ: Covert Jet
+Const: Constantine
 CP: Contaminant Purifier
+DF: Deranged Fanatic
 DQ: Draconian Queen
 DV: Dutiful Veteran
 Eerie: Narscious the Eerie

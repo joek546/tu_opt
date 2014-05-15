@@ -1,8 +1,13 @@
-mydeck: Emp, ZH, RF, Zodiac, Ayr, Messale, DV, SS
-mydeck2: Emp, DV, Zodiac, SS, ZH, RF, Ayr, Messale, Valiant Knight-4
-mydeck3: Emp, Zodiac, SS, ZH, RF, Ayr, Messale
-mydeck4: Emp, DV, Zodiac, SS, ZH, RF, Messale
-mydeck5: Emp, Zodiac, SS, ZH, RF, Messale
+mydeck: Const, ZH, RF, Zodiac, Ayr, Messale, DV, SS
+mydeck2: Const, ZH, RF, RF, ZH, Ayr, Messale, DV, SS
+mydeck3: Const, ZH, DF, ZH, Ayr, Messale, DV, SS
+mydeck4: Const, ZH, RF, Zodiac, Zodiac, Ayr, Messale, DV, SS
+mydeck5: Const, ZH, RF, ZH, Ayr, CP, Messale, DV, SS
+mydeck6: Const, ZH, DF, ZH, Ayr, CP, Messale, DV, SS
+mydeck7: Const, ZH, DF, ZH, Ayr, CP, Messale
+mydeck8: Const, DF, ZH, ZH, CP, Tazerecca, Ayr
+mydeck9: Const, DF, ZH, ZH, Tazerecca, Ayr
+
 eerie-spam: Barracus, Eerie(10)
 nbd-spam: Alaric, Noble Defiance(10)
 example_group: eerie-spam:0.2;nbd-spam:0.8
