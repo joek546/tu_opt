@@ -11,6 +11,46 @@ mydeck9: Const, DF, ZH, ZH, Tazerecca, Ayr
 eerie-spam: Barracus, Eerie(10)
 nbd-spam: Alaric, Noble Defiance(10)
 example_group: eerie-spam:0.2;nbd-spam:0.8
+
+T100IMPSheriden24: Halcyon, Tempest Citadel, Sculpted Aegis, Garrison Fortifier, Blast Lancer, Indestructible Troop, Convictor, Executioner Hiborn, Zealous Pursuer, Arthurian King, Auger Bore
+T100IMPCAsh: Halcyon, Tempest Citadel (2), Galereaver (2), Sculpted Aegis (3), Galereaver, (2), Steadfast Assailant
+T100IMPSlow: Halcyon, Garrison Fortifier, Tempest Citadel, Convictus, Garrison Fortifier, Convictus, Sculpted Aegis, Mammoth Titan (2), Sculpted Aegis, Garrison Fortifier
+T100MCBunkyLuvLuv: Barracus, Tempest Citadel, Narscious the Eerie (2), Warp Alchemist, Veiled Defiler, Brutal Beholder, Agrius Maximus, Spiteful Raptor (2)
+T100MCHDJcm: Barracus, Tempest Citadel, Sacred Sanctuary, Heart Devourer, Araqualis, Narscious the Eerie, Heart Devourer, Warp Alchemist, Crogall Static, Warp Alchemist, Noble Defiance
+T100MCShorbay: Barracus, Tempest Citadel (2), Heart Devourer (2), Charincinerator, Narscious the Eerie, Tazerious, Indestructible Troop, Warp Alchemist
+T100MCSoonerchick: Barracus, Tempest Citadel (2), Warp Alchemist, Tazerious, Longshot Deadeye (2), Zephyr Superior (2), Ghoulish Specter, Araquapion
+T100MCTroster: Barracus, Araqualis, Sacred Sanctuary, Tempest Citadel, Warp Alchemist, Tazerious, Vicious Borg, Warp Alchemist, Mawnage (2), Warp Alchemist
+T100MCJSimon: Barracus, Lord Hades, Bolt Crag (2), Tazerious, Auger Bore, Worldformer, Veiled Defiler (2), Noble Defiance (2)
+T100MCFrightmare: Barracus, Noble Defiance, Narscious the Eerie (2), Dusk Shade, Noble Defiance, Dusk Shade, Executioner Hiborn, Longshot Deadeye
+T100MCBG: Barracus, Sacred Sanctuary, Noxious Tank (2), Lord Hades (2), Noble Defiance (2), Mawnage (3)
+T100MCaxisbogner: Barracus, Warp Alchemist(2), Narscious the Eerie(2), Tempest Citadel, Crogall Static, Auger Bore, Noble Defiance  (2), Sacred Sanctuary
+T100MCArtificalNewFusions: Barracus, Demi Constrictor, Sacred Sanctuary, Demi Constrictor (3), Steadfast Assailant, Honorable Samurai, Tazerious, Withersnare (2)
+T100MCshj98: Barracus, Warp Alchemist, Drake Scouter, Agrius Maximus, Narscious the Eerie (2), Auger Bore, Sacred Sanctuary, Charincinterator (2), Tempest Citadel
+T100RAFloydW3: Typhon Vex, Loaded Warehouse,  Lustrous Dawnbringer, Sculpted Aegis, Destruction Reaver, Warp Alchemist, Noble Defiance (2), Tazerious, Zephyr Superior (2)
+T100RA:Typhon Vex, Sacred Sanctuary, Sculpted Aegis, Charincinerator (3), Bolt Crag (3), Havoc Genesis, Mawnage
+T100RADBCooper5: Typhon Vex, Tempest Citadel,  Heart Devourer (2), Warp Alchemist (2), Tazerious, Charincinerator (3), Loaded Warehouse
+T100RAMePsthaRealz: Typhon Vex, Charincinerator, Heart Devourer, Sacred Sanctuary, Heart Devourer, Bolt Crag, Mobile Encampment, Heart Devourer, Trampling Anvil, Charincinerator (2)
+T100RAShinigamisam: Typhon Vex, Loaded Warehouse, Charincinerator (3), Trampling Anvil, Promethium Solidus
+T100RAtygnd: Typhon Vex, Tempest Citadel, Heart Devourer (3), Tempest Citadel, Heart Devourer (2), Charincinerator (2)
+T100RASandgman: Typhon Vex, Promethium Solidus (2), Bolt Crag, Noble Defiance (2), Omega Nexus (2), Zealous Pursuer, Havoc Genesis, Sculpted Aegis
+T100RTBrooky: Constantine, Tempest Citadel, Zodiac Harbinger (2), Noble Defiance, Sacred Sanctuary, Noble Defiance (2), Messale, Zodiac Harbinger
+T100RTFDRickyKarnage: Constantine, Tempest Citadel (2), Flash Deity (2), Bolt Crag (4), Grand Templar (2)
+T100RTHyenugi: Constantine, Heart Devourer, Tempest Citadel, Bolt Crag (2), Crogall Static, Zodiac Harbinger (2), Noble Defiance (2)
+T100RTINeverStop: Constantine, Tempest Citadel, Zodiac Harbinger (4), Noble Defiance (4), Sacred Sanctuary
+T100RTlougart: Constantine, Tempest Citadel, Zodiac Harbinger, Bolt Crag, Zodiac Harbinger (2), Noble Defiance, Tempest Citadel, Noble Defiance (2), Sacred Sanctuary
+T100RTNis_stalker: Constantine, Sacred Sanctuary, Tempest Citadel, Zodiac Harbinger, Bolt Crag, Longshot Deadeye, Zodiac Harbinger (3), Noble Defiance (2)
+T100RTSammyc: Constantine, Tempest Citadel, Zodiac Harbinger, Bolt Crag, Contaminant Purifier, Zodiac Harbinger (2), Contaminant Purifier, Bolt Crag, Noble Defiance (2)
+T100RTTherisen78: Constantine, Tempest Citadel, Grand Templar (4), Longshot Deadeye, Sacred Sanctuary, Longshot Deadeye (2), Tempest Citadel
+T100RTTrefle.love: Constantine, Sacred Sanctuary, Zodiac Harbinger, Noble Defiance, Longshot Deadeye, Zodiac Harbinger, Contaminant Purifier, Sacred Equalizer, Precursor Idealist
+T100RTAlexK365: Constantine, Zodiac Harbinger (6), Contaminant Purifier (2), Sacred Sanctuary, Tempest Citadel
+T100RTLadyTyrant: Constantine, Grand Templar, Tempest Citadel, Flash Deity, Zodiac Harbinger (2), Bolt Crag, Sacred Sanctuary, Conquest Mason, Sultan, Noble Defiance
+T100RTTheHashMan: Constantine, Honorable Samurai, Zodiac Harbinger, Grizrael the Reaper, Contaminant Purifier, Styxile, Noble Defiance (2), Sacred Sanctuary 
+T100RTBCgZHSpam: Constantine, Tempest Citadel (2), Zodiac Harbinger, Bolt Crag (2), Zodiac Harbinger (3), Bolt Crag, Zodiac Harbinger
+T100RTBCgDVSpam: Constantine, Tempest Citadel (2), Dignified Vigil (2), Bolt Crag (2), Dignified Vigil (3), Bolt Crag
+T100XDemiCon: Nexor, Demi Constrictor, Sacred Sanctuary, Demi Constrictor, Tempest Citadel, Demi Constrictor, Tazerious, Arch Nova Elite, Dusk Shade, Sacred Sanctuary
+T100XKillZHND: Nexor, Dusk Shade, Tazerious, Sacred Sanctuary (2), Dusk Shade (3), Genetics Chasm
+T100AngryPig: Typhon Vex, Sacred Sanctuary, Augor Bore, Tartarus Brood, Blitz Plate (2), Spiteful Raptor, Crushing Anvil (2)
+
 GT12Sk01: Barracus-6, Noxious Tank-6, Spiteful Raptor-6, Deranged Malgoth-6, Spiteful Raptor-6, Tazerecca-6, Entrails Bog-6, Omniphet-6, Xeno Suzerain-6, Spiteful Raptor-6, Sculpted Aegis-6
 GT12Sk02: Halcyon-6, Indestructible Troop-6, Indestructible Troop-6, Neocyte Resonator-6, Neocyte Resonator-6, Omniphet-6, Garrison Fortifier-6, Agrius Maximus-6, Galereaver-6, Flux Station-6, Arthurian Monarch-6
 GT12Sk03: Barracus-6, Narscious the Eerie-6, Warp Alchemist-6, Narscious the Eerie-6, Warp Alchemist-6, Bolt Crag-6, Sacred Sanctuary-6, Lord Hades-6, Mawnage-6, Noble Defiance-6
@@ -141,3 +181,4 @@ GT20: Constantine-6, Noble Defiance-6, Noble Defiance-6, Grand Templar-6, Tikala
 Gauntlet: /^GT\d\d$/
 GT125k: /^GT12Sk\d\d$/
 GT100k: /^GT1OOk\d\d$/
+T100: /^T100*/
