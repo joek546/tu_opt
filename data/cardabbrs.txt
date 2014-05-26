@@ -28,6 +28,7 @@ Pet: Petrisis
 RF: Reckless Fanatic
 RM: Razor Maiden
 SF: Starformer
+SN: Stealthy Niaq
 SR: Spiteful Raptor
 SacS: Sacred Sanctuary
 SS: Shining Sanctuary

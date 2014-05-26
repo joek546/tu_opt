@@ -1,20 +1,22 @@
 Emp
-Const
-Alaric
-Auger
-DV
-//Zodiac
-SS
+//Const
+Alaric-4
+Auger-3
+//DV
+//SS
 //ZH
 //RF
 //Ayr
-Valiant Knight
-Messale
+Valiant Knight-5
+//Messale
 CJ
-CA
+Contaminant Scour-2
+Contaminant Purge-1
+Anvil-5
+//CA
 //CP
 //Howling Malgoth
-Omega Nexus
+//Omega Nexus
 //BzP
 //Swift Hellion
 //TtD
@@ -26,6 +28,27 @@ Razor Maiden
 //Xillaclaw
 //TS
 //Octane's Bastion
-Tazerecca
+//Tazerecca
 //Arch Nova Elite
-Withersnare
+//Withersnare
+Stealthy Niaq-4
+Draconian Queen-3
+Smog Tank-1
+Smog Tank-4
+Blight Crusher-1 (2)
+Havoc-1
+Bulldozer-1
+Anvil-1 (2)
+Iron Maiden-1 (2)
+Vigil-1
+Equalizer-1 (3)
+Sanctary-4
+Sanctary-1
+Fanatic-1 (2)
+Terraformer-1
+Malgoth-1 (2)
+Tartarus Scion-1
+Omega-1 (2)
+Tazerok-1 (2)
+Arch Nova-1 (2)
+
