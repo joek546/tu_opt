@@ -96,6 +96,7 @@ CardStatus::CardStatus(const Card* card) :
     m_enfeebled(0),
     m_enhance_armored(0),
     m_enhance_berserk(0),
+    m_enhance_corrosive(0),
     m_enhance_counter(0),
     m_enhance_evade(0),
     m_enhance_heal(0),
@@ -105,6 +106,7 @@ CardStatus::CardStatus(const Card* card) :
     m_evades_left(card->m_evade),
     m_faction(card->m_faction),
     m_frozen(false),
+    m_has_jammed(false),
     m_hp(card->m_health),
     m_immobilized(false),
     m_infused(false),
@@ -146,6 +148,7 @@ inline void CardStatus::set(const Card& card)
     m_enfeebled = 0;
     m_enhance_armored = 0;
     m_enhance_berserk = 0;
+    m_enhance_corrosive = 0;
     m_enhance_counter = 0;
     m_enhance_evade = 0;
     m_enhance_heal = 0;
@@ -155,6 +158,7 @@ inline void CardStatus::set(const Card& card)
     m_evades_left = card.m_evade,
     m_faction = card.m_faction;
     m_frozen = false;
+    m_has_jammed = false;
     m_hp = card.m_health;
     m_immobilized = false;
     m_infused = false;
@@ -330,6 +334,7 @@ std::string CardStatus::description()
     if(m_stunned > 0) { desc += ", stunned " + to_string(m_stunned); }
     if(m_enhance_armored > 0) { desc += ", enhance armored " + to_string(m_enhance_armored); }
     if(m_enhance_berserk > 0) { desc += ", enhance berserk " + to_string(m_enhance_berserk); }
+    if(m_enhance_corrosive > 0) { desc += ", enhance corrosive " + to_string(m_enhance_corrosive); }
     if(m_enhance_counter > 0) { desc += ", enhance counter " + to_string(m_enhance_counter); }
     if(m_enhance_evade > 0) { desc += ", enhance evade " + to_string(m_enhance_evade); }
     if(m_enhance_heal > 0) { desc += ", enhance heal " + to_string(m_enhance_heal); }
@@ -439,6 +444,9 @@ bool may_change_skill(const Field* fd, const CardStatus* status, const SkillMod:
                             fd->effect == Effect::berserk_1 ||
                             fd->effect == Effect::berserk_2 ||
                             fd->effect == Effect::berserk_3 ||
+                            fd->effect == Effect::corrosive_1 ||
+                            fd->effect == Effect::corrosive_2 ||
+                            fd->effect == Effect::corrosive_3 ||
                             fd->effect == Effect::counter_1 ||
                             fd->effect == Effect::counter_2 ||
                             fd->effect == Effect::counter_3 ||
@@ -487,6 +495,7 @@ SkillSpec apply_battleground_effect(const Field* fd, const CardStatus* status, c
     {
         case Effect::armored_1:
         case Effect::berserk_1:
+        case Effect::corrosive_1:
         case Effect::counter_1:
         case Effect::evade_1:
         case Effect::heal_1:
@@ -497,6 +506,7 @@ SkillSpec apply_battleground_effect(const Field* fd, const CardStatus* status, c
             break;
         case Effect::armored_2:
         case Effect::berserk_2:
+        case Effect::corrosive_2:
         case Effect::counter_2:
         case Effect::evade_2:
         case Effect::heal_2:
@@ -507,6 +517,7 @@ SkillSpec apply_battleground_effect(const Field* fd, const CardStatus* status, c
             break;
         case Effect::armored_3:
         case Effect::berserk_3:
+        case Effect::corrosive_3:
         case Effect::counter_3:
         case Effect::evade_3:
         case Effect::heal_3:    
@@ -536,6 +547,15 @@ SkillSpec apply_battleground_effect(const Field* fd, const CardStatus* status, c
             {
                 need_add_skill = false;
                 return SkillSpec(enhance_berserk, skill_value, allfactions, true, mod);
+            }
+            break;
+        case Effect::corrosive_1:
+        case Effect::corrosive_2:
+        case Effect::corrosive_3:
+            if(skill == new_skill)
+            {
+                need_add_skill = false;
+                return SkillSpec(enhance_corrosive, skill_value, allfactions, true, mod);
             }
             break;
         case Effect::counter_1:
@@ -1383,6 +1403,11 @@ void check_regeneration(Field* fd)
 }
 void turn_end_phase(Field* fd)
 {
+    if(fd->tap->commander.m_has_jammed)
+    {
+        fd->tap->commander.m_jam_charge = 0;
+        fd->tap->commander.m_has_jammed = false;
+    }
     {
         auto& assaults(fd->tap->assaults);
         for(unsigned index(0), end(assaults.size());
@@ -1391,6 +1416,11 @@ void turn_end_phase(Field* fd)
         {
             CardStatus& status(assaults[index]);
             status.m_inhibited = 0;
+            if(status.m_has_jammed)
+            {
+                status.m_jam_charge = 0;
+                status.m_has_jammed = false;
+            }
             unsigned diff = safe_minus(status.m_poisoned, status.m_protected);
             //only cards that are still alive take poison damage
             if(diff > 0 && status.m_hp > 0)
@@ -1400,6 +1430,21 @@ void turn_end_phase(Field* fd)
             }
         }
     }
+    {
+        auto& structures(fd->tap->structures);
+        for(unsigned index(0), end(structures.size());
+            index < end;
+            ++index)
+        {
+            CardStatus& status(structures[index]);
+            if(status.m_has_jammed)
+            {
+                status.m_jam_charge = 0;
+                status.m_has_jammed = false;
+            }
+        }
+    }
+
 }
 void turn_start_phase(Field* fd)
 {
@@ -1426,6 +1471,7 @@ void turn_start_phase(Field* fd)
             //reset enhance_...
             status.m_enhance_armored = 0;
             status.m_enhance_berserk = 0;
+            status.m_enhance_corrosive = 0;
             status.m_enhance_counter = 0;
             status.m_enhance_evade = 0;
             status.m_enhance_leech = 0;
@@ -1692,11 +1738,12 @@ struct PerformAttack
                     _DEBUG_MSG(1, "%s takes %u counter damage from %s\n", status_description(att_status).c_str(), counter_dmg, status_description(def_status).c_str());
                     remove_hp(fd, *att_status, counter_dmg);
                 }
-                if(def_status->m_card->m_corrosive > att_status->m_corrosion_speed && skill_check<corrosive>(fd, def_status, att_status))
+                unsigned total_corrosive(def_status->m_card->m_corrosive + def_status->m_enhance_corrosive);
+                if(total_corrosive > att_status->m_corrosion_speed && skill_check<corrosive>(fd, def_status, att_status))
                 {
                     // perform_skill_corrosive
-                    _DEBUG_MSG(1, "%s corroded by %u from %s\n", status_description(att_status).c_str(), def_status->m_card->m_corrosive, status_description(def_status).c_str());
-                    att_status->m_corrosion_speed = def_status->m_card->m_corrosive;
+                    _DEBUG_MSG(1, "%s corroded by %u from %s\n", status_description(att_status).c_str(), total_corrosive, status_description(def_status).c_str());
+                    att_status->m_corrosion_speed = total_corrosive;
                 }
                 if(att_status->m_card->m_berserk > 0 && skill_check<berserk>(fd, att_status, nullptr))
                 {
@@ -2206,6 +2253,10 @@ inline bool skill_predicate<enhance_berserk>(Field* fd, CardStatus* src, CardSta
 }
 
 template<>
+inline bool skill_predicate<enhance_corrosive>(Field* fd, CardStatus* src, CardStatus* c, const SkillSpec& s)
+{ return(c->m_card->m_corrosive > 0); }
+
+template<>
 inline bool skill_predicate<enhance_counter>(Field* fd, CardStatus* src, CardStatus* c, const SkillSpec& s)
 { return(c->m_card->m_counter > 0); }
 
@@ -2393,6 +2444,12 @@ inline void perform_skill<enhance_berserk>(Field* fd, CardStatus* c, unsigned v)
 }
 
 template<>
+inline void perform_skill<enhance_corrosive>(Field* fd, CardStatus* c, unsigned v)
+{
+    c->m_enhance_corrosive += v;
+}
+
+template<>
 inline void perform_skill<enhance_counter>(Field* fd, CardStatus* c, unsigned v)
 {
     c->m_enhance_counter += v;
@@ -2495,6 +2552,9 @@ template<> std::vector<CardStatus*>& skill_targets<enhance_armored>(Field* fd, C
 { return(skill_targets_allied_assault(fd, src_status)); }
 
 template<> std::vector<CardStatus*>& skill_targets<enhance_berserk>(Field* fd, CardStatus* src_status)
+{ return(skill_targets_allied_assault(fd, src_status)); }
+
+template<> std::vector<CardStatus*>& skill_targets<enhance_corrosive>(Field* fd, CardStatus* src_status)
 { return(skill_targets_allied_assault(fd, src_status)); }
 
 template<> std::vector<CardStatus*>& skill_targets<enhance_counter>(Field* fd, CardStatus* src_status)
@@ -2638,7 +2698,7 @@ bool check_and_perform_skill(Field* fd, CardStatus* src_status, CardStatus* dst_
 }
 
 //special implementation needed, because standard perform_skill<skill_id>(fd, dst_status, std::get<1>(s)); only allows to alter dst_status
-//but jam to change src_status as well (*1*)
+//but jam has to change src_status as well (*1*)
 template<>
 bool check_and_perform_skill<jam>(Field* fd, CardStatus* src_status, CardStatus* dst_status, const SkillSpec& s, bool is_evadable, bool is_count_achievement)
 {
@@ -2657,7 +2717,7 @@ bool check_and_perform_skill<jam>(Field* fd, CardStatus* src_status, CardStatus*
         }
         _DEBUG_MSG(1, "%s jams %s\n", status_description(src_status).c_str(), status_description(dst_status).c_str());
         perform_skill<jam>(fd, dst_status, std::get<1>(s));
-        src_status->m_jam_charge = 0; //(*1*)
+        src_status->m_has_jammed = true; //(*1*) m_has_jammed
         return(true);
     }
     return(false);
@@ -2984,6 +3044,7 @@ void fill_skill_table()
     skill_table[enfeeble] = perform_targetted_hostile_fast<enfeeble>;
     skill_table[enhance_armored] = perform_targetted_allied_fast<enhance_armored>;
     skill_table[enhance_berserk] = perform_targetted_allied_fast<enhance_berserk>;
+    skill_table[enhance_corrosive] = perform_targetted_allied_fast<enhance_corrosive>;
     skill_table[enhance_counter] = perform_targetted_allied_fast<enhance_counter>;
     skill_table[enhance_evade] = perform_targetted_allied_fast<enhance_evade>;
     skill_table[enhance_leech] = perform_targetted_allied_fast<enhance_leech>;

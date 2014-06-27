@@ -12947,9 +12947,1015 @@
         </rewards>
         <req>2170</req>
     </mission>
-    
 	
 	<!-- END April 2014 Missions -->
+	
+	<!-- June 2014 Missions -->
+	
+	<mission>
+        <id>2172</id>
+        <name>Siege Commences</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+    	<combatBG>combatbg_prologue</combatBG>
+        <energy>25</energy>
+        <x>350</x>
+        <y>330</y>
+        <commander>1259</commander>
+        <speech>
+            <line commander='1053'>Lord Typhon, Imperials are attacking the bases bordering us. They are killing all in sight and burning them to the ground.</line>
+    		<line commander='1301'>Is this your idea of a joke Yurich? Halcyon would not dare to siege Asphodel, we are near impenetrable.</line>
+        </speech>
+        <deck>
+            <card>5143</card>
+            <card>4</card>
+            <card>6</card>
+            <card>9</card>
+            <card>12</card>
+            <card>12</card>
+            <card>166</card>
+            <card>352</card>
+            <card>2000</card>
+            <card>2001</card>
+        </deck>
+        <rewards>
+            <gold>27</gold>
+            <card>15</card>
+            <item>1051</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>14</req>
+    </mission>
+ 
+    <mission>
+        <id>2173</id>
+        <name>Gory Reveal</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+    	<combatBG>combatbg_prologue</combatBG>
+        <energy>27</energy>
+        <x>460</x>
+        <y>340</y>
+        <commander>1259</commander>
+        <speech>
+            <line commander='1053'>Typhon, I implore you to see for yourself. Your people are dying.</line>
+            <line commander='1301'>How is this possible?</line>
+        </speech>
+        <deck>
+            <card>5143</card>
+            <card>501</card>
+            <card>354</card>
+            <card>167</card>
+            <card>502</card>
+            <card>9</card>
+            <card>6</card>
+            <card>1</card>
+            <card>15</card>
+            <card>2003</card>
+        </deck>
+        <rewards>
+            <gold>30</gold>
+            <card>2000</card>
+            <item>1051</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2172</req>
+    </mission>
+
+    <mission>
+        <id>2174</id>
+        <name>Headstrong</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+    	<combatBG>combatbg_prologue</combatBG>
+        <energy>30</energy>
+        <x>550</x>
+        <y>390</y>
+        <commander>1259</commander>
+        <speech>
+            <line commander='1301'>Halcyon will pay for this. Prepare our defenses. I will face this threat myself and draw that coward out.</line>
+        </speech>
+        <deck>
+            <card>5143</card>
+            <card>15</card>
+            <card>5</card>
+            <card>6</card>
+            <card>166</card>
+            <card>13</card>
+            <card>354</card>
+            <card>502</card>
+            <card>167</card>
+            <card>2003</card>
+        </deck>
+        <rewards>
+            <gold>33</gold>
+            <card>5</card>
+            <item>1052</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2173</req>
+    </mission>
+
+    <mission>
+        <id>2175</id>
+        <name>Repurposed</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+    	<combatBG>combatbg_prologue</combatBG>
+        <energy>33</energy>
+        <x>480</x>
+        <y>460</y>
+        <commander>1260</commander>
+        <speech>
+            <line commander='1053'>We are getting reports that the attacks are being led by a massive mech.</line>
+            <line commander='1301'>The GDR-5000 rises again.</line>
+        </speech>
+        <deck>
+            <card>5143</card>
+            <card>610</card>
+            <card>1</card>
+            <card>4</card>
+            <card>6</card>
+            <card>12</card>
+            <card>501</card>
+            <card>354</card>
+            <card>354</card>
+            <card>10</card>
+        </deck>
+        <rewards>
+            <gold>36</gold>
+            <card>12</card>
+            <item>1052</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2174</req>
+    </mission>
+
+    <mission>
+        <id>2176</id>
+        <name>Arrogant Stand</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+    	<combatBG>combatbg_prologue</combatBG>
+        <energy>35</energy>
+        <x>290</x>
+        <y>430</y>
+        <commander>1260</commander>
+        <speech>
+            <line commander='1301'>So Halcyon takes a machine built to bring death to his people and turned it against me. Does he think I will fall so easily?</line>
+        </speech>
+        <deck>
+            <card>5143</card>
+            <card>6262</card>
+            <card>6</card>
+            <card>6</card>
+            <card>166</card>
+            <card>501</card>
+            <card>352</card>
+            <card>352</card>
+            <card>350</card>
+            <card>2002</card>
+        </deck>
+        <rewards>
+            <gold>38</gold>
+            <card>501</card>
+            <item>1053</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2175</req>
+    </mission>
+
+    <mission>
+        <id>2177</id>
+        <name>Aimless Risk</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+    	<combatBG>combatbg_prologue</combatBG>
+        <energy>40</energy>
+        <x>150</x>
+        <y>450</y>
+        <commander>1260</commander>
+        <speech>
+            <line commander='1301'>Be ready to provide support Yurich. I'll face the giant head on.</line>
+        </speech>
+        <deck>
+            <card>5143</card>
+            <card>9</card>
+            <card>15</card>
+            <card>166</card>
+            <card>350</card>
+            <card>502</card>
+            <card>13</card>
+            <card>13</card>
+            <card>7</card>
+            <card>2293</card>
+        </deck>
+        <rewards>
+            <gold>44</gold>
+            <card>4</card>
+            <item>1053</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2176</req>
+    </mission>
+
+    <mission>
+        <id>2178</id>
+        <name>Renewed Vigor</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+    	<combatBG>combatbg_prologue</combatBG>
+        <energy>45</energy>
+        <x>260</x>
+        <y>520</y>
+        <commander>1260</commander>
+        <speech>
+            <line commander='1053'>Is that a good idea?</line>
+            <line commander='1301'>If I die here it will be protecting my people. Nothing else is more important.</line>
+        </speech>
+        <deck>
+            <card>5143</card>
+            <card>511</card>
+            <card>166</card>
+            <card>166</card>
+            <card>6</card>
+            <card>9</card>
+            <card>350</card>
+            <card>350</card>
+            <card>12</card>
+            <card>15</card>
+        </deck>
+        <rewards>
+            <gold>49</gold>
+            <card>166</card>
+            <item>1054</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2177</req>
+    </mission>
+
+    <mission>
+        <id>2179</id>
+        <name>GDR-5000</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <mission_type>2</mission_type>
+    	<combatBG>combatbg_prologue</combatBG>
+		<monster asset_bundle='15'>purger</monster>
+        <energy>50</energy>
+        <x>370</x>
+        <y>500</y>
+        <commander>1269</commander>
+        <speech>
+            <line commander='1301'>Halcyon! As soon as I’m done with your giant metal puppet, I'm coming for you next.</line>
+        </speech>
+        <deck>
+            <card>5143</card>
+            <card>5143</card>
+            <card>4436</card>
+            <card>194</card>
+            <card>4062</card>
+            <card>444</card>
+            <card>522</card>
+            <card>4093</card>
+            <card>26</card>
+            <card>2405</card>
+        </deck>
+        <rewards>
+            <gold>60</gold>
+            <card>2054</card>
+            <item>1054</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2178</req>
+    </mission>
+    
+    <mission>
+        <id>2180</id>
+        <name>Reinforcements</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>50</energy>
+        <x>470</x>
+        <y>590</y>
+        <commander>1261</commander>
+        <speech>
+            <line commander='1301'>I will put an end to Halcyon myself for his abhorrent actions.</line>
+			<line commander='1053'>It will have to wait. Reinforcements are heading directly for the capitol.</line>
+        </speech>
+        <deck>
+            <card>4978</card>
+            <card>218</card>
+            <card>17</card>
+            <card>5462</card>
+            <card>4790</card>
+            <card>166</card>
+            <card>350</card>
+            <card>7</card>
+            <card>9</card>
+            <card>2000</card>
+        </deck>
+        <rewards>
+            <gold>55</gold>
+            <card>15</card>
+            <item>1051</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2179</req>
+    </mission>
+
+    <mission>
+        <id>2181</id>
+        <name>Precious Time</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>55</energy>
+        <x>540</x>
+        <y>650</y>
+        <commander>1261</commander>
+        <speech>
+            <line commander='1301'>Have a unit lead an assault to give us time to intercept. We also need scouts to report what we are dealing with.</line>
+        </speech>
+        <deck>
+            <card>4978</card>
+            <card>745</card>
+            <card>5621</card>
+            <card>502</card>
+            <card>13</card>
+            <card>5</card>
+            <card>350</card>
+            <card>7</card>
+            <card>2294</card>
+            <card>2405</card>
+        </deck>
+        <rewards>
+            <gold>60</gold>
+            <card>501</card>
+            <item>1051</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2180</req>
+    </mission>
+
+    <mission>
+        <id>2182</id>
+        <name>Confrontation</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>60</energy>
+        <x>620</x>
+        <y>640</y>
+        <commander>1261</commander>
+        <speech>
+            <line commander='1053'>Incoming transmission from Halcyon.</line>
+            <line commander='1301'>Patch him through, we will see what the coward has to say for himself.</line>
+        </speech>
+        <deck>
+            <card>4978</card>
+            <card>4382</card>
+            <card>511</card>
+            <card>321</card>
+            <card>6262</card>
+            <card>354</card>
+            <card>502</card>
+            <card>10</card>
+            <card>166</card>
+            <card>2004</card>
+        </deck>
+        <rewards>
+            <gold>66</gold>
+            <card>9</card>
+            <item>1052</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2181</req>
+    </mission>
+
+    <mission>
+        <id>2183</id>
+        <name>Never Falter</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>60</energy>
+        <x>810</x>
+        <y>650</y>
+        <commander>1261</commander>
+        <speech>
+            <line commander='1997'>I implore you to surrender Typhon.</line>
+            <line commander='1301'>Asphodel has never fallen and will certainly not fall to the likes of you Halcyon.</line>
+        </speech>
+        <deck>
+            <card>4978</card>
+            <card>404</card>
+            <card>6550</card>
+            <card>745</card>
+            <card>610</card>
+            <card>352</card>
+            <card>352</card>
+            <card>354</card>
+            <card>2000</card>
+            <card>2293</card>
+        </deck>
+        <rewards>
+            <gold>66</gold>
+            <card>166</card>
+            <item>1052</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2182</req>
+    </mission>
+
+    <mission>
+        <id>2184</id>
+        <name>Boastful Challenge</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>65</energy>
+        <x>880</x>
+        <y>590</y>
+        <commander>1261</commander>
+        <speech>
+            <line commander='1997'>I do not wish to spill the blood of your people. The Bloodthirsty will do that themselves if we cannot embrace the power of the Nexus.</line>
+            <line commander='1301'>Your greed would result in your abusing the power for your own ends. Enough of this; meet me on the battlefield if you find your courage.</line>
+        </speech>
+        <deck>
+            <card>4978</card>
+            <card>672</card>
+            <card>611</card>
+            <card>4791</card>
+            <card>5462</card>
+            <card>511</card>
+            <card>7</card>
+            <card>7</card>
+            <card>2</card>
+            <card>9</card>
+        </deck>
+        <rewards>
+            <gold>71</gold>
+            <card>2000</card>
+            <item>1053</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2183</req>
+    </mission>
+
+    <mission>
+        <id>2185</id>
+        <name>Scout Report</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>70</energy>
+        <x>820</x>
+        <y>530</y>
+        <commander>1261</commander>
+        <speech>
+            <line commander='1053'>Scout’s report, the Imperials have loaded their siege APC - The Albatross - with enough troops to overrun Asphodel.</line>
+        </speech>
+        <deck>
+            <card>4978</card>
+            <card>4290</card>
+            <card>5087</card>
+            <card>4062</card>
+            <card>5621</card>
+            <card>15</card>
+            <card>167</card>
+            <card>7</card>
+            <card>13</card>
+            <card>2055</card>
+        </deck>
+        <rewards>
+            <gold>77</gold>
+            <card>5</card>
+            <item>1053</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2184</req>
+    </mission>
+
+    <mission>
+        <id>2186</id>
+        <name>Opportunity</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>75</energy>
+        <x>750</x>
+        <y>490</y>
+        <commander>1261</commander>
+        <speech>
+            <line commander='1301'>Halcyon thinks he has me beat, but he focused his entire force in one location. We take out the Albatross and we can swiftly end this invasion.</line>
+        </speech>
+        <deck>
+            <card>4978</card>
+            <card>5597</card>
+            <card>322</card>
+            <card>5087</card>
+            <card>745</card>
+            <card>7</card>
+            <card>13</card>
+            <card>502</card>
+            <card>428</card>
+            <card>2294</card>
+        </deck>
+        <rewards>
+            <gold>82</gold>
+            <card>4</card>
+            <item>1054</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2185</req>
+    </mission>
+
+    <mission>
+        <id>2187</id>
+        <name>Albatross</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <mission_type>2</mission_type>
+        <monster asset_bundle='15'>siege_apc</monster>
+        <energy>75</energy>
+        <x>680</x>
+        <y>500</y>
+        <commander>1343</commander>
+        <speech>
+            <line commander='1301'>I will lead the assault on the Albatross. Yurich find out where that coward is hiding.</line>
+        </speech>
+        <deck>
+            <card>4978</card>
+            <card>4978</card>
+            <card>5143</card>
+            <card>855</card>
+            <card>5014</card>
+            <card>6553</card>
+            <card>611</card>
+            <card>4418</card>
+            <card>5149</card>
+            <card>2048</card>
+        </deck>
+        <rewards>
+            <gold>90</gold>
+            <card>16</card>
+            <item>1055</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2186</req>
+    </mission>
+    
+    <mission>
+        <id>2188</id>
+        <name>Central Point</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>75</energy>
+        <x>640</x>
+        <y>410</y>
+        <commander>1262</commander>
+        <speech>
+            <line commander='1053'>Typhon, the assault is being coordinated from a central point near the coast.</line>
+            <line commander='1301'>Intercept their signal and uncover their plans. I don't want anymore surprises.</line>
+        </speech>
+        <deck>
+            <card>6739</card>
+            <card>4290</card>
+            <card>5215</card>
+            <card>5087</card>
+            <card>611</card>
+            <card>194</card>
+            <card>194</card>
+            <card>352</card>
+            <card>2003</card>
+            <card>4</card>
+        </deck>
+        <rewards>
+            <gold>82</gold>
+            <card>4</card>
+            <item>1051</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2187</req>
+    </mission>
+    
+    <mission>
+        <id>2189</id>
+        <name>Limited Resources</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>80</energy>
+        <x>720</x>
+        <y>350</y>
+        <commander>1262</commander>
+        <speech>
+            <line commander='1997'>Typhon this is your final chance. Lay down your arms and no more blood needs to be spilled.</line>
+            <line commander='1301'>You've become delusional. I've destroyed your death machine and laid waste to your reinforcements. You have nothing left.</line>
+        </speech>
+        <deck>
+            <card>6739</card>
+            <card>2405</card>
+            <card>672</card>
+            <card>321</card>
+            <card>5622</card>
+            <card>194</card>
+            <card>194</card>
+            <card>7</card>
+            <card>352</card>
+            <card>4</card>
+        </deck>
+        <rewards>
+            <gold>88</gold>
+            <card>5</card>
+            <item>1051</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2188</req>
+    </mission>
+    
+    <mission>
+        <id>2190</id>
+        <name>Secrets Revealed</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>85</energy>
+        <x>800</x>
+        <y>400</y>
+        <commander>1262</commander>
+        <desc></desc>
+        <speech>
+            <line commander='1997'>You have no idea the capabilities that Balefire holds. It will bring you to a swift end.</line>
+        </speech>
+        <deck>
+            <card>6739</card>
+            <card>5597</card>
+            <card>522</card>
+            <card>4791</card>
+            <card>17</card>
+            <card>17</card>
+            <card>320</card>
+            <card>350</card>
+            <card>2004</card>
+            <card>15</card>
+        </deck>
+        <rewards>
+            <gold>93</gold>
+            <card>9</card>
+            <item>1052</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2189</req>
+    </mission>
+    
+    <mission>
+        <id>2191</id>
+        <name>Classified</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>85</energy>
+        <x>870</x>
+        <y>460</y>
+        <commander>1262</commander>
+        <speech>
+            <line commander='1301'>Yurich, get all the information we have on the Balefire. No doubt Halcyon just spoiled his location and what is waiting for us.</line>
+        </speech>
+        <deck>
+            <card>6739</card>
+            <card>381</card>
+            <card>522</card>
+            <card>4062</card>
+            <card>321</card>
+            <card>321</card>
+            <card>5621</card>
+            <card>167</card>
+            <card>13</card>
+            <card>501</card>
+        </deck>
+        <rewards>
+            <gold>93</gold>
+            <card>12</card>
+            <item>1052</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2190</req>
+    </mission>
+    
+    <mission>
+        <id>2192</id>
+        <name>Valuable Information</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>90</energy>
+        <x>940</x>
+        <y>610</y>
+        <commander>1262</commander>
+        <desc></desc>
+        <speech>
+            <line commander='1053'>Reports confirm that the Balefire is a Siege APC built to lead and coordinate invasions.</line>
+        </speech>
+        <deck>
+            <card>6739</card>
+            <card>573</card>
+            <card>218</card>
+            <card>5088</card>
+            <card>4791</card>
+            <card>6549</card>
+            <card>610</card>
+            <card>354</card>
+            <card>15</card>
+            <card>166</card>
+        </deck>
+        <rewards>
+            <gold>99</gold>
+            <card>15</card>
+            <item>1053</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2191</req>
+    </mission>
+    
+    <mission>
+        <id>2193</id>
+        <name>Promises</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>90</energy>
+        <x>940</x>
+        <y>470</y>
+        <commander>1262</commander>
+        <speech>
+            <line commander='1301'>Yurich you have served me well. Stick with me through this final battle and I will show you how loyalty is rewarded.</line>
+        </speech>
+        <deck>
+            <card>6739</card>
+            <card>5216</card>
+            <card>4290</card>
+            <card>18</card>
+            <card>4062</card>
+            <card>4790</card>
+            <card>6549</card>
+            <card>354</card>
+            <card>354</card>
+            <card>2000</card>
+        </deck>
+        <rewards>
+            <gold>99</gold>
+            <card>501</card>
+            <item>1054</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2192</req>
+    </mission>
+    
+    <mission>
+        <id>2194</id>
+        <name>On the Horizon</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <energy>95</energy>
+        <x>970</x>
+        <y>390</y>
+        <commander>1262</commander>
+        <speech>
+            <line commander='1053'>Balefire is just over the horizon. Be careful, it doesn't look well guarded but it could be a trap.</line>
+        </speech>
+        <deck>
+            <card>6739</card>
+            <card>21</card>
+            <card>5597</card>
+            <card>4436</card>
+            <card>612</card>
+            <card>746</card>
+            <card>510</card>
+            <card>7</card>
+            <card>354</card>
+            <card>501</card>
+        </deck>
+        <rewards>
+            <gold>104</gold>
+            <card>6</card>
+            <item>1055</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2193</req>
+    </mission>
+    
+    <mission>
+        <id>2195</id>
+        <name>Balefire</name>
+        <location_id>109</location_id>
+        <event_req>15</event_req>
+        <combatBG>combatbg_prologue</combatBG>
+        <mission_type>2</mission_type>
+        <monster asset_bundle='15'>mobile_siege</monster>
+        <energy>100</energy>
+        <x>880</x>
+        <y>260</y>
+        <commander>1349</commander>
+        <speech>
+            <line commander='1997'>Always the fool walking into my traps. Say goodbye to Asphodel.</line>
+            <line commander='1301'>You have gone too far Halcyon. Yurich, radio the armory to prepare the prototype mech.</line>
+        </speech>
+        <deck>
+            <card>6739</card>
+			<card>6739</card>
+			<card>5143</card>
+			<card>4978</card>
+            <card>5345</card>
+            <card>815</card>
+            <card>5221</card>
+            <card>5521</card>
+            <card>6051</card>
+            <card>5215</card>
+        </deck>
+        <rewards>
+            <gold>120</gold>
+            <card>510</card>
+            <item>1056</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2194</req>
+    </mission>
+	
+	<!-- END June 2014 Missions -->
 
 	<location>
 		<id>1</id>
@@ -13080,13 +14086,21 @@
         <asset_bundle>12</asset_bundle>
         <req>14</req>
     </location>
+    
+    <location>
+        <id>109</id>
+        <name>Asphodel</name>
+        <event_req>15</event_req>
+        <mapBG>map_prologue</mapBG>
+        <req>14</req>
+    </location>
 	
 <!-- Event Portals -->
 
 	<portal>
 		<location_id>1</location_id>
-		<destination_id>108</destination_id>
-		<event_req>13</event_req>
+		<destination_id>109</destination_id>
+		<event_req>15</event_req>
 		<req>14</req>
 		<x>420</x>
 		<y>450</y>
@@ -13094,8 +14108,8 @@
 
 	<portal>
 		<location_id>2</location_id>
-		<destination_id>108</destination_id>
-		<event_req>13</event_req>
+		<destination_id>109</destination_id>
+		<event_req>15</event_req>
 		<req>14</req>
 		<x>650</x>
 		<y>250</y>
@@ -13103,8 +14117,8 @@
 
 	<portal>
 		<location_id>3</location_id>
-		<destination_id>108</destination_id>
-		<event_req>13</event_req>
+		<destination_id>109</destination_id>
+		<event_req>15</event_req>
 		<req>14</req>
 		<x>180</x>
 		<y>600</y>
@@ -13112,8 +14126,8 @@
 
 	<portal>
 		<location_id>4</location_id>
-		<destination_id>108</destination_id>
-		<event_req>13</event_req>
+		<destination_id>109</destination_id>
+		<event_req>15</event_req>
 		<req>14</req>
 		<x>270</x>
 		<y>270</y>
@@ -13121,8 +14135,8 @@
 
 	<portal>
 		<location_id>5</location_id>
-		<destination_id>108</destination_id>
-		<event_req>13</event_req>
+		<destination_id>109</destination_id>
+		<event_req>15</event_req>
 		<req>14</req>
 		<x>350</x>
 		<y>580</y>
@@ -13130,8 +14144,8 @@
 
 	<portal>
 		<location_id>6</location_id>
-		<destination_id>108</destination_id>
-		<event_req>13</event_req>
+		<destination_id>109</destination_id>
+		<event_req>15</event_req>
 		<req>14</req>
 		<x>500</x>
 		<y>600</y>
@@ -13139,8 +14153,8 @@
 
 	<portal>
 		<location_id>7</location_id>
-		<destination_id>108</destination_id>
-		<event_req>13</event_req>
+		<destination_id>109</destination_id>
+		<event_req>15</event_req>
 		<req>14</req>
 		<x>420</x>
 		<y>380</y>
@@ -13148,19 +14162,19 @@
 
 	<portal>
 		<location_id>8</location_id>
-		<destination_id>108</destination_id>
-		<event_req>13</event_req>
+		<destination_id>109</destination_id>
+		<event_req>15</event_req>
 		<req>14</req>
 		<x>840</x>
 		<y>230</y>
 	</portal>
 
 	<portal>
-		<location_id>108</location_id>
+		<location_id>109</location_id>
 		<destination_id>0</destination_id>
-		<event_req>13</event_req>
+		<event_req>15</event_req>
 		<x>180</x>
-		<y>530</y>
+		<y>220</y>
 	</portal>
 
 <!-- END Event Portals -->

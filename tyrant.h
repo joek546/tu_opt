@@ -1,7 +1,7 @@
 #ifndef TYRANT_H_INCLUDED
 #define TYRANT_H_INCLUDED
 
-#define TU_OPTIMIZER_VERSION "2.1.0"
+#define TU_OPTIMIZER_VERSION "3.2.0"
 #define NDEBUG
 
 #include <string>
@@ -20,6 +20,7 @@ enum Faction
     num_factions
 };
 extern const std::string faction_names[num_factions];
+extern bool verbose;
 
 enum Skill
 {
@@ -27,7 +28,7 @@ enum Skill
     attack,
     // Activation (including Destroyed):
     augment, backfire, chaos, cleanse, enfeeble,
-    enhance_armored, enhance_berserk, enhance_counter, enhance_evade,
+    enhance_armored, enhance_berserk, enhance_corrosive, enhance_counter, enhance_evade,
     enhance_leech, enhance_heal, enhance_poison, enhance_strike,
     freeze, heal, infuse, jam,
     mimic, protect, rally, recharge, repair, rush, shock, siege, split, strike, summon, supply,
@@ -98,6 +99,9 @@ enum Effect {
     berserk_1,
     berserk_2,
     berserk_3,
+    corrosive_1,
+    corrosive_2,
+    corrosive_3,
     counter_1,
     counter_2,
     counter_3,

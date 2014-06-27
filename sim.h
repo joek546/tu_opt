@@ -140,6 +140,7 @@ struct CardStatus
     unsigned m_enfeebled;
     unsigned m_enhance_armored;
     unsigned m_enhance_berserk;
+    unsigned m_enhance_corrosive;
     unsigned m_enhance_counter;
     unsigned m_enhance_evade;
     unsigned m_enhance_heal;
@@ -149,6 +150,7 @@ struct CardStatus
     unsigned m_evades_left;
     Faction m_faction;
     bool m_frozen;
+    bool m_has_jammed;
     unsigned m_hp;
     bool m_immobilized;
     bool m_infused;

@@ -2,6 +2,7 @@
 
 #include <string>
 
+bool verbose(true);
 const std::string faction_names[Faction::num_factions] =
 { "", "bloodthirsty", "imperial", "raider", "righteous", "xeno", "progenitor" };
 
@@ -11,7 +12,7 @@ std::string skill_names[Skill::num_skills] =
     "0",
     // Activation (Including Destroyed):
     "Augment", "Backfire", "Chaos", "Cleanse", "Enfeeble",
-    "Enhance Armored", "Enhance Berserk", "Enhance Counter", "Enhance Evade",
+    "Enhance Armored", "Enhance Berserk", "Enhance Corrosive", "Enhance Counter", "Enhance Evade",
     "Enhance Leech", "Enhance Heal", "Enhance Poison", "Enhance Strike",
     "Freeze", "Heal", "Infuse", "Jam",
     "Mimic", "Protect", "Rally", "Recharge", "Repair", "Rush", "Shock",
@@ -52,6 +53,9 @@ std::string effect_names[Effect::num_effects] = {
     "Berserk 1",
     "Berserk 2",
     "Berserk 3",
+    "Corrosive 1",
+    "Corrosive 2",
+    "Corrosive 3",
     "Counter 1",
     "Counter 2",
     "Counter 3",

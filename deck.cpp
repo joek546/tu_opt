@@ -10,6 +10,16 @@
 #include "cards.h"
 #include "read.h"
 
+DeckEncoding::DeckEncoding deck_encoding(DeckEncoding::wmt_b64);
+
+template<typename T>
+std::string to_string(T val)
+{
+    std::stringstream s;
+    s << val;
+    return s.str();
+}
+
 std::map<signed, char> empty_marks;
 
 template<class RandomAccessIterator, class UniformRandomNumberGenerator>
@@ -32,9 +42,24 @@ void partial_shuffle(RandomAccessIterator first, RandomAccessIterator middle,
 }
 
 //------------------------------------------------------------------------------
-std::string deck_hash(const Card* commander, std::vector<const Card*> cards, bool is_ordered)
+std::string deck_hash_wmt_b64(const Card* commander, std::vector<const Card*> cards, bool is_ordered)
 {
+/*
+enhancements for card_id > 4000 magic characters "-.~!*"
+card_id
+    0 -  4000: card_id encoded as two letter base64
+ 4001 -  8000: -(card_id-4000) encoded as two letter base64
+ 8001 - 12000: .(card_id-8000) encoded as two letter base64
+12001 - 16000: ~(card_id-12000) encoded as two letter base64
+16001 - 20000: !(card_id-20000) encoded as two letter base64
+20001 - 24000: *(card_id-4000) encoded as two letter base64
+
+if there is a base64 encoded two letter value > 4000 this means (value-4001) copied of last card
+*/
+
     std::string base64= "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
+    std::string magic_char= " -.~!*";
+
     std::stringstream ios;
     ios << base64[commander->m_id / 64];
     ios << base64[commander->m_id % 64];
@@ -60,10 +85,15 @@ std::string deck_hash(const Card* commander, std::vector<const Card*> cards, boo
             }
             last_id = card_id;
             num_repeat = 1;
-            if(card_id > 4000)
+            if(card_id > 24000)
             {
-                ios << '-';
-                card_id -= 4000;
+                throw std::runtime_error("Error for card [" + to_string(card_id) + "]. This deck encoding does not support card_ids greater then 24000.");
+            }
+            else if(card_id > 4000)
+            {
+                ios << magic_char[(card_id-1) / 4000]; //8000,12000 still gets index 1
+                card_id = card_id % 4000;
+                if(card_id == 0){ card_id = 4000; } ////8000,12000 are encoded as 4000 (+g)
             }
             ios << base64[card_id / 64];
             ios << base64[card_id % 64];
@@ -76,6 +106,34 @@ std::string deck_hash(const Card* commander, std::vector<const Card*> cards, boo
     }
     return ios.str();
 }
+
+void encode_ddd_b64(std::stringstream &ios, unsigned card_id)
+{
+    if(card_id >= 262144) //64^3
+    {
+        throw std::runtime_error("Error for card [" + to_string(card_id) + "]. This deck encoding does not support card_ids greater then 262144.");
+    }
+
+    std::string base64= "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
+
+    ios << base64[card_id / 4096];
+    ios << base64[(card_id%4096) / 64];
+    ios << base64[card_id % 64];
+}
+
+std::string deck_hash_ddd_b64(const Card* commander, std::vector<const Card*> cards, bool is_ordered)
+{
+/*
+each card_id is stored as a three letter base64 value
+*/
+    std::stringstream ios;
+    encode_ddd_b64(ios, commander->m_id);
+    for(const Card* card: cards)
+    {
+        encode_ddd_b64(ios, card->m_id);
+    }
+    return ios.str();
+}
 //------------------------------------------------------------------------------
 namespace {
 const char* base64_chars =
@@ -83,9 +141,10 @@ const char* base64_chars =
     "abcdefghijklmnopqrstuvwxyz"
     "0123456789+/";
 
+const char* magic_chars = "-.~!*";
 // Converts cards in `hash' to a deck.
 // Stores resulting card IDs in `ids'.
-void hash_to_ids(const char* hash, std::vector<unsigned>& ids)
+void hash_to_ids_wmt_b64(const char* hash, std::vector<unsigned>& ids)
 {
     unsigned int last_id = 0;
     const char* pc = hash;
@@ -93,10 +152,11 @@ void hash_to_ids(const char* hash, std::vector<unsigned>& ids)
     while(*pc)
     {
         unsigned id_plus = 0;
-        if(*pc == '-')
+        const char* pmagic = strchr(magic_chars, *pc);
+        if (pmagic)
         {
-            ++ pc;
-            id_plus = 4000;
+          ++pc;
+          id_plus = 4000*(pmagic-magic_chars+1);
         }
         if(!*pc || !*(pc + 1))
         {
@@ -123,6 +183,48 @@ void hash_to_ids(const char* hash, std::vector<unsigned>& ids)
         {
             ids.push_back(last_id);
         }
+    }
+}
+
+void hash_to_ids_ddd_b64(const char* hash, std::vector<unsigned>& ids)
+{
+    const char* pc = hash;
+
+    while(*pc)
+    {
+        if(!*pc || !*(pc + 1) || !*(pc + 2))
+        {
+            throw std::runtime_error("Invalid hash length");
+        }
+        const char* p0 = strchr(base64_chars, *pc);
+        const char* p1 = strchr(base64_chars, *(pc + 1));
+        const char* p2 = strchr(base64_chars, *(pc + 2));
+        if (!p0 || !p1 || !p2)
+        {
+            throw std::runtime_error("Invalid hash character");
+        }
+        pc += 3;
+        size_t index0 = p0 - base64_chars;
+        size_t index1 = p1 - base64_chars;
+        size_t index2 = p2 - base64_chars;
+        unsigned int id = (index0 << 12) + (index1 << 6) + index2;
+
+        ids.push_back(id);
+    }
+}
+
+void hash_to_ids(const char* hash, std::vector<unsigned>& ids)
+{
+    switch(deck_encoding)
+    {
+        case DeckEncoding::wmt_b64:
+            hash_to_ids_wmt_b64(hash, ids);
+            break;
+        case DeckEncoding::ddd_b64:
+            hash_to_ids_ddd_b64(hash, ids);
+            break;
+        default:
+            throw std::runtime_error("Unsupported Deck Encoding");
     }
 }
 
@@ -176,6 +278,21 @@ const std::pair<std::vector<unsigned>, std::map<signed, char>> string_to_ids(con
 }
 
 } // end of namespace
+
+std::string deck_hash(const Card* commander, std::vector<const Card*> cards, bool is_ordered)
+{
+    switch(deck_encoding)
+    {
+        case DeckEncoding::wmt_b64:
+            return deck_hash_wmt_b64(commander, cards, is_ordered);
+            break;
+        case DeckEncoding::ddd_b64:
+            return deck_hash_ddd_b64(commander, cards, is_ordered);
+            break;
+        default:
+            throw std::runtime_error("Unsupported Deck Encoding");
+    }
+}
 
 namespace range = boost::range;
 

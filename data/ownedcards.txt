@@ -2,16 +2,14 @@ Emp
 //Const
 Alaric-4
 Auger-3
-//DV
+DV
 //SS
 //ZH
-RF
-//Ayr
+//RF
+Ayr
 //Valiant Knight-5
 //Messale
 CJ
-Contaminant Scour-5
-//Contaminant Purge-4
 Anvil-5
 //CA
 //CP
@@ -31,24 +29,20 @@ Razor Maiden
 //Tazerecca
 //Arch Nova Elite
 //Withersnare
-Stealthy Niaq-4
-Draconian Queen-3
-Smog Tank-1
-Smog Tank-4
-Blight Crusher-1
-Havoc-1
-Bulldozer-1
-Anvil-1 
-Iron Maiden-1
-Vigil-1
-Equalizer-1 
-Sanctary-4
-Sanctary-1
-Fanatic-1 
-Terraformer-1
-Malgoth-1 
-Tartarus Scion-1
-Omega-1 
-Tazerok-1 
-Arch Nova-1 
+//Stealthy Niaq-4
+//Draconian Queen-3
+//Smog Tank-4
+//Anvil-1 
+//Iron Maiden-1
+//Vigil-1
+//Equalizer-1 
+//Sanctary-4
+//Sanctary-1
+//Fanatic-1 
+//Terraformer-1
+//Malgoth-1 
+//Tartarus Scion-1
+//Omega-1 
+//Tazerok-1 
+//Arch Nova-1 
 

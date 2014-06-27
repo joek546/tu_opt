@@ -10,6 +10,7 @@
 #include <iostream>
 #include <exception>
 
+#include "tyrant.h"
 #include "card.h"
 #include "cards.h"
 #include "deck.h"
@@ -47,13 +48,13 @@ std::vector<std::pair<std::string, long double>> parse_deck_list(std::string lis
     boost::regex_match (list_string,sm,rx);
     if(sm[1] != "")
     {
-      std::cout << "Filtering user defined decks with regular expression: " << sm[1] << std::endl;
+      if (verbose) { std::cout << "Filtering user defined decks with regular expression: " << sm[1] << std::endl; }
       boost::regex group_rx (sm[1].str());
       for(auto& deck: decks.decks)
       {
         if((deck.decktype != DeckType::mission) && boost::regex_search(to_string(deck.name),sm,group_rx))
         {
-            std::cout << "Match: " << deck.short_description() << std::endl;
+            if (verbose) { std::cout << "Match: " << deck.short_description() << std::endl; }
             res.push_back(std::make_pair(deck.name, 1.0));
         }
       }
@@ -305,12 +306,53 @@ unsigned read_custom_decks(Decks& decks, Cards& cards, std::string filename)
     return(0);
 }
 
+void add_owned_card(Cards& cards, std::map<unsigned, unsigned>& owned_cards, std::string& card_spec, std::map<unsigned, unsigned>& buyable_cards)
+{
+    unsigned card_id{0};
+    unsigned card_num{1};
+    char num_sign{0};
+    char mark{0};
+    parse_card_spec(cards, card_spec, card_id, card_num, num_sign, mark);
+    assert(mark == 0);
+    if(num_sign == 0)
+    {
+        owned_cards[card_id] = card_num;
+    }
+    else if(num_sign == '+')
+    {
+        owned_cards[card_id] += card_num;
+    }
+    else if(num_sign == '-')
+    {
+        owned_cards[card_id] = owned_cards[card_id] > card_num ? owned_cards[card_id] - card_num : 0;
+    }
+    else if(num_sign == '$')
+    {
+        buyable_cards[card_id] = card_num;
+    }
+}
+
 void read_owned_cards(Cards& cards, std::map<unsigned, unsigned>& owned_cards, std::map<unsigned, unsigned>& buyable_cards, const char *filename)
 {
     std::ifstream owned_file{filename};
     if(!owned_file.good())
     {
-        std::cerr << "Warning: Owned cards file '" << filename << "' does not exist.\n";
+        // try parse the string as a cards instead of as a filename
+        try 
+        {
+            std::string card_list(filename);
+            boost::tokenizer<boost::char_delimiters_separator<char>> card_tokens{card_list, boost::char_delimiters_separator<char>{false, ":,", ""}};
+            auto token_iter = card_tokens.begin();
+            for (; token_iter != card_tokens.end(); ++token_iter)
+            {
+                std::string card_spec(*token_iter);
+                add_owned_card(cards, owned_cards, card_spec, buyable_cards);
+            }
+        } 
+        catch (std::exception& e)
+        {
+            std::cerr << "Warning: Failed to parse owned cards: '" << filename << "' is neither a file nor a valid set of cards (" << e.what() << ")" << std::endl;
+        }
         return;
     }
     unsigned num_line(0);
@@ -325,28 +367,7 @@ void read_owned_cards(Cards& cards, std::map<unsigned, unsigned>& owned_cards, s
         }
         try
         {
-            unsigned card_id{0};
-            unsigned card_num{1};
-            char num_sign{0};
-            char mark{0};
-            parse_card_spec(cards, card_spec, card_id, card_num, num_sign, mark);
-            assert(mark == 0);
-            if(num_sign == 0)
-            {
-                owned_cards[card_id] = card_num;
-            }
-            else if(num_sign == '+')
-            {
-                owned_cards[card_id] += card_num;
-            }
-            else if(num_sign == '-')
-            {
-                owned_cards[card_id] = owned_cards[card_id] > card_num ? owned_cards[card_id] - card_num : 0;
-            }
-            else if(num_sign == '$')
-            {
-                buyable_cards[card_id] = card_num;
-            }
+            add_owned_card(cards, owned_cards, card_spec, buyable_cards);
         }
         catch(std::exception& e)
         {

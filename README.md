@@ -19,22 +19,30 @@ the time.
      regular expression will be used to search all custom decks for matching keys.
      example: "/^GT/" will select all custom decks starting with the letters GT.
 
+Mode:
+  pvp: attacker goes first. Simulate/optimize for win rate. Normally used for missions or pvp. [default]
+  pvp-defense: attacker goes second. Simulate/optimize for win rate + stall rate. Normally used for pvp defense.
+  gw: attacker goes second. Simulate/optimize for win rate. Normally used for guild wars.
+  gw-defense: attacker goes first. Simulate/optimize for win rate + stall rate. Normally used for gw defense.
+Order:
+  random: the attack deck is played randomly. [default]
+  ordered: the attack deck is played in order instead of randomly (respects the 3 cards drawn limit).
 Flags:
   yfort &lt;your_fortress_cards&gt;: your fortress structures. your_fortress_cards: the name/hash/cards of one or two fortress structures.
   efort &lt;enemy_fortress_cards&gt;: enemy fortress structures. enemy_fortress_cards: the name/hash/cards of one or two fortress structures.
   -e &lt;effect&gt;: set the battleground effect.
                use "tu_optimize Po Po -e list" to get a list of all available effects.
-  -r: the attack deck is played in order instead of randomly (respects the 3 cards drawn limit).
-  -s: use surge (default is fight).
   -t &lt;num&gt;: set the number of threads, default is 4.
   -turnlimit &lt;num&gt;: set the number of turns in a battle, default is 50.
-  win:     simulate/optimize for win rate. [default].
-  defense: simulate/optimize for win rate + stall rate. can be used for defending deck.
+  -v: less verbose output. Omits output about your and enemy's deck and fortress
 Flags for climb:
   -c: don't try to optimize the commander.
   -L &lt;min&gt; &lt;max&gt;: restrict deck size between &lt;min&gt; and &lt;max&gt;.
   -o: restrict to the owned cards listed in "data/ownedcards.txt".
   -o=&lt;filename&gt;: restrict to the owned cards listed in &lt;filename&gt;.
+                       example: -o=data/mycards.txt.
+  -o=&lt;cards&gt;: restrict to the owned cards specified.
+                 example: -o="Sacred Equalizer#2, Infantry".
   target &lt;num&gt;: stop as soon as the score reaches &lt;num&gt;.
 
 Operations:
@@ -46,7 +54,99 @@ Operations:
 Remark: Due to html character escaping this might read awkward in readme.txt. 
 Open https://github.com/zachanassian/tu_optimize/blob/master/README.md to get latest version in formatted view.
 
+If you receive virus warnings for <code>SimpleTUOptimizeStarter.exe</code> please read [here](http://zachanassian.github.io/tu_optimize/faq.html#ahk).
+
 ##Changelog
+
+##Version 3.2.0
+* <code>SimpleTUOptimizeStarter</code> allows to update <code>cards.xml</code> and <code>missions.xml</code>.
+* <code>SimpleTUOptimizeStarter</code> allows to launch editor for <code>ownedcards.txt</code>, <code>customdeck.txt</code> and <code>cardabbrs.txt</code>.
+
+##Version 3.1.0
+* <code>SimpleTUOptimizeStarter</code> allows to configure number of threads used for simulations.
+* Option -o= can now be placed behind operations
+* [FIX] last version of <code>SimpleTUOptimizeStarter</code> required to enter a SPACE after specifying <code>Flags:</code>. No longer needed.
+* Added link to virus warning explanation for <code>SimpleTUOptimizeStarter</code> to readme.txt
+* Added current <code>cards.xml</code> - 5 new basic epics eg. Sinew Feeder.
+
+##Version 3.0.0
+* Got a mail from Alex Reeve CEO of synapse-games that tu_optimize does not violate any IP from synapse-games. Thank you! Big credits to synapse-games for creating this game. [Details](http://www.kongregate.com/forums/338-tyrant-unleashed/topics/407952)
+* Changed the command line syntax to allow easier commands for new users. New modes are pvp, pvp-defense, gw and gw-defense. Please check the usage info from above. The old commands will mostly (see below) still work so you have time to adapt to the new command. However old commands can be removed in next version without further notice.
+* Incompatible Change: The option -o is now used by default if operation climb is used.
+* If attack deck contains more the commander plus 10 cards a new warning message is issued.
+* <code>SimpleTUOptimizeStarter</code> now allows to configure most use cases without setting additional flags. Try it.
+* Added current <code>cards.xml</code> and <code>missions.xml</code> - mission Albatross.
+* [FIX] remove crash caused by new skill flurry.
+
+##Version 2.5.0
+* Added missions Razogoth Mutant-1 to Razogoth Mutant-5 to <code>data/customdecks_template.txt</code>. Eg. Razogoth Mutant-5 contains all Razogoth Mutant cards at level 5
+* Added option to specify owned cards at command line using -o=<cards>  - credits [draquila](https://github.com/zachanassian/tu_optimize/pull/31)
+<pre>
+>tu_optimize "Constantine, Bolt Crag#5, Tempest Citadel#2" "Razogoth Mutant" -o="Barracus, Insanitius, Arch Nova, Omega Nexus, Sacred Sanctuary, Tazerious, Ayrkrane Vik, Necropocalypse, Mawcor" -r climb 10000
+Your Deck: [S6-F9+loS+i] Constantine, Bolt Crag, Bolt Crag, Bolt Crag, Bolt Crag, Bolt Crag, Tempest Citadel, Tempest Citadel
+Enemy's Deck: [U+-lE+i-lK+i-lQ+i-lW+i-lc+i] Razogoth Mutant, Shadow Mutant, Shadow Mutant, Razoling Mutant, Razoling Mutant, Gloom Mutant, Gloom Mutant, Typhon's Mutant, Typhon's Mutant, Dream Mutator, Dream Mutator
+2.01 (201 / 10000)
+2.01: Constantine, Bolt Crag #5, Tempest Citadel #2
+Deck improved: S6-F9-cD-F9+joS+i 0 [4381] Bolt Crag -> 1 [5795] Tazerious: 2.05 (205 / 10000)
+2.05: Constantine, Bolt Crag, Tazerious, Bolt Crag #3, Tempest Citadel #2
+Deck improved: S6-F9+koS-F9oS 1 [5795] Tazerious -> 5 [4381] Bolt Crag: 2.12 (212 / 10000)
+2.12: Constantine, Bolt Crag #4, Tempest Citadel, Bolt Crag, Tempest Citadel
+Deck improved: S6-F9+koS+i-F9 5 [4381] Bolt Crag -> 6 [4381] Bolt Crag: 2.82 (282 / 10000)
+2.82: Constantine, Bolt Crag #4, Tempest Citadel #2, Bolt Crag
+Deck improved: S6-F9+i-c9-F9+ioS+i-F9 7 -void- -> 2 [5853] Arch Nova: 2.88 (288 / 10000)
+2.88: Constantine, Bolt Crag #2, Arch Nova, Bolt Crag #2, Tempest Citadel #2, Bolt Crag
+Deck improved: S6-F9-cD-F9-c9-F9+ioS+i-F9 8 -void- -> 1 [5795] Tazerious: 3.21 (321 / 10000)
+3.21: Constantine, Bolt Crag, Tazerious, Bolt Crag, Arch Nova, Bolt Crag #2, Tempest Citadel #2, Bolt Crag
+Deck improved: S6-F9-cD-F9-c9-F9+ioS+i-fN-F9 9 -void- -> 8 [5997] Insanitius: 3.47 (347 / 10000)
+3.47: Constantine, Bolt Crag, Tazerious, Bolt Crag, Arch Nova, Bolt Crag #2, Tempest Citadel #2, Insanitius, Bolt Crag
+Deck improved: S6-F9-cD-F9-c9-F9+ioS+i-F9-fN 9 [4381] Bolt Crag -> 8 [4381] Bolt Crag: 3.84 (384 / 10000)
+3.84: Constantine, Bolt Crag, Tazerious, Bolt Crag, Arch Nova, Bolt Crag #2, Tempest Citadel #2, Bolt Crag, Insanitius
+Deck improved: S6-F9+i-c9-F9+ikOoS+i-F9-fN 1 [5795] Tazerious -> 5 [2318] Sacred Sanctuary: 4.21 (421 / 10000)
+4.21: Constantine, Bolt Crag #2, Arch Nova, Bolt Crag #2, Sacred Sanctuary, Tempest Citadel #2, Bolt Crag, Insanitius
+Deck improved: S6-F9+kkOoS+i-GV-F9-fN 2 [5853] Arch Nova -> 7 [4405] Ayrkrane Vik: 5.97 (597 / 10000)
+5.97: Constantine, Bolt Crag #4, Sacred Sanctuary, Tempest Citadel #2, Ayrkrane Vik, Bolt Crag, Insanitius
+Deck improved: S6-F9+jkOoS-F9oS-GV-F9-fN 2 [4381] Bolt Crag -> 5 [4381] Bolt Crag: 5.98 (598 / 10000)
+5.98: Constantine, Bolt Crag #3, Sacred Sanctuary, Tempest Citadel, Bolt Crag, Tempest Citadel, Ayrkrane Vik, Bolt Crag, Insanitius
+Deck improved: S6-F9+joS-F9oSkO-GV-F9-fN 3 [2318] Sacred Sanctuary -> 6 [2318] Sacred Sanctuary: 6.1 (610 / 10000)
+6.1: Constantine, Bolt Crag #3, Tempest Citadel, Bolt Crag, Tempest Citadel, Sacred Sanctuary, Ayrkrane Vik, Bolt Crag, Insanitius
+Deck improved: S6-F9+joS+ikO-F9-GV-F9-fN 4 [4381] Bolt Crag -> 6 [4381] Bolt Crag: 6.31 (631 / 10000)
+6.31: Constantine, Bolt Crag #3, Tempest Citadel #2, Sacred Sanctuary, Bolt Crag, Ayrkrane Vik, Bolt Crag, Insanitius
+Deck improved: S6-F9+joS+ikO-F9-c9-F9-fN 7 [4405] Ayrkrane Vik -> 7 [5853] Arch Nova: 6.5 (650 / 10000)
+6.5: Constantine, Bolt Crag #3, Tempest Citadel #2, Sacred Sanctuary, Bolt Crag, Arch Nova, Bolt Crag, Insanitius
+Deck improved: S6-F9+joS+ikO-F9+i-c9-fN 7 [5853] Arch Nova -> 8 [5853] Arch Nova: 6.77 (677 / 10000)
+6.77: Constantine, Bolt Crag #3, Tempest Citadel #2, Sacred Sanctuary, Bolt Crag #2, Arch Nova, Insanitius
+Deck improved: S6-F9+koS+ikO-F9-c9-fN 7 [4381] Bolt Crag -> 0 [4381] Bolt Crag: 6.92 (692 / 10000)
+6.92: Constantine, Bolt Crag #4, Tempest Citadel #2, Sacred Sanctuary, Bolt Crag, Arch Nova, Insanitius
+Deck improved: S6-F9+koS+ikO-F9-cD-fN 8 [5853] Arch Nova -> 8 [5795] Tazerious: 7.38 (738 / 10000)
+7.38: Constantine, Bolt Crag #4, Tempest Citadel #2, Sacred Sanctuary, Bolt Crag, Tazerious, Insanitius
+Deck improved: S6-F9+koS+ikO-F9-c9-cD 9 [5997] Insanitius -> 8 [5853] Arch Nova: 7.54 (754 / 10000)
+7.54: Constantine, Bolt Crag #4, Tempest Citadel #2, Sacred Sanctuary, Bolt Crag, Arch Nova, Tazerious
+Evaluated 1250 decks (1681634 + 1362939 simulations).
+Optimized Deck: 7.54: Constantine, Bolt Crag #4, Tempest Citadel #2, Sacred Sanctuary, Bolt Crag, Arch Nova, Tazerious
+</pre>
+
+##Version 2.4.0
+* [FIX] jam all - [Issue#30](https://github.com/zachanassian/tu_optimize/issues/30)
+* Added current <code>cards.xml</code> and <code>missions.xml</code> - mission Infested Rastax
+
+##Version 2.3.0
+* Added support for cards with id greater then 8046. New maximum card_id is 24000.
+
+##Version 2.2.0
+* Added skill Enhance Corrosive
+* Added battleground effect Corrosive 1-3 - [Issue#27](https://github.com/zachanassian/tu_optimize/issues/27)
+* Added example for -o= - [Issue#28](https://github.com/zachanassian/tu_optimize/issues/28)
+* Added switch -v to removed output of enemy's (and your) deck - [Issue#29](https://github.com/zachanassian/tu_optimize/issues/29)
+* Added current <code>cards.xml</code> and <code>missions.xml</code> - mission Blightbloom
+<pre>
+tu_optimize "Cyrus, Bolt Crag(5)" "Barracus, Mephalus Gorge(2), Noble Defiance" -e "Corrosive 3" sim 10000
+Your Deck: [RW-F9+l] Cyrus, Bolt Crag, Bolt Crag, Bolt Crag, Bolt Crag, Bolt Crag
+Enemy's Deck: [So-Iq-hY+i] Barracus, Mephalus Gorge, Mephalus Gorge, Noble Defiance
+Effect: Corrosive 3
+win%: 33.08 (3308 / 10000)
+stall%: 0 (0 / 10000)
+loss%: 66.92 (6692 / 10000)
+</pre>
 
 ##Version 2.1.0
 * Added GT126k - credits [YWNM](http://www.kongregate.com//forums/338/topics/400905?page=1#posts-8034438)
