@@ -18,7 +18,7 @@ $(MAIN): $(OBJS) obj/icon.res
 	$(CXX) -o $@ $(OBJS) obj/icon.res $(LDFLAGS)
 
 clean:
-	del /q $(MAIN).exe obj\*.* tu_optimize\*.* tu_optimize\data\*.*
+	del /q $(MAIN).exe obj\*.* tu_optimize\*.* tu_optimize\data\*.* tu_optimize\src\*.*
 
 release:
 	xcopy /y tu_optimize.exe tu_optimize
@@ -32,3 +32,5 @@ release:
 	xcopy /y data\cards.xml tu_optimize\data
 	xcopy /y data\missions.xml tu_optimize\data
 	"%ProgramFiles%\AutoHotkey\Compiler\Ahk2Exe.exe" /in SimpleTUOptimizeStarter.ahk /out tu_optimize/SimpleTUOptimizeStarter.exe /icon tu_optimize.ico
+	xcopy /y /I *.h tu_optimize\src
+	xcopy /y *.cpp tu_optimize\src

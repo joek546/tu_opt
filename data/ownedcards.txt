@@ -1,48 +1,94 @@
 Emp
-//Const
-Alaric-4
-Auger-3
-DV
-//SS
-//ZH
-//RF
-Ayr
-//Valiant Knight-5
-//Messale
-CJ
-Anvil-5
-//CA
-//CP
-//Howling Malgoth
-//Omega Nexus
-//BzP
-//Swift Hellion
-//TtD
-//VR
-//Necropocalypse
-//Blight Demolisher
-//Nexusisider
+Const
+//Alaric-4
+//Barracus
+//Typhon Vex
+//Nexor
+//Halcyon
+//Brood Mother
+
+
+//Zodiac Harbinger (2)
+//Deranged Fanatic
+//Sacred Sanctuary
+//Ayrkrane Syn
+Valiant Knight-5
+Messale
+Covert Jet
+Dutiful Veteran
 Razor Maiden
+//Samurai
+//Contaminant Purifier
+Constrictor
+
+//Noble Defiance
+
+
+//Lurker Behemoth
+//Deathsteel Falcion
+//Inferno Demon
+//Blackrock Cleaver
+//Sinew Shredder
+
+//Sacred Equalizer
+//Spiteful Raptor
+
+//Bane of Truth
+
+//Tumblox
+//Precursor Idealist
+//Radar Sentry
+//Necropocalypse
+
+
 //Xillaclaw
-//TS
-//Octane's Bastion
+//Xillanail
+
+
 //Tazerecca
+//Tazerious
+
+//Nexusisider
+//Nexusis
+
+//Crushing Anvil
+//Trampling Anvil
+
+//Cryptic Niaq
+//Incog Niaq
+
+//Tartarus Brood
+//Tartarus Graft
+
+//Auger Bore
+//Auger Ream
+
+//Mongresh
+//Mongarus
+
+//Dreamreaper
+//Tikalan
 //Arch Nova Elite
+//Elite Squadron
+//Nightscreecher
+//Haleflash
+//Aggeroth Enraged
+//Tikalan
+//Trench Lobber
+
+//Apex Overdrive
+//Demi Constrictor
+//Tremor Wyvern
+
+
+//Omega Nexite
+//Judgment Nova
+//Soulsteel Bronco
+
+
+//Howling Malgoth
 //Withersnare
-//Stealthy Niaq-4
-//Draconian Queen-3
-//Smog Tank-4
-//Anvil-1 
-//Iron Maiden-1
-//Vigil-1
-//Equalizer-1 
-//Sanctary-4
-//Sanctary-1
-//Fanatic-1 
-//Terraformer-1
-//Malgoth-1 
-//Tartarus Scion-1
-//Omega-1 
-//Tazerok-1 
-//Arch Nova-1 
+//Insanitius
+
+
 

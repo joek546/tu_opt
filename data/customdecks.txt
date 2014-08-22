@@ -1,237 +1,362 @@
-mydeck1: Const, Messale, ZH, ZH, CP, Sacred Sanctuary, Valiant Knight-5, DV
-mydeck2: Const, Messale, ZH, ZH, RF, Contaminant Purge, Valiant Knight-5, DV
-mydeck3: Const, ZH, ZH, Messale, RF, DV, CP , Ayr, SS
-mydeck4: Const, Messale, ZH, ZH, Valiant Knight-5, RF, Contaminant Purge-2, Ayr
-mydeck5: Const, Messale, ZH, ZH, Valiant Knight-5, RF, Contaminant Purge, Ayr, DV, SS
-mydeck6: Const, ZH, RF, ZH, Ayr, CP, Messale, DV, SS
-mydeck7: Const, ZH, DF, ZH, Ayr, CP, Messale, DV, SS
-mydeck8: Const, ZH, DF, ZH, Ayr, CP, Messale
-mydeck9: Const, DF, ZH, ZH, CP, Tazerecca, Ayr
+nkorboy: Constantine, Zodiac Harbinger, Ayrkrane Syn, Sacred Sanctuary, Zodiac Harbinger, Contaminant Purifier, Samurai, Deranged Fanatic
+//9.99344% @8/07/2014
 
-eerie-spam: Barracus, Eerie(10)
-nbd-spam: Alaric, Noble Defiance(10)
-example_group: eerie-spam:0.2;nbd-spam:0.8
+nkorboypvp: Constantine, Deranged Fanatic, Ayrkrane Syn, Zodiac Harbinger #2, Contaminant Purifier, Samurai, Sacred Sanctuary
+//65.9529 @8/07/2014
 
-T+100IMPSheriden24: Halcyon, Tempest Citadel, Sculpted Aegis, Garrison Fortifier, Blast Lancer, Indestructible Troop, Convictor, Executioner Hiborn, Zealous Pursuer, Arthurian King, Auger Bore
-T+100IMPCAsh: Halcyon, Tempest Citadel (2), Galereaver (2), Sculpted Aegis (3), Galereaver, (2), Steadfast Assailant
-T+100IMPSlow: Halcyon, Garrison Fortifier, Tempest Citadel, Convictus, Garrison Fortifier, Convictus, Sculpted Aegis, Mammoth Titan (2), Sculpted Aegis, Garrison Fortifier
+nkorboyserge: Constantine, Demi Constrictor, Sacred Sanctuary, Deathsteel Falcion, Ayrkrane Syn, Lurker Behemoth, Zodiac Harbinger #2, Contaminant Purifier, Sacred Equalizer
+//19.3013% @8/07/2014
+
+nksurge: Constantine, Demi Constrictor, Sacred Sanctuary, Ayrkrane Syn, Lurker Behemoth, Deathsteel Falcion, Aggeroth Enraged, Withersnare, Sacred Equalizer, Judgment Nova, Auger Bore
+//19.3019 @8/07/2014
+
+nkrainbow: Barracus, Demi Constrictor, Ayrkrane Syn, Sacred Sanctuary, Lurker Behemoth, Inferno Demon, Aggeroth Enraged, Withersnare, Sacred Equalizer, Tazerecca, Dreamreaper
+//21.8499% @8/19/2014
+
+nk+++: Constantine, Demi Constrictor, Sacred Sanctuary, Tartarus Graft, Ayrkrane Syn, Deathsteel Falcion, Lurker Behemoth, Tazerious, Auger Ream, Sacred Equalizer, Withersnare
+//27.0% @7/24/2014
+
+
+nkrb+++: Barracus, Demi Constrictor, Ayrkrane Syn, Sacred Sanctuary, Lurker Behemoth, Tazerious, Incog Niaq, Bane of Truth, Auger Ream, Mongarus, Withersnare
+//32.598% @7/24/2014
+
+
+AlphaRaid-1: Apocalypse-1, Sabah-1, Sabah-1, Gnaw-1, Medi-Droid-1, Medi-Droid-1, Endurance-1, Endurance-1, Vaque-1, Vaque-1, Chaos Swarm-1
+AlphaRaid-2: Apocalypse-2, Sabah-2, Sabah-2, Gnaw-2, Medi-Droid-2, Medi-Droid-2, Endurance-2, Endurance-2, Vaque-2, Vaque-2, Chaos Swarm-2
+AlphaRaid-3: Apocalypse-3, Sabah-3, Sabah-3, Gnaw-3, Medi-Droid-3, Medi-Droid-3, Endurance-3, Endurance-3, Vaque-3, Vaque-3, Chaos Swarm-3
+AlphaRaid-4: Apocalypse-4, Sabah-4, Sabah-4, Gnaw-4, Medi-Droid-4, Medi-Droid-4, Endurance-4, Endurance-4, Vaque-4, Vaque-4, Chaos Swarm-4
+AlphaRaid-5: Apocalypse-5, Sabah-5, Sabah-5, Gnaw-5, Medi-Droid-5, Medi-Droid-5, Endurance-5, Endurance-5, Vaque-5, Vaque-5, Chaos Swarm-5
+AlphaRaid-6: Apocalypse-6, Sabah-6, Sabah-6, Gnaw-6, Medi-Droid-6, Medi-Droid-6, Endurance-6, Endurance-6, Vaque-6, Vaque-6, Chaos Swarm-6
+AlphaRaid-7: Apocalypse-7, Sabah-7, Sabah-7, Gnaw-7, Medi-Droid-7, Medi-Droid-7, Endurance-7, Endurance-7, Vaque-7, Vaque-7, Chaos Swarm-7
+AlphaRaid-8: Apocalypse-8, Sabah-8, Sabah-8, Gnaw-8, Medi-Droid-8, Medi-Droid-8, Endurance-8, Endurance-8, Vaque-8, Vaque-8, Chaos Swarm-8
+AlphaRaid-9: Apocalypse-9, Sabah-9, Sabah-9, Gnaw-9, Medi-Droid-9, Medi-Droid-9, Endurance-9, Endurance-9, Vaque-9, Vaque-9, Chaos Swarm-9
+AlphaRaid-10: Apocalypse, Sabah, Sabah, Gnaw, Gnaw, Medi-Droid, Medi-Droid, Endurance, Endurance, Vaque, Vaque, Chaos Swarm, Chaos Swarm
+
+FTAOlaf: Barracus, Trampling Anvil, Auger Bore, Noxious Tank, Tartarus Brood, Ayrkrane Vik, Tazerious, Spiteful Raptor
+FTAOlaf++: Barracus, Xeno Suzerain, Havoc Genesis, Sacred Sanctuary, Noxious Tank, Tazerious, Auger Bore, Sacred Equalizer, Tiamat Destructor, Cryptic Niaq, Zodiac Harbinger
+FTABigCavs: Barracus, Warp Alchemist, Worldformer, Narscious the Eerie, Zephyr Superior, Noxious Tank, Auger Bore, Tazerious, Ayrkrane Vik, Tempest Citadel, Spiteful Raptor
+FTAManolo: Halcyon, Garrison Fortifier, Sculpted Aegis, Shining Sanctuary, Octane's Bastion, Hephatat Fury, Strategist Dovan, Drake Scouter, Zealous Pursuer, Auger Bore, Agrius Exemplar
+FTAManolo++: Tabitha, Garrison Fortifier, Octane's Bastion, Sculpted Aegis, Auger Bore, Shining Sanctuary, Drake Scouter, Hephatat Fury, Agrius Maximus, Zealous Pursuer
+FTATobyDilligaf: Nexor, Sacred Sanctuary, Worldformer, Xeno Suzerain, Spiteful Raptor, Tazerecca, Apex, Azure Inheritor
+FTALukamal: Barracus, Xillaclaw, Trampling Anvil, Spiteful Raptor, Tazerecca, Auger Bore, Ayrkrane Vik, Arcane Dreadship, Cryptic Niaq
+FTALukamal++: Barracus, Xeno Suzerain, Trampling Anvil, Dignified Vigil, Xillaclaw, Spiteful Raptor, Tazerecca, Arcane Dreadship, Auger Bore, Ayrkrane Vik
+FTAtcarp1609: Barracus, Spiteful Raptor, Defiance, Ayrkrane Vik, Crushing Anvil, Apex, Masterwork Aegis
+FTAColosseTBK: Barracus, Noble Defiance, Starformer, Auger, Shining Sanctuary, Masterwork Aegis, Xeno Overlord, Stag Beetle
+FTALee: Constantine, Bolt Crag, Sacred Sanctuary, Zodiac Harbinger (2), Noble Defiance (3), Sultan
+FTARedFenix: Constantine, Grand Templar, Zodiac Harbinger (2), Bolt Crag, Sacred Sanctuary, Noble Defiance (2), Tazerecca, Ayrkrane Vik, Tempest Keep
+FTAGrani: Constantine, Tempest Citadel, Sacred Sanctuary, Bolt Crag (3), Zodiac Harbinger, Noble Defiance, Longshot Deadeye, Sacred Sanctuary, Indestructible Troop
+FTAInfallibleRecall: Barracus, Noxious Tank, Brutal Beholder (2), Zealous Pursuer, Spiteful Raptor, Blitz Plate, Entrails Pool, Abunis
+FTAInfallibleRecall++: Halcyon, Garrison Fortifier (3), Sculpted Aegis, General Dovan, Sacred Sanctuary, Warp Alchemist, Zealous Pursuer, Tazerecca, Steadfast Assailant
+FTASaeloun: Barracus, Xeno Suzerain, Auger Bore, Starformer, Ayrkrane Vik, Immense Ospry, Zodiac Harbinger
+FTABadgley13: Barracus, Noble Defiance, Worldformer, Tazerious, Havoc Genesis, Omega Nexite, Auger Bore
+FTAAmalphy: Halcyon, Galereaver, Octane's Bastion, Sculpted Aegis, Sacred Sanctuary, Hephatat Fury, Swift Hellion, Auger Bore
+FTATheYohneo: Barracus, Zodiac Harbinger, Brood Minion, Reckless Fanatic, Mongresh, Venomous Raptor, Tartarus Scion, Blight Crusher
+FTAHellspawnz: Constantine, Zodiac Harbinger,Zodiac Harbinger, Bolt Crag,Zodiac Harbinger, Longshot Deadeye, Auger Bore, Shining Sanctuary, Templar, Defiance, Starformer
+FTAHellspawnz++: Constantine, Zodiac Harbinger,Zodiac Harbinger, Bolt Crag, Longshot Deadeye, Zodiac Harbinger, Shining Sanctuary, Auger Bore, Defiance, Starformer
+FTAJosefS21: Barracus, Xeno Suzerain, Tazerecca, Spiteful Raptor, Sculpted Aegis, Havoc Genesis, Tazerecca, Valiant Knight, Ayrkrane Vik, Defiance, Auger Bore
+FTAJosefS21++: Barracus, Xeno Suzerain, Spiteful Raptor, Noxious Tank, Tazerious, Sculpted Aegis, Valiant Knight, Havoc Genesis, Auger Bore, Noble Defiance, Ayrkrane Vik
+FTAMabombe: Barracus, Warp Alchemist, Narscious the Eerie, Vicious Borg, Narscious the Eerie, Zephyr Superior, Nephelasus, Longshot Deadeye, Tempest Keep, Havoc Genesis
+FTAMabombe+: Barracus, Warp Alchemist, Narscious the Eerie, Vicious Borg, Narscious the Eerie, Zephyr Superior, Longshot Deadeye, Longshot Deadeye, Tempest Citadel, Longshot Deadeye, Nephelasus
+FTADan_Danne_89: Barracus, Tazerious, Auger Bore, Reckless Fanatic, Starformer, Corrupted Daemon, Mongresh, Savage Beholder, Nexusisider, Arch Nova Elite, Withersnare
+FTAWell_Lubricated: Barracus, Tempest Citadel, Charincinerator, Sacred Sanctuary, Bolt Crag (2), Noble Defiance, Noxious Tank, Forsaken Beetle
+FTAdulramoon: Constantine, Dignified Vigil, Crystallus Apollo, Sacred Sanctuary, Bolt Crag, Zodiac Harbinger, Noble Defiance, Xeno Suzerain
+FTA/1/1: Barracus, Charincinerator, Indestructible Troop, Bolt Crag, Sacred Sanctuary, Sculpted Aegis, Zodiac Harbinger, Longshot Deadeye, Fierce Brute, Spiteful Raptor, Ayrkrane Vik
+FTAMattDownes: Halcyon, Lightning Crag, Sacred Sanctuary, Auger Bore, Masterwork Aegis, Ospry, Stronghold Fortifier
+FTAtehaaron: Barracus, Veiled Defiler, Noble Defiance, Charincinerator, Auger Bore, Warp Fuser, Narscious the Horror, Havoc Genesis, Nephelan
+FTAmebap22: Barracus, Xeno Suzerain (2), Noble Defiance, Noxious Tank, Tazerecca, Corrupted Daemon, Spiteful Raptor, Auger Bore
+FTAmebap22++: Barracus, Xeno Suzerain, Noble Defiance, Xeno Suzerain, Sacred Sanctuary, Noxious Tank, Tazerecca, Corrupted Daemon, Spiteful Raptor, Auger Bore, Sculpted Aegis
+FTAlucanasi: Halcyon, Galereaver, Sculpted Aegis, Tempest Citadel, Stronghold Fortifier, Convictor, Masterwork Aegis, Xeno Overlord, Auger Bore, Octane's Bastion
+FTAgeneral_peabo: Barracus, Sculpted Aegis, Spiteful Raptor, Tazerecca, Cryptic Niaq, Auger Bore, Crushing Anvil, Ayrkrane Vik, Defiance
+FTAgeneral_peabo++: Barracus, Noble Defiance, Trampling Anvil, Sculpted Aegis, Spiteful Raptor, Tazerecca, Nimbus Wonder, Corrupted Daemon, Auger Bore, Cryptic Niaq, Ayrkrane Vik
+FTADikC3: Barracus, Noxious Tank, Tazerious, Sacred Sanctuary, Auger Bore,  Forsaken Beetle, Zodiac Harbinger,  Ayrkrane Vik, Valiant Knight, Omega Nexite
+FTAReady4321: Nexor, Xeno Suzerain, Genetics Pit, Xeno Suzerain, Tazerecca, Auger Bore, Starformer, Arch Nova, Unholy Daemon, Thunder Crag
+FTATchorgnasse: Barracus, Sculpted Aegis, Sacred Sanctuary, Xeno Suzerain, Auger Bore, Omniphet, Spiteful Raptor, Tartarus brood, Tazerecca
+FTAReady4321++: Nexor, Xeno Suzerain, Constrictor, Xeno Suzerain, Arch Nova Elite, Tazerious, Corrupted Daemon, Xillaclaw, Auger Bore, Covert Jet, Starformer
+FTAbrianthespoon: Barracus, Bolt Crag, Spiteful Raptor, Tazerious, Starformer, Ayrkrane Vik, Xeno Overlord, Cryptic Niaq, Tartarus Obelisk
+FTAbrianthespoon++: Barracus, Xeno Suzerain, Bolt Crag, Auger Bore, Spiteful Raptor, Tazerecca, Starformer, Ayrkrane Vik, Cryptic Niaq, Starformer
+FTAGuya: Halcyon, Octane's Bastion, Galereaver, Sculpted Aegis, Stronghold Fortifier, Convictor, Shining Sanctuary, Masterwork Aegis, Xeno Overlord, Auger Bore
+FTAGuya++: Halcyon, Galereaver, Sculpted Aegis, Octane's Bastion, Stronghold Fortifier, Masterwork Aegis, Stronghold Fortifier, Convictor, Xeno Overlord, Auger Bore, Shining Sanctuary
+FTAgamemasteray: Barracus, Sculpted Aegis, Xeno Suzerain, Tazerious, Sacred Sanctuary, Corrupted Daemon, Auger Bore, Cryptic Niaq, Starformer, Defiance
+FTAgamemasteray+: Barracus, Tazerious, Xeno Suzerain, Sacred Sanctuary, Sculpted Aegis, Spiteful Raptor, Corrupted Daemon, Auger Bore
+FTAgamemasteray++: Nexor,  Demi Constrictor (2),  Sacred Sanctuary,  Arch Nova Elite, Xeno Suzerain, Tazerious, Xillaclaw, Starformer, Cryptic Niaq
+FTALee++: Constantine, Tempest Citadel, Sacred Sanctuary, Bolt Crag, Zodiac Harbinger, Noble Defiance (3), Zodiac Harbinger, Sacred Sanctuary, Sultan
+FTAarouedd: Barracus, Xeno Suzerain, Worldformer, Tazerious, Corrupted Daemon, Ayrkrane Vik, Neo Delver, Cryptic Niaq, Demi constrictor
+FTAAkimom: Barracus, Xeno Suzerain, Auger Bore, Tartarus Brood, Ayrkrane Vik, Tazerecca, Starformer,Trampling Anvil, Tazerecca, Masterwork Aegis
+FTAAkimom++: Barracus, Assailant, Xeno Suzerain, Noxious Tank, Tazerious, Ayrkrane Vik, Auger Bore, Tartarus Brood, Sculpted Aegis, Tempest Citadel, Demi Constrictor
+FTATchorgnasse++: Barracus, Sacred Sanctuary, Auger Bore, Noxious Tank, Spiteful Raptor, Contaminant Purifier, Tiamat Destructor, Omniphet, Sculpted Aegis, Tazerecca
+FTAredyuhlen: Barracus, Auger Bore, Cryptic Niaq, Tazerecca, Starformer, Ayrkrane Vik, Crushing Anvil, Shining Sanctuary, Defiance, Toxic Tank
+FTAredyuhlen++: Barracus, Xeno Suzerain, Trampling Anvil, Noxious Tank, Auger Bore, Tazerecca, Starformer, Ayrkrane Vik, Cryptic Niaq, Defiance, Shining Sanctuary
+FTACharlesg65: Barracus, Noble Defiance, Worldformer, Tazerious, Noxious Tank, Auger Bore, Spiteful Raptor, Cryptic Niaq
+FTADaPhlo: Barracus, Worldformer, Ayrkrane Vik, Tazerok, Auger, Apex, Stag Beetle, Crushing Anvil
+FTADaPhlo++: Barracus, Xeno Suzerain, Noble Defiance, Sculpted Aegis, Noxious Tank, Worldformer, Trampling Anvil, Tazerok, Auger Bore, Ayrkrane Vik
+FTAJoeyJoeJoe1: Barracus, Xeno Suzerain, Tazerecca, Auger Bore, Starformer, Brood Minion, Omega
+FTAshimmy360: Nexor, Xeno Suzerain, Tazerious, Xeno Suzerain, Corrupted Daemon, Auger Bore, Covert Jet, Arch Nova Elite
+FTAdeusart+++: Halcyon, Sculpted Aegis (2), Sacred Sanctuary, Blast Lancer (5), Zealous Pursuer (2)
+FTAdeusart: Barracus, Crystallus Apollo, Sacred Sanctuary, Sculpted Aegis, Bolt Crag, Executioner Hiborn, Xeno Suzerain (2), Vicious Borg, Dusk Shade, Interstellar Mortar
+FTAdeusart++: Barracus, Bolt Crag, Sculpted Aegis, Sacred Sanctuary, Charincinerator, Vicious Borg, Dusk Shade (2), Blast Lancer (2)
+FTAGrani++: Constantine, Demi Constrictor, Tempest Citadel (2), Dignified Vigil(2),  Bolt Crag (2), Noble Defiance, Bolt Crag, Honorable Samurai
+FTAGrani+: Constantine, Demi Constrictor, Tempest Citadel (2), Sacred Sanctuary, Dignified Vigil, Bolt Crag (2), Zodiac Harbinger, Noble Defiance, Longshot Deadeye, Bolt Crag
+FTABadgley13++: Barracus, Xeno Suzerain, Noble Defiance, Worldformer, Tazerious, Sacred Sanctuary, Contaminant Purifier, Omega Nexite, Auger Bore
+FTAWell_Lubricated++: Constantine, Tempest Citadel, Sacred Equalizer, Bolt Crag, Dignified vigil (2), Bolt Crag, Noble Defiance, Honorable Samurai, Tempest Citadel, Demi Constrictor
+FTAgeorgey: Halcyon, Xeno Suzerain, Sculpted Aegis, Auger Bore, Mach Jet, Messale, Crushing Anvil, Starformer, Tartarus Brood, Ayrkrane Vik
+FTAgeorgey++: Halcyon, Xeno Suzerain, Sculpted Aegis, Steadfast Assailant, Messale, Crushing Anvil, Auger Bore, Mach Jet, Starformer, Ayrkrane Vik, Tartarus Brood
+FTAManolo+++: Halcyon, Indestructible Troop, Garrison Fortifier, Sculpted Aegis, Sacred Sanctuary, Garrison Fortifier, Sculpted Aegis, Strategist Dovan, Hephatat Fury, Steadfast Assailant, Drake Scouter
+FTAzks213: Barracus, Mongresh, Auger Bore, Toxic Tank, Blitz Plate, Havoc Genesis, Crushing Anvil, Starformer
+FTABullGunz: Alaric, Longshot Deadeye, Auger Bore, Zodiac Harbinger (2), Worldformer, Mach Jet, Noble Defiance (2), Grand Templar, Ayrkrane Vik
+FTAChipH4:  Barracus, Starformer, Sacred Sanctuary, Tempest Keep, Crushing Anvil, Charincinerator, Ayrkrane Vik, Xeno Suzerain, Auger Bore
+FTAtmtstudio: Barracus, Xeno Suzerain, Covert Jet, Tazerecca, Ayrkrane Vik, Cryptic Niaq, Pure Benediction, Omega Nexus, Apex Overdrive
+FTAbkorsund: Constantine, Defiance, Tikalan, Sacred Sanctuary, Crushing Anvil, Sacred Equalizer, Tazerecca, Reckless Fanatic, Auger Bore, Valiant Knight, Messale
+FTAPtiFilouTubs: Barracus, Xillaclaw, Xeno Suzerain, Blitz Plate, Ayrkrane Vik, Sustained Nimbus, Tartarus Scion, Venomous Raptor
+FTAFreid78: Constantine, Contaminant Purge, Noble Defiance, Pantheon Disciple, Valiant Knight, Messale, Spiteful Raptor, Sacred Sanctuary, Sacred Equalizer, Zodiac Harbinger, Reckless Fanatic
+FTAchozenone08: Constantine, Sculpted Aegis, Zodiac Harbinger, Noble Defiance (3),Auger Bore, Covert Jet
+FTAGhostface1: Nexor, Worldformer, Noxious Tank, Xeno Suzerain, Tazerecca, Auger Bore, Apex Overdrive, Tempest Keep, Sacred Sanctuary
+FTAGhostface1s: Nexor, Tempest Keep, Xeno Suzerain, Sacred Sanctuary, Worldformer, Tazerecca, Auger Bore, Noxious Tank, Apex Overdrive
+FTAGhostface1++: Nexor, Demi Constrictor, Noble Defiance, Tempest Keep, Xeno Suzerain, drake scouter, Arch Nova Elite, Sculpted Aegis, Tazerecca, Worldformer, Sacred Sanctuary
+FTASmokinBuddha93: Barracus,Tazerious, Auger Bore, Noble Defiance, Starformer, Sculpted Aegis, Arch Nova Elite
+
+
+ftx: /^FTA/
+fty: /^FTN/
+t100: /^T\+100.*$/
+rt100: /^T\+100RT.*$/
+rb100: /^T\+100MC.*$/
+rd100: /^T\+100RA.*$/
+imp100:	/^T\+100IMP.*$/
+
+
 T+100MCBunkyLuvLuv: Barracus, Tempest Citadel, Narscious the Eerie (2), Warp Alchemist, Veiled Defiler, Brutal Beholder, Agrius Maximus, Spiteful Raptor (2)
 T+100MCHDJcm: Barracus, Tempest Citadel, Sacred Sanctuary, Heart Devourer, Araqualis, Narscious the Eerie, Heart Devourer, Warp Alchemist, Crogall Static, Warp Alchemist, Noble Defiance
-T+100MCShorbay: Barracus, Tempest Citadel (2), Heart Devourer (2), Charincinerator, Narscious the Eerie, Tazerious, Indestructible Troop, Warp Alchemist
 T+100MCSoonerchick: Barracus, Tempest Citadel (2), Warp Alchemist, Tazerious, Longshot Deadeye (2), Zephyr Superior (2), Ghoulish Specter, Araquapion
-T+100MCTroster: Barracus, Araqualis, Sacred Sanctuary, Tempest Citadel, Warp Alchemist, Tazerious, Vicious Borg, Warp Alchemist, Mawnage (2), Warp Alchemist
-T+100MCJSimon: Barracus, Lord Hades, Bolt Crag (2), Tazerious, Auger Bore, Worldformer, Veiled Defiler (2), Noble Defiance (2)
-T+100MCFrightmare: Barracus, Noble Defiance, Narscious the Eerie (2), Dusk Shade, Noble Defiance, Dusk Shade, Executioner Hiborn, Longshot Deadeye
-T+100MCBG: Barracus, Sacred Sanctuary, Noxious Tank (2), Lord Hades (2), Noble Defiance (2), Mawnage (3)
-T+100MCaxisbogner: Barracus, Warp Alchemist(2), Narscious the Eerie(2), Tempest Citadel, Crogall Static, Auger Bore, Noble Defiance  (2), Sacred Sanctuary
-T+100MCArtificalNewFusions: Barracus, Demi Constrictor, Sacred Sanctuary, Demi Constrictor (3), Steadfast Assailant, Honorable Samurai, Tazerious, Withersnare (2)
-T+100MCshj98: Barracus, Warp Alchemist, Drake Scouter, Agrius Maximus, Narscious the Eerie (2), Auger Bore, Sacred Sanctuary, Charincinterator (2), Tempest Citadel
-T+100RAFloydW3: Typhon Vex, Loaded Warehouse,  Lustrous Dawnbringer, Sculpted Aegis, Destruction Reaver, Warp Alchemist, Noble Defiance (2), Tazerious, Zephyr Superior (2)
-T+100RA:Typhon Vex, Sacred Sanctuary, Sculpted Aegis, Charincinerator (3), Bolt Crag (3), Havoc Genesis, Mawnage
-T+100RADBCooper5: Typhon Vex, Tempest Citadel,  Heart Devourer (2), Warp Alchemist (2), Tazerious, Charincinerator (3), Loaded Warehouse
+T+100MCFrightmare: Barracus, Honorable Samurai, Narscious the Eerie (2), Noble Defiance, Dusk Shade, Executioner Hiborn, Longshot Deadeye, Darkon Obliterator, Bolt Crag (2)
+T+100RTAxisbogner: Constantine, Tempest Citadel (2), Demi Constrictor (2), Bolt Crag (2), Razor Pinion, Grand Templar, Dignified Vigil, Noble Defiance
+T+100MCshj98: Barracus, Warp Alchemist, Drake Scouter, Agrius Maximus, Narscious the Eerie (2), Auger Ream, Sacred Sanctuary, Charincinerator (2), Tempest Citadel
+T+100RAFloydW3: Typhon Vex, Loaded Warehouse, Lustrous Dawnbringer, Sculpted Aegis, Destruction Reaver, Warp Alchemist, Noble Defiance (2), Tazerious, Zephyr Superior (2)
+T+100RADBCooper5: Typhon Vex, Tempest Citadel, Heart Devourer (2), Warp Alchemist (2), Tazerious, Charincinerator (3), Loaded Warehouse
 T+100RAMePsthaRealz: Typhon Vex, Charincinerator, Heart Devourer, Sacred Sanctuary, Heart Devourer, Bolt Crag, Mobile Encampment, Heart Devourer, Trampling Anvil, Charincinerator (2)
-T+100RAShinigamisam: Typhon Vex, Loaded Warehouse, Charincinerator (3), Trampling Anvil, Promethium Solidus
 T+100RAtygnd: Typhon Vex, Tempest Citadel, Heart Devourer (3), Tempest Citadel, Heart Devourer (2), Charincinerator (2)
 T+100RASandgman: Typhon Vex, Promethium Solidus (2), Bolt Crag, Noble Defiance (2), Omega Nexus (2), Zealous Pursuer, Havoc Genesis, Sculpted Aegis
-T+100RTBrooky: Constantine, Tempest Citadel, Zodiac Harbinger (2), Noble Defiance, Sacred Sanctuary, Noble Defiance (2), Messale, Zodiac Harbinger
 T+100RTFDRickyKarnage: Constantine, Tempest Citadel (2), Flash Deity (2), Bolt Crag (4), Grand Templar (2)
 T+100RTHyenugi: Constantine, Heart Devourer, Tempest Citadel, Bolt Crag (2), Crogall Static, Zodiac Harbinger (2), Noble Defiance (2)
-T+100RTINeverStop: Constantine, Tempest Citadel, Zodiac Harbinger (4), Noble Defiance (4), Sacred Sanctuary
 T+100RTlougart: Constantine, Tempest Citadel, Zodiac Harbinger, Bolt Crag, Zodiac Harbinger (2), Noble Defiance, Tempest Citadel, Noble Defiance (2), Sacred Sanctuary
 T+100RTNis_stalker: Constantine, Sacred Sanctuary, Tempest Citadel, Zodiac Harbinger, Bolt Crag, Longshot Deadeye, Zodiac Harbinger (3), Noble Defiance (2)
-T+100RTSammyc: Constantine, Tempest Citadel, Zodiac Harbinger, Bolt Crag, Contaminant Purifier, Zodiac Harbinger (2), Contaminant Purifier, Bolt Crag, Noble Defiance (2)
 T+100RTTherisen78: Constantine, Tempest Citadel, Grand Templar (4), Longshot Deadeye, Sacred Sanctuary, Longshot Deadeye (2), Tempest Citadel
-T+100RTTrefle.love: Constantine, Sacred Sanctuary, Zodiac Harbinger, Noble Defiance, Longshot Deadeye, Zodiac Harbinger, Contaminant Purifier, Sacred Equalizer, Precursor Idealist
 T+100RTAlexK365: Constantine, Zodiac Harbinger (6), Contaminant Purifier (2), Sacred Sanctuary, Tempest Citadel
-T+100RTLadyTyrant: Constantine, Grand Templar, Tempest Citadel, Flash Deity, Zodiac Harbinger (2), Bolt Crag, Sacred Sanctuary, Conquest Mason, Sultan, Noble Defiance
-T+100RTTheHashMan: Constantine, Honorable Samurai, Zodiac Harbinger, Grizrael the Reaper, Contaminant Purifier, Styxile, Noble Defiance (2), Sacred Sanctuary 
+T+100RTLadyTyrant: Constantine, Council's Hubris, Sphinxite Liberated (2), Noble Defiance (2), Sacred Sanctuary, Conquest Mason, Razor Pinion (2), Tempest Citadel
+T+100RTTheHashMan: Constantine, Honorable Samurai, Zodiac Harbinger, Grizrael the Reaper, Contaminant Purifier, Styxile, Noble Defiance (2), Sacred Sanctuary
 T+100RTBCgZHSpam: Constantine, Tempest Citadel (2), Zodiac Harbinger, Bolt Crag (2), Zodiac Harbinger (3), Bolt Crag, Zodiac Harbinger
 T+100RTBCgDVSpam: Constantine, Tempest Citadel (2), Dignified Vigil (2), Bolt Crag (2), Dignified Vigil (3), Bolt Crag
 T+100XDemiCon: Nexor, Demi Constrictor, Sacred Sanctuary, Demi Constrictor, Tempest Citadel, Demi Constrictor, Tazerious, Arch Nova Elite, Dusk Shade, Sacred Sanctuary
 T+100XKillZHND: Nexor, Dusk Shade, Tazerious, Sacred Sanctuary (2), Dusk Shade (3), Genetics Chasm
+T+100RTRedFenix77: Constantine, Sacred Sanctuary, Tempest Keep, Bolt Crag, Zodiac Harbinger (2), Noble Defiance (2), Longshot Deadeye, Grand Templar
+T+100RAmattstanley83: Typhon Vex, Judgment Nova (3), Heart Devourer, Charincinerator, Hazard Krux, Nephelasus, Tempest Citadel, Incinerator Rig, Loaded Warehouse
+T+100RTMastrodamus: Constantine, Tempest Citadel (2), Bolt Crag (3),Demi Constrictor (2) , Grand Templar, Dignified Vigil, Contaminant Purifier
+T+100IMPgiorgio57: Halcyon, Hephatat Stoic, Steadfast Assailant, Sculpted Aegis, Galereaver, Garrison Fortifier, Indestructible Troop, Galereaver, Tempest Citadel, Drake Scouter, Neocyte Resonator
+T+100MCFFort: Typhon Vex, Warp Alchemist, Loaded Warehouse, Heart Devourer (3), Tazerious, Convictus, Yobedysseus
+T+100RT/1/1: Constantine, Longshot Deadeye, Noble Defiance, Bolt Crag (3), Sultan, Zodiac Harbinger (2), Grand Templar, Tempest Citadel
+T+100MCShorboy: Barracus, Tempest Citadel (2), Demi Constrictor (2), Vicerolos, Heart Devourer, Crogall Static, Incinerator Rig, Deft Reclaimer, Bolt Crag
+T+100MCghostface1: Tabitha, Tygarm Resolute, Ion Converter, Dreamreaper, Oreworks, Sacred Sanctuary, Tempest Keep, Auger Ream, Drake Scouter, Warp Alchemist, Noble Defiance
+T+100MCandypant5: Barracus, Demi Constrictor (2), Veiled Defiler, Xeno Suzerain (2), Sculpted Aegis (2), Tempest Citadel, Steadfast Assailant, Tazerious
+T+100MCsirpetey: Barracus, Charincinerator (4), Tempest Citadel, Tazerious, Pack Dozer, Bolt Crag, Vicious Borg, Sacred Sanctuary
+T+100MCJawbones: Typhon Vex, Sacred Sanctuary, Judgment Nova, Havoc Genesis (2), Charincinerator(3), Bolt Crag
+T+100MCMulleRus: Constantine, Sacred Sanctuary, Zodiac Harbinger (3), Noble Defiance (2), Honorable Samurai, Tazerious, Contaminant Purifier, Messale
+T+100MCWell_Lubricated: Constantine, Demi Constrictor, Dignified Vigil (2), Charincinerator, Noble Defiance, Sacred Sanctuary, Tempest Citadel, Bolt Crag (2)
+T+100RTHawkeye7472: Constantine, Tempest Citadel, Sacred Sanctuary, Noble Defiance(2), Zodiac Harbinger (2), Grand Templar, Bolt Crag (2), Honorable Samurai
+T+100MCImRealLazy: Barracus, Xeno Suzerain (2), Styxile, Grizrael the Reaper, Arch Nova Elite, Tazerious, Tartarus Graft
+T+100RTShizTokin: constantine, bolt crag (2), contaminant purifier, high templar, ayrkrane syn, sacred sanctuary, noble defiance, messale, zodiac harbinger (2)
+T+100RTkenG38: constantine, zodiac harbinger (4), contaminant purifier, bolt crag (2), honorable samurai
+T+100RTHakuyou: constantine, noble defiance, grizrael the reaper, ayrkrane syn, arch nova elite, trampling anvil, spiteful raptor, tartarus graft
+T+100MCMakkamburger: halcyon, bolt crag, tazerious, indestructible troop, sculpted aegis, charincinerator, steadfast assailant, heart devourer, sacred sanctuary (2)
+T+100MCMgfloy03: constantine, contaminant purifier, tartarus graft, arch nova elite, zodiac harbinger, noble defiance (2), trampling anvil, crogall stout, warp fuser, ayrkrane syn
+T+100RickyKarnagenew: constantine, bolt crag (3), noble defiance (2), grand templar (2), tempest citadel (2), dignified vigil
+T+100MC--bigC--: barracus, mongarus, bolt crag, zephyr superior, veiled defiler (2), withersnare (2), narscious the eerie, tazerious, noxious tank
+T+100RTGregH70: constantine, noble defiance (2), zodiac harbinger (2), tempest citadel (2), bolt crag, longshot deadeye, honorable samurai, grand templar
+T+100RTLoveroguli: constantine, noble defiance (2), zodiac harbinger, bolt crag, grand templar, sultan, longshot deadeye, sacred equalizer, sacred sanctuary
+T+100RTMyDeckIsBetter: constantine, flash deity, bolt crag (2), zodiac harbinger (3), Razor Pinion, Councils Hubris, tempest citadel (2)
+T+100MCRogerawong: barracus, oreworks (3), crogall static, kezerus loaded, tazerious, warp alchemist, heart devourer
+T+100MCColliver: Barracus, Demi Constrictor, Sacred Sanctuary, Demi Constrictor, Heart Devourer, Steadfast Assailant, Tazerious, Honorable Samurai, Arch Nova Elite, Heart Devourer, Noble Defiance
+T+100RAStunnerbear: barracus, judgment nova (2), heart shredder, havoc genesis, pack dozer, omega nexus, trampling anvil, noble defiance, sacred sanctuary, loaded warehouse
+T+100MCRiversidex: Barracus, Scorched Hellwing, Firestorm, Croc Oppressor, Razor Pinion, Tempest Citadel, Oreworks, Warp Alchemist, Flame Wraith, Mephalus Gorge, Lord Hades
+T+100MCGolL: Barracus, Scorched Hellwing (2), Demi Constrictor (2), Oreworks (2), Razor Pinion (2), Cockatrice Baxis
+T+100XPuppykickerrr: Nexor, Tazerious, Invoskeleton, Demi Constrictor (2), Kezerus Loaded, Tempest Citadel, Neo Dredge, Arch Nova Elite, Xeno Suzerain
+T+100MCBLevelR: Nexor, razor pinion, cockatrice baxis, scorched hellwing, oreworks, tazerious, razor pinion
+T+100MCNipsicle: Constantine, Razor Pinion, Tempest Citadel, Razor Pinion (3), Vicerolos, Demi Constrictor, Tempest Citadel, Council's Hubris, Tygarm Adamant
+T+100MCanthony342: Barracus, cruise launcher(3),demi constrictor(2),drake scouter,bolt crag,sacred sanctuary (2)
+T+100XThe Commander:Nexor,Vicerolos,Invoskeleton,Invoskeleton,Neo Dredge,Portal Noctil,Demi Constrictor,Tazerious,Arch Nova Elite,Demi Constrictor,Cockatrice Baxis
+T+100BT--big C--: brood mother,veiled defiler #2, withersnare #5, styxile, narscious the eerie
+T+100IMPPhoenixneohp: halcyon, sculpted aegis (2), Justice Victorious, Haven-bearer (2), Auger Ream, Rox Chainslash, Sphinxite Liberated, Hylas Adroit
+T+100IMPDJ8: halcyon, Haven-bearer, Sculpted aegis, Sculpted aegis, Blackrock cleaver, Justice victorious, Auger ream, Steadfast assailant, Hephatat stoic, Tempest citadel
+T+100RTtimepirate8888: Constantine, Bolt Crag (3), Dreamreaper, Styxile, Zodiac Harbinger (3)
+T+100MCelgenitalo: nexor, scorched hellwing (2), tazerious, Cockatrice Baxis, Oreworks (2), Vicious Borg, Razor Pinion (2), Sacred Sanctuary
+T+100MCGrok: Barracus, BoltCrag, Tazerious, Charincinerator, Sacred Sanctuary, Warp Alchemist, Crogall Static, Vicious Borg, Noble Defiance
+T+100MCgalahad1001: barracus, scorched hellwing, invoskeleton #2, cockatrice baxis, oreworks #2, sphinxite liberated, noble defiance
+T+100IMPDJB: Halcyon, Auger Ream, Galereaver (3), Sculpted Aegis (2), Haven-bearer, Indestructible Troop, Justice Victorious, Tempest Citadel
+T+100MCLilboogs: constantine, Tempest Citadel, crogall static, ion converter, recovery sanctum, heart devourer, demi constrictor, sacred sanctuary, Noble defiance, steadfast assailant, bolt crag
+T+100MPManolo54: Tabitha, sacred sanctuary, Sculpted Aegis, Octane's Bastion, Galereaver, Auger Ream, Zealous Pursuer, drake scouter, Bane of Truth, Garrison Fortifier, Hephatat Stoic
+T+100RTslavanka: Constantine, razor pinion (2), zodiac harbinger (3), bolt crag (2), tempest citadel, ayrkrane syn  
+T+100MCMCCAWBEAST: Constantine, Vicerolos, Tygarm Adamant, Demi Constrictor (2), Tempest Citadel (2), Ion Converter, Grand Templar, Bolt Crag, Noble Defiance
+T+100BTmrbonfiglio: Brood Mother, withersnare #4, araqualis, tempest citadel, deranged malgoth, mongarus, sacred sanctuary
+T+100BTxxxEclipsionxxx: Brood Mother, Veiled Defiler, Withersnare (5), Tempest Citadel, Sacred Sanctuary, Shapesavant, Nightscreecher
+T+100RAawinspired(enhanced): Barracus, Invoskeleton, Darkon Destroyer, Charincinerator (2), Sphinxite Liberated, Charincinerator, Inferno Demon (2), Heart Devourer, Tempest Citadel
+T+100MCPerduemonocle: Nexor, sacred sanctuary, heart devourer (2), vicious Borg, tempest citadel, incinerator rig, tazerious, grand Templar, Demi constrictor (2)
+T+100XGundam69: Nexor, cockatrice baxis, portal noctil (2), invoskeleton (2), sphinxite liberated (2) 
+T+100MCBig Cavs: Nexor, Auger Ream, Tempest Citadel, Oreworks,  Demi Constrictor#2, Tazerious, Xeno Suzerain, Tygarm Adamant, Warp Alchemist, Ion Converter
+T+100MCElgenitalo: Nexor, Oreworks, Vicious Borg, Scorched Hellwing, Razor Pinion, Scorched Hellwing, sacred sanctuary, Tazerious, Cockatrice Baxis, Razor Pinion, Oreworks
 
-FTNGhostface1: Nexor, Demi Constrictor, Oreworks, Demi Constrictor, Sacred Sanctuary, drake scouter, Arch Nova Elite, Noble Defiance
-FTNSmokinBuddha93: Barracus, Tazerious, Auger Bore, Noble Defiance, Arch Nova Elite, Noxious Tank, Steadfast Assailant, Demi Constrictor
-FTNgamemasteray: Nexor, Sculpted Aegis, Xeno Suzerain, Tazerious, Sacred Sanctuary, Corrupted Daemon, Auger Bore, Radar Sentry, Demi Constrictor, Arch Nova Elite
-FTNshimmy360: Nexor, Xeno Suzerain, Sculpted Aegis, Xeno Suzerain, Neo Dredge, Tazerious, Arch Nova Elite, Auger Bore, Corrupted Daemon, Sacred Sanctuary, steadfast assailant
-FTNAmalphy: Halcyon, Galereaver, Galereaver, Sculpted Aegis, Swift Hellion, Sacred Sanctuary, Octane's Bastion, Hephatat Fury, Steadfast Assailant, Auger Bore-5
-FTNKira0zero: Constantine, Messale, Auger Bore, Zodiac Harbinger, Tazerecca, dignified Vigil, Noble Defiance
-FTNBrettOlaf: Barracus, Demi Constrictor, Noxious Tank, Tazerious, Ayrkrane Vik, Auger Bore, Sacred Sanctuary, Trampling Anvil
-FTNstarfall4899: Barracus, Judgment, Tazerecca, Noble Defiance, Venomous Raptor, Masterwork Aegis, Crushing Anvil, Arch Nova Elite
-FTNspawnsyxx9: Barracus, Tazerecca, Apex, Havoc Genesis, Blitz Plate,Crushing Anvil, iron maiden
-FTNcrystallixx: Nexor, Spiteful Raptor, Xillaclaw, Tazerecca, Oreworks, Auger-5, Tremor Wyrm, Arch Nova Elite, Constrictor
+
+GT126k01: Alaric, Corrupted Daemon, Dutiful Veteran, Defiance, Messale, Reckless Fanatic, Sculpted Aegis, Shining Sanctuary, Tempest Hold, Toxic Tank, Xeno Suzerain,
+GT126k02: Alaric, Arcane Dreadship, Arch Nova Elite, Auger Bore, Covert Jet, Crushing Anvil, Cryptic Niaq, Glorious Vigil, Masterwork Aegis, Valiant Knight,
+GT126k03: Alaric, Auger Bore, Blitz Plate, Noble Defiance (2), Tazerious, Xeno Suzerain,
+GT126k04: Alaric, Auger Bore, Defiance, Masterwork Aegis, Noxious Tank, Starformer, Tikalan, Trampling Anvil,
+GT126k05: Barracus, Apex, Auger, Crushing Anvil, Gornivorous, Ospry, Mawcor, Mongresh, Tartarus Brood, Spiteful Raptor, Tazerecca,
+GT126k06: Barracus, Arcane Dreadship, Auger Bore, Ayrkrane Vik, Covert Jet, Crushing Anvil, Sacred Equalizer, Shining Sanctuary, Tazerecca (2), Valiant Knight,
+GT126k07: Barracus, Arch Nova, Auger, Blitz Plate, Masterwork Aegis, Starformer, Tazerecca, Tiamat the Destroyer, Xeno Suzerain,
+GT126k08: Barracus, Arch Nova Elite, Auger, Blitz Plate, Gornivorous, Mawcor, Omega Nexite, Sculpted Aegis, Tartarus Scion, Tazerecca,
+GT126k09: Barracus, Arch Nova Elite, Auger Bore, Ayrkrane Vik, Crushing Anvil, Sculpted Aegis, Spiteful Raptor (2), Tazerious, Xeno Suzerain,
+GT126k10: Barracus, Arch Nova Elite, Auger Bore, Crushing Anvil, Defiance, Lightning Crag, Longshot Precise, Mongresh, Sonar Sentry, Starformer, Tazerecca,
+GT126k11: Barracus, Arch Nova Elite, Auger Bore, Crushing Anvil, Defiance, Starformer, Tazerecca, Valiant Knight,
+GT126k12: Barracus, Arch Nova Elite, Auger Bore, Crystallus Apollo, Havoc Genesis, Noxious Tank, Razogoth's Majesty, Samurai, Tazerecca,
+GT126k13: Barracus, Arch Nova Elite, Auger Bore, Mongresh, Spiteful Raptor, Tazerecca, Xillaclaw,
+GT126k14: Barracus, Arch Nova Elite, Auger Bore, Noble Defiance, Sacred Sanctuary, Spiteful Raptor, Zodiac Harbinger,
+GT126k15: Barracus, Arch Nova Elite, Corrupted Daemon, Kazzerrot Dropship, Neo Delver, Tazerecca, Worldformer, Xeno Suzerain, Xillaclaw,
+GT126k16: Barracus, Arch Nova Elite, Corrupted Daemon, Spiteful Raptor, Starformer, Tazerecca, Veiled Defiler,
+GT126k17: Barracus, Assailant, Auger Bore, Gornivorous, Spiteful Raptor, Starformer, Tazerecca (2), Trampling Anvil,
+GT126k18: Barracus, Auger, Ayrkrane, Crushing Anvil (2), Starformer, Tazerok, Zodiac Harbinger (2),
+GT126k19: Barracus, Auger, Blitz Plate (2), Havoc Alpha, Noxious Tank, Tiamat, Xeno Overlord (2), Valiant Knight, Xillaclaw,
+GT126k20: Barracus, Auger, Grand Templar, Noble Defiance, Spiteful Raptor, Vile Viper, Zephyr Superior,
+GT126k21: Barracus, Auger Bore, Ayrkrane Vik, Corrupted Daemon, Defiance, Sacred Sanctuary, Starformer, Tazerecca, Trampling Anvil,
+GT126k22: Barracus, Arch Nova Elite, Auger Bore, Cryptic Niaq, Noble Defiance, Noxious Tank, Sacred Sanctuary, Spiteful Raptor, Tartarus Brood, Tazerecca,
+GT126k23: Barracus, Auger Bore, Ayrkrane Vik, Forsaken Beetle, Glorious Vigil, Havoc Alpha, Tartarus Scion, Tazerecca, Trampling Anvil, Zodiac Harbinger,
+GT126k24: Barracus, Auger Bore, Ayrkrane Vik, Galereaver, Havoc Genesis, Shining Sanctuary, Sustained Nimbus, Trampling Anvil, Xeno Suzerain,
+GT126k25: Barracus, Auger Bore, Ayrkrane Vik, Havoc Genesis, Sacred Equalizer, Sacred Sanctuary, Spiteful Raptor, Tartarus Brood, Tazerecca, Xeno Suzerain,
+GT126k26: Barracus, Auger Bore, Ayrkrane Vik, Heavy Troop, Shining Sanctuary, Tazerecca, Trampling Anvil, Worldformer,
+GT126k27: Barracus, Auger Bore, Ayrkrane Vik, Mach Jet, Sacred Equalizer, Starformer, Tazerious, Trampling Anvil, Valiant Knight, Venomous Raptor, Xeno Suzerain,
+GT126k28: Barracus, Auger Bore, Ayrkrane Vik, Messale, Noble Defiance (2), Sacred Sanctuary, Soulsteel Bronco, Tazerious, Tikalan, Trampling Anvil,
+GT126k29: Barracus, Auger Bore, Ayrkrane Vik, Noble Defiance, Noxious Tank, Tartarus Brood, Tazerecca, Trampling Anvil, Worldformer,
+GT126k30: Barracus, Auger Bore, Blitz Plate, Crushing Anvil, Masterwork Aegis, Noxious Tank, Tartarus Scion,
+GT126k31: Barracus, Auger Bore, Bolt Crag, Charincinerator, Covert Jet, Galereaver, Heart Devourer, Noble Defiance, Tazerecca (2), Terraformer,
+GT126k32: Barracus, Auger Bore, Bolt Crag, Charincinerator, Havoc Genesis, Narscious the Horror, Nephelasus, Noble Defiance, Veiled Defiler, Warp Fuser,
+GT126k33: Barracus, Auger Bore, Bolt Crag, Charincinerator, Lord Hades, Narscious the Eerie, Nephelasus, Noble Defiance (2),
+GT126k34: Barracus, Auger Bore, Brood Minion, Omega, Starformer, Tazerious, Xeno Suzerain,
+GT126k35: Barracus, Auger Bore, Contaminant Purge, Crushing Anvil, Shining Sanctuary, Starformer, Tazerecca, Venomous Raptor, Xeno Overlord,
+GT126k36: Barracus, Auger Bore, Covert Jet, Defiance, Spiteful Raptor, Tazerecca (10) Valiant Knight,
+GT126k37: Barracus, Auger Bore, Covert Jet, Cryptic Niaq, Forsaken Beetle, Noxious Tank, Sculpted Aegis, Starformer, Stealth Dreadship, Tazerecca, Trampling Anvil,
+GT126k38: Barracus, Auger Bore, Deranged Malgoth, Noxious Tank, Sacred Equalizer, Spiteful Raptor (2), Tazerecca, Trampling Anvil, Twindecimator,
+GT126k39: Barracus, Auger Bore, Grizrael the Reaper, Mach Jet, Sacred Sanctuary, Spiteful Raptor, Tazerecca, Tartarus Brood, Ayrkrane Vik, Lightning Crag,
+GT126k40: Barracus, Auger Bore, Messale, Mongresh, Defiance, Spiteful Raptor, Starformer, Tazerok (2), Xillaclaw,
+GT126k41: Barracus, Auger Bore, Narscious the Horror, Noble Defiance, Spiteful Raptor, Tazerious, Zephyr Superior,
+GT126k42: Barracus, Auger Bore, Noble Defiance, Spiteful Raptor, Tazerecca, Valiant Knight, Veiled Defiler, Zodiac Harbinger,
+GT126k43: Barracus, Ayrkrane, Blitz Plate, Omega Nexite, Sanctuary, Starformer, Tazerecca, Venomous Raptor, Xeno Overlord,
+GT126k44: Barracus, Ayrkrane Vik, Crushing Anvil, Masterwork Aegis, Omega, Stealth Dreadship, Tartarus Brood, Tazerecca, Tiamat Destructor, Unholy Daemon, Xeno Overlord,
+GT126k45: Barracus, Ayrkrane Vik, Cryptic Niaq, Mongresh, Sacred Sanctuary, Spiteful Raptor, Starformer, Tazerious, Trampling Anvil, Xillaclaw,
+GT126k46: Barracus, Ayrkrane Vik, Defiance, Forsaken Beetle, Omega Nexite, Reckless Fanatic, Spiteful Raptor, Tazerious, Tartarus Scion, Toxic Tank, Trampling Anvil,
+GT126k47: Barracus, Bolt Crag, Charincinerator (2), Crogall Static, Incinerator Rig, Noble Defiance, Tazerecca, Warp Alchemist,
+GT126k48: Barracus, Grizrael the Reaper, Noxious Tank (2), Sacred Sanctuary, Spiteful Raptor, Styxile, Trampling Anvil, Xeno Suzerain,
+GT126k49: Constantine, Auger Bore, Ayrkrane Vik, Crushing Anvil, Noble Defiance, Mach Jet, Zodiac Harbinger, Bolt Crag, Sacred Sanctuary,Tikalan, Forsaken Beetle,
+GT126k50: Constantine, Auger Bore, Ayrkrane Vik, Cryptic Niaq, Deranged Malgoth, Havoc Genesis, Mawcor, Messale, Sacred Sanctuary, Trampling Anvil, Xeno Suzerain,
+GT126k51: Constantine, Auger Bore, Bolt Crag, Crushing Anvil, Dignified Vigil, Havoc Genesis, Noble Defiance, Messale, Shining Sanctuary,
+GT126k52: Constantine, Auger Bore, Bolt Crag, Dignified Vigil, Havoc Genesis, Messale, Noble Defiance, Shining Sanctuary, Trampling Anvil,
+GT126k53: Constantine, Auger Bore, Masterwork Aegis, Messale, Noble Defiance, Shining Sanctuary, Tazerious,
+GT126k54: Constantine, Auger Bore, Noble Defiance, Starformer, Tartarus Scion, Tempest Hold, Thunder Crag, Trampling Anvil, Venomous Raptor,
+GT126k55: Constantine, Ayrkrane Vik, Bolt Crag, Contaminant Purifier, Noble Defiance, Sacred Equalizer, Zodiac Harbinger (2),
+GT126k56: Constantine, Ayrkrane Vik, Defiance, High Templar, Messale, Sacred Sanctuary (2), Trampling Anvil, Xeno Suzerain, Zodiac HArbinger (2),
+GT126k57: Constantine, Atomic Silo, High Templar, Messale, Noble Defiance (2), Sacred Sanctuary, Zodiac Harbinger (2),
+GT126k58: Constantine, Bolt Crag (4), Noble Defiance (2), Sacred Sanctuary (2), Zodiac Harbinger (2),
+GT126k59: Constantine, Contaminant Purifier, Noble Defiance, Pure Benediction, Zodiac Harbinger (4),
+GT126k60: Constantine, Dutiful Veteran, Messale, Noble Defiance, Reckless Fanatic, Sacred Equalizer, Sacred Sanctuary, Valiant Knight,
+GT126k61: Constantine, Havoc Genesis, Noble Defiance, Omega Nexus, Tempest Citadel, Zodiac Harbinger (2),
+GT126k62: Constantine, Noble Defiance (2), Sacred Sanctuary (2), Zodiac Harbinger (6),
+GT126k63: Dracorex, Ayrkrane Vik, Defiance, Deranged Malgoth, Divine Equalizer, Howling Malgoth, Mongresh, Shining Sanctuary, Tartarus Brood, Tazerecca, Trampling Anvil,
+GT126k64: Dracorex, Brutal Beholder, Deranged Malgoth, Howling Malgoth, Lord Hades, Mongresh, Razogoth's Majesty, Sacred Sanctuary, Spiteful Raptor, Tartarus Brood,
+GT126k65: Dracorex, Deranged Malgoth, Entrails Bog, Mongresh, Necropocalypse, Noxious Tank, Spiteful Raptor, Tartarus Brood,
+GT126k66: Dracorex, Deranged Malgoth, Mawgore, Noble Defiance, Razogoth's Majesty, Sculpted Aegis, Spiteful Raptor, Tazerecca,
+GT126k67: Halcyon, Assailant, Auger Bore, Blitz Plate, Covert Jet, Hephatat Fury, Masterwork Aegis, Spiteful Raptor, Swift Hellion, Terminator Mech,
+GT126k68: Halcyon, Assailant, Auger Bore, Covert Jet, Galereaver, Hephatat Fury, Masterwork Aegis, Octane's Base, Sanctuary, Swift Hellion (2),
+GT126k69: Halcyon, Assailant, Auger Bore, Covert Jet, Galereaver, Hephatat Fury, Sculpted Aegis, Swift Hellion,
+GT126k70: Halcyon, Auger Bore, Bolt Crag, Galereaver (2), Garrison Fortifier, Indestructible Troop, Neocyte Resonator (2), Sculpted Aegis, Tempest Citadel,
+GT126k71: Halcyon, Auger Bore, Colossal Titan, Convictor, Garrison Fortifier, Immense Ospry, Luminous Apollo, Noble Defiance, Octane's Bastion, Sculpted Aegis, Worldformer,
+GT126k72: Halcyon, Auger Bore, Covert Jet, Earnest Pursuer, Hephatat Fury, Octane's Bastion, Sculpted Aegis, Stormreaver, Sustained Nimbus, Swift Hellion (2),
+GT126k73: Halcyon, Auger Bore, Covert Jet, Galereaver, Hephatat Fury, Ospry, Poseidon, Sculpted Aegis, Stinger Barrage, Swift Hellion,
+GT126k74: Halcyon, Auger Bore, Covert Jet, Galereaver, Garrison Fortifier, Octane's Bastion, Sculpted Aegis, Swift Hellion,
+GT126k75: Halcyon, Auger Bore, Drake Scouter, Flux Station, Galereaver, Garrison Fortifier, Grizrael the Reaper, Indestructible Troop, Sacred Sanctuary, Sculpted Aegis, Tempest Citadel,
+GT126k76: Halcyon, Auger Bore, Drake Scouter, Galereaver, Garrison Fortifier, Grizrael the Reaper, Indestructible Troop, Sacred Sanctuary, Sculpted Aegis, Tempest Citadel, Zealous Pursuer,
+GT126k77: Halcyon, Auger Bore, Galereaver (2), Garrison Fortifier, Indestructible Troop (2), Nimbus Wonder, Sculpted Aegis, Sacred Sanctuary, Tempest Keep,
+GT126k78: Halcyon, Auger Bore, Galereaver, Heavy Troop, Noble Defiance, Octane's Bastion, Sculpted Aegis, Stronghold Fortifier, Swift Hellion, Tazerecca,
+GT126k79: Halcyon, Auger Bore, Garrison Fortifier (2), Heart Devourer (2), Incinerator Rig, Neocyte Resonator, Sacred Sanctuary, Tazerecca, Vicious Borg,
+GT126k80: Halcyon, Bolt Crag, Garrison Fortifier, Grand Templar, Immense Ospry, Neocyte Resonator, Octane's Bastion, Steadfast Assailant, Swift Hellion, Sculpted Aegis,
+GT126k81: Halcyon, Crushing Anvil, Dignified Vigil, Sacred Sanctuary, Sculpted Aegis, Stronghold Fortifier, Tazerious, Tiamat Destructor, Zodiac Harbinger,
+GT126k82: Halcyon, Cryptic Niaq, Mach Jet, Messale, Sculpted Aegis, Spiteful Raptor, Swift Hellion, Tiamat the Destroyer, Unholy Daemon, Xeno Suzerain, Xillaclaw,
+GT126k83: Halcyon, Garrison Fortifier (2), Immense Ospry, Indestructible Troop, Messale, Noble Defiance, Promethium Solidus, Rox Chainrazor, Sculpted Aegis, Xeno Suzerain,
+GT126k84: Nexor, Apex Overdrive, Auger Bore, Noble Defiance, Noxious Tank, Sacred Sanctuary, Tazerecca, Tempest Keep, Xeno Suzerain, Worldformer,
+GT126k85: Nexor, Arch Nova Elite, Auger Bore, Ayrkrane Vik, Tazerecca, Trampling Anvil, Worldformer, Xeno Suzerain,
+GT126k86: Nexor, Arch Nova Elite, Ayrkrane Vik, Charincinerator, Crushing Anvil, Lightning Crag, Worldformer (2), Tazerecca,
+GT126k87: Nexor, Arch Nova Elite, Crushing Anvil, Cryptic Niaq, Masterwork Aegis, Spiteful Raptor, Tazerecca (2), Xeno Overlord, Xillaclaw,
+GT126k88: Nexor, Auger Bore, Corrupted Daemon, Defiance, Sacred Equalizer, Sacred Sanctuary, Tazerious, Xeno Suzerain,
+GT126k89: Nexor, Corrupted Daemon, Drake Scouter, Starformer, Tazerious, Tempest Citadel, Trampling Anvil,
+GT126k90: Nexor, Apex Dynamo, Apex Overdrive, Arch Nova Elite, Genetics Chasm, Illustrious Helmcraft, Rift Summoner, Tazerecca, Xeno Suzerain, Yobediah, Zarak Overcharged,
+GT126k91: Typhon Vex, Arch Nova Elite, Charincinerator (2), Grizrael the Reaper, Heli Giro, Longshot Deadeye, Noble Defiance (2), Vile Viper, Xillaclaw,
+GT126k92: Typhon Vex, Auger, Blight Demolisher, MAsterwork Aegis, Tartarus Brood, Tazerok,
+GT126k93: Typhon Vex, Auger, Blitz Plate (2), Crushing Anvil, Forsaken Beetle, Havoc Genesis, Sacred Sanctuary, Stag Beetle, Tazerecca (2),
+GT126k94: Typhon Vex, Auger Bore, Dignified Vigil, Forsaken Beetle, Havoc Alpha, Havoc Genesis, Judgment, Pack Dozer, Tartarus Brood, Trampling Anvil,
+GT126k95: Typhon Vex, Ayrkrane Vik, Equalizer, Havoc Genesis, Shining Sanctuary, Starformer, Tartarus Brood, Tazerecca,
+GT126k96: Typhon Vex, Ayrkrane, Defiance, Equalizer, Havoc Genesis, Shining Sanctuary, Starformer, Tartarus Brood, Trampling Anvil, Tazerecca,
+GT126k97: Typhon Vex, Bolt Crag, Charincinerator, Classified Rig, Delphan the Furious, Havoc Genesis, Heart Devourer, Tazerecca, Twindecimator,
+GT126k98: Typhon Vex, Bolt Crag, Charincinerator, Havoc Genesis, Judgment Nova, Razogoth's Majesty, Sacred Sanctuary (2), Sculpted Aegis, Veiled Defiler,
+GT126k99: Typhon Vex, Bolt Crag, Heart Devourer (4), Mobile Encampment, Promethium Solidus, Sculpted Aegis, Tempest Citadel, Yobedysseus,
+GT126k: /^GT126k\d\d$/
+
+
+FTNGhostface1: Nexor, Demi Constrictor #2, Xeno Suzerain, Oreworks, Sacred Sanctuary, Tempest Keep, Auger Ream, Drake Scouter, Dreamreaper, Noble Defiance
+FTNSmokinBuddha93: Barracus, Tazerious, Auger Bore, Noble Defiance, Arch Nova Elite, Noxious Tank, Steadfast Assailant, Demi Constrictor, oreworks
+FTNgamemasteray: Nexor, Sculpted Aegis, Xeno Suzerain, Tazerious, Sacred Sanctuary, Corrupted Daemon, Auger Ream, Radar Sentry, Demi Constrictor, Arch Nova Elite, mach jet
+FTNshimmy360: Nexor, Xeno Suzerain, Sculpted Aegis, Xeno Suzerain, Neo Dredge, Tazerious, Arch Nova Elite, Auger Ream, Corrupted Daemon, Sacred Sanctuary, steadfast assailant
+FTNAmalphy: Halcyon, Galereaver, Galereaver, Sculpted Aegis, Swift Hellion, Sacred Sanctuary, Octane's Bastion, Hephatat Stoic, Steadfast Assailant, Auger Bore-5
+FTNKira0zero: Constantine, Messale, Auger Bore, Zodiac Harbinger, Tazerecca, dignified Vigil, Noble Defiance, auger ream
+FTNBrettOlaf: Barracus, Demi Constrictor, Noxious Tank, Tazerious, Ayrkrane Vik, Auger Bore, Sacred Sanctuary, Trampling Anvil, steadfast assailant
+FTNstarfall4899: Barracus, Judgment, Tazerecca, Noble Defiance, Masterwork Aegis, Crushing Anvil, Arch Nova Elite
+FTNspawnsyxx9: Barracus, Tazerecca, Apex, Havoc Genesis, Blitz Plate, Defiance, Crushing Anvil, iron maiden, Xeno Suzerain
+FTNcrystallixx: Nexor, Tazerecca, Oreworks, Auger, Tremor Wyrm, Arch Nova Elite, Demi Constrictor, Kezerus Loaded
 FTNic3kalt: Barracus, Arch Nova Elite, Tazerecca,  Sculpted Aegis, Starformer, Defiance, constrictor
-FTNarouedd: Barracus, Demi Constrictor, Demi Constrictor, Worldformer, Tazerious, Xeno Suzerain, Corrupted Daemon, Neo Dredge,  Arch Nova Elite, Ayrkrane Vik
-FTNFPConDelta: Barracus, Constrictor, Masterwork Aegis, Arch Nova Elite ,Tazerecca, Auger, Xeno Overlord , Defiance
-FTNCharlesg65: Barracus,Noxious Tank,Worldformer,Noble Defiance,Auger Bore,Tazerious,Noble Defiance,Withersnare
-FTNGetDead151: Barracus, Havoc Genesis, Spiteful Raptor, Charigniter, Tazerecca, Crushing Anvil, Lightning Crag, Xeno Suzerain
-FTN00Rampage00: Barracus, Tazerecca, Arch Nova Elite, Zodiac Harbinger, Xeno Overlord, Starformer, Withersnap, Messale
-FTNDikC3: Barracus, Demi Constrictor, Noxious Tank, Tazerious, Sacred Sanctuary, Auger Bore, Xeno Suzerain, Arch Nova Elite
-FTNnkorboy: Constantine, Messale, Zodiac Harbinger,  Zodiac Harbinger,  Contaminant Purifier, Sacred Sanctuary-5, Valiant Knight-5,  Dutiful Veteran
-FTNTheYohneo: Barracus, Mongarus, Tazerecca, Zodiac Harbinger, Spiteful Raptor, Deranged Fanatic, Arch Nova Elite 
+FTNarouedd: Nexor, Demi Constrictor, Demi Constrictor, Worldformer, Tazerious, Xeno Suzerain, Corrupted Daemon, Neo Dredge,  Arch Nova Elite
+FTNFPConDelta: Barracus, Constrictor, Masterwork Aegis, Arch Nova Elite ,Tazerecca, Auger Bore, Xeno Suzerain , Defiance
+FTNCharlesg65: Barracus, Noxious Tank,  Noble Defiance, Auger Ream, Tazerious, Noble Defiance, Withersnare, drake scouter 
+FTNGetDead151: Barracus, Havoc Genesis, Spiteful Raptor,  Tumblox, Tazerecca,, Lightning Crag, Xeno Suzerain, Auger Bore-5
+FTN00Rampage00: Barracus, Tazerecca, Arch Nova Elite, Zodiac Harbinger, Xeno Suzerain, Starformer, Withersnap, Auger, Sculpted Aegis,Tartarus Scion 
+FTNDikC3: Barracus, Demi Constrictor, Noxious Tank, Tazerious, Sacred Sanctuary, Auger Ream, Xeno Suzerain, Arch Nova Elite, Ayrkrane Vik
+FTNnkorboy: Constantine, Messale,  Zodiac Harbinger #2,  Contaminant Purifier, Sacred Sanctuary, Valiant Knight-5,  Dutiful Veteran
+FTNTheYohneo: Barracus, Mongarus, Tazerecca, Zodiac Harbinger, Spiteful Raptor, Deranged Fanatic, Arch Nova Elite, Assailant  
 FTNReady4321: Nexor, Demi Constrictor, Xeno Suzerain, Starformer, Xeno Suzerain, Arch Nova Elite, Tazerious,  Auger Bore, Unholy Daemon
-FTNDan_Danne_89: Barracus, Savage Beholder, Mongresh, Withersnap, Nexusisider, Starformer, Tazerious, Arch Nova Elite, Corrupted Daemon, Auger Bore,Constrictor
-FTNfreid78: Constantine, Sacred Sanctuary, Sacred Equalizer, Immense Ospry, Noble Defiance, Spiteful Raptor, Zodiac Harbinger, Deranged Fanatic, Pantheon Zealot, Valiant Knight, Messale
+FTNDan_Danne_89: Barracus, Withersnap, Tazerious, Arch Nova Elite, Corrupted Daemon, Auger Bore, demi Constrictor, sacred sanctuary
+FTNfreid78: Constantine, Sacred Sanctuary, Sacred Equalizer, Immense Ospry, Noble Defiance, tartarus graft, Zodiac Harbinger, Deranged Fanatic, Pantheon Zealot, Valiant Knight, Messale
 FTNtmtstudio: Barracus, Apex Overdrive, Covert Jet, Omega Nexus, Pure Benediction, Cryptic Niaq, Ayrkrane Vik, Xeno Suzerain, Tazerious
-FTNtchorgnasse: Barracus, Sacred Sanctuary, Sculpted Aegis, Tazerecca, Xeno Suzerain, Auger Bore, Tumblox, Tartarus Graft, Arch Nova Elite 
-FTNgeorgey: Halcyon, Auger Bore, Ayrkrane Vik, Sculpted Aegis, Mach Jet, Crushing Anvil, Tartarus Graft, Xeno Suzerain, steadfast Assailant
-FTNDaPhlo: Barracus, Stag Beetle, Ayrkrane Vik, Worldformer, Auger, Trampling Anvil, Tazerious,Masterwork Aegis
+FTNtchorgnasse: Barracus, Sacred Sanctuary, Sculpted Aegis, Tazerecca, Xeno Suzerain, Auger Bore, Tumblox, Tartarus Graft, Arch Nova Elite, withersnare, spiteful raptor
+FTNgeorgey: Halcyon, Auger Ream, Ayrkrane Vik, Sculpted Aegis, Mach Jet, Crushing Anvil, Tartarus Graft, Xeno Suzerain, steadfast Assailant
+FTNDaPhlo: Barracus, Stag Beetle, Ayrkrane Vik, Worldformer, Auger bore, Trampling Anvil, Tazerious, sculpted aegis, apex
 FTNAkimom: Barracus, Sculpted Aegis, Tempest Keep, Tartarus Graft, Ayrkrane Vik, Tazerious, Xeno Suzerain, Auger Bore, Trampling Anvil, Arch Nova Elite
-FTNbrianthespoon: Barracus, Xeno Overlord, Starformer, Tartarus Obelisk, Cryptic Niaq, Bolt Crag, Ayrkrane Vik, Spiteful Raptor, Tazerious, Arch Nova Elite
-FTNAngryPig: Typhon Vex, Sacred Sanctuary, Crushing Anvil (2), Tartarus Brood, Blitz Plate,  Spiteful Raptor, Auger Bore
-FTNtyguy826: Constantine, Shining Sanctuary, Zodiac Harbinger, Zodiac Harbinger, deranged Fanatic, Messale, HonorableSamurai
-FTNlucanasi: Halcyon, Stronghold Fortifier, Galereaver, Auger Bore, Sculpted Aegis, Masterwork Aegis, Octane's Bastion, Convictor, Stormreaver, Tempest Citadel
+FTNbrianthespoon: Barracus, Xeno Suzerain, Tartarus Obelisk, Bolt Crag, Cryptic niaq, ayrkrane vik, constrictor, Spiteful Raptor, Tazerious, Arch Nova Elite, Neo Dredge
+FTNAngryPig: Typhon Vex, Sacred Sanctuary, trampling anvil, Tartarus Brood, Blitz Plate,  Spiteful Raptor, Auger Bore, tazerious 
+FTNtyguy826: Constantine, Shining Sanctuary, Zodiac Harbinger, Zodiac Harbinger, contaminant Purge, deranged Fanatic, Messale, Honorable Samurai
+FTNlucanasi: Halcyon, Stronghold Fortifier, Galereaver, Auger ream, Sculpted Aegis, Masterwork Aegis, Octane's Bastion, Convictor, Stormreaver, Tempest Citadel
 FTNCOLOSSE-TBK: Barracus, Shining Sanctuary, Sculpted Aegis, Noble Defiance, Worldformer, Xeno Suzerain, Auger-5
 FTNPtiFilouTubs: Barracus, Spiteful Raptor, Sustained Nimbus, Ayrkrane Vik, Zodiac Harbinger, Tazerecca, Xeno Suzerain, Xillaclaw 
-FTNConcobar78: Constantine, Zodiac Harbinger, Zodiac Harbinger, Contaminant Purge, Valiant Knight, Messale, Deranged Fanatic
-FTNooROCKEToo: Barracus, Zodiac (3), Tartarus Scion, Crushing Anvil-5, Havoc Genesis, Ayrkrane Vik, Noxious Tank, Nexusisider, Mongresh
-FTNphiit: Constantine, Noble Defiance, Shining Sanctuary, Dutiful Veteran, Zodiac Harbinger #2, Divine Equalizer, valiant knight
+FTNConcobar78: Constantine, Zodiac Harbinger, Zodiac Harbinger, Zodiac Harbinger, Contaminant Purge, Valiant Knight, Messale, Deranged Fanatic
+FTNooROCKEToo: Barracus, Zodiac Harbinger, Tartarus Brood, Crushing Anvil, Havoc Genesis, Ayrkrane Vik, Noxious Tank, Nexusisider, Mongresh, Zodiac, Tazerecca
+FTNphiit: Constantine, Noble Defiance, Sacred Sanctuary, Dutiful Veteran, Zodiac Harbinger #2, Divine Equalizer, contaminant purge, deranged fanatic
 FTNJoeyJoeJoel: Barracus, Omega, Starformer, Brood Minion, Xeno Suzerain, Auger Bore, Tazerious, noxious tank
-FTNFlashychap: Barracus, Omega nexite, Sculpted Aegis, Noble Defiance, Spiteful Raptor, Tazerecca, Xeno Suzerain
+FTNFlashychap: Barracus, Omega nexite, Sculpted Aegis, Noble Defiance, Spiteful Raptor, Tazerecca, Xeno Suzerain, arch nova elite-5
 FTNSaeloun: Barracus, Ayrkrane Vik, Immense Ospry, Xeno Suzerain, Zodiac Harbinger, Auger Bore, Xillaclaw, Arch Nova Elite
-FTNsickowicko: Constantine, Ayrkrane Vik, Zodiac Harbinger (3), Auger Bore, Tazerious, Deranged Fanatic
-FTNHeyScrumptious: Constantine, Zodiac Harbinger (4), Noble Defiance (3), Tempest Citadel
-FTNAleitota: Barracus, auger, Xillaclaw, Tazerecca, Radar Sentry-5, Xeno Overlord-5, Venomous Raptor, Arch Nova Elite, Valiant Knight, Reckless Fanatic, Crushing Anvil-4
-FTNPapus: Barracus, defiance, tazerious, arch nova elite, toxic tank, spiteful raptor, Trampling anvil, shining sanctuary, auger bore
-FTNAlexA587: Barracus, messale, valiant knight, contaminant purifier, xeno suzerain, dignified vigil, noxious tank
+FTNsickowicko: Constantine, Ayrkrane Vik, Zodiac Harbinger (3), Auger Bore, Tazerious, Deranged Fanatic, messale, xeno suzerain
+FTNHeyScrumptious: Constantine, Zodiac Harbinger (4), Noble Defiance (3), Tempest Citadel, honorable samurai, dignified vigil
+FTNAleitota: Barracus, auger bore -3, Xillaclaw, Tazerecca, Radar Sentry-5, Xeno Overlord-5, spiteful Raptor, Arch Nova Elite, Valiant Knight, Reckless Fanatic, Crushing Anvil-4
+FTNPapus: Barracus, defiance, tazerious, arch nova elite, toxic tank, spiteful raptor, Trampling anvil, shining sanctuary, auger ream
+FTNAlexA587: Barracus, noxious tank, dignified vigil, xeno suzerain, contaminant purifier, valiant knight, messale
 FTNBatmandish: Barracus, Starformer, Trampling Anvil, Tiamat destructor, toxic tank, unholy daemon-5, forsaken beetle, tazerious
-FTNMXStiff: barracus, shining sanctuary, oreworks, sculpted aegis, bolt crag, tazerecca, auger, arch nova elite, demi constrictor
-FTNMatyas55: barracus, xillaclaw-5, auger bore, xeno suzerain, tazerreca-5, havoc genesis, sculpted aegis, crushing anvil, apex overdrive-5
+FTNMXStiff: barracus, sacred sanctuary, oreworks, sculpted aegis, bolt crag, tazerecca, auger, arch nova elite, demi constrictor
+FTNMatyas55: barracus, xillaclaw, auger bore, xeno suzerain, tazerecca, havoc genesis, sculpted aegis, crushing anvil
+FTNRighteousStorm: constantine, zodiac harbinger #2, noble defiance #2, bolt crag #2, high templar
+FTNWaltw: barracus, arch nova elite, tazerious, auger bore, steel maiden, xeno suzerain, cryptic niaq, starformer, masterwork aegis
+FTNisaiah: barracus, xillaclaw, tartarus brood, contaminant purge, auger bore, hellion, masterwork aegis
+FTNnathaniel: barracus, xillaclaw, auger #2, blitz plate, zodiac, bane 
 
 
 
 
-
-
-GT12Sk01: Barracus-6, Noxious Tank-6, Spiteful Raptor-6, Deranged Malgoth-6, Spiteful Raptor-6, Tazerecca-6, Entrails Bog-6, Omniphet-6, Xeno Suzerain-6, Spiteful Raptor-6, Sculpted Aegis-6
-GT12Sk02: Halcyon-6, Indestructible Troop-6, Indestructible Troop-6, Neocyte Resonator-6, Neocyte Resonator-6, Omniphet-6, Garrison Fortifier-6, Agrius Maximus-6, Galereaver-6, Flux Station-6, Arthurian Monarch-6
-GT12Sk03: Barracus-6, Narscious the Eerie-6, Warp Alchemist-6, Narscious the Eerie-6, Warp Alchemist-6, Bolt Crag-6, Sacred Sanctuary-6, Lord Hades-6, Mawnage-6, Noble Defiance-6
-GT12Sk04: Halcyon-6, Galereaver-6, Galereaver-6, Neocyte Resonator-6, Galereaver-6, Neocyte Resonator-6, Galereaver-6, Agrius Maximus-6, Galereaver-6, Agrius Maximus-6, Galereaver-6
-GT12Sk05: Barracus-6, Charincinerator-6, Heart Devourer-6, Heart Devourer-6, Heart Devourer-6, Remote Rig-6, Heart Devourer-6, Loaded Warehouse-6, Heart Devourer-6, Heart Devourer-6, Heart Devourer-6
-GT12Sk06: Barracus-6, Narscious the Eerie-6, Warp Alchemist-6, Narscious the Eerie-6, Warp Alchemist-6, Sacred Sanctuary-6, Heart Devourer-6, Loaded Warehouse-6, Charincinerator-6, Heart Devourer-6, Charincinerator-6
-GT12Sk07: Alaric-6, Flash Deity-6, Bolt Crag-6, Flash Deity-6, Heart Devourer-6, Noble Defiance-6, Sacred Sanctuary-6, Noble Defiance-6, Pure Benediction-6, Pure Benediction-6, Shining Sanctuary-6
-GT12Sk08: Barracus-6, Narscious the Eerie-6, Warp Alchemist-6, Narscious the Eerie-6, Warp Alchemist-6, Narscious the Eerie-6, Vicious Borg-6, Charincinerator-6, Vicious Borg-6, Charincinerator-6, Sacred Sanctuary-6
-GT12Sk09: Barracus-6, Narscious the Eerie-6, Charincinerator-6, Omega Nexus-6, Agrius Maximus-6, Agrius Maximus-6, Sacred Sanctuary-6, Valence-6, Sacred Sanctuary-6, Tazerecca-6, Ayrkrane Vik-6
-GT12Sk10: Alaric-6, Charincinerator-6, Charincinerator-6, Heart Devourer-6, Flash Deity-6, Noble Defiance-6, Noble Defiance-6, Grand Templar-6, Noble Defiance-6, Noble Defiance-6, Mawnage-6
-GT12Sk11: Nexor-6, Heart Devourer-6, Noxious Tank-6, Tartarus Obelisk-6, Rift Awakener-6, Xeno Suzerain-6, Tazerecca-6, Lord Hades-6, Noble Defiance-6, Sacred Sanctuary-6, Grand Templar-6
-GT12Sk12: Barracus-6, Narscious the Eerie-6, Warp Alchemist-6, Bolt Crag-6, Noxious Tank-6, Noble Defiance-6, Noble Defiance-6, Tazerecca-6, Xeno Suzerain-6, Sacred Sanctuary-6, Sculpted Aegis-6
-GT1OOk01: Barracus-6, Crushing Anvil-6, Noble Defiance-6, Defiance-5, Masterwork Aegis-6, Spiteful Raptor-6, Xeno Overlord-6, Forsaken Beetle-6
-GT1OOk02: Barracus-6, Noxious Tank-6, Sacred Sanctuary-6, Tazerok-6, Noble Defiance-6, Noble Defiance-6, Sculpted Aegis-6, Havoc Genesis-6
-GT1OOk03: Barracus-6, Ayrkrane Vik-6, Spiteful Raptor-6, Blitz Plate-4, Apex-6, Apex-6, Blight Demolisher-4
-GT1OOk04: Barracus-6, Tartarus Brood-6, Charincinerator-6, Bolt Crag-6, Starformer-6, Indestructible Troop-6, Spiteful Raptor-6, Heart Devourer-6, Masterwork Aegis-6
-GT1OOk05: Barracus-6, Apex-6, Charigniter-6, Noble Defiance-6, Sacred Sanctuary-6, Immense Ospry-6, Omniseer-6, Ayrkrane Vik-6
-GT1OOk06: Barracus-6, Gornivorous-6, Havoc Genesis-6, Xeno Suzerain-6, Noble Defiance-6, Tartarus Scion-6, Charigniter-6, Arcane Dreadship-6, Cryptic Niaq-6, Apex Overdrive-6, Ironclad Troop-6
-GT1OOk07: Barracus-6, Tazerecca-6, Vicious Borg-6, Charincinerator-6, Havoc Genesis-6, Nimbus Wonder-6, Incinerator Rig-6, Drake Scouter-6
-GT1OOk08: Alaric-6, Flash Deity-6, Flash Deity-6, Noble Defiance-6, Noble Defiance-6, Heart Devourer-6, Heart Devourer-6, Sacred Sanctuary-6, Mawnage-6, Pure Benediction-6, Tantzumeca-6
-GT1OOk09: Barracus-6, Apex Overdrive-6, Sacred Sanctuary-6, Defiance-6, Mach Jet-6, Crushing Anvil-6, Tazerecca-6, Tartarus Brood-6
-GT1OOk10: Halcyon-6, Neocyte Resonator-6, Indestructible Troop-6, Neocyte Resonator-6, Arthurian Monarch-6, Noble Defiance-6, Agrius Maximus-6, Sacred Sanctuary-6, Indestructible Troop-6, Omniphet-6, Garrison Fortifier-6
-GT1OOk11: Barracus-6, Havoc Alpha-6, Defiance-6, Tazerecca-5, Stealth Dreadship-6, Toxic Tank-6, Ayrkrane Vik-6, Xeno Suzerain-6, Tikalan-6
-GT1OOk12: Alaric-6, Noble Defiance-6, Anvil-6, Crushing Anvil-6, Defiance-6, Ayrkrane Vik-6, Tikalan-6
-GT1OOk13: Typhon Vex-6, Remote Rig-6, Spiteful Raptor-6, Pack Dozer-6, Noble Defiance-6, Crushing Anvil-6, Havoc Genesis-6, Havoc Genesis-6, Havoc Genesis-6, Havoc Genesis-6, Tazerecca-6
-GT1OOk14: Typhon Vex-6, Sacred Sanctuary-6, Tazerecca-6, Charincinerator-6, Havoc Genesis-6, Mobile Base-6, Indestructible Troop-6
-GT1OOk15: Nexor-6, Sacred Sanctuary-6, Sculpted Aegis-6, Xeno Suzerain-6, Xeno Suzerain-6, Corrupted Daemon-6, Indestructible Troop-6, Apex Dynamo-6, Tazerecca-6
-GT1OOk16: Barracus-6, Ayrkrane Vik-6, Heart Devourer-6, Tantzumeca-6, Tazerok-6, Noble Defiance-6, Ferocious Brute-6, Sacred Sanctuary-6
-GT1OOk17: Halcyon-4, Sacred Sanctuary-6, Omniphet-6, Crushing Anvil-5, Indestructible Troop-4, Tartarus Scion-6, Sculpted Aegis-6, Stronghold Fortifier-6
-GT1OOk18: Barracus-6, Charincinerator-6, Noble Defiance-6, Tazerecca-6, Starformer-6, Forsaken Beetle-6, Contaminant Purge-6
-GT1OOk19: Halcyon-6, Noble Defiance-6, Tartarus Brood-6, Indestructible Troop-6, Garrison Fortifier-6, Heart Devourer-6, Shining Sanctuary-6, Barricade Slasher-4
-GT1OOk20: Barracus-5, Sacred Sanctuary-6, Noble Defiance-6, Charincinerator-6, Heart Devourer-6, Spiteful Raptor-6, Lord Hades-6, Mawnage-6
-GT1OOk21: Constantine-6, Noble Defiance-6, Noble Defiance-6, Sacred Sanctuary-6, Ayrkrane Vik-6, Hypersonic Deity-6, Heart Devourer-6, Grand Templar-6, Zodiac Harbinger-6
-GT1OOk22: Barracus-6, Crushing Anvil-6, Tartarus Brood-6, Defiance-6, Noble Defiance-6, Spiteful Raptor-6, Ayrkrane Vik-6, Forsaken Beetle-6
-GT1OOk23: Nexor-5, Apex Overdrive-6, Zarak Overcharged-6, Tazerecca-6, Worldformer-6, Starformer-6, Xeno Suzerain-6, Xeno Suzerain-6, Azure Reveler-6
-GT1OOk24: Barracus-6, Sculpted Aegis-6, Howling Malgoth-6, Spiteful Raptor-6, Spiteful Raptor-6, Noble Defiance-6
-GT1OOk25: Typhon Vex-6, Charincinerator-6, Charincinerator-6, Tazerok-6, Zealous Pursuer-6, Mobile Base-6, Havoc Genesis-6
-GT1OOk26: Alaric-6, Noble Defiance-6, Spiteful Raptor-6, Tazerok-6, Indestructible Troop-6, Shining Sanctuary-6
-GT1OOk27: Dracorex-5, Spiteful Raptor-6, Spiteful Raptor-6, Lord Hades-6, Tartarus Obelisk-6, Deranged Malgoth-6, Heart Devourer-6, Entrails Bog-6
-GT1OOk28: Halcyon-6, Mammoth Titan-6, Neocyte Resonator-6, Neocyte Resonator-6, Neocyte Resonator-6, Garrison Fortifier-6, Garrison Fortifier-6, Arthurian Monarch-6, Indestructible Troop-6, Indestructible Troop-6, Indestructible Troop-6
-GT1OOk29: Barracus-6, Indestructible Troop-4, Spiteful Raptor-6, Shining Sanctuary-6, Tazerecca-6, Crushing Anvil-6, Omniphet-6, Noble Defiance-6
-GT1OOk30: Barracus-6, Tartarus Brood-6, Crushing Anvil-6, Contaminant Purge-6, Sacred Sanctuary-6, Arcane Dreadship-6, Tiamat Destructor-6, Tazerecca-6, Ayrkrane Vik-6
-GT1OOk31: Barracus-6, Tartarus Brood-6, Tazerecca-6, Masterwork Aegis-6, Tikalan-6, Defiance-6, Crushing Anvil-6, Spiteful Raptor-6
-GT1OOk32: Alaric-6, Ayrkrane Vik-6, Noble Defiance-6, Noble Defiance-6, Tazerecca-6, Xeno Suzerain-6, Zodiac Harbinger-6, Omniphet-6
-GT1OOk33: Typhon Vex-6, Omega Nexite-6, Ayrkrane Vik-6, Havoc Alpha-6, Tazerecca-6, Crushing Anvil-6, Omniphet-6, Xeno Suzerain-6, Tartarus Brood-6, Spiteful Raptor-6
-GT1OOk34: Nexor-5, Omniphet-6, Spiteful Raptor-6, Havoc Genesis-6, Tartarus Brood-6, Worldformer-6, Forsaken Beetle-6
-GT1OOk35: Dracorex-6, Entrails Pool-6, Spiteful Raptor-6, Spiteful Raptor-6, Crushing Anvil-6, Masterwork Aegis-6, Deranged Malgoth-6
-GT1OOk36: Alaric-6, Noble Defiance-6, Noble Defiance-6, Noble Defiance-6, Noble Defiance-6, Sacred Sanctuary-6, Sacred Sanctuary-6, Heart Devourer-6
-GT1OOk37: Barracus-6, Noble Defiance-6, Noble Defiance-6, Sacred Sanctuary-6, Omniphet-6, Spiteful Raptor-6, Spiteful Raptor-6, Spiteful Raptor-6, Xeno Suzerain-6, Xeno Suzerain-6
-GT1OOk38: Barracus-6, Shining Sanctuary-6, Charincinerator-6, Charigniter-6, Omniphet-6, Omega Nexite-6, Noble Defiance-6, Noble Defiance-6
-GT1OOk39: Halcyon-6, Indestructible Troop-6, Indestructible Troop-6, Immense Ospry-6, Noble Defiance-6, Sculpted Aegis-6, Heart Shredder-6, Neocyte Cultivator-6
-GT1OOk40: Barracus-6, Heart Devourer-6, Heart Devourer-6, Charincinerator-6, Charincinerator-6, Charincinerator-6, Mobile Encampment-6, Sacred Sanctuary-6
-GT1OOk41: Barracus-6, Ayrkrane Vik-6, Noble Defiance-6, Lord Hades-6, Indestructible Troop-6, Bolt Crag-6, Razogoth's Majesty-6, Worldformer-6, Mawnage-6
-GT1OOk42: Barracus-6, Bolt Crag-6, Noble Defiance-6, Noble Defiance-6, Spiteful Raptor-6, Indestructible Troop-6, Xeno Suzerain-6, Sculpted Aegis-6, Tazerecca-6, Noxious Tank-6, Sacred Sanctuary-6
-GT1OOk43: Nexor-6, Omniphet-6, Noble Defiance-6, Crushing Anvil-6, Tazerecca-6, Apex-6, Xeno Suzerain-6
-GT1OOk44: Barracus-6, Tazerecca-6, Spiteful Raptor-6, Spiteful Raptor-6, Ayrkrane Vik-6, Charincinerator-6, Sacred Sanctuary-6, Sacred Sanctuary-6, Agrius Maximus-6, Narscious the Eerie-6, Drake Scouter-6
-GT1OOk45: Barracus-6, Crushing Anvil-6, Sculpted Aegis-6, Havoc Genesis-6, Shining Sanctuary-6, Defiance-6, Spiteful Raptor-6, Spiteful Raptor-6, Tazerecca-6
-GT1OOk46: Typhon Vex-6, Lord Hades-6, Lord Hades-6, Delphan Inflamed-6, Bolt Crag-6, Bolt Crag-6, Vicious Borg-6, Charincinerator-6, Charincinerator-6, Narscious the Eerie-6, Sacred Sanctuary-6
-GT1OOk47: Halcyon-6, Heart Shredder-6, Hephatat Fury-6, Indestructible Troop-6, Indestructible Troop-6, Garrison Fortifier-6, Galereaver-6, Neocyte Extractor-6
-GT1OOk48: Barracus-6, Tazerecca-6, Worldformer-6, Noble Defiance-6, Xeno Suzerain-6, Sculpted Aegis-6, Charincinerator-6, Forsaken Beetle-6, Apex Overdrive-6
-GT1OOk49: Petrisis-6, Ayrkrane-6, Earnest Pursuer-6, Tazerok-6, Earnest Pursuer-6
-GT1OOk50: Halcyon-6, Zealous Pursuer-6, Apex Overdrive-6, Noble Defiance-6, Masterwork Aegis-6, Indestructible Troop-6, Garrison Fortifier-6, Tazerecca-6, Arthurian King-6, Slug Borg-6, Neocyte Cultivator-6
-GT1OOk51: Barracus-6, Ayrkrane Vik-6, Tazerecca-6, Mach Jet-6, Tartarus Brood-6, Shining Sanctuary-6, Crushing Anvil-6, Apex-6
-GT1OOk52: Alaric-6, Tikalan-6, Defiance-6, Sacred Sanctuary-6, Ayrkrane Vik-6, Pantheon Disciple-6, Crushing Anvil-6
-GT1OOk53: Barracus-6, Spiteful Raptor-6, Shining Sanctuary-6, Defiance-6, Crushing Anvil-6, Masterwork Aegis-6, Tartarus Brood-6
-GT1OOk54: Barracus-6, Spiteful Raptor-6, Crushing Anvil-6, Tartarus Brood-6, Sacred Sanctuary-6, Toxic Tank-6, Tazerecca-6, Omniseer-6, Ayrkrane Vik-6
-GT1OOk55: Halcyon-6, Neocyte Resonator-6, Immense Ospry-6, Tikalan-6, Noble Defiance-6, Garrison Fortifier-6, Garrison Fortifier-6, Heart Devourer-6, Indestructible Troop-6, Arthurian Monarch-6
-GT1OOk56: Barracus-6, Havoc Genesis-6, Shining Sanctuary-6, Defiance-5, Spiteful Raptor-6, Ironclad Troop-6, Sculpted Aegis-6, Noble Defiance-6
-GT1OOk57: Halcyon-6, Tikalan-6, Xeno Suzerain-6, Xeno Suzerain-6, Crushing Anvil-6, Sculpted Aegis-6, Mach Jet-6, Pantheon Disciple-6, Ospry-6, Havoc Alpha-6, Omniphet-6
-GT1OOk58: Typhon Vex-6, Heart Devourer-6, Heart Devourer-6, Heart Devourer-6, Heart Devourer-6, Heart Devourer-6, Heart Devourer-6, Heart Devourer-6, Heart Devourer-6, Remote Rig-6, Remote Rig-6
-GT1OOk59: Dracorex-6, Spiteful Raptor-6, Spiteful Raptor-6, Deranged Malgoth-6, Howling Malgoth-6, Apex Overdrive-6, Razogoth's Majesty-6, Tartarus Brood-6, Draconian Sovereign-6, Blight Crusher-6, Lord Hades-6
-GT1OOk60: Halcyon-6, Indestructible Troop-6, Colossal Titan-6, Drake Scouter-6, Masterwork Aegis-6, Immense Ospry-6, Hephatat Fury-6, Covert Jet-6, Worldformer-6, Tazerok-6, Defiance-6
-GT1OOk61: Barracus-4, Omniphet-5, Spiteful Raptor-6, Spiteful Raptor-6, Ayrkrane Vik-6, Tartarus Brood-5, Tazerecca-5, Entrails Pool-4
-GT1OOk62: Barracus-6, Starformer-6, Tartarus Brood-6, Apex-6, Shining Sanctuary-6, Defiance-6, Ayrkrane Vik-6
-GT1OOk63: Barracus-6, Crushing Anvil-6, Xeno Suzerain-6, Omniphet-6, Spiteful Raptor-6, Tikalan-6, Apex Overdrive-6, Tazerecca-6
-GT1OOk64: Alaric-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Ayrkrane Vik-6, Defiance-6, Tikalan-6, Zodiac-6, Lightning Crag-6
-GT1OOk65: Alaric-6, Noble Defiance-6, Immense Ospry-6, Noble Defiance-6, Pantheon Disciple-6, Spiteful Raptor-6, Noble Defiance-6
-GT1OOk66: Barracus-6, Tazerecca-6, Spiteful Raptor-6, Spiteful Raptor-6, Spiteful Raptor-6, Entrails Bog-6, Deranged Malgoth-6, Havoc Genesis-6, Noxious Tank-6, Sculpted Aegis-6
-GT1OOk67: Barracus-6, Crushing Anvil-6, Venomous Raptor-6, Apex Overdrive-6, Tazerecca-6, Ayrkrane Vik-6, Xeno Suzerain-6
-GT1OOk68: Constantine-6, Noble Defiance-6, Shining Sanctuary-6, Sacred Equalizer-6, Omniphet-6, Zodiac Harbinger-6, Ayrkrane Vik-6, Bolt Crag-6
-GT1OOk69: Dracorex-6, Draconian Sovereign-6, Sculpted Aegis-6, Crushing Anvil-6, Omniphet-6, Deranged Malgoth-6, Noble Defiance-6, Tartarus Brood-6, Noxious Tank-6
-GT1OOk70: Barracus-6, Tazerok-5, Tazerok-5, Spiteful Raptor-6, Xeno Suzerain-6, Indestructible Troop-6, Crushing Anvil-6, Masterwork Aegis-6
-GT1OOk71: Barracus-6, Crushing Anvil-6, Xeno Suzerain-6, Tikalan-6, Tazerecca-6, Tartarus Brood-6, Havoc Genesis-6, Ayrkrane Vik-6, Omniseer-6, Defiance-6, Sacred Sanctuary-6
-GT1OOk72: Barracus-6, Forsaken Beetle-6, Tazerok-6, Crushing Anvil-6, Spiteful Raptor-6, Defiance-6, Defiance-6, Ayrkrane Vik-6
-GT1OOk73: Dracorex-6, Sacred Sanctuary-6, Crushing Anvil-6, Gornivorous-6, Deranged Malgoth-6, Spiteful Raptor-6, Spiteful Raptor-6, Tartarus Brood-6
-GT1OOk74: Barracus-6, Deranged Malgoth-6, Deranged Malgoth-6, Deranged Malgoth-6, Omniphet-6, Razogoth's Majesty-6, Incinerator Rig-6, Draconian Sovereign-6, Wurmsleth Infested-6, Sacred Sanctuary-6, Sacred Sanctuary-6
-GT1OOk75: Constantine-6, Sacred Sanctuary-6, Ayrkrane Vik-6, Noble Defiance-6, Noble Defiance-6, Zodiac Harbinger-4, Reckless Fanatic-6
-GT1OOk76: Dracorex-6, Deranged Malgoth-6, Deranged Malgoth-6, Sacred Sanctuary-6, Lord Hades-6, Spiteful Raptor-6, Spiteful Raptor-6, Entrails Bog-6, Noble Defiance-6, Noble Defiance-6
-GT1OOk77: Barracus-6, Spiteful Raptor-6, Noble Defiance-6, Apex Overdrive-6, Tazerok-6, Defiance-6, Crushing Anvil-6, Forsaken Beetle-6
-GT1OOk78: Alaric-6, Heart Devourer-6, Noble Defiance-6, Noble Defiance-6, Noble Defiance-6, Noble Defiance-6, Grand Templar-6, Flash Deity-6, Mawnage-6, Charincinerator-6, Pure Benediction-6
-GT1OOk79: Alaric-5, Crushing Anvil-6, Shining Sanctuary-6, Xeno Suzerain-6, Omniphet-6, Tartarus Brood-6, Ayrkrane Vik-6, Noble Defiance-6
-GT1OOk80: Halcyon-6, Neocyte Resonator-6, Neocyte Resonator-6, Indestructible Troop-6, Indestructible Troop-6, Indestructible Troop-6, Indestructible Troop-6, Indestructible Troop-6, Swift Hellion-6, Agrius Maximus-6, Agrius Maximus-6
-GT1OOk81: Alaric-6, Sculpted Aegis-6, Apex Dynamo-6, Deranged Malgoth-6, Noble Defiance-6, Noble Defiance-6, Spiteful Raptor-6
-GT1OOk82: Empress-6, Zodiac Harbinger-6, High Templar-6, Hypersonic Deity-6, Noble Defiance-6, Sacred Sanctuary-6, Sacred Sanctuary-6, Bolt Crag-6, Bolt Crag-6
-GT1OOk83: Halcyon-6, Zealous Pursuer-6, Masterwork Aegis-6, Indestructible Troop-6, Xeno Suzerain-6, Shining Sanctuary-6, Noble Defiance-6, Bolt Crag-6, Bolt Crag-6
-GT1OOk84: Halcyon-6, Neocyte Resonator-6, Sculpted Aegis-6, Indestructible Troop-6, Indestructible Troop-6, Indestructible Troop-6, Garrison Fortifier-6, Garrison Fortifier-6, Mach Jet-6
-GT1OOk85: Constantine-6, Tikalan-6, Vicious Borg-6, Soulsteel Mount-6, Ayrkrane Vik-6, Noble Defiance-6, Noble Defiance-6, Noble Defiance-6, Zodiac Harbinger-6, Sacred Sanctuary-6, Flash Deity-6
-GT1OOk86: Typhon Vex-5, Havoc Genesis-6, Charincinerator-6, Bolt Crag-5, Noble Defiance-6, Indestructible Troop-6
-GT1OOk87: Barracus-6, Mobile Bastion-6, Crushing Anvil-6, Worldformer-6, Interstellar Cannon-6, Charincinerator-6
-GT1OOk88: Barracus-5, Tazerecca-6, Ayrkrane Vik-6, Worldformer-6, Havoc Alpha-6, Bolt Crag-6, Charigniter-6, Earnest Pursuer-6
-GT1OOk89: Barracus-6, Ironclad Troop-6, Crushing Anvil-6, Starformer-6, Spiteful Raptor-6, Noble Defiance-6
-GT1OOk90: Nexor-5, Sacred Sanctuary-6, Apex Dynamo-6, Crushing Anvil-6, Noble Defiance-6, Spiteful Raptor-6, Xeno Suzerain-6, Tazerecca-6
-GT1OOk91: Barracus-6, Crushing Anvil-6, Tartarus Brood-6, Mach Jet-6, Ayrkrane Vik-6, Lightning Crag-6, Tazerecca-6, Venomous Raptor-6, Sacred Sanctuary-6
-GT1OOk92: Alaric-6, Mach Jet-6, Defiance-6, Tazerecca-6, Crushing Anvil-6, Havoc Genesis-6, Apex Overdrive-6, Tartarus Brood-6, Blisandrake-6
-GT1OOk93: Petrisis-5, Brutal Beholder-6, Xeno Suzerain-6, Sculpted Aegis-6, Omniphet-6, Sacred Sanctuary-6, Azure Reveler-6, Spiteful Raptor-6, Garrison Fortifier-6, Earnest Pursuer-6
-GT1OOk94: Petrisis-6, Lord Hades-6, Lord Hades-6, Sacred Sanctuary-6, Deranged Malgoth-6, Deranged Malgoth-6, Mawnage-6, Noble Defiance-6, Noble Defiance-6
-GT1OOk95: Nexor-6, Tazerecca-6, Noble Defiance-6, Lord Hades-6, Xeno Suzerain-6, Shining Sanctuary-6, Rift Awakener-6, High Templar-6, Heart Devourer-6, Incinerator Rig-6, Omniphet-6
-GT01: Ascaris-4, Blight Crusher-6, Brood Lackey-4, Redeemer-3, Scarab-4, Corpulent Barrier-4, Lummox-4, Acid Spewer-3, Rabid Corruptor-3, Carcass Scrounge-3, Locust Swarm-3
-GT02: Cyrus-4, Windreaver-6, Terminator X-4, Ion Strykers-3, Dreadnaught-3, Imperial APC-4, Dominator-4, Terminator-4, Regeneration Bay-4, Twinblade-4, Revolver-3
-GT03: Maion-4, Honor-Bound Veteran-4, Sanctuary-6, Angelwing-4, Adytum-4, Ion Strykers-3, Knight-4, Cannon Walker-4, Peacekeeper-3, Honor Guard-4, Credo Defender-3
-GT04: Malika-4, Iron Maiden-6, Blitz Guard-4, Blitz Armor-4, Assembly Plant-4, Gunjack-3, Carbine-4, Hydra-4, Bombardment Tank-3, Shrapnel Engine-3, Hydroblade-3
-GT05: Terrogor-4, Stealthy Niaq-6, Enclave Vestige-4, Glaive-4, Xeno Singularis-4, Swarmling-3, Pathrazer-4, Spectre-4, Enclave Parasite-3, Exogrunt-3, Enfeebler-3
-GT06: Brood Mother-6, Gorivore-6, Draconian Queen-6, Smog Tank-6, Brood Lackey-4, Conversion Hall-4, Scarab-4, Redeemer-3, Ion Strykers-3
-GT07: Empress-6, Dutiful Veteran-4, Vigil-6, Ayrkrane-6, Tempest Hold-6, Equalizer-6, Honor-Bound Veteran-4, Angelwing-4, Knight-4, Adytum-4
-GT08: Octane-6, Aegis-6, Fighter Jet-6, Terminator Mech-4, Hephatat-6, Tiamat-6, Windreaver-6, Ion Strykers-3, Regeneration Bay-4
-GT09: Vyander-6, Apex-6, Gorivore-6, Xeno Overlord-6, Dreadship-6, Stealthy Niaq-6, Enclave Vestige-4, Xeno Singularis-4, Ion Strykers-3
-GT10: Yurich-6, Anvil-6, Blitz Plate-4, Havoc-6, Iron Maiden-6, Blitz Guard-4, Sanctuary-6, Carbine-4
-GT11: Alaric-6, Defiance-6, Lightning Crag-6, Pantheon Disciple-6, Dutiful Veteran-4, Covert Jet-6, Shining Sanctuary-6, Ayrkrane Vik-6
-GT12: Dracorex-6, Howling Malgoth-6, Mawcor-6, Venomous Raptor-6, Gornivorous-6, Entrails Pool-6, Draconian Matriarch-6
-GT13: Halcyon-6, Swift Hellion-6, Mach Jet-6, Crushing Anvil, Pantheon Disciple-6, Ospry-6, Xeno Overlord-6, Masterwork Aegis-6, Hephatat Fury-6
-GT14: Typhon Vex-6, Havoc Alpha-6, Lightning Crag-6, Stag Beetle-6, Crushing Anvil-6, Pantheon Disciple-6, Blitz Plate-4, Ayrkrane Vik-6
-GT15: Krellus-6, Defiance-6, Mach Jet-6, Xeno Overlord-6, Tikalan-6, Tazerecca-6, Apex-6, Cryptic Niaq-6
-GT16: Barracus-6, Deranged Malgoth-6, Noxious Tank-6, Lord Hades-6, Lord Hades-6, Mawnage-6, Narscious the Eerie-6, Blighted Obelisk-6, Spiteful Raptor-6
-GT17: Nexor-6, Worldformer-6, Rift Awakener-6, Apex Dynamo-6, SkyCom Perfect-6, Azure Reveler-6, Despoil Predator-6, Despoil Predator-6
-GT18: Petrisis-6, Charincinerator-6, Heart Devourer-6, Heart Devourer-6, Havoc Genesis-6, Mobile Encampment-6, Forsaken Beetle-6, Crushing Anvil-6
-GT19: Tabitha-6, Zealous Pursuer-6, Garrison Fortifier-6, Agrius Maximus-6, Neocyte Resonator-6, Neocyte Resonator-6, Fusillade Bunker-6, Zealous Pursuer-6
-GT20: Constantine-6, Noble Defiance-6, Noble Defiance-6, Grand Templar-6, Tikalan-6, Ayrkrane Vik-6, Sacred Sanctuary-6, Utopia Pharos-6
-Gauntlet: /^GT\d\d$/
-GT125k: /^GT12Sk\d\d$/
-GT100k: /^GT1OOk\d\d$/
-T100: /^T\+100.*$/
-FTA: /^FTN.*$/

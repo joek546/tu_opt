@@ -142,13 +142,16 @@ struct CardStatus
     unsigned m_enhance_berserk;
     unsigned m_enhance_corrosive;
     unsigned m_enhance_counter;
+    unsigned m_enhance_enfeeble;
     unsigned m_enhance_evade;
     unsigned m_enhance_heal;
     unsigned m_enhance_leech;
     unsigned m_enhance_poison;
+    unsigned m_enhance_rally;
     unsigned m_enhance_strike;
     unsigned m_evades_left;
     Faction m_faction;
+    unsigned m_flurry_charge;
     bool m_frozen;
     bool m_has_jammed;
     unsigned m_hp;

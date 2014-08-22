@@ -24,6 +24,7 @@ public:
         m_disease(false),
         m_disease_oa(false),
         m_emulate(false),
+        m_enfeeble(0),
         m_evade(0),
         m_faction(imperial),
         m_fear(false),
@@ -48,6 +49,7 @@ public:
         m_poison(0),
         m_poison_oa(0),
         m_proto_id(0),
+        m_rally(0),
         m_rarity(1),
         m_refresh(false),
         m_regenerate(0),
@@ -95,6 +97,7 @@ public:
     bool m_disease;
     bool m_disease_oa;
     bool m_emulate;
+    unsigned m_enfeeble;
     unsigned m_evade;
     Faction m_faction;
     bool m_fear;
@@ -120,6 +123,7 @@ public:
     unsigned m_poison;
     unsigned m_poison_oa;
     unsigned m_proto_id;  // The id of the prototype card (before upgraded) for an upgraded card. 0 otherwise.
+    unsigned m_rally;
     unsigned m_rarity;
     bool m_refresh;
     unsigned m_regenerate;

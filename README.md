@@ -23,6 +23,7 @@ Mode:
   pvp: attacker goes first. Simulate/optimize for win rate. Normally used for missions or pvp. [default]
   pvp-defense: attacker goes second. Simulate/optimize for win rate + stall rate. Normally used for pvp defense.
   gw: attacker goes second. Simulate/optimize for win rate. Normally used for guild wars.
+  gw-abp: attacker goes second. Simulate/optimize for average battle points. Normally used for guild wars.
   gw-defense: attacker goes first. Simulate/optimize for win rate + stall rate. Normally used for gw defense.
 Order:
   random: the attack deck is played randomly. [default]
@@ -43,6 +44,13 @@ Flags for climb:
                        example: -o=data/mycards.txt.
   -o=&lt;cards&gt;: restrict to the owned cards specified.
                  example: -o="Sacred Equalizer#2, Infantry".
+  -C: load custom cards from "data/customcards.txt".
+  -C=&lt;filename&gt;: load custom cards from <filename>.
+  -C=&lt;cards&gt;: load custom cards specified.
+              format:
+                CardName1, Rarity Faction attack/health/delay, skill 1, skill 2, ... ; CardName2, ...
+              example:
+                -C="Commander Sheppard, Legendary Raider 100HP, rally all 3; Gremlin, common bloodthirsty 1/3/0, berserk 1, leech 1"
   target &lt;num&gt;: stop as soon as the score reaches &lt;num&gt;.
 
 Operations:
@@ -57,6 +65,77 @@ Open https://github.com/zachanassian/tu_optimize/blob/master/README.md to get la
 If you receive virus warnings for <code>SimpleTUOptimizeStarter.exe</code> please read [here](http://zachanassian.github.io/tu_optimize/faq.html#ahk).
 
 ##Changelog
+
+##Version 3.7.0
+* Add new mode gw-abp. Simulate/optimize for average battle points. Due to gw scoring it is better to win 75% 60 points then to win 80% 50 points.
+* Add current <code>cards.xml</code>
+* Released zip file contains a new folder /src with tu_optimize source code
+* Add GTop201408 to <code>data/customdecks_template.txt</code> - credits [HarlequinD](http://www.kongregate.com/forums/2468/topics/390807?page=22#posts-8299419)
+
+##Version 3.6.0
+* OnExit: Save last used settings in <code>SimpleTUOptimizeStarter</code> - [Issue#49](https://github.com/zachanassian/tu_optimize/issues/49)
+* Add current <code>cards.xml</code> and <code>missions.xml</code> - Mission Protomech.
+* Add battleground effect Progenitor.
+
+##Version 3.5.0
+* Add current <code>cards.xml</code> and <code>missions.xml</code> - Mission Gauntlet.
+* Add new batch <code>GT150k</code> to <code>data/customdecks_template.txt</code> - credits [HarlequinD](http://www.kongregate.com//forums/2468/topics/390807?page=20#posts-8235136)
+* Add ability to specify custom cards from command line. Check new option -C in Usage. - [Pull#51](https://github.com/zachanassian/tu_optimize/pull/51) credits draquila.
+* Add first implementation of overload. Assumptions:
+..* targets only enemies cards that have evade charges left or are protected
+..* can not be evaded
+..* only works on assaults
+..* effect on target: sets all evade charges left and protection to zero
+<pre>
+>tu_optimize "Alaric, TestOverload #3" "Constantine, Bolt Crag #3" -C="TestOverload, raider 4/14/1, overload 2, strike all 3" sim 10000
+Your Deck: [RE!+f+j] Alaric, TestOverload, TestOverload, TestOverload
+Enemy's Deck: [S6-F9+j] Constantine, Bolt Crag, Bolt Crag, Bolt Crag
+win%: 100 (10000 / 10000)
+stall%: 0 (0 / 10000)
+loss%: 0 (0 / 10000)
+</pre>
+* Add battleground effect overload.
+* [FIX] Abort execution for -o=[card_id] if card_id does not exist. - [Issue#52](https://github.com/zachanassian/tu_optimize/issues/52) credits [draquila](https://github.com/zachanassian/tu_optimize/pull/53).
+* [FIX] rename <code>Gauntlet</code> to <code>Gauntlet20</code> in <code>data/customdecks_template.txt</code> to solve naming conflicts with Mission #2211 "Gauntlet" 
+
+##Version 3.4.0
+* Add enhance enfeeble battle ground effect: - [Issue#46](https://github.com/zachanassian/tu_optimize/issues/46)
+* Add current <code>cards.xml</code>
+
+##Version 3.3.2
+* [FIX] Enhance Heal and Enhance Rally - [Issue#44](https://github.com/zachanassian/tu_optimize/issues/44)
+
+##Version 3.3.1
+* [FIX] <code>SimpleTUOptimizeStarter</code> allows to select new bg effect rally 1-3.
+
+##Version 3.3.0
+* Added current <code>cards.xml</code> and <code>missions.xml</code> - Mission Balefire.
+* Added skill flurry
+<pre>
+>tu_optimize "Typhon Vex, Sphinxite" "Alaric, Zodiac Harbinger" -v sim 1000
+win%: 100 (1000 / 1000)
+stall%: 0 (0 / 1000)
+loss%: 0 (0 / 1000)
+</pre>
+* Added enhance rally battle ground effect: - [Issue#42](https://github.com/zachanassian/tu_optimize/issues/42) credits [grani](https://github.com/zachanassian/tu_optimize/pull/43)
+<pre>
+>tu_optimize "Constantine, Zodiac Harbinger" "Constantine, Bolt Crag" -e "Rally 2" sim 1000     
+Your Deck: Deck: S6-MP
+Enemy's Deck: Deck: S6-F9
+Effect: Rally 2
+win%: 0 (0 / 1000)
+stall%: 100 (1000 / 1000)
+loss%: 0 (0 / 1000)
+</pre>
+<pre>
+>tu_optimize "Constantine, Zodiac Harbinger" "Constantine, Bolt Crag" -e "Rally 3" sim 1000
+Your Deck: Deck: S6-MP
+Enemy's Deck: Deck: S6-F9
+Effect: Rally 3
+win%: 100 (1000 / 1000)
+stall%: 0 (0 / 1000)
+loss%: 0 (0 / 1000)
+</pre>
 
 ##Version 3.2.0
 * <code>SimpleTUOptimizeStarter</code> allows to update <code>cards.xml</code> and <code>missions.xml</code>.

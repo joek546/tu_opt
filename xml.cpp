@@ -283,7 +283,7 @@ void read_cards(Cards& cards)
                         if(strcmp(skill->first_attribute("id")->value(), "fear") == 0)
                         { c->m_fear = true; }
                         if(strcmp(skill->first_attribute("id")->value(), "flurry") == 0)
-                        { /*c->m_flurry = atoi(skill->first_attribute("c")->value());*/ }
+                        { c->m_flurry = atoi(skill->first_attribute("c")->value()); }
                         if(strcmp(skill->first_attribute("id")->value(), "flying") == 0)
                         { c->m_flying = true; }
                         if(strcmp(skill->first_attribute("id")->value(), "fusion") == 0)
@@ -341,7 +341,10 @@ void read_cards(Cards& cards)
                         if(strcmp(skill->first_attribute("id")->value(), "cleanse") == 0)
                         { handle_skill<cleanse>(skill, c); }
                         if(strcmp(skill->first_attribute("id")->value(), "enfeeble") == 0)
-                        { handle_skill<enfeeble>(skill, c); }
+                        {
+                          c->m_enfeeble = atoi(skill->first_attribute("x")->value());
+                          handle_skill<enfeeble>(skill, c);
+                        }
                         if((strcmp(skill->first_attribute("id")->value(), "enhance") == 0) &&
                            (strcmp(skill->first_attribute("s")->value(), "armored") == 0))
                         { handle_skill<enhance_armored>(skill, c); }
@@ -355,6 +358,9 @@ void read_cards(Cards& cards)
                            (strcmp(skill->first_attribute("s")->value(), "counter") == 0))
                         { handle_skill<enhance_counter>(skill, c); }
                         if((strcmp(skill->first_attribute("id")->value(), "enhance") == 0) &&
+                           (strcmp(skill->first_attribute("s")->value(), "enfeeble") == 0))
+                        { handle_skill<enhance_enfeeble>(skill, c); }
+                        if((strcmp(skill->first_attribute("id")->value(), "enhance") == 0) &&
                            (strcmp(skill->first_attribute("s")->value(), "evade") == 0))
                         { handle_skill<enhance_evade>(skill, c); }
                         if((strcmp(skill->first_attribute("id")->value(), "enhance") == 0) &&
@@ -366,6 +372,9 @@ void read_cards(Cards& cards)
                         if((strcmp(skill->first_attribute("id")->value(), "enhance") == 0) &&
                            (strcmp(skill->first_attribute("s")->value(), "poison") == 0))
                         { handle_skill<enhance_poison>(skill, c); }
+                        if((strcmp(skill->first_attribute("id")->value(), "enhance") == 0) &&
+                           (strcmp(skill->first_attribute("s")->value(), "rally") == 0))
+                        { handle_skill<enhance_rally>(skill, c); }
                         if((strcmp(skill->first_attribute("id")->value(), "enhance") == 0) &&
                            (strcmp(skill->first_attribute("s")->value(), "strike") == 0))
                         { handle_skill<enhance_strike>(skill, c); }
@@ -395,10 +404,15 @@ void read_cards(Cards& cards)
                         }
                         if(strcmp(skill->first_attribute("id")->value(), "mimic") == 0)
                         { handle_skill<mimic>(skill, c); }
+                        if(strcmp(skill->first_attribute("id")->value(), "overload") == 0)
+                        { handle_skill<overload>(skill, c); }
                         if(strcmp(skill->first_attribute("id")->value(), "protect") == 0)
                         { handle_skill<protect>(skill, c); }
                         if(strcmp(skill->first_attribute("id")->value(), "rally") == 0)
-                        { handle_skill<rally>(skill, c); }
+                        { 
+                            c->m_rally = atoi(skill->first_attribute("x")->value());
+                            handle_skill<rally>(skill, c); 
+                        }
                         if(strcmp(skill->first_attribute("id")->value(), "recharge") == 0)
                         { handle_skill<recharge>(skill, c); }
                         if(strcmp(skill->first_attribute("id")->value(), "repair") == 0)

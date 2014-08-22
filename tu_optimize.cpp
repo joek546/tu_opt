@@ -35,6 +35,7 @@
 #include "sim.h"
 #include "tyrant.h"
 #include "xml.h"
+#include "custom_card.h"
 //#include "timer.hpp"
 
 namespace {
@@ -435,7 +436,7 @@ void thread_evaluate(boost::barrier& main_barrier,
                         score_accum = thread_score_local[0];
                     }
                     bool compare_stop(false);
-                    long double best_possible = (optimization_mode == OptimizationMode::raid ? 250 : 100);
+                    long double best_possible = (optimization_mode == OptimizationMode::raid ? 250 : optimization_mode == OptimizationMode::gw_abp ? 79 : 100);
                     // Get a loose (better than no) upper bound. TODO: Improve it.
                     compare_stop = (boost::math::binomial_distribution<>::find_upper_bound_on_p(thread_total_local, score_accum / best_possible, 0.01) * best_possible < thread_prev_score);
                     if(compare_stop) {
@@ -459,6 +460,7 @@ void print_score_info(const std::pair<std::vector<Results<uint64_t>> , unsigned>
         switch(optimization_mode)
         {
             case OptimizationMode::raid:
+            case OptimizationMode::gw_abp:
                 std::cout << val.points << " ";
                 break;
             default:
@@ -511,6 +513,18 @@ void print_results(const std::pair<std::vector<Results<uint64_t>> , unsigned>& r
     {
         case OptimizationMode::raid:
             std::cout << "ard: " << final.points << " (";
+            for(auto val: results.first)
+            {
+                std::cout << val.points << " ";
+            }
+            std::cout << "/ " << results.second << ")" << std::endl;
+            if (show_stdev)
+            {
+                std::cout << "stdev: " << sqrt(final.sq_points - final.points * final.points) << std::endl;
+            }
+            break;
+        case OptimizationMode::gw_abp:
+            std::cout << "abp: " << final.points << " (";
             for(auto val: results.first)
             {
                 std::cout << val.points << " ";
@@ -1122,6 +1136,7 @@ void usage(int argc, char** argv)
         "  pvp: attacker goes first. Simulate/optimize for win rate. Normally used for missions or pvp. [default]\n"
         "  pvp-defense: attacker goes second. Simulate/optimize for win rate + stall rate. Normally used for pvp defense.\n"
         "  gw: attacker goes second. Simulate/optimize for win rate. Normally used for guild wars.\n"
+        "  gw-abp: attacker goes second. Simulate/optimize for average battle points. Normally used for guild wars.\n"
         "  gw-defense: attacker goes first. Simulate/optimize for win rate + stall rate. Normally used for gw defense.\n"
         "Order:\n"
         "  random: the attack deck is played randomly. [default]\n"
@@ -1144,6 +1159,13 @@ void usage(int argc, char** argv)
         "                 example: -o=data/mycards.txt.\n"
         "  -o=<cards>: restrict to the owned cards specified.\n"
         "                 example: -o=\"Sacred Equalizer#2, Infantry\".\n"
+        "  -C: load custom cards from \"data/customcards.txt\".\n"
+        "  -C=<filename>: load custom cards from <filename>.\n"
+        "  -C=<cards>: load custom cards specified.\n"
+        "              format:\n"
+        "                CardName1, Rarity Faction attack/health/delay, skill 1, skill 2, ... ; CardName2, ...\n"
+        "              example:\n"
+        "                -C=\"Commander Sheppard, Legendary Raider 100HP, rally all 3; Gremlin, common bloodthirsty 1/3/0, berserk 1, leech 1\"\n"
         //"  fund <num>: fund <num> gold to buy/upgrade cards. prices are specified in ownedcards file.\n"
         "  target <num>: stop as soon as the score reaches <num>.\n"
         //"  -u: don't upgrade owned cards. (by default, upgrade owned cards when needed)\n"
@@ -1176,6 +1198,9 @@ int main(int argc, char** argv)
     Cards cards;
     read_cards(cards);
     read_card_abbrs(cards, "data/cardabbrs.txt");
+    CustomCardReader reader(cards);
+    // have to process custom cards early before att_deck/def_decks are loaded
+    reader.process_args(argc, argv);
     Decks decks;
     Achievement achievement;
     load_decks_xml(decks, cards);
@@ -1310,6 +1335,11 @@ int main(int argc, char** argv)
         {
             gamemode = surge;
             optimization_mode = OptimizationMode::winrate;
+        }
+        else if(strcmp(argv[argIndex], "gw-abp") == 0)
+        {
+            gamemode = surge;
+            optimization_mode = OptimizationMode::gw_abp;
         }
         else if(strcmp(argv[argIndex], "gw-defense") == 0)
         {
@@ -1591,6 +1621,10 @@ int main(int argc, char** argv)
                 def_deck->set_fortress2(ef_deck->get_fortress2());
             }
             argIndex += 1;
+        }
+        else if (strcmp(argv[argIndex], "-C") == 0 || strncmp(argv[argIndex], "-C=", 3) == 0) 
+        {
+            // just skip the argument since we have run CustomCardReader::process_args() already
         }
         else
         {

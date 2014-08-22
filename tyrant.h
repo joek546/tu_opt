@@ -1,7 +1,7 @@
 #ifndef TYRANT_H_INCLUDED
 #define TYRANT_H_INCLUDED
 
-#define TU_OPTIMIZER_VERSION "3.2.0"
+#define TU_OPTIMIZER_VERSION "3.7.0"
 #define NDEBUG
 
 #include <string>
@@ -28,10 +28,10 @@ enum Skill
     attack,
     // Activation (including Destroyed):
     augment, backfire, chaos, cleanse, enfeeble,
-    enhance_armored, enhance_berserk, enhance_corrosive, enhance_counter, enhance_evade,
-    enhance_leech, enhance_heal, enhance_poison, enhance_strike,
+    enhance_armored, enhance_berserk, enhance_corrosive, enhance_counter, enhance_enfeeble, enhance_evade,
+    enhance_leech, enhance_heal,  enhance_poison, enhance_rally, enhance_strike,
     freeze, heal, infuse, jam,
-    mimic, protect, rally, recharge, repair, rush, shock, siege, split, strike, summon, supply,
+    mimic, overload, protect, rally, recharge, repair, rush, shock, siege, split, strike, summon, supply,
     trigger_regen, // not actually a skill; handles regeneration after strike/siege
     weaken,
     // Combat-Modifier:
@@ -105,6 +105,9 @@ enum Effect {
     counter_1,
     counter_2,
     counter_3,
+    enfeeble_1,
+    enfeeble_2,
+    enfeeble_3,
     evade_1,
     evade_2,
     evade_3,
@@ -114,9 +117,16 @@ enum Effect {
     leech_1,
     leech_2,
     leech_3,
+    overload_1,
+    overload_2,
+    overload_3,
     poison_1,
     poison_2,
     poison_3,
+    bg_progenitor,
+    rally_1,
+    rally_2,
+    rally_3,
     strike_1,
     strike_2,
     strike_3,
@@ -169,6 +179,7 @@ enum class OptimizationMode
     winrate,
     achievement,
     raid,
+    gw_abp,
     defense
 };
 
