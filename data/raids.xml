@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+
+	<raid>
+		<id>1</id>
+		<name>Apocalypse</name>
+		<commander>1373</commander>
+		<levels>26</levels>
+		<deck>
+			<always_include>
+				<card>7695</card>
+				<card>7705</card>
+				<card>7715</card>
+				<card>7725</card>
+				<card>7735</card>
+				<card>7745</card>
+			</always_include>
+			<card_pool amount="4">
+				<card>7695</card>
+				<card>7705</card>
+				<card>7715</card>
+				<card>7725</card>
+				<card>7735</card>
+				<card>7745</card>
+			</card_pool>
+		</deck>
+	</raid>
+
+	<raid>
+		<id>2</id>
+		<name>Jotun Max</name>
+		<commander>1413</commander>
+		<levels>26</levels>
+		<deck>
+			<always_include>
+				<card>10551</card>
+				<card>10551</card>
+				<card>10521</card>
+				<card>10521</card>
+				<card>10541</card>
+				<card>10541</card>
+				<card>10531</card>
+				<card>10531</card>
+				<card>10511</card>
+				<card>10511</card>
+			</always_include>
+		</deck>
+	</raid>
+
+</root>

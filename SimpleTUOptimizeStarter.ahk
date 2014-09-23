@@ -3,7 +3,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-BGEffects := "none|Progenitors"
+BGEffects := "none|Protect all X|Metamorphosis|Enfeeble all X|Enhance all Armor X|Enhance all Berserk X|Enhance all Corrosive X|Enhance all Counter X|Enhance all Enfeeble X|Enhance all Evade X|Enhance all Heal X|Enhance all Inhibit X|Enhance all Leech X|Enhance all Pierce X|Enhance all Poison X|Enhance all Protect X|Enhance all Rally X|Enhance all Siege X|Enhance all Strike X|Enhance all Weaken X"
 IniFileName := "data\SimpleTUOptimizeStarter.ini"
 IniSection := "onLoad"
 
@@ -50,7 +50,8 @@ Gui, Add, Radio, vMode r1 %Mode1% section, PVP
 Gui, Add, Radio, ys %Mode2%, PVP (defense)
 Gui, Add, Radio, ys %Mode3%, Guildwar
 Gui, Add, Radio, ys %Mode4%, Guildwar (defense)
-;Gui, Add, Radio, ys %Mode5%, Raid
+Gui, Add, Radio, ys %Mode5%, Brawl
+Gui, Add, Radio, ys %Mode6%, Raid
 Gui, Add, Radio, vOrder r2 xs Group %Order1% section, Random
 Gui, Add, Radio, r2 ys %Order2%, Ordered
 Gui, Add, Radio, vOperation r1 xs Group %Operation1% section, Climb
@@ -68,7 +69,7 @@ return
 
 ButtonSimulate:
 Gui, Submit
-selMode :=  ( Mode == 1 ? "pvp" : Mode == 2 ? "pvp-defense" : Mode == 3 ? "gw" : Mode == 4 ? "gw-defense" : "raid" )
+selMode :=  ( Mode == 1 ? "pvp" : Mode == 2 ? "pvp-defense" : Mode == 3 ? "gw" : Mode == 4 ? "gw-defense" :Mode == 5 ? "brawl" : "raid" )
 selOrder :=  ( Order == 1 ? "random" : "ordered" )
 selOperation :=  ( Operation == 1 ? "climb" : Operation == 2 ? "sim" : "reorder" )
 selMySiege := ( MySiege == "" ? "" : "yf """ MySiege """ ")
@@ -94,7 +95,7 @@ Gui, Show
 return
 
 MenuUpdate:
-MsgBox, 0, Update started, Updating fusion_recipes_cj2.xml, missions.xml and cards.xml.`nPlease wait at least 10 seconds. A new window should open soon.`nThis Window will auto close in 2 seconds. , 2
+MsgBox, 0, Update started, Updating fusion_recipes_cj2.xml`, missions.xml and cards.xml.`nPlease wait at least 10 seconds. A new window should open soon.`nThis Window will auto close in 2 seconds. , 2
 UrlDownloadToFile, http://mobile.tyrantonline.com/assets/fusion_recipes_cj2.xml, data\fusion_recipes_cj2.xml
 had_error := false
 if ErrorLevel

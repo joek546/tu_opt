@@ -10738,8 +10738,8 @@
         <y>180</y>
         <commander>1284</commander>
         <speech>
-       		<line commander='1998'>A strange aura is blocking our shots. We cannot break through.</line>       
-    		<line commander='1281'>The time has come. You shall bear witness to the end.</line>       
+    		<line commander='1998'>A strange aura is blocking our shots. We cannot break through.</line>       
+ 		<line commander='1281'>The time has come. You shall bear witness to the end.</line>       
 		</speech>
         <deck>
             <card>5476</card>
@@ -10827,7 +10827,7 @@
         <commander>1291</commander>
         <speech>
             <line commander='1998'>It is coming from the sky.</line>
-        	<line commander='1003'>Intercept it. We cannot let it reach the ground.</line>
+     	<line commander='1003'>Intercept it. We cannot let it reach the ground.</line>
         </speech>
         <deck>
             <card>5476</card>
@@ -11136,7 +11136,7 @@
 	    <y>300</y>
 	    <commander>1016</commander>
 	    <speech>
-	    	<line commander='1023'>Tabitha, status report.</line>
+	 	<line commander='1023'>Tabitha, status report.</line>
 	        <line commander='1998'>We're approaching Wyrmhold.</line>        
 			<line commander='1003'>We're being swarmed, take evasive action!</line>
 	    </speech>
@@ -11228,8 +11228,8 @@
 	    <commander>1017</commander>
 	    <speech>
 	        <line commander='1998'>Halcyon, Wyrmhold has been secured.</line> 
-	       	<line commander='1023'>Good, advance to the Worldship, we won’t be able to hold the ground invasion much longer.</line>
-	    	<line commander='1003'>We got problems up here as well. Rastax has returned, and is on his way to intercept us.</line> 
+	    	<line commander='1023'>Good, advance to the Worldship, we won’t be able to hold the ground invasion much longer.</line>
+	 	<line commander='1003'>We got problems up here as well. Rastax has returned, and is on his way to intercept us.</line> 
 	    </speech>
 	    <deck>
 	        <card>5609</card>
@@ -11317,7 +11317,7 @@
 	    <commander>1017</commander>
 	    <speech>
 	        <line commander='1003'>He's right Tabitha. If we stray off course we may never make it to the Worldship.</line>
-	    	<line commander='1998'>It is too risky, we are out gunned.</line> 
+	 	<line commander='1998'>It is too risky, we are out gunned.</line> 
 			<line commander='1003'>Which is why they won't expect it.</line> 
 	    </speech>
 	    <deck>
@@ -11537,7 +11537,7 @@
 	    <commander>1235</commander>
 	    <speech>
 	        <line commander='1003'>Waiting on your command. We can't get much closer.</line>
-	    	<line commander='1998'>All power to main cannons. Fire!</line>
+	 	<line commander='1998'>All power to main cannons. Fire!</line>
 	    </speech>
 	    <deck>
 	        <card>5609</card>
@@ -11581,7 +11581,7 @@
 	    <commander>1018</commander>
 	    <speech>
 	        <line commander='1998'>The rest of Rastax's forces appear to be clearing out.</line>
-	    	<line commander='1003'>I'm bringing up the schematics for the Worldship now.</line>
+	 	<line commander='1003'>I'm bringing up the schematics for the Worldship now.</line>
 	    </speech>
 	    <deck>
 	        <card>5615</card>
@@ -12015,7 +12015,7 @@
         <commander>1147</commander>
         <speech>
             <line commander='1998'>The Bloodthirsty are enveloping everything. Nothing is salvageable.</line>
-    		<line commander='1003'>It's beyond that. They are merging and mutating with it. We have to end this; Bloodthirsty infused with Xeno tech will be undefeatable.</line>
+ 		<line commander='1003'>It's beyond that. They are merging and mutating with it. We have to end this; Bloodthirsty infused with Xeno tech will be undefeatable.</line>
         </speech>
         <deck>
             <card>6207</card>
@@ -12273,7 +12273,7 @@
         <commander>1319</commander>
         <speech>
             <line commander='1023'>Abort the mission.</line>
-    		<line commander='1998'>That will have to wait until after we have dealt with the Kraken.</line>
+ 		<line commander='1998'>That will have to wait until after we have dealt with the Kraken.</line>
         </speech>
         <deck>
             <card>6207</card>
@@ -12996,14 +12996,14 @@
         <name>Siege Commences</name>
         <location_id>109</location_id>
         <event_req>15</event_req>
-    	<combatBG>combatbg_prologue</combatBG>
+ 	<combatBG>combatbg_prologue</combatBG>
         <energy>25</energy>
         <x>350</x>
         <y>330</y>
         <commander>1259</commander>
         <speech>
             <line commander='1053'>Lord Typhon, Imperials are attacking the bases bordering us. They are killing all in sight and burning them to the ground.</line>
-    		<line commander='1301'>Is this your idea of a joke Yurich? Halcyon would not dare to siege Asphodel, we are near impenetrable.</line>
+ 		<line commander='1301'>Is this your idea of a joke Yurich? Halcyon would not dare to siege Asphodel, we are near impenetrable.</line>
         </speech>
         <deck>
             <card>5143</card>
@@ -13038,7 +13038,7 @@
         <name>Gory Reveal</name>
         <location_id>109</location_id>
         <event_req>15</event_req>
-    	<combatBG>combatbg_prologue</combatBG>
+ 	<combatBG>combatbg_prologue</combatBG>
         <energy>27</energy>
         <x>460</x>
         <y>340</y>
@@ -13080,7 +13080,7 @@
         <name>Headstrong</name>
         <location_id>109</location_id>
         <event_req>15</event_req>
-    	<combatBG>combatbg_prologue</combatBG>
+ 	<combatBG>combatbg_prologue</combatBG>
         <energy>30</energy>
         <x>550</x>
         <y>390</y>
@@ -13121,7 +13121,7 @@
         <name>Repurposed</name>
         <location_id>109</location_id>
         <event_req>15</event_req>
-    	<combatBG>combatbg_prologue</combatBG>
+ 	<combatBG>combatbg_prologue</combatBG>
         <energy>33</energy>
         <x>480</x>
         <y>460</y>
@@ -13163,7 +13163,7 @@
         <name>Arrogant Stand</name>
         <location_id>109</location_id>
         <event_req>15</event_req>
-    	<combatBG>combatbg_prologue</combatBG>
+ 	<combatBG>combatbg_prologue</combatBG>
         <energy>35</energy>
         <x>290</x>
         <y>430</y>
@@ -13204,7 +13204,7 @@
         <name>Aimless Risk</name>
         <location_id>109</location_id>
         <event_req>15</event_req>
-    	<combatBG>combatbg_prologue</combatBG>
+ 	<combatBG>combatbg_prologue</combatBG>
         <energy>40</energy>
         <x>150</x>
         <y>450</y>
@@ -13245,7 +13245,7 @@
         <name>Renewed Vigor</name>
         <location_id>109</location_id>
         <event_req>15</event_req>
-    	<combatBG>combatbg_prologue</combatBG>
+ 	<combatBG>combatbg_prologue</combatBG>
         <energy>45</energy>
         <x>260</x>
         <y>520</y>
@@ -13288,7 +13288,7 @@
         <location_id>109</location_id>
         <event_req>15</event_req>
         <mission_type>2</mission_type>
-    	<combatBG>combatbg_prologue</combatBG>
+ 	<combatBG>combatbg_prologue</combatBG>
 		<monster asset_bundle='15'>purger</monster>
         <energy>50</energy>
         <x>370</x>
@@ -14010,7 +14010,7 @@
         <commander>1297</commander> 
         <speech>
             <line commander='1997'>I am Halcyon and in the name of the Imperials I urge you to surrender Asphodel to me.</line>
-    		<line commander='1053'>The Imperials dare attack Asphodel?</line>
+ 		<line commander='1053'>The Imperials dare attack Asphodel?</line>
         </speech>
         <deck>
             <card>739</card>
@@ -14341,7 +14341,7 @@
         <commander>1299</commander>
         <speech>
             <line commander='1003'>Halcyon, we have confirmed that Typhon is converging on the Balefire.</line>
-    		<line commander='1997'>Excellent. We march for the gates of Asphodel.</line>
+ 		<line commander='1997'>Excellent. We march for the gates of Asphodel.</line>
         </speech>
         <deck>
             <card>7341</card>
@@ -14671,8 +14671,8 @@
         <y>520</y>
         <commander>1300</commander>
         <speech>
-        	<line commander='1003'>Halcyon, they are blowing the bridge to prevent our crossing.</line>
-        	<line commander='1997'>Everyone get clear!</line>
+     	<line commander='1003'>Halcyon, they are blowing the bridge to prevent our crossing.</line>
+     	<line commander='1997'>Everyone get clear!</line>
         </speech>
         <deck>
             <card>7473</card>
@@ -14713,8 +14713,8 @@
         <y>430</y>
         <commander>1300</commander>
         <speech>
-        	<line commander='1003'>What now?</line>
-        	<line commander='1997'>It isn't over yet. We will enter Asphodel from the docks. Head for the coast.</line>
+     	<line commander='1003'>What now?</line>
+     	<line commander='1997'>It isn't over yet. We will enter Asphodel from the docks. Head for the coast.</line>
         </speech>
         <deck>
             <card>7473</card>
@@ -15976,7 +15976,7 @@
         <commander>1401</commander>
         <speech>
             <line commander='1187'>Come on Yurich. Let's show these Imperials how fighting is done.</line>
-            <line commander='1003'>We can't let the filthy Raiders ourclass us. Alpha is ours!</line>
+            <line commander='1003'>We can't let the filthy Raiders outclass us. Alpha is ours!</line>
         </speech>
         <deck>
             <card>7899</card>
@@ -16007,6 +16007,1010 @@
     </mission>
 	
 	<!-- END July 2014 Missions -->
+	
+	<!-- September 2014 Missions -->
+	
+	<mission>
+        <id>2244</id>
+        <name>Timely Invasion</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>25</energy>
+        <x>740</x>
+        <y>480</y>
+        <commander>1015</commander>
+        <speech>
+            <line commander='1023'>Your reports are becoming increasingly concerning. Tabitha's insubordination is not just a threat to me but the safety of all Imperials.</line>
+            <line commander='1003'>I understand she has been out of line, but is this... What was that!?</line>
+        </speech>
+        <deck>
+            <card>10415</card>
+            <card>100</card>
+            <card>2018</card>
+            <card>106</card>
+            <card>175</card>
+            <card>507</card>
+            <card>105</card>
+            <card>105</card>
+            <card>508</card>
+            <card>176</card>
+        </deck>
+        <rewards>
+            <gold>27</gold>
+            <card>103</card>
+            <item>1031</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>14</req>
+    </mission>
+    
+    <mission>
+        <id>2245</id>
+        <name>Give Ground</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>27</energy>
+        <x>600</x>
+        <y>490</y>
+        <commander>1015</commander>
+        <speech>
+            <line commander='1023'>Xeno ground forces have invaded Ashrock. They are heading straight for the Spire!</line>
+        </speech>
+        <deck>
+            <card>10415</card>
+            <card>2021</card>
+            <card>103</card>
+            <card>103</card>
+            <card>175</card>
+            <card>175</card>
+            <card>104</card>
+            <card>110</card>
+            <card>508</card>
+            <card>508</card>
+        </deck>
+        <rewards>
+            <gold>30</gold>
+            <card>175</card>
+            <item>1031</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2244</req>
+    </mission>
+
+    <mission>
+        <id>2246</id>
+        <name>Secrets of the Spire</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>30</energy>
+        <x>680</x>
+        <y>380</y>
+        <commander>1015</commander>
+        <speech>
+            <line commander='1003'>We have to evacuate the Spire and regroup. We stand no chance like this.</line>
+ 		<line commander='1023'>No! The Spire is too important to surrender to them.</line>
+        </speech>
+        <deck>
+            <card>10415</card>
+            <card>106</card>
+            <card>106</card>
+            <card>104</card>
+            <card>104</card>
+            <card>109</card>
+            <card>372</card>
+            <card>372</card>
+            <card>2019</card>
+            <card>101</card>
+        </deck>
+        <rewards>
+            <gold>33</gold>
+            <card>106</card>
+            <item>1032</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2245</req>
+    </mission>
+
+    <mission>
+        <id>2247</id>
+        <name>Compromising Strategy</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>33</energy>
+        <x>550</x>
+        <y>360</y>
+        <commander>1016</commander>
+        <speech>
+            <line commander='1003'>If we die here we lose everything. We stand a chance if we live.</line>
+ 		<line commander='1023'>You are right. Send the retreat order. Evacuate the Spire.</line>
+        </speech>
+        <deck>
+            <card>10415</card>
+            <card>104</card>
+            <card>104</card>
+            <card>109</card>
+            <card>112</card>
+            <card>507</card>
+            <card>101</card>
+            <card>368</card>
+            <card>368</card>
+            <card>5325</card>
+        </deck>
+        <rewards>
+            <gold>36</gold>
+            <card>104</card>
+            <item>1032</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2246</req>
+    </mission>
+
+    <mission>
+        <id>2248</id>
+        <name>Portal Power</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>35</energy>
+        <x>560</x>
+        <y>270</y>
+        <commander>1016</commander>
+        <speech>
+            <line commander='1023'>It was as I feared, the Xeno are using the Spire as a power source. They are going to open a portal connecting our world with their homeworld.</line>
+        </speech>
+        <deck>
+            <card>10415</card>
+            <card>565</card>
+            <card>105</card>
+            <card>105</card>
+            <card>103</card>
+            <card>175</card>
+            <card>110</card>
+            <card>110</card>
+            <card>2022</card>
+            <card>107</card>
+        </deck>
+        <rewards>
+            <gold>38</gold>
+            <card>2021</card>
+            <item>1033</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2247</req>
+    </mission>
+
+    <mission>
+        <id>2249</id>
+        <name>Countdown</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>40</energy>
+        <x>650</x>
+        <y>180</y>
+        <commander>1016</commander>
+        <speech>
+            <line commander='1023'>The Xeno general Octix is behind this. He must be stopped before the portal opens.</line>
+        </speech>
+        <deck>
+            <card>10415</card>
+            <card>507</card>
+            <card>507</card>
+            <card>112</card>
+            <card>508</card>
+            <card>370</card>
+            <card>370</card>
+            <card>110</card>
+            <card>176</card>
+            <card>6109</card>
+        </deck>
+        <rewards>
+            <gold>44</gold>
+            <card>105</card>
+            <item>1033</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2248</req>
+    </mission>
+
+    <mission>
+        <id>2250</id>
+        <name>Valor</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>45</energy>
+        <x>760</x>
+        <y>160</y>
+        <commander>1016</commander>
+        <speech>
+            <line commander='1003'>Head for the Spire. I'll take care of Octix.</line>
+        </speech>
+        <deck>
+            <card>10415</card>
+            <card>5399</card>
+            <card>107</card>
+            <card>107</card>
+            <card>113</card>
+            <card>368</card>
+            <card>109</card>
+            <card>100</card>
+            <card>105</card>
+            <card>105</card>
+        </deck>
+        <rewards>
+            <gold>49</gold>
+            <card>100</card>
+            <item>1034</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2249</req>
+    </mission>
+
+    <mission>
+        <id>2251</id>
+        <name>Octix</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+	    <mission_type>2</mission_type>
+	    <monster asset_bundle='18'>xeno_general</monster>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>50</energy>
+        <x>880</x>
+        <y>165</y>
+        <commander>1407</commander>
+        <speech>
+            <line commander='1023'>It won't help. We cannot get anywhere near the Spire while its powering up. We'll take down Octix together.</line>
+        </speech>
+        <deck>
+            <card>10415</card>
+            <card>10415</card>
+            <card>6637</card>
+            <card>6109</card>
+            <card>2402</card>
+            <card>7983</card>
+            <card>7437</card>
+            <card>4308</card>
+            <card>125</card>
+            <card>4694</card>
+        </deck>
+        <rewards>
+            <gold>60</gold>
+            <card>514</card>
+            <item>1034</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2250</req>
+    </mission>
+    
+    <mission>
+        <id>2252</id>
+        <name>Going Mobile</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>50</energy>
+        <x>580</x>
+        <y>160</y>
+        <commander>1017</commander>
+        <speech>
+            <line commander='1003'>Is it over?</line>
+            <line commander='1023'>No, the Xeno will be channelling the power through a mobile source. We need to take that out.</line>
+        </speech>
+        <deck>
+            <card>10789</card>
+            <card>109</card>
+            <card>112</card>
+            <card>101</card>
+            <card>107</card>
+            <card>508</card>
+            <card>5325</card>
+            <card>6893</card>
+            <card>623</card>
+            <card>7299</card>
+        </deck>
+        <rewards>
+            <gold>55</gold>
+            <card>103</card>
+            <item>1031</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2251</req>
+    </mission>
+
+    <mission>
+        <id>2253</id>
+        <name>Pursuit</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>55</energy>
+        <x>510</x>
+        <y>160</y>
+        <commander>1017</commander>
+        <speech>
+            <line commander='1003'>We're getting concentrated power readings over this ridge.</line>
+        </speech>
+        <deck>
+            <card>10789</card>
+            <card>175</card>
+            <card>372</card>
+            <card>372</card>
+            <card>370</card>
+            <card>110</card>
+            <card>4274</card>
+            <card>6173</card>
+            <card>209</card>
+            <card>921</card>
+        </deck>
+        <rewards>
+            <gold>60</gold>
+            <card>2018</card>
+            <item>1031</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2252</req>
+    </mission>
+
+    <mission>
+        <id>2254</id>
+        <name>Breakthrough</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>60</energy>
+        <x>460</x>
+        <y>245</y>
+        <commander>1017</commander>
+        <speech>
+            <line commander='1023'>Look alive. Xeno will bar our path along the way.</line>
+        </speech>
+        <deck>
+            <card>10789</card>
+            <card>2018</card>
+            <card>370</card>
+            <card>101</card>
+            <card>101</card>
+            <card>107</card>
+            <card>5326</card>
+            <card>2402</card>
+            <card>845</card>
+            <card>4972</card>
+        </deck>
+        <rewards>
+            <gold>66</gold>
+            <card>106</card>
+            <item>1032</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2253</req>
+    </mission>
+
+    <mission>
+        <id>2255</id>
+        <name>Foreboding Glow</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>60</energy>
+        <x>380</x>
+        <y>180</y>
+        <commander>1017</commander>
+        <speech>
+            <line commander='1023'>That glow is unmistakable. It is the portal tank, Fissure.</line>
+        </speech>
+        <deck>
+            <card>10789</card>
+            <card>2074</card>
+            <card>5626</card>
+            <card>115</card>
+            <card>622</card>
+            <card>6109</card>
+            <card>508</card>
+            <card>508</card>
+            <card>113</card>
+            <card>175</card>
+        </deck>
+        <rewards>
+            <gold>66</gold>
+            <card>112</card>
+            <item>1032</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2254</req>
+    </mission>
+
+    <mission>
+        <id>2256</id>
+        <name>Otherworldly Link</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>65</energy>
+        <x>240</x>
+        <y>165</y>
+        <commander>1017</commander>
+        <speech>
+            <line commander='1023'>It must be finding the strongest connection to link to the Xeno homeworld. We must stop it. There is no telling what horrors lie on the other side of that portal.</line>
+        </speech>
+        <deck>
+            <card>10789</card>
+            <card>103</card>
+            <card>107</card>
+            <card>107</card>
+            <card>368</card>
+            <card>2402</card>
+            <card>6110</card>
+            <card>565</card>
+            <card>4410</card>
+            <card>5497</card>
+        </deck>
+        <rewards>
+            <gold>71</gold>
+            <card>507</card>
+            <item>1033</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2255</req>
+    </mission>
+
+    <mission>
+        <id>2257</id>
+        <name>Misguided Aggression</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>70</energy>
+        <x>170</x>
+        <y>185</y>
+        <commander>1017</commander>
+        <speech>
+            <line commander='1003'>I shall lead our armies to crush that tank and restore the Spire to its rightful owners.</line>
+        </speech>
+        <deck>
+            <card>10789</card>
+            <card>7977</card>
+            <card>2402</card>
+            <card>4275</card>
+            <card>6174</card>
+            <card>622</card>
+            <card>109</card>
+            <card>370</card>
+            <card>113</card>
+            <card>372</card>
+        </deck>
+        <rewards>
+            <gold>77</gold>
+            <card>109</card>
+            <item>1033</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2256</req>
+    </mission>
+
+    <mission>
+        <id>2258</id>
+        <name>Overcautious</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+        <energy>75</energy>
+        <x>140</x>
+        <y>270</y>
+        <commander>1017</commander>
+        <speech>
+            <line commander='1023'>Negative, we have to tread carefully. Destroying that tank could lead to a catastrophic release of all the energy it is storing.</line>
+            <line commander='1003'>We have to act now. There isn't much time.</line>
+        </speech>
+        <deck>
+            <card>10789</card>
+            <card>113</card>
+            <card>101</card>
+            <card>175</card>
+            <card>5399</card>
+            <card>437</card>
+            <card>317</card>
+            <card>6110</card>
+            <card>847</card>
+            <card>6799</card>
+        </deck>
+        <rewards>
+            <gold>82</gold>
+            <card>2021</card>
+            <item>1034</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2257</req>
+    </mission>
+
+    <mission>
+        <id>2259</id>
+        <name>Fissure</name>
+        <location_id>112</location_id>
+        <event_req>21</event_req>
+        <combatBG>CombatBGLava</combatBG>
+		<mission_type>2</mission_type>
+	    <monster flip_x='1' asset_bundle='18'>portal_tank</monster>
+        <energy>75</energy>
+        <x>310</x>
+        <y>205</y>
+        <commander>1429</commander>
+        <speech>
+            <line commander='1023'>You're right it is opening the portal. Destroy it now!</line>
+        </speech>
+        <deck>
+            <card>10789</card>
+            <card>10789</card>
+            <card>10415</card>
+            <card>4043</card>
+            <card>5848</card>
+            <card>579</card>
+            <card>6195</card>
+            <card>565</card>
+            <card>6637</card>
+            <card>4580</card>
+        </deck>
+        <rewards>
+            <gold>90</gold>
+            <card>2034</card>
+            <item>1035</item>
+            <star>
+                <id>2</id>
+                <req type='5' compare='great_equal' amount='5' />
+            </star>
+            <star>
+                <id>3</id>
+                <req type='5' compare='great_equal' amount='10' />
+            </star>
+        </rewards>
+        <req>2258</req>
+    </mission>
+    
+	<mission>
+		<id>2260</id>
+		<name>Equinox</name>
+		<location_id>112</location_id>
+		<event_req>21</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>75</energy>
+		<x>400</x>
+		<y>330</y>
+		<commander>1018</commander>
+		<speech>
+			<line commander='1003'>We were too late, the portal is opening and Arachis is emerging!</line>
+			<line commander='1023'>Maybe not. Arachis might not be able to fit through the portal. It seems we interrupted it.</line>
+		</speech>
+		<deck>
+			<card>104</card>
+			<card>104</card>
+			<card>176</card>
+			<card>4274</card>
+			<card>4410</card>
+			<card>10603</card>
+			<card>6110</card>
+			<card>6110</card>
+			<card>7401</card>
+			<card>5233</card>
+		</deck>
+		<rewards>
+			<gold>82</gold>
+			<card>104</card>
+			<item>1031</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2259</req>
+	</mission>
+	
+	<mission>
+		<id>2261</id>
+		<name>Fortunate Events</name>
+		<location_id>112</location_id>
+		<event_req>21</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>80</energy>
+		<x>475</x>
+		<y>335</y>
+		<commander>1018</commander>
+		<speech>
+			<line commander='1023'>If we can beat Arachis back we just may be able to seal the portal and save Acheron.</line>
+		</speech>
+		<deck>
+			<card>507</card>
+			<card>372</card>
+			<card>372</card>
+			<card>6173</card>
+			<card>6173</card>
+			<card>4275</card>
+			<card>4275</card>
+			<card>10457</card>
+			<card>119</card>
+			<card>10603</card>
+		</deck>
+		<rewards>
+			<gold>88</gold>
+			<card>507</card>
+			<item>1031</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2260</req>
+	</mission>
+
+	<mission>
+		<id>2262</id>
+		<name>Request Denied</name>
+		<location_id>112</location_id>
+		<event_req>21</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>85</energy>
+		<x>450</x>
+		<y>430</y>
+		<commander>1018</commander>
+		<speech>
+			<line commander='1003'>Our forces near the rift have been eliminated. We should regroup.</line>
+			<line commander='1023'>No. We need to press on and seal the portal before their armies outnumber ours.</line>
+		</speech>
+		<deck>
+			<card>175</card>
+			<card>101</card>
+			<card>113</card>
+			<card>187</card>
+			<card>2447</card>
+			<card>6893</card>
+			<card>623</card>
+			<card>623</card>
+			<card>4411</card>
+			<card>10603</card>
+		</deck>
+		<rewards>
+			<gold>93</gold>
+			<card>175</card>
+			<item>1032</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2261</req>
+	</mission>
+
+	<mission>
+		<id>2263</id>
+		<name>Descent into Horror</name>
+		<location_id>112</location_id>
+		<event_req>21</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>85</energy>
+		<x>440</x>
+		<y>540</y>
+		<commander>1018</commander>
+		<speech>
+			<line commander='1023'>Keep your troops in order Octane.</line>
+			<line commander='1003'>Face your fears or you they will be your downfall.</line>
+		</speech>
+		<deck>
+			<card>104</card>
+			<card>372</card>
+			<card>508</card>
+			<card>5398</card>
+			<card>5326</card>
+			<card>5626</card>
+			<card>6110</card>
+			<card>10068</card>
+			<card>7977</card>
+			<card>10603</card>
+		</deck>
+		<rewards>
+			<gold>93</gold>
+			<card>100</card>
+			<item>1032</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2262</req>
+	</mission>
+	
+	<mission>
+		<id>2264</id>
+		<name>Back from the Breach</name>
+		<location_id>112</location_id>
+		<event_req>21</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>90</energy>
+		<x>350</x>
+		<y>640</y>
+		<commander>1018</commander>
+		<speech>
+			<line commander='1023'>Don't give in to their mind games, we've got them moving back towards the portal.</line>
+		</speech>
+		<deck>
+			<card>507</card>
+			<card>507</card>
+			<card>113</card>
+			<card>565</card>
+			<card>845</card>
+			<card>6110</card>
+			<card>5627</card>
+			<card>7437</card>
+			<card>5234</card>
+			<card>10603</card>
+		</deck>
+		<rewards>
+			<gold>99</gold>
+			<card>105</card>
+			<item>1033</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2263</req>
+	</mission>
+	
+	<mission>
+		<id>2265</id>
+		<name>Terror Intensifies</name>
+		<location_id>112</location_id>
+		<event_req>21</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>90</energy>
+		<x>300</x>
+		<y>540</y>
+		<commander>1018</commander>
+		<speech>
+			<line commander='1003'>The amount of Xeno in this area is insane. I will cut a bloody path straight through them.</line>
+			<line commander='1023'>We're almost at the eye of the storm.</line>
+		</speech>
+		<deck>
+			<card>109</card>
+			<card>176</card>
+			<card>176</card>
+			<card>514</card>
+			<card>514</card>
+			<card>6174</card>
+			<card>847</card>
+			<card>7402</card>
+			<card>2447</card>
+			<card>10603</card>
+		</deck>
+		<rewards>
+			<gold>99</gold>
+			<card>109</card>
+			<item>1034</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2264</req>
+	</mission>
+
+	<mission>
+		<id>2266</id>
+		<name>The Darkest Hour</name>
+		<location_id>112</location_id>
+		<event_req>21</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>95</energy>
+		<x>380</x>
+		<y>450</y>
+		<commander>1018</commander>
+		<speech>
+			<line commander='1003'>Their forces are more concentrated the closer we get to the rift.</line>
+			<line commander='1023'>Well then the only choice we have is to go straight to the source and close the rift ourselves.</line>
+		</speech>
+		<deck>
+			<card>112</card>
+			<card>368</card>
+			<card>368</card>
+			<card>5398</card>
+			<card>209</card>
+			<card>2036</card>
+			<card>6637</card>
+			<card>119</card>
+			<card>4309</card>
+			<card>10603</card>
+		</deck>
+		<rewards>
+			<gold>104</gold>
+			<card>112</card>
+			<item>1035</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2265</req>
+	</mission>
+	
+	<mission>
+		<id>2267</id>
+		<name>Arachis</name>
+		<location_id>112</location_id>
+		<mission_type>2</mission_type>
+		<monster asset_bundle='18'>portal_arachnid</monster>
+		<event_req>21</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>100</energy>
+		<x>150</x>
+		<y>420</y>
+		<commander>1423</commander>
+		<speech>
+			<line commander='1023'>We must slay the Xeno beast. Seal the portal to end their stranglehold and stay their invasion of Acheron!</line>
+		</speech>
+		<deck>
+			<card>10457</card>
+			<card>6897</card>
+			<card>10385</card>
+			<card>4513</card>
+			<card>7983</card>
+			<card>10295</card>
+			<card>10415</card>
+			<card>10789</card>
+			<card>10603</card>
+			<card>10603</card>
+		</deck>
+		<rewards>
+			<gold>120</gold>
+			<card>208</card>
+			<item>1036</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2266</req>
+	</mission>
+	
+	<!-- END September 2014 Missions -->
 
 	<location>
 		<id>1</id>
@@ -16162,13 +17166,22 @@
         <asset_bundle>17</asset_bundle>
         <req>14</req>
     </location>
+    
+    <location>
+        <id>112</id>
+        <name>Ashrock Conquered</name>
+        <event_req>21</event_req>
+        <mapBG>x_spire_prefab</mapBG>
+        <asset_bundle>18</asset_bundle>
+        <req>14</req>
+    </location>
 	
 <!-- Event Portals -->
 
 	<portal>
 		<location_id>1</location_id>
-		<destination_id>111</destination_id>
-		<event_req>19</event_req>
+		<destination_id>112</destination_id>
+		<event_req>21</event_req>
 		<req>14</req>
 		<x>420</x>
 		<y>450</y>
@@ -16176,8 +17189,8 @@
 
 	<portal>
 		<location_id>2</location_id>
-		<destination_id>111</destination_id>
-		<event_req>19</event_req>
+		<destination_id>112</destination_id>
+		<event_req>21</event_req>
 		<req>14</req>
 		<x>650</x>
 		<y>250</y>
@@ -16185,8 +17198,8 @@
 
 	<portal>
 		<location_id>3</location_id>
-		<destination_id>111</destination_id>
-		<event_req>19</event_req>
+		<destination_id>112</destination_id>
+		<event_req>21</event_req>
 		<req>14</req>
 		<x>180</x>
 		<y>600</y>
@@ -16194,8 +17207,8 @@
 
 	<portal>
 		<location_id>4</location_id>
-		<destination_id>111</destination_id>
-		<event_req>19</event_req>
+		<destination_id>112</destination_id>
+		<event_req>21</event_req>
 		<req>14</req>
 		<x>270</x>
 		<y>270</y>
@@ -16203,8 +17216,8 @@
 
 	<portal>
 		<location_id>5</location_id>
-		<destination_id>111</destination_id>
-		<event_req>19</event_req>
+		<destination_id>112</destination_id>
+		<event_req>21</event_req>
 		<req>14</req>
 		<x>350</x>
 		<y>580</y>
@@ -16212,8 +17225,8 @@
 
 	<portal>
 		<location_id>6</location_id>
-		<destination_id>111</destination_id>
-		<event_req>19</event_req>
+		<destination_id>112</destination_id>
+		<event_req>21</event_req>
 		<req>14</req>
 		<x>500</x>
 		<y>600</y>
@@ -16221,8 +17234,8 @@
 
 	<portal>
 		<location_id>7</location_id>
-		<destination_id>111</destination_id>
-		<event_req>19</event_req>
+		<destination_id>112</destination_id>
+		<event_req>21</event_req>
 		<req>14</req>
 		<x>420</x>
 		<y>380</y>
@@ -16230,19 +17243,19 @@
 
 	<portal>
 		<location_id>8</location_id>
-		<destination_id>111</destination_id>
-		<event_req>19</event_req>
+		<destination_id>112</destination_id>
+		<event_req>21</event_req>
 		<req>14</req>
 		<x>840</x>
 		<y>230</y>
 	</portal>
 
 	<portal>
-		<location_id>111</location_id>
+		<location_id>112</location_id>
 		<destination_id>0</destination_id>
-		<event_req>19</event_req>
-		<x>140</x>
-		<y>350</y>
+		<event_req>21</event_req>
+		<x>890</x>
+		<y>600</y>
 	</portal>
 
 <!-- END Event Portals -->

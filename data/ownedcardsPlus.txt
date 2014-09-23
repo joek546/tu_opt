@@ -1,0 +1,30 @@
+Emp
+Const
+Alaric-4
+Barracus-1
+Typhon Vex-1
+Nexor-1
+Halcyon-1
+Brood Mother-1
+
+
+//Zodiac Harbinger (2)
+//Deranged Fanatic
+//Sacred Sanctuary
+//Ayrkrane Syn
+Valiant Knight-5
+Messale
+Covert Jet
+Dutiful Veteran
+Razor Maiden
+//Samurai
+//Contaminant Purifier
+//Demi Constrictor
+//Arch Nova Alpha
+
+
+//Lurker Behemoth
+Aggeroth Chaos
+//Withersnare
+//Sacred Equalizer
+//Dreamreaper

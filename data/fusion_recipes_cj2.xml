@@ -1,6 +1,354 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Plague Cache -->
+
+	<fusion_recipe>
+		<card_id>11096</card_id>
+		<resource card_id='11095' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11102</card_id>
+		<resource card_id='11101' number='2' />
+	</fusion_recipe>
+
+<!-- Knowledge Pack -->
+
+	<fusion_recipe>
+		<card_id>11114</card_id>
+		<resource card_id='11113' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11120</card_id>
+		<resource card_id='11119' number='2' />
+	</fusion_recipe>
+
+<!-- Multiverse Brawl -->
+
+	<fusion_recipe>
+		<card_id>10969</card_id>
+		<resource card_id='10968' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10975</card_id>
+		<resource card_id='10974' number='2' />
+	</fusion_recipe>
+
+<!-- Week 3 Dimensional Terror -->
+	<fusion_recipe>
+		<card_id>10687</card_id>
+		<resource card_id='10686' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10693</card_id>
+		<resource card_id='10692' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10615</card_id>
+		<resource card_id='10614' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10621</card_id>
+		<resource card_id='10620' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10633</card_id>
+		<resource card_id='10632' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10639</card_id>
+		<resource card_id='10638' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10651</card_id>
+		<resource card_id='10650' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10657</card_id>
+		<resource card_id='10656' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10669</card_id>
+		<resource card_id='10668' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10675</card_id>
+		<resource card_id='10674' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10927</card_id>
+		<resource card_id='10848' number='2' />
+	</fusion_recipe>
+	
+<!-- Reverent Cache -->
+
+	<fusion_recipe>
+		<card_id>8138</card_id>
+		<resource card_id='8137' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8144</card_id>
+		<resource card_id='8143' number='2' />
+	</fusion_recipe>
+	
+<!-- Jotun Raid -->
+
+	<fusion_recipe>
+		<card_id>10825</card_id>
+		<resource card_id='10824' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>10831</card_id>
+		<resource card_id='10830' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>10813</card_id>
+		<resource card_id='5443' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>10837</card_id>
+		<resource card_id='5130' number='2' />
+	</fusion_recipe>
+
+<!-- Week 2 Dimensional Terror -->
+
+	<fusion_recipe>
+		<card_id>10759</card_id>
+		<resource card_id='10758' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10765</card_id>
+		<resource card_id='10764' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10741</card_id>
+		<resource card_id='10740' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10747</card_id>
+		<resource card_id='10746' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10777</card_id>
+		<resource card_id='10776' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10783</card_id>
+		<resource card_id='10782' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10705</card_id>
+		<resource card_id='10704' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10711</card_id>
+		<resource card_id='10710' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10723</card_id>
+		<resource card_id='10722' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10729</card_id>
+		<resource card_id='10728' number='2' />
+	</fusion_recipe>
+
+<!-- Covert Cache -->
+	
+	<fusion_recipe>
+		<card_id>10591</card_id>
+		<resource card_id='10590' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10597</card_id>
+		<resource card_id='10596' number='2' />
+	</fusion_recipe>
+
+<!-- Charge Pack Fusion -->
+
+	<fusion_recipe>
+		<card_id>10573</card_id>
+		<resource card_id='10572' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10579</card_id>
+		<resource card_id='10578' number='2' />
+	</fusion_recipe>
+
+<!-- Enclave Brawl -->
+	
+	<fusion_recipe>
+		<card_id>10499</card_id>
+		<resource card_id='10498' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10505</card_id>
+		<resource card_id='10504' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10561</card_id>
+		<resource card_id='7664' number='2' />
+	</fusion_recipe>
+
+<!-- Breach Box -->
+
+	<fusion_recipe>
+		<card_id>10427</card_id>
+		<resource card_id='10426' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10433</card_id>
+		<resource card_id='10432' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8120</card_id>
+		<resource card_id='8119' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8126</card_id>
+		<resource card_id='8125' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10445</card_id>
+		<resource card_id='10444' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10451</card_id>
+		<resource card_id='10450' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10463</card_id>
+		<resource card_id='10462' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10469</card_id>
+		<resource card_id='10468' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10481</card_id>
+		<resource card_id='10480' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10487</card_id>
+		<resource card_id='10486' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10409</card_id>
+		<resource card_id='10408' number='2' />
+	</fusion_recipe>
+
+<!-- Metamorphosis War -->
+
+	<fusion_recipe>
+		<card_id>10325</card_id>
+		<resource card_id='10324' number='2' />
+	</fusion_recipe>
+
+	<fusion_recipe>
+		<card_id>10391</card_id>
+		<resource card_id='10390' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10397</card_id>
+		<resource card_id='10396' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10337</card_id>
+		<resource card_id='10336' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10343</card_id>
+		<resource card_id='10342' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10355</card_id>
+		<resource card_id='10354' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10361</card_id>
+		<resource card_id='10360' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10373</card_id>
+		<resource card_id='10372' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10379</card_id>
+		<resource card_id='10378' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8102</card_id>
+		<resource card_id='8101' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8108</card_id>
+		<resource card_id='8107' number='2' />
+	</fusion_recipe>
+
+<!-- August Base Set Fusions -->
+
+	<fusion_recipe>
+		<card_id>10259</card_id>
+		<resource card_id='31' number='1' />
+		<resource card_id='6750' number='1' />
+		<resource card_id='2053' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10265</card_id>
+		<resource card_id='10264' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10271</card_id>
+		<resource card_id='64' number='1' />
+		<resource card_id='6768' number='1' />
+		<resource card_id='2047' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10277</card_id>
+		<resource card_id='10276' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10283</card_id>
+		<resource card_id='97' number='1' />
+		<resource card_id='6786' number='1' />
+		<resource card_id='2073' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10289</card_id>
+		<resource card_id='10288' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10295</card_id>
+		<resource card_id='130' number='1' />
+		<resource card_id='6804' number='1' />
+		<resource card_id='2109' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10301</card_id>
+		<resource card_id='10300' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10307</card_id>
+		<resource card_id='163' number='1' />
+		<resource card_id='6822' number='1' />
+		<resource card_id='2067' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10313</card_id>
+		<resource card_id='10312' number='2' />
+	</fusion_recipe>
+
+<!-- Relief Pack -->
+
+	<fusion_recipe>
+		<card_id>10247</card_id>
+		<resource card_id='10246' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10253</card_id>
+		<resource card_id='10252' number='2' />
+	</fusion_recipe>
+
 <!-- Salvo Box -->
 
 	<fusion_recipe>
