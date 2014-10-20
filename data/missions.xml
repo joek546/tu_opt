@@ -5210,7 +5210,7 @@
 		<req>106</req>
 	</mission>
 	
-	<mission> <!-- No picture tag could be a reason if something breaks -->
+	<mission>
 		<id>1500</id>
 		<name>Razogoth Mutant</name>
 		<location_id>6</location_id>
@@ -17011,6 +17011,775 @@
 	</mission>
 	
 	<!-- END September 2014 Missions -->
+	
+	<!-- START October 2014 Missions -->
+	
+	<mission>
+		<id>2268</id>
+		<name>Trail Gone Cold</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>15</energy>
+		<x>975</x>
+		<y>290</y>
+		<commander>1053</commander>
+		<speech>
+			<line commander='1053'>This area is forbidden, leave now.</line>
+			<line commander='1003'>There's Bloodthirsty in the area. We're hunting them down with or without your consent.</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>34</card>
+			<card>34</card>
+			<card>39</card>
+			<card>39</card>
+			<card>45</card>
+			<card>45</card>
+			<card>42</card>
+			<card>36</card>
+			<card>36</card>
+		</deck>
+		<rewards>
+			<gold>16</gold>
+			<card>42</card>
+			<item>1061</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>10</req>
+	</mission>
+	
+	<mission>
+		<id>2269</id>
+		<name>The Forsaken</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>17</energy>
+		<x>905</x>
+		<y>260</y>
+		<commander>1459</commander>
+		<speech>
+			<line commander='1053'>Very well, we won't stop you, but I warn you that there is a terrible danger within these Pits.</line>
+			<line commander='1003'>The Acid?</line>
+			<line commander='1053'>No some outcasts, the Forsaken, are attempting to build a weapon. We were sent to stop them.</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>315</card>
+			<card>315</card>
+			<card>315</card>
+			<card>170</card>
+			<card>2009</card>
+			<card>2009</card>
+			<card>46</card>
+			<card>46</card>
+			<card>38</card>
+		</deck>
+		<rewards>
+			<gold>18</gold>
+			<card>2009</card>
+			<item>1061</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2268</req>
+	</mission>
+
+	<mission>
+		<id>2270</id>
+		<name>A New Weapon</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>20</energy>
+		<x>820</x>
+		<y>190</y>
+		<commander>1459</commander>
+		<speech>
+			<line commander='1998'>Are those the Forsaken you mentioned?</line>
+			<line commander='1053'>Yes, they're weaponizing the Sulfuris Acid and love nothing more than to watch their victims melt.</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>35</card>
+			<card>35</card>
+			<card>2006</card>
+			<card>45</card>
+			<card>315</card>
+			<card>315</card>
+			<card>43</card>
+			<card>40</card>
+			<card>203</card>
+		</deck>
+		<rewards>
+			<gold>22</gold>
+			<card>314</card>
+			<item>1062</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2269</req>
+	</mission>
+
+	<mission>
+		<id>2271</id>
+		<name>Unlikely Alliances</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>22</energy>
+		<x>735</x>
+		<y>175</y>
+		<commander>1459</commander>
+		<speech>
+			<line commander='1003'>Their crimes against humanity must be punished. They have to be stopped.</line>
+			<line commander='1053'>I agree. It seems for now we can move forward together against this threat.</line>
+			<line commander='1998'>I don't think I like this...</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>2058</card>
+			<card>38</card>
+			<card>35</card>
+			<card>35</card>
+			<card>47</card>
+			<card>47</card>
+			<card>2010</card>
+			<card>43</card>
+			<card>170</card>
+		</deck>
+		<rewards>
+			<gold>24</gold>
+			<card>35</card>
+			<item>1062</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2270</req>
+	</mission>
+
+	<mission>
+		<id>2272</id>
+		<name>Dead Zone</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>25</energy>
+		<x>660</x>
+		<y>160</y>
+		<commander>1459</commander>
+		<speech>
+			<line commander='1998'>I think I know what happened to the Bloodthirsty... We've seen large skeletons emerging from the Pits.</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>170</card>
+			<card>170</card>
+			<card>2010</card>
+			<card>2007</card>
+			<card>50</card>
+			<card>46</card>
+			<card>46</card>
+			<card>39</card>
+			<card>34</card>
+		</deck>
+		<rewards>
+			<gold>27</gold>
+			<card>46</card>
+			<item>1063</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2271</req>
+	</mission>
+
+	<mission>
+		<id>2273</id>
+		<name>Vitriol</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<monster asset_bundle='19'>mining_mech</monster>
+		<mission_type>2</mission_type>
+		<energy>25</energy>
+		<x>580</x>
+		<y>160</y>
+		<commander>1447</commander>
+		<speech>
+			<line commander='1053'>There! The Vitriol that they stole from one of our encampments recently is between us and their Refinery.</line>
+			<line commander='1003'>Doesn't look like any of the Raider vehicles I've seen.</line>
+			<line commander='1053'>It is a prototype made to ride the Pits. The development was unfinished and it looks to have been greatly modified.</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>11126</card>
+			<card>6621</card>
+			<card>203</card>
+			<card>562</card>
+			<card>4055</card>
+			<card>6409</card>
+			<card>6763</card>
+			<card>10627</card>
+			<card>6671</card>
+		</deck>
+		<rewards>
+			<gold>30</gold>
+			<card>203</card>
+			<item>1064</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2272</req>
+	</mission>
+	
+<!-- Oct 2014 Week 2 -->
+		
+	<mission>
+		<id>2274</id>
+		<name>Clear Path</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>30</energy>
+		<x>500</x>
+		<y>170</y>
+		<commander>1460</commander>
+		<speech>
+			<line commander='1003'>With that Vitriol out of way, we should set our sights on the refinery.</line>
+			<line commander='1053'>We're going to meet some strong opposition, it is sure to be heavily guarded.</line>
+		</speech>
+		<deck>
+			<card>11132</card>
+			<card>34</card>
+			<card>34</card>
+			<card>315</card>
+			<card>315</card>
+			<card>170</card>
+			<card>6853</card>
+			<card>6853</card>
+			<card>50</card>
+			<card>339</card>
+		</deck>
+		<rewards>
+			<gold>33</gold>
+			<card>34</card>
+			<item>1061</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2273</req>
+	</mission>
+
+	<mission>
+		<id>2275</id>
+		<name>Savage Tendencies</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>35</energy>
+		<x>440</x>
+		<y>220</y>
+		<commander>1460</commander>
+		<speech>
+			<line commander='1998'>These Forsaken... Why exactly were they cast out?</line>
+			<line commander='1053'>Their methods were too brutal and fiendish. They tortured and killed our own people. The Forsaken cast themselves out with their actions.</line>
+		</speech>
+		<deck>
+			<card>11132</card>
+			<card>6561</card>
+			<card>5466</card>
+			<card>2059</card>
+			<card>204</card>
+			<card>47</card>
+			<card>47</card>
+			<card>358</card>
+			<card>358</card>
+			<card>169</card>
+		</deck>
+		<rewards>
+			<gold>38</gold>
+			<card>169</card>
+			<item>1062</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2274</req>
+	</mission>
+	
+	<mission>
+		<id>2276</id>
+		<name>Unfortunate Circumstances</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>40</energy>
+		<x>360</x>
+		<y>235</y>
+		<commander>1460</commander>
+		<speech>
+			<line commander='1998'>Raiders that are too brutal? I wouldn't have imagined such a thing existed.</line>
+			<line commander='1003'>It does when they are a threat to everyone, including their own people.</line>
+		</speech>
+		<deck>
+			<card>11132</card>
+			<card>39</card>
+			<card>315</card>
+			<card>315</card>
+			<card>315</card>
+			<card>927</card>
+			<card>4958</card>
+			<card>4958</card>
+			<card>5268</card>
+			<card>5094</card>
+		</deck>
+		<rewards>
+			<gold>44</gold>
+			<card>314</card>
+			<item>1062</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2275</req>
+	</mission>
+
+	<mission>
+		<id>2277</id>
+		<name>Evil Perseverance</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>45</energy>
+		<x>295</x>
+		<y>245</y>
+		<commander>1460</commander>
+		<speech>
+			<line commander='1003'>The Sulfuris is a powerful and cruel weapon. How could you let them colonize here?</line>
+			<line commander='1053'>When we cast them out into the Pits we did not expect them to survive, nor turn their hell into their salvation.</line>
+		</speech>
+		<deck>
+			<card>11132</card>
+			<card>7821</card>
+			<card>614</card>
+			<card>614</card>
+			<card>5845</card>
+			<card>5845</card>
+			<card>40</card>
+			<card>40</card>
+			<card>170</card>
+			<card>2009</card>
+		</deck>
+		<rewards>
+			<gold>49</gold>
+			<card>39</card>
+			<item>1063</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2276</req>
+	</mission>
+
+	<mission>
+		<id>2278</id>
+		<name>For Greater Good</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>50</energy>
+		<x>200</x>
+		<y>285</y>
+		<commander>1460</commander>
+		<speech>
+			<line commander='1998'>Should we really be helping the Raiders fight the Forsaken?</line>
+			<line commander='1003'>If their Sulfuris technology was able to dispatch those Bloodthirsty with such ease, I am afraid we have to.</line>
+		</speech>
+		<deck>
+			<card>11132</card>
+			<card>169</card>
+			<card>315</card>
+			<card>315</card>
+			<card>2010</card>
+			<card>5466</card>
+			<card>4959</card>
+			<card>4959</card>
+			<card>928</card>
+			<card>4966</card>
+		</deck>
+		<rewards>
+			<gold>55</gold>
+			<card>169</card>
+			<item>1063</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2277</req>
+	</mission>
+
+	<mission>
+		<id>2279</id>
+		<name>Vlade</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<mission_type>2</mission_type>
+		<energy>50</energy>
+		<x>245</x>
+		<y>370</y>
+		<commander>1463</commander>
+		<speech>
+			<line commander='1003'>We've made it, let's shut the Refinery down!</line>
+			<!-- <line commander='1463'>The Sulfuris will consume you. Your armies cannot stop that which is in motion.</line> -->
+		</speech>
+		<deck>
+			<card>11132</card>
+			<card>11132</card>
+			<card>11126</card>
+			<card>10633</card>
+			<card>6137</card>
+			<card>8060</card>
+			<card>4049</card>
+			<card>6857</card>
+			<card>4445</card>
+			<card>562</card>
+		</deck>
+		<rewards>
+			<gold>60</gold>
+			<card>561</card>
+			<item>1064</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2278</req>
+	</mission>
+	
+	<mission>
+		<id>2280</id>
+		<name>Race Against Time</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>55</energy>
+		<x>380</x>
+		<y>340</y>
+		<commander>1461</commander>
+		<speech>
+			<line commander='1053'>The refinery is down, we should push forward to their extraction site to cut off the Sulfuris supply.</line>
+			<line commander='1998'>I hope we can end this madness before their weapon is finished.</line>
+		</speech>
+		<deck>
+			<card>11469</card>
+			<card>169</card>
+			<card>35</card>
+			<card>315</card>
+			<card>4958</card>
+			<card>4958</card>
+			<card>6854</card>
+			<card>928</card>
+			<card>6763</card>
+			<card>6451</card>
+		</deck>
+		<rewards>
+			<gold>60</gold>
+			<card>35</card>
+			<item>1061</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2279</req>
+	</mission>
+	
+	<mission>
+		<id>2281</id>
+		<name>Hijacked Technology</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>60</energy>
+		<x>500</x>
+		<y>380</y>
+		<commander>1461</commander>
+		<speech>
+			<line commander='1003'>How exactly are they extracting it? What in the seven hells is that thing coming out of the Pit?</line>
+			<line commander='1053'>More stolen re-purposed technology, The Neurological Operating eXcavator, or N.O.X. for short.</line>
+		</speech>
+		<deck>
+			<card>11469</card>
+			<card>544</card>
+			<card>928</card>
+			<card>928</card>
+			<card>6261</card>
+			<card>6853</card>
+			<card>2010</card>
+			<card>40</card>
+			<card>833</card>
+			<card>38</card>
+		</deck>
+		<rewards>
+			<gold>66</gold>
+			<card>38</card>
+			<item>1062</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2280</req>
+	</mission>
+
+	<mission>
+		<id>2282</id>
+		<name>Sentient Task</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>65</energy>
+		<x>620</x>
+		<y>380</y>
+		<commander>1461</commander>
+		<speech>
+			<line commander='1998'>Neurological? Why would an excavation tool need a brain?</line>
+			<line commander='1053'>The Sulfuris Pits are a dangerous place, excavation requires fast reflexes and thinking, something a simple mindless tool cannot provide.</line>
+		</speech>
+		<deck>
+			<card>11469</card>
+			<card>2331</card>
+			<card>338</card>
+			<card>5845</card>
+			<card>5845</card>
+			<card>2101</card>
+			<card>561</card>
+			<card>360</card>
+			<card>360</card>
+			<card>45</card>
+		</deck>
+		<rewards>
+			<gold>71</gold>
+			<card>45</card>
+			<item>1063</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2281</req>
+	</mission>
+
+	<mission>
+		<id>2283</id>
+		<name>Calm Objective</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>70</energy>
+		<x>740</x>
+		<y>340</y>
+		<commander>1461</commander>
+		<speech>
+			<line commander='1003'>Does that mean we have to worry about the N.O.X. fighting back when we shut it down?</line>
+			<line commander='1053'>It shouldn't, unless they tampered with it's programming I should be able to easily issue the shutdown command.</line>
+		</speech>
+		<deck>
+			<card>11469</card>
+			<card>2009</card>
+			<card>315</card>
+			<card>47</card>
+			<card>4326</card>
+			<card>4959</card>
+			<card>4959</card>
+			<card>5467</card>
+			<card>834</card>
+			<card>5307</card>
+		</deck>
+		<rewards>
+			<gold>77</gold>
+			<card>2009</card>
+			<item>1063</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2282</req>
+	</mission>
+	
+	<mission>
+		<id>2284</id>
+		<name>Heightened Concern</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>75</energy>
+		<x>830</x>
+		<y>300</y>
+		<commander>1461</commander>
+		<speech>
+			<line commander='1053'>The Forsaken are coming straight at us! Though they don't seem to see us...</line>
+			<line commander='1003'>What is all this commotion? What are the Forsaken running from!?</line>
+		</speech>
+		<deck>
+			<card>11469</card>
+			<card>11017</card>
+			<card>6410</card>
+			<card>4960</card>
+			<card>569</card>
+			<card>49</card>
+			<card>49</card>
+			<card>40</card>
+			<card>2006</card>
+			<card>42</card>
+		</deck>
+		<rewards>
+			<gold>82</gold>
+			<card>2006</card>
+			<item>1064</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2283</req>
+	</mission>
+	
+	<mission>
+		<id>2285</id>
+		<name>N.O.X.</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<mission_type>2</mission_type>
+		<monster asset_bundle='19'>insect_drone</monster>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>75</energy>
+		<x>920</x>
+		<y>385</y>
+		<commander>1469</commander>
+		<speech>
+			<line commander='1053'>The N.O.X. Status screen reads "Excavation target acquired. Deploying heavy ordinance." Its not accepting the shutdown command.</line>
+			<line commander='1998'>This is bad. This is very bad!</line>
+		</speech>
+		<deck>
+			<card>11469</card>
+			<card>11469</card>
+			<card>11126</card>
+			<card>11132</card>
+			<card>10355</card>
+			<card>6457</card>
+			<card>4055</card>
+			<card>10999</card>
+			<card>6671</card>
+			<card>6409</card>
+		</deck>
+		<rewards>
+			<gold>90</gold>
+			<card>49</card>
+			<item>1065</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2284</req>
+	</mission>
+	
+	<!-- END October 2014 Missions -->
 
 	<location>
 		<id>1</id>
@@ -17175,85 +17944,94 @@
         <asset_bundle>18</asset_bundle>
         <req>14</req>
     </location>
+    
+    <location>
+    	<id>113</id>
+    	<name>Sulfuris Acid Pits</name>
+    	<event_req>23</event_req>
+    	<mapBG>acid_map_weeks1-3</mapBG>
+    	<asset_bundle>19</asset_bundle>
+    	<req>10</req>
+    </location>
 	
 <!-- Event Portals -->
 
 	<portal>
 		<location_id>1</location_id>
-		<destination_id>112</destination_id>
-		<event_req>21</event_req>
-		<req>14</req>
+		<destination_id>113</destination_id>
+		<event_req>23</event_req>
+		<req>10</req>
 		<x>420</x>
 		<y>450</y>
 	</portal>
 
 	<portal>
 		<location_id>2</location_id>
-		<destination_id>112</destination_id>
-		<event_req>21</event_req>
-		<req>14</req>
+		<destination_id>113</destination_id>
+		<event_req>23</event_req>
+		<req>10</req>
 		<x>650</x>
 		<y>250</y>
 	</portal>
 
 	<portal>
 		<location_id>3</location_id>
-		<destination_id>112</destination_id>
-		<event_req>21</event_req>
-		<req>14</req>
+		<destination_id>113</destination_id>
+		<event_req>23</event_req>
+		<req>10</req>
 		<x>180</x>
 		<y>600</y>
 	</portal>
 
 	<portal>
 		<location_id>4</location_id>
-		<destination_id>112</destination_id>
-		<event_req>21</event_req>
-		<req>14</req>
+		<destination_id>113</destination_id>
+		<event_req>23</event_req>
+		<req>10</req>
 		<x>270</x>
 		<y>270</y>
 	</portal>
 
 	<portal>
 		<location_id>5</location_id>
-		<destination_id>112</destination_id>
-		<event_req>21</event_req>
-		<req>14</req>
+		<destination_id>113</destination_id>
+		<event_req>23</event_req>
+		<req>10</req>
 		<x>350</x>
 		<y>580</y>
 	</portal>
 
 	<portal>
 		<location_id>6</location_id>
-		<destination_id>112</destination_id>
-		<event_req>21</event_req>
-		<req>14</req>
+		<destination_id>113</destination_id>
+		<event_req>23</event_req>
+		<req>10</req>
 		<x>500</x>
 		<y>600</y>
 	</portal>
 
 	<portal>
 		<location_id>7</location_id>
-		<destination_id>112</destination_id>
-		<event_req>21</event_req>
-		<req>14</req>
+		<destination_id>113</destination_id>
+		<event_req>23</event_req>
+		<req>10</req>
 		<x>420</x>
 		<y>380</y>
 	</portal>
 
 	<portal>
 		<location_id>8</location_id>
-		<destination_id>112</destination_id>
-		<event_req>21</event_req>
-		<req>14</req>
+		<destination_id>113</destination_id>
+		<event_req>23</event_req>
+		<req>10</req>
 		<x>840</x>
 		<y>230</y>
 	</portal>
 
 	<portal>
-		<location_id>112</location_id>
+		<location_id>113</location_id>
 		<destination_id>0</destination_id>
-		<event_req>21</event_req>
+		<event_req>23</event_req>
 		<x>890</x>
 		<y>600</y>
 	</portal>

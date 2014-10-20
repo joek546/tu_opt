@@ -1,6 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Reaping the Battlefield fusions -->
+
+	<fusion_recipe>
+		<card_id>11577</card_id>
+		<resource card_id='11576' number='2' />
+	</fusion_recipe>
+
+<!-- Judgment Box -->
+
+	<fusion_recipe>
+		<card_id>11505</card_id>
+		<resource card_id='11504' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11511</card_id>
+		<resource card_id='11510' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11523</card_id>
+		<resource card_id='11522' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11529</card_id>
+		<resource card_id='11528' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11541</card_id>
+		<resource card_id='11540' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11547</card_id>
+		<resource card_id='11546' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8210</card_id>
+		<resource card_id='8209' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8216</card_id>
+		<resource card_id='8215' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11487</card_id>
+		<resource card_id='11486' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11493</card_id>
+		<resource card_id='11492' number='2' />
+	</fusion_recipe>
+
+<!-- October Week 3 Reward Quad -->
+
+	<fusion_recipe>
+		<card_id>11475</card_id>
+		<resource card_id='7562' number='2' />
+	</fusion_recipe>
+
+<!-- Sulfuris Cache -->
+
+	<fusion_recipe>
+		<card_id>11559</card_id>
+		<resource card_id='11558' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11565</card_id>
+		<resource card_id='11564' number='2' />
+	</fusion_recipe>
+
+>>>>>>> .r8929
+<!-- Federation Brawl -->
+
+	<fusion_recipe>
+		<card_id>11337</card_id>
+		<resource card_id='11336' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11343</card_id>
+		<resource card_id='11342' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11349</card_id>
+		<resource card_id='10330' number='2' />
+	</fusion_recipe>
+
+<!-- Affliction Box -->
+
+	<fusion_recipe>
+		<card_id>11379</card_id>
+		<resource card_id='11378' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11385</card_id>
+		<resource card_id='11384' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11433</card_id>
+		<resource card_id='11432' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11439</card_id>
+		<resource card_id='11438' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11397</card_id>
+		<resource card_id='11396' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11403</card_id>
+		<resource card_id='11402' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8192</card_id>
+		<resource card_id='8191' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8198</card_id>
+		<resource card_id='8197' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11415</card_id>
+		<resource card_id='11414' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11421</card_id>
+		<resource card_id='11420' number='2' />
+	</fusion_recipe>
+
+<!-- Oct 2014 Week 2 Reward -->
+
+	<fusion_recipe>
+		<card_id>11325</card_id>
+		<resource card_id='11324' number='2' />
+	</fusion_recipe>
+
+<!-- Royal Cache -->
+
+	<fusion_recipe>
+		<card_id>11361</card_id>
+		<resource card_id='11360' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11367</card_id>
+		<resource card_id='11366' number='2' />
+	</fusion_recipe>
+
+<!-- Cosmos Pack -->
+
+	<fusion_recipe>
+		<card_id>11283</card_id>
+		<resource card_id='11203' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11313</card_id>
+		<resource card_id='11288' number='2' />
+	</fusion_recipe>
+
+<!-- Sunder Box -->
+
+	<fusion_recipe>
+		<card_id>11258</card_id>
+		<resource card_id='11257' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11264</card_id>
+		<resource card_id='11263' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11204</card_id>
+		<resource card_id='11312' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11210</card_id>
+		<resource card_id='11209' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11222</card_id>
+		<resource card_id='11221' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11228</card_id>
+		<resource card_id='11227' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11186</card_id>
+		<resource card_id='11185' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11192</card_id>
+		<resource card_id='11191' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11240</card_id>
+		<resource card_id='11239' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11246</card_id>
+		<resource card_id='11245' number='2' />
+	</fusion_recipe>
+
+<!-- Oct 2014 Week 1 Reward -->
+
+	<fusion_recipe>
+		<card_id>11276</card_id>
+		<resource card_id='11275' number='2' />
+	</fusion_recipe>
+
+<!-- Anomaly Cache -->
+
+	<fusion_recipe>
+		<card_id>8174</card_id>
+		<resource card_id='8173' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8180</card_id>
+		<resource card_id='8179' number='2' />
+	</fusion_recipe>
+
+<!-- Interstellar Box -->
+
+	<fusion_recipe>
+		<card_id>10878</card_id>
+		<resource card_id='10877' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10884</card_id>
+		<resource card_id='10883' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10860</card_id>
+		<resource card_id='10859' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10866</card_id>
+		<resource card_id='10865' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10896</card_id>
+		<resource card_id='10895' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10902</card_id>
+		<resource card_id='10901' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10914</card_id>
+		<resource card_id='10913' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10920</card_id>
+		<resource card_id='10919' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10801</card_id>
+		<resource card_id='10800' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10849</card_id>
+		<resource card_id='10806' number='2' />
+	</fusion_recipe>
+	
+<!-- Torrent Box -->
+	
+	<fusion_recipe>
+		<card_id>11078</card_id>
+		<resource card_id='11077' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11084</card_id>
+		<resource card_id='11083' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10987</card_id>
+		<resource card_id='10986' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>10993</card_id>
+		<resource card_id='10992' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11005</card_id>
+		<resource card_id='11004' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11011</card_id>
+		<resource card_id='11010' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11023</card_id>
+		<resource card_id='11022' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11029</card_id>
+		<resource card_id='11028' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11041</card_id>
+		<resource card_id='11040' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11047</card_id>
+		<resource card_id='11046' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>8156</card_id>
+		<resource card_id='8155' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>8162</card_id>
+		<resource card_id='8161' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11059</card_id>
+		<resource card_id='11058' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>11065</card_id>
+		<resource card_id='11064' number='2' />
+	</fusion_recipe>
+
+
+<!-- September Guild War Fusion -->
+
+	<fusion_recipe>
+		<card_id>11144</card_id>
+		<resource card_id='11143' number='2' />
+	</fusion_recipe>
+
+<!-- September Base Set Fusions -->
+
+	<fusion_recipe>
+		<card_id>10939</card_id>
+		<resource card_id='5901' number='1' />
+		<resource card_id='10276' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10933</card_id>
+		<resource card_id='5889' number='1' />
+		<resource card_id='10264' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10957</card_id>
+		<resource card_id='4530' number='1' />
+		<resource card_id='6828' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10951</card_id>
+		<resource card_id='732' number='1' />
+		<resource card_id='5055' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>10945</card_id>
+		<resource card_id='4506' number='1' />
+		<resource card_id='5043' number='1' />
+	</fusion_recipe>
+
 <!-- Plague Cache -->
 
 	<fusion_recipe>
