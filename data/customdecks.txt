@@ -1,29 +1,11 @@
-nkorboy: Nexor, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Aggeroth Chaos, Ayrkrane Syn, Baughe, Contaminant Purifier
+nkorboy: Nexor, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Aggeroth Chaos, Ayrkrane Syn, Honorable Samurai, Contaminant Purifier
 //17.6% @9/10/2014
 
-nkorboypvp: Constantine, Deranged Fanatic, Ayrkrane Syn, Zodiac Harbinger #2, Contaminant Purifier, Samurai, Sacred Sanctuary, Demi Constrictor
-//65.9529 @8/07/2014
+NK++ : Nexor, Xillanail, Demi Constrictor, Sacred Sanctuary, Aggeroth Chaos, Sculpted Aegis, Arch Nova Alpha, Abhorrent Recluse, Gorrus Rav, Smite Forger, Dreamreaper
+//32.7506 @ 10/20/2014 vs NewGT
 
-nkorboyserge: Constantine, Demi Constrictor, Sacred Sanctuary, Deathsteel Falcion, Ayrkrane Syn, Lurker Behemoth, Zodiac Harbinger #2, Contaminant Purifier, Sacred Equalizer
-//19.3013% @8/07/2014
-
-nksurge: Constantine, Demi Constrictor, Sacred Sanctuary, Ayrkrane Syn, Lurker Behemoth, Deathsteel Falcion, Aggeroth Enraged, Withersnare, Sacred Equalizer, Judgment Nova, Auger Bore
-//19.3019 @8/07/2014
-
-nkrainbow: Nexor, Demi Constrictor, Sacred Sanctuary, Lurker Behemoth, Arch Nova Alpha, Aggeroth Chaos, Ayrkrane Syn, Withersnare, Sacred Equalizer, Dreamreaper
-//34.3151% @9/10/2014
-
-NK++ : Nexor, Demi Constrictor, Sacred Sanctuary, Lurker Behemoth, Sculpted Aegis, Arch Nova Alpha, Aggeroth Chaos, Abhorrent Recluse, Aggeroth Enraged, Smite Forger, Dreamreaper
-//29.2137 @ 9/29/2014 vs NewGT
-
-nk+++: Constantine, Demi Constrictor, Sacred Sanctuary, Tartarus Graft, Ayrkrane Syn, Deathsteel Falcion, Lurker Behemoth, Tazerious, Auger Ream, Sacred Equalizer, Withersnare
-//27.0% @7/24/2014
-
-
-nkrb+++: Barracus, Demi Constrictor, Ayrkrane Syn, Sacred Sanctuary, Lurker Behemoth, Tazerious, Incog Niaq, Bane of Truth, Auger Ream, Mongarus, Withersnare
-//32.598% @7/24/2014
-
-
+NKtyr: Barracus, Demi Constrictor, Arch Nova Alpha, Arch Nova Elite, Baughe #2, Tazerecca, Auger Bore, Dreamreaper, Abhorrent Recluse
+//1.03333 @ 10/20/2014
 shinigami: Barracus, Brood Minion, Blitz Plate, Gorrus #2, Lurker Horror-5,Baughe #2
 
 Optimized Deck: 73.9625: Barracus, Demon of Embers-5, Baughe-5 #2, Brood Minion, Gorrus-4 #2, Xeno Overlord-5, Blitz Plate

@@ -2,7 +2,7 @@
 <root>
 
 <!-- Lowest ID available 
-	Assault 11589 ends at 7999 continues at 10000 
+	Assault 11607 ends at 7999 continues at 10000 
 	Commander 1505 
 	Structures 8222 (end at 2699) Fortress 2701 -->
 
@@ -4515,6 +4515,152 @@
 			<skill id='pierce' x='9' />
 			<skill id='inhibit' x='3' />
 			<attack>8</attack>
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>11589</id>
+		<name>Centurion Aditus</name>
+		<picture>eggman</picture>
+		<asset_bundle>112</asset_bundle>
+		<attack>1</attack>
+		<health>8</health>
+		<cost>2</cost>
+		<rarity>3</rarity>
+		<skill id='heal' x='1' y='1' />
+		<type>1</type>
+		<set>9000</set>
+		<upgrade>
+			<level>2</level>
+			<card_id>11590</card_id>
+			<health>10</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>11591</card_id>
+			<skill id='heal' x='2' y='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>11592</card_id>
+			<attack>2</attack>
+			<health>11</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>11593</card_id>
+			<skill id='heal' x='2' y='1' />
+			<skill id='flurry' c='8' />
+			<health>12</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>11594</card_id>
+			<skill id='heal' x='2' y='1' />
+			<skill id='berserk' x='1' />
+			<skill id='flurry' c='8' />
+			<health>13</health>
+		</upgrade>
+	</unit>
+
+	<unit>
+		<id>11595</id>
+		<name>Centurion Medius</name>
+		<picture>eggman_lv3</picture>
+		<asset_bundle>112</asset_bundle>
+		<fusion_level>1</fusion_level>
+		<attack>2</attack>
+		<health>14</health>
+		<cost>2</cost>
+		<rarity>3</rarity>
+		<skill id='heal' x='2' y='1' />
+		<skill id='berserk' x='1' />
+		<skill id='flurry' c='8' />
+		<type>1</type>
+		<set>2000</set>
+		<upgrade>
+			<level>2</level>
+			<card_id>11596</card_id>
+			<skill id='heal' x='2' y='1' />
+			<skill id='berserk' x='1' />
+			<skill id='flurry' c='7' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>11597</card_id>
+			<health>16</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>11598</card_id>
+			<skill id='heal' x='3' y='1' />
+			<skill id='berserk' x='1' />
+			<skill id='flurry' c='7' />
+			<health>17</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>11599</card_id>
+			<skill id='heal' x='3' y='1' />
+			<skill id='berserk' x='1' />
+			<skill id='flurry' c='6' />
+			<health>18</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>11600</card_id>
+			<skill id='heal' x='3' y='1' />
+			<skill id='berserk' x='2' />
+			<skill id='flurry' c='6' />
+			<health>19</health>
+		</upgrade>
+	</unit>
+
+	<unit>
+		<id>11601</id>
+		<name>Centurion Politus</name>
+		<picture>eggman_lv6</picture>
+		<asset_bundle>112</asset_bundle>
+		<fusion_level>2</fusion_level>
+		<attack>3</attack>
+		<health>19</health>
+		<cost>2</cost>
+		<rarity>3</rarity>
+		<skill id='heal' x='3' y='1' />
+		<skill id='berserk' x='2' />
+		<skill id='flurry' c='6' />
+		<type>1</type>
+		<set>2000</set>
+		<upgrade>
+			<level>2</level>
+			<card_id>11602</card_id>
+			<health>21</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>11603</card_id>
+			<health>23</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>11604</card_id>
+			<skill id='heal' x='4' y='1' />
+			<skill id='berserk' x='2' />
+			<skill id='flurry' c='6' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>11605</card_id>
+			<skill id='heal' x='4' y='1' />
+			<skill id='berserk' x='2' />
+			<skill id='flurry' c='5' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>11606</card_id>
+			<skill id='heal' x='4' y='1' />
+			<skill id='berserk' x='3' />
+			<skill id='flurry' c='4' />
 		</upgrade>
 	</unit>
 	
@@ -62576,8 +62722,8 @@
 	<unit> <!-- enhance test -->
 		<id>1087</id>
 		<name>Test Oracle</name>
-		<picture>eggman_lv6.jpg</picture>
-		<asset_bundle>112</asset_bundle>
+		<picture>bttrooper.jpg</picture>
+		<asset_bundle>113</asset_bundle>
 		<attack>0</attack>
 		<health>16</health>
 		<rarity>5</rarity>
@@ -62587,25 +62733,25 @@
 		<upgrade>
 			<level>2</level>
 			<card_id>1088</card_id>
-			<picture>floorspiker.jpg</picture>
+			<picture>gruntbeat_lv6.jpg</picture>
 			<health>22</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<picture>heavysupport_lv6.jpg</picture>
+			<picture>xenogrowler_lv6.jpg</picture>
 			<card_id>1089</card_id>
 			<health>28</health>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<picture>btdinoclaw_lv6.jpg</picture>
+			<picture>monopodo.jpg</picture>
 			<card_id>1090</card_id>
 			<health>37</health>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
 			<card_id>1091</card_id>
-			<picture>progford_lv6.jpg</picture>
+			<picture>rightoeltanko_lv3.jpg</picture>
 			<health>44</health>
 		</upgrade>
 	</unit>

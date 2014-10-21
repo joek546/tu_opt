@@ -1,11 +1,12 @@
 Emp
 Const
-Alaric-4
+Alaric
 Barracus
-Typhon Vex-1
+Typhon Vex
+Halcyon
+Brood Mother
+Tabitha
 
-Halcyon-1
-Brood Mother-1
 
 
 Zodiac Harbinger (2)
@@ -13,7 +14,7 @@ Deranged Fanatic
 //Sacred Sanctuary
 //Ayrkrane Syn
 //Aggeroth Chaos
-Valiant Knight
+//Valiant Knight
 Messale
 Covert Jet
 Dutiful Veteran
@@ -32,14 +33,14 @@ Haphaz Nado
 Gorrus Rav
 Lucidous
 Haleflash
-Trench Lobber
+Trench Hurler
 Bane of Truth
 Elite Squadron
 Dreamreaper
 Nightscreecher
 Deranged Fanatic
 Arch Nova Elite
-Xillaclaw
+Xillanail
 Mongresh
 Auger Bore
 Neo Delver
@@ -67,7 +68,7 @@ Tremor Wyrm
 
 //Holy Benediction
 Aasi
-Honorable Samurai
+//Honorable Samurai
 Defiance
 
 

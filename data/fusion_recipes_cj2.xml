@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Bulk Pack -->
+	
+	<fusion_recipe>
+		<card_id>11595</card_id>
+		<resource card_id='11594' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11601</card_id>
+		<resource card_id='11600' number='2' />
+	</fusion_recipe>
+
 <!-- Reaping the Battlefield fusions -->
 
 	<fusion_recipe>
