@@ -6,7 +6,11 @@ Typhon Vex
 Halcyon
 Brood Mother
 Tabitha
-
+Arkadios
+Lord Silus
+Daedalus
+Kylen
+Malort
 
 
 Zodiac Harbinger (2)
@@ -16,16 +20,23 @@ Deranged Fanatic
 //Aggeroth Chaos
 //Valiant Knight
 Messale
-Covert Jet
-Dutiful Veteran
 Razor Maiden
 //Samurai
 //Contaminant Purifier
 //Demi Constrictor
 //Arch Nova Alpha
 
+Coldheart
+Lucifire
+Xanadu Ultra
+Sage Ascendant
+Ezamit Serene
+Extinguisher of Light
+Apparition
+Animus Geist
+Emerging Basilisk
+
 Jilted Baughe
-Obstructing Quake
 Astral Strider
 Serraco Lord
 Heroic Knight
@@ -36,19 +47,21 @@ Haleflash
 Trench Hurler
 Bane of Truth
 Elite Squadron
-Dreamreaper
+Dreamhaunter
 Nightscreecher
-Deranged Fanatic
 Arch Nova Elite
 Xillanail
-Mongresh
 Auger Bore
 Neo Delver
-Tazerecca
 Tartarus Brood
-Crushing Anvil
 Cryptic Niaq
 
+
+
+Immense Ospry
+Steadfast Assailant
+Cadmus the Dragon
+Guardian Gamut
 
 
 Omega Nexus
@@ -60,6 +73,7 @@ Deranged Malgoth
 Abhorrent Recluse
 Withersnare
 Insanitius
+Flesh Butcher
 
 Apex
 Fenflame 
@@ -75,7 +89,6 @@ Defiance
 Inferno Demon
 Lurker Behemoth
 Deathsteel Falcion
-
 Smite Forger
 Steel Ram
 Tumblox
@@ -90,6 +103,7 @@ Xeno Suzerain
 Spiteful Raptor
 Dignified Vigil
 Sculpted Aegis
-
+The Tenacious
+Shock Disruptor
 
 

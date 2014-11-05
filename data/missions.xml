@@ -5288,6 +5288,201 @@
 		<req>106</req>
 	</mission>
 	
+	<mission>
+		<id>1502</id>
+		<name>Excelsitus Mutant</name>
+		<location_id>1</location_id>
+		<mission_type>3</mission_type>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>50</energy>
+		<x>900</x>
+		<y>405</y>
+		<commander>1435</commander>
+		<desc>This is a dangerous assignment Commander. We should make sure we are adequately prepared before taking on this monstrosity.</desc>
+		<deck>
+			<card>11150</card>
+			<card>11150</card>
+			<card>11156</card>
+			<card>11156</card>
+			<card>11162</card>
+			<card>11162</card>
+			<card>11168</card>
+			<card>11168</card>
+			<card>11174</card>
+			<card>11174</card>
+		</deck>
+		<rewards>
+			<gold>75</gold>
+			<card>11289</card>
+			<item>1036</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>106</req>
+	</mission>
+	
+	<mission>
+		<id>1503</id>
+		<name>Albatross Mutant</name>
+		<location_id>8</location_id>
+		<mission_type>3</mission_type>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>50</energy>
+		<x>230</x>
+		<y>355</y>
+		<commander>1453</commander>
+		<desc>This is a dangerous assignment Commander. We should make sure we are adequately prepared before taking on this monstrosity.</desc>
+		<deck>
+			<card>11673</card>
+			<card>11673</card>
+			<card>11679</card>
+			<card>11679</card>
+			<card>11685</card>
+			<card>11685</card>
+			<card>11691</card>
+			<card>11691</card>
+			<card>11174</card>
+			<card>11174</card>
+		</deck>
+		<rewards>
+			<gold>75</gold>
+			<card>11289</card>
+			<item>1056</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>106</req>
+	</mission>
+	
+	<mission>
+		<id>1504</id>
+		<name>Serapherus Mutant</name>
+		<location_id>2</location_id>
+		<mission_type>3</mission_type>
+		<combatBG>CombatBGJungle</combatBG>
+		<energy>50</energy>
+		<x>520</x>
+		<y>525</y>
+		<commander>1505</commander>
+		<desc>This is a dangerous assignment Commander. We should make sure we are adequately prepared before taking on this monstrosity.</desc>
+		<deck>
+			<card>11721</card>
+			<card>11721</card>
+			<card>11727</card>
+			<card>11727</card>
+			<card>11733</card>
+			<card>11733</card>
+			<card>11739</card>
+			<card>11739</card>
+			<card>11745</card>
+			<card>11745</card>
+		</deck>
+		<rewards>
+			<gold>75</gold>
+			<card>11697</card>
+			<item>1046</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>106</req>
+	</mission>
+	
+	<mission>
+		<id>1505</id>
+		<name>Miasma Mutant</name>
+		<location_id>7</location_id>
+		<mission_type>3</mission_type>
+		<combatBG asset_bundle='5'>CombatBGTartarus</combatBG>
+		<energy>50</energy>
+		<x>230</x>
+		<y>355</y>
+		<commander>1511</commander>
+		<desc>This is a dangerous assignment Commander. We should make sure we are adequately prepared before taking on this monstrosity.</desc>
+		<deck>
+			<card>11715</card>
+			<card>11715</card>
+			<card>11751</card>
+			<card>11751</card>
+			<card>11757</card>
+			<card>11757</card>
+			<card>11763</card>
+			<card>11763</card>
+			<card>11769</card>
+			<card>11769</card>
+		</deck>
+		<rewards>
+			<gold>75</gold>
+			<card>6397</card>
+			<item>1012</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>106</req>
+	</mission>
+	
+	<mission>
+		<id>1506</id>
+		<name>Protomech Mutant</name>
+		<location_id>4</location_id>
+		<mission_type>3</mission_type>
+		<combatBG asset_bundle='4'>CombatBG_Kor</combatBG>
+		<energy>50</energy>
+		<x>850</x>
+		<y>405</y>
+		<commander>1517</commander>
+		<desc>This is a dangerous assignment Commander. We should make sure we are adequately prepared before taking on this monstrosity.</desc>
+		<deck>
+			<card>11775</card>
+			<card>11775</card>
+			<card>11781</card>
+			<card>11781</card>
+			<card>11787</card>
+			<card>11787</card>
+			<card>11793</card>
+			<card>11793</card>
+			<card>11745</card>
+			<card>11745</card>
+		</deck>
+		<rewards>
+			<gold>75</gold>
+			<card>11697</card>
+			<item>1066</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>106</req>
+	</mission>
+	
 	<!-- <mission>
 		<id>1018</id>
 		<name>Fake End Side Mission</name>
@@ -17779,6 +17974,259 @@
 		<req>2284</req>
 	</mission>
 	
+	<mission>
+		<id>2286</id>
+		<name>No Options</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>80</energy>
+		<x>740</x>
+		<y>420</y>
+		<commander>1462</commander>
+		<speech>
+			<line commander='1003'>Damn! We are too late. They've finished their weapon!</line>
+			<line commander='1998'>That means we have to destroy it while we still have the chance.</line>
+		</speech>
+		<deck>
+			<card>8222</card>
+			<card>5630</card>
+			<card>6409</card>
+			<card>5269</card>
+			<card>615</card>
+			<card>4326</card>
+			<card>4958</card>
+			<card>35</card>
+			<card>35</card>
+			<card>315</card>
+		</deck>
+		<rewards>
+			<gold>88</gold>
+			<card>35</card>
+			<item>1061</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2285</req>
+	</mission>
+	
+	<mission>
+		<id>2287</id>
+		<name>Emptying the Pits</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>85</energy>
+		<x>620</x>
+		<y>460</y>
+		<commander>1462</commander>
+		<speech>
+			<line commander='1053'>The hulking machine is in the Forsaken's last foothold in the Sulfuris Pits. If we can root them out we should be able to put an end to their reign of terror on this land.</line>
+			<line commander='1003'>Then let us dispatch them with haste.</line>
+		</speech>
+		<deck>
+			<card>8222</card>
+			<card>38</card>
+			<card>38</card>
+			<card>36</card>
+			<card>927</card>
+			<card>614</card>
+			<card>562</card>
+			<card>4960</card>
+			<card>4966</card>
+			<card>10718</card>
+		</deck>
+		<rewards>
+			<gold>93</gold>
+			<card>38</card>
+			<item>1062</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2286</req>
+	</mission>
+
+	<mission>
+		<id>2288</id>
+		<name>Bane of the Forsaken</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>90</energy>
+		<x>490</x>
+		<y>470</y>
+		<commander>1462</commander>
+		<speech>
+			<line commander='1998'>Can we not catch a break? These attack parties are slowing us down, we need to get to the weapon before it's launched.</line>
+			<line commander='1003'>Let them try to stop us, we'll render their warriors silent and put an end to their evil.</line>
+		</speech>
+		<deck>
+			<card>8222</card>
+			<card>2643</card>
+			<card>5132</card>
+			<card>563</card>
+			<card>5467</card>
+			<card>4958</card>
+			<card>4958</card>
+			<card>45</card>
+			<card>45</card>
+			<card>43</card>
+		</deck>
+		<rewards>
+			<gold>99</gold>
+			<card>45</card>
+			<item>1063</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2287</req>
+	</mission>
+
+	<mission>
+		<id>2289</id>
+		<name>Conspiracy</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>95</energy>
+		<x>400</x>
+		<y>480</y>
+		<commander>1462</commander>
+		<speech>
+			<line commander='1053'>Their weapon does seem quite powerful. We may be able to take control of it and use it to hunt down all surviving Forsaken.</line>
+			<line commander='1003'>I do not think that to be wise; the weapon needs to be demolished. If you use it, how are you any better than they are?</line>
+		</speech>
+		<deck>
+			<card>8222</card>
+			<card>169</card>
+			<card>169</card>
+			<card>358</card>
+			<card>4326</card>
+			<card>6261</card>
+			<card>6854</card>
+			<card>929</card>
+			<card>7821</card>
+			<card>6763</card>
+		</deck>
+		<rewards>
+			<gold>104</gold>
+			<card>169</card>
+			<item>1064</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2288</req>
+	</mission>
+	
+	<mission>
+		<id>2290</id>
+		<name>Cut-throat Turncoat</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>100</energy>
+		<x>420</x>
+		<y>580</y>
+		<commander>1056</commander>
+		<speech>
+			<line commander='1053'>This is not about being better, its about survival! You did not live in their terror. They need to be eradicated from existence, not just defeated. We can destroy the weapon after they are all dead.</line>
+			<line commander='1003'>You're mad!</line>
+			<line commander='1998'>I knew this was a terrible idea, you dare turn on us!?</line>
+		</speech>
+		<deck>
+			<card>8222</card>
+			<card>46</card>
+			<card>46</card>
+			<card>315</card>
+			<card>4958</card>
+			<card>4958</card>
+			<card>5268</card>
+			<card>4408</card>
+			<card>6858</card>
+			<card>11481</card>
+		</deck>
+		<rewards>
+			<gold>110</gold>
+			<card>46</card>
+			<item>1065</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2289</req>
+	</mission>
+	
+	<mission>
+		<id>2291</id>
+		<name>Pandemonium</name>
+		<location_id>113</location_id>
+		<event_req>23</event_req>
+		<mission_type>2</mission_type>
+		<combatBG asset_bundle='19'>combat_bg_acid</combatBG>
+		<energy>100</energy>
+		<x>560</x>
+		<y>520</y>
+		<commander>1475</commander>
+		<speech>
+			<line commander='1053'>Raiders, retreat! I will not forget this day, you can handle the weapon yourselves - but we will have our vengeance on the Forsaken.</line>
+			<line commander='1003'>The machine is attacking. Evasive maneuvers, strike back at its core and turn this hunk of metal into scrap!</line>
+		</speech>
+		<deck>
+			<card>8222</card>
+			<card>11469</card>
+			<card>11126</card>
+			<card>11132</card>
+			<card>10169</card>
+			<card>7005</card>
+			<card>7203</card>
+			<card>6415</card>
+			<card>6451</card>
+			<card>6671</card>
+		</deck>
+		<rewards>
+			<gold>120</gold>
+			<card>2100</card>
+			<item>1066</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2290</req>
+	</mission>
 	<!-- END October 2014 Missions -->
 
 	<location>
@@ -17949,7 +18397,7 @@
     	<id>113</id>
     	<name>Sulfuris Acid Pits</name>
     	<event_req>23</event_req>
-    	<mapBG>acid_map_weeks1-3</mapBG>
+    	<mapBG>acid_map_week4</mapBG>
     	<asset_bundle>19</asset_bundle>
     	<req>10</req>
     </location>

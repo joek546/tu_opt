@@ -1,6 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Forsaken Horde Raid -->
+
+	<fusion_recipe>
+		<card_id>12107</card_id>
+		<resource card_id='12106' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12113</card_id>
+		<resource card_id='12112' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12125</card_id>
+		<resource card_id='10012' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12119</card_id>
+		<resource card_id='6206' number='2' />
+	</fusion_recipe>
+
+<!-- Vigor Box + Raid Reward -->
+
+	<fusion_recipe>
+		<card_id>11949</card_id>
+		<resource card_id='11948' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11955</card_id>
+		<resource card_id='11954' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11985</card_id>
+		<resource card_id='11984' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11991</card_id>
+		<resource card_id='11990' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12021</card_id>
+		<resource card_id='12020' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12027</card_id>
+		<resource card_id='12026' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11931</card_id>
+		<resource card_id='11930' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11937</card_id>
+		<resource card_id='11936' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11967</card_id>
+		<resource card_id='11966' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11973</card_id>
+		<resource card_id='11972' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12003</card_id>
+		<resource card_id='12002' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12009</card_id>
+		<resource card_id='12008' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12039</card_id>
+		<resource card_id='12038' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12045</card_id>
+		<resource card_id='12044' number='2' />
+	</fusion_recipe>
+
+<!-- Mutant Rewards -->
+
+	<fusion_recipe>
+		<card_id>11295</card_id>
+		<resource card_id='11294' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11301</card_id>
+		<resource card_id='11300' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11703</card_id>
+		<resource card_id='11702' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11709</card_id>
+		<resource card_id='11708' number='2' />
+	</fusion_recipe>
+
+<!-- Cache of the Dead -->
+
+	<fusion_recipe>
+		<card_id>11913</card_id>
+		<resource card_id='11912' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11919</card_id>
+		<resource card_id='11918' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11895</card_id>
+		<resource card_id='11894' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11901</card_id>
+		<resource card_id='11900' number='2' />
+	</fusion_recipe>
+
+<!-- Retribution Brawl -->
+
+	<fusion_recipe>
+		<card_id>11661</card_id>
+		<resource card_id='11660' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11667</card_id>
+		<resource card_id='11666' number='2' />
+	</fusion_recipe>
+
+<!-- Bionic Box + Reward -->
+
+
+	<fusion_recipe>
+		<card_id>11859</card_id>
+		<resource card_id='11858' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11865</card_id>
+		<resource card_id='11864' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11877</card_id>
+		<resource card_id='11876' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11883</card_id>
+		<resource card_id='11882' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11811</card_id>
+		<resource card_id='11810' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11817</card_id>
+		<resource card_id='11816' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11823</card_id>
+		<resource card_id='11468' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11829</card_id>
+		<resource card_id='11828' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11841</card_id>
+		<resource card_id='11840' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11847</card_id>
+		<resource card_id='11846' number='2' />
+	</fusion_recipe>
+
+	<fusion_recipe>
+		<card_id>11799</card_id>
+		<resource card_id='11456' number='2' />
+	</fusion_recipe>
+
+<!-- Forsaken Cache Fusion -->
+	<fusion_recipe>
+		<card_id>11643</card_id>
+		<resource card_id='11642' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11649</card_id>
+		<resource card_id='11648' number='2' />
+	</fusion_recipe>
+
+<!-- Oct 2014 Base Set Fusions -->
+
+	<fusion_recipe>
+		<card_id>11619</card_id>
+		<resource card_id='5991' number='1' />
+		<resource card_id='10288' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11625</card_id>
+		<resource card_id='10300' number='1' />
+		<resource card_id='5937' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11631</card_id>
+		<resource card_id='6039' number='1' />
+		<resource card_id='10312' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11607</card_id>
+		<resource card_id='5019' number='1' />
+		<resource card_id='714' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>11613</card_id>
+		<resource card_id='4494' number='1' />
+		<resource card_id='5031' number='1' />
+	</fusion_recipe>
+
 <!-- Bulk Pack -->
 	
 	<fusion_recipe>
