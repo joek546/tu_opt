@@ -1,0 +1,243 @@
+Your Deck: Custom Deck #323 "ST1": UFhcbpBTkAVmMFncPnNcqBTkDXlUNlPPk
+Nexor, Arch Nova Alpha, Tazerecca, Lurker Behemoth, Incog Niaq, Xillanail, Jilted Baughe, Tazerecca, Arch Nova Elite, Dusk Shade, Illustrious Helmcraft
+Enemy's Deck:0.027027: Custom Deck #245 "GT200k01": aFhNpSQiUAkdIkVIldclGCnSWqSWqWar
+Constantine, Longshot Deadeye, Smite Forger, Smite Forger, Honorable Samurai, Bolt Crag, Ayrkrane Syn, Grand Templar, Dreamhaunter, Stoneheart, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #246 "GT200k02": aFhNpOIiSQidcldclGCnSWqSWqULrWar
+Constantine, Sacred Sanctuary, Smite Forger, Smite Forger, Ayrkrane Syn, Honorable Samurai, Honorable Samurai, Tempest Citadel, Dreamhaunter, Stoneheart, Blink Providence
+Enemy's Deck:0.027027: Custom Deck #247 "GT200k03": aFhNpOIiSQidIkdIkGCnSWqSWqSWqSWq
+Constantine, Smite Forger, Smite Forger, Smite Forger, Smite Forger, Bolt Crag, Bolt Crag, Ayrkrane Syn, Dreamhaunter, Sacred Sanctuary, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #248 "GT200k04": aFhNpOIiOIiUAkdIkdIkVIldclSWqWar
+Constantine, Smite Forger, Bolt Crag, Bolt Crag, Grand Templar, Longshot Deadeye, Honorable Samurai, Sacred Sanctuary, Sacred Sanctuary, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #249 "GT200k05": aFhNpOIiUAkdIkdIkdIkVIlVenSWqWar
+Constantine, Bolt Crag, Bolt Crag, Bolt Crag, Inviolable Bema, Grand Templar, Sacred Sanctuary, Stoneheart, Dreamhaunter, Longshot Deadeye, Smite Forger
+Enemy's Deck:0.027027: Custom Deck #250 "GT200k06": aFhNpOIiOIiSQiUAkXCkdIkeClGCnWar
+Constantine, Ayrkrane Syn, Tempest Citadel, Bolt Crag, Sacred Sanctuary, Sacred Sanctuary, Crogall Static, Flash Deity, Grand Templar, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #251 "GT200k07": aFhOIiSQiUAkXCkVIlVenSWqULrULrWar
+Constantine, Flash Deity, Sacred Sanctuary, Inviolable Bema, Longshot Deadeye, Grand Templar, Blink Providence, Blink Providence, Tempest Citadel, Stoneheart, Smite Forger
+Enemy's Deck:0.027027: Custom Deck #252 "GT200k08": aFhNpOIiSQiXCkdIkdIkUSqSWqSWqSWq
+Constantine, Bolt Crag, Bolt Crag, Tempest Citadel, Flash Deity, Serraco Sire, Smite Forger, Smite Forger, Smite Forger, Sacred Sanctuary, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #253 "GT200k09": aFhNpOIiSQiXCkdIkKOkdclSWqSWqULr
+Constantine, Sacred Sanctuary, Blink Providence, Bolt Crag, Dreamhaunter, Smite Forger, Smite Forger, Noble Defiance, Honorable Samurai, Flash Deity, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #254 "GT200k10": aFhNpOIiOIiXCkUSqSWqSWqULrWarObr
+Constantine, Blink Providence, Stoneheart, Smite Forger, Smite Forger, Serraco Sire, Snowdrift, Dreamhaunter, Flash Deity, Sacred Sanctuary, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #255 "GT200k11": EAhNpMFiSQiGBkHEkWLmSSmWameAqWar
+Halcyon, Sculpted Aegis, Auger Ream, Hephatat Stoic, Neocyte Resonator, Tempest Citadel, Garrison Fortifier, Cadmus the Dragon, Justice Victorious, Stoneheart, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #256 "GT200k12": EAhNpIEidOiHEkJYkBWlSJmSSmQamWar
+Halcyon, Sculpted Aegis, Octane's Bastion, Stalwart Disposer, Neocyte Cultivator, Blast Lancer, Auger Ream, Ardor's Bastille, Justice Ascending, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #257 "GT200k13": EAhNpMFiSQiWLmOQmOQmSSmIKnIKnWar
+Halcyon, Auger Ream, Cruise Launcher, Cruise Launcher, Tundra MK3, Tundra MK3, Neocyte Resonator, Tempest Citadel, Hephatat Stoic, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #258 "GT200k14": EAhSQiGBkJYkWLmOQmSSmcSnaWnNcnKLq
+Halcyon, Hoard Arsenal, Garrison Fortifier, Auger Ream, Halting Corpsman, Cruise Launcher, Blast Lancer, Hephatat Stoic, Glimmer Shine, Octane's Bulwark, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #259 "GT200k15": CFhNpMFiSJmGZmWamYCnIKnMLncSnWar
+Tabitha, Tundra MK3, Sphinxite Liberated, Stalwart Disposer, Justice Victorious, Neocyte Resonator, Tygarm Resolute, Ardengraul, Halting Corpsman, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #260 "GT200k16": aOhNpOIieBkZHkTYlGZmabmOQnCLrWar
+Lord Silus, Charincinerator, Heart Devourer, Shock Disruptor, Sphinxite Liberated, Crude Surgeon, Judgment Nova, Wurz the Brazen, Sacred Sanctuary, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #261 "GT200k17": aOhNpOIiXZlecmMCnWBoUSqCLrWar
+Lord Silus, Sacred Sanctuary, Scorched Hellwing, Serraco Sire, Demi Constrictor, Dreamhaunter, Erebus City Sector, Shock Disruptor, Bane of Truth, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #262 "GT200k18": aOhNpYFiOIiTYlOQnUSqaSqWar
+Lord Silus, Crude Surgeon, Dreamhaunter, Rampage Boomer, Judgment Nova, Serraco Sire, Stoneheart, Sacred Sanctuary, Mobile Encampment
+Enemy's Deck:0.027027: Custom Deck #263 "GT200k19": IBhNpUIiSQiETiJckMcmecmecmIHnWBq
+Dracorex, Tempest Citadel, Oreworks, Croc Oppressor, Scorched Hellwing, Scorched Hellwing, Abhorrent Recluse, Shapesavant, Wurmsleth Infested, Entrails Bog, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #264 "GT200k20": UOhOIiETiETiDVlaKmecmecmcbpCOrWar
+Malort, Scorched Hellwing, Scorched Hellwing, Vicerolos, Arch Nova Alpha, Stoneheart, Oreworks, Oreworks, Tazerious, Ezamit Tranq, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #265 "GT200k21": IFhNpeBkdIkDVlYEmSSmAVmGCncbpWar
+Barracus, Lurker Behemoth, Auger Ream, Charincinerator, Tazerious, Ayrkrane Syn, Bolt Crag, Tartarus Graft, Arch Nova Alpha, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #266 "GT200k22": IFhNpOIiOIiDVlHYlXZlSSmMFncbpWar
+Barracus, Demi Constrictor, Sacred Sanctuary, Sacred Sanctuary, Arch Nova Alpha, Incog Niaq, Tazerious, Steadfast Assailant, Auger Ream, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #267 "GT200k23": IFhNpSQiETiaAkdIkVKlDVlXZlSSmWar
+Barracus, Tazerious, Auger Ream, Lord Hades, Tempest Citadel, Veiled Defiler, Dreamhaunter, Bolt Crag, Demi Constrictor, Oreworks, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #268 "GT200k24": IFhNpCNlQLmWRmGZmGZmKAnWGnMLn
+Barracus, Executioner Hiborn, Deft Reclaimer, Portal Noctil, Sphinxite Liberated, Sphinxite Liberated, Cockatrice Baxis, Havenguard, Ardengraul, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #269 "GT200k25": IFhNpOIiETiDVlXZlSSmGCncPncbpWar
+Barracus, Demi Constrictor, Sacred Sanctuary, Oreworks, Arch Nova Alpha, Xillanail, Tazerious, Auger Ream, Ayrkrane Syn, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #270 "GT200k26": IFhNpETiDVlaKmecmecmKAnDencbpWar
+Barracus, Hardened Palisade, Dreamhaunter, Vicerolos, Tazerious, Scorched Hellwing, Scorched Hellwing, Cockatrice Baxis, Oreworks, Arch Nova Alpha, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #271 "GT200k27": IFhNpETiETiXZlabmecmecmCemCemKAn
+Barracus, Wurz the Brazen, Scorched Hellwing, Scorched Hellwing, Oreworks, Oreworks, Razor Pinion, Razor Pinion, Cockatrice Baxis, Dreamhaunter, Demi Constrictor
+Enemy's Deck:0.027027: Custom Deck #272 "GT200k28": UFhNpSQiETiETiecmeCneInEbpcbpUSq
+Nexor, Oreworks, Oreworks, Dreamhaunter, Tygarm Adamant, Ion Converter, Tempest Citadel, Scorched Hellwing, Serraco Sire, Arch Nova Alpha, Wilter Conscript
+Enemy's Deck:0.027027: Custom Deck #273 "GT200k29": UFhNpSQiETiFRkfZkXZlecmGfmKAncbp
+Nexor, Narscious the Eerie, Styxasis, Warp Alchemist, Oreworks, Arch Nova Alpha, Tempest Citadel, Scorched Hellwing, Cockatrice Baxis, Demi Constrictor, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #274 "GT200k30": UFhNpNpSQiORiDVlXZlXZlWRmcbpWar
+Nexor, Tazerious, Demi Constrictor, Demi Constrictor, Dreamhaunter, Neo Dredge, Arch Nova Alpha, Tempest Citadel, Portal Noctil, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #275 "GT200k31": GNhNpOIiSQiETiXZlXZlecmeCncbpWar
+Kylen, Scorched Hellwing, Demi Constrictor, Demi Constrictor, Dreamhaunter, Tempest Citadel, Oreworks, Arch Nova Alpha, Tygarm Adamant, Stoneheart, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #276 "GT200k32": GNhNpOIiOIiDVlXZlXZlWRmKAncbpWar
+Kylen, Demi Constrictor, Demi Constrictor, Sacred Sanctuary, Sacred Sanctuary, Arch Nova Alpha, Dreamhaunter, Cockatrice Baxis, Tazerious, Portal Noctil, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #277 "GT200k33": UFhNpETifZkDVlXZlXZlecmCemeInWPn
+Nexor, Demi Constrictor, Demi Constrictor, Grizrael the Damned, Tazerious, Razor Pinion, Ion Converter, Scorched Hellwing, Warp Alchemist, Oreworks, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #278 "GT200k34": UFhNpOIiABkABkDVlcelSSmcbpOLrWar
+Nexor, The Adversary, Arch Nova Alpha, Vicious Borg, Vicious Borg, Tazerious, Sacred Sanctuary, Talendath Reborn, Auger Ream, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #279 "GT200k35": GNhNpOIiORiSBkUNlXZlXZlCYmcbpWar
+Kylen, Dusk Shade, Azure Reveler, Sacred Sanctuary, Demi Constrictor, Demi Constrictor, Neo Dredge, Invoskeleton, Arch Nova Alpha, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #280 "GT200k36": YChNpOIiSQiETiXZlWRmCYmUEnaZncbp
+Krellus, Serak United, Invoskeleton, Dreamhaunter, Arch Nova Alpha, Oreworks, Portal Noctil, Sacred Sanctuary, Demi Constrictor, Pherous Astute, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #281 "GT200k37": GNhNpSQiXZlWRmcPnaZnWBocbpNcqCOr
+Kylen, Demi Constrictor, Portal Noctil, Arch Nova Alpha, Dreamhaunter, Erebus City Sector, Tempest Citadel, Ezamit Tranq, Xillanail, Jilted Baughe, Pherous Astute
+win%: 0.732432 (20 78 93 182 160 729 3201 338 479 1124 457 6726 224 3001 695 23 1374 651 423 103 622 1390 388 561 737 140 7 134 42 11 120 70 124 1270 186 1158 59 / 100000)
+stall%: 0.00632432 (2 1 0 0 0 0 0 0 3 0 0 19 0 2 3 0 1 0 0 0 6 17 14 18 33 1 2 3 11 1 1 3 36 8 29 19 1 / 100000)
+loss%: 99.2612 (99978 99921 99907 99818 99840 99271 96799 99662 99518 98876 99543 93255 99776 96997 99302 99977 98625 99349 99577 99897 99372 98593 99598 99421 99230 99859 99991 99863 99947 99988 99879 99927 99840 98722 99785 98823 99940 / 100000)
+ECHO is on.
+Your Deck: Custom Deck #323 "ST1": UFhcbpBTkAVmMFncPnNcqBTkDXlUNlPPk
+Nexor, Arch Nova Alpha, Tazerecca, Lurker Behemoth, Incog Niaq, Xillanail, Jilted Baughe, Tazerecca, Arch Nova Elite, Dusk Shade, Illustrious Helmcraft
+Enemy's Deck:0.027027: Custom Deck #245 "GT200k01": aFhNpSQiUAkdIkVIldclGCnSWqSWqWar
+Constantine, Longshot Deadeye, Smite Forger, Smite Forger, Honorable Samurai, Bolt Crag, Ayrkrane Syn, Grand Templar, Dreamhaunter, Stoneheart, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #246 "GT200k02": aFhNpOIiSQidcldclGCnSWqSWqULrWar
+Constantine, Sacred Sanctuary, Smite Forger, Smite Forger, Ayrkrane Syn, Honorable Samurai, Honorable Samurai, Tempest Citadel, Dreamhaunter, Stoneheart, Blink Providence
+Enemy's Deck:0.027027: Custom Deck #247 "GT200k03": aFhNpOIiSQidIkdIkGCnSWqSWqSWqSWq
+Constantine, Smite Forger, Smite Forger, Smite Forger, Smite Forger, Bolt Crag, Bolt Crag, Ayrkrane Syn, Dreamhaunter, Sacred Sanctuary, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #248 "GT200k04": aFhNpOIiOIiUAkdIkdIkVIldclSWqWar
+Constantine, Smite Forger, Bolt Crag, Bolt Crag, Grand Templar, Longshot Deadeye, Honorable Samurai, Sacred Sanctuary, Sacred Sanctuary, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #249 "GT200k05": aFhNpOIiUAkdIkdIkdIkVIlVenSWqWar
+Constantine, Bolt Crag, Bolt Crag, Bolt Crag, Inviolable Bema, Grand Templar, Sacred Sanctuary, Stoneheart, Dreamhaunter, Longshot Deadeye, Smite Forger
+Enemy's Deck:0.027027: Custom Deck #250 "GT200k06": aFhNpOIiOIiSQiUAkXCkdIkeClGCnWar
+Constantine, Ayrkrane Syn, Tempest Citadel, Bolt Crag, Sacred Sanctuary, Sacred Sanctuary, Crogall Static, Flash Deity, Grand Templar, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #251 "GT200k07": aFhOIiSQiUAkXCkVIlVenSWqULrULrWar
+Constantine, Flash Deity, Sacred Sanctuary, Inviolable Bema, Longshot Deadeye, Grand Templar, Blink Providence, Blink Providence, Tempest Citadel, Stoneheart, Smite Forger
+Enemy's Deck:0.027027: Custom Deck #252 "GT200k08": aFhNpOIiSQiXCkdIkdIkUSqSWqSWqSWq
+Constantine, Bolt Crag, Bolt Crag, Tempest Citadel, Flash Deity, Serraco Sire, Smite Forger, Smite Forger, Smite Forger, Sacred Sanctuary, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #253 "GT200k09": aFhNpOIiSQiXCkdIkKOkdclSWqSWqULr
+Constantine, Sacred Sanctuary, Blink Providence, Bolt Crag, Dreamhaunter, Smite Forger, Smite Forger, Noble Defiance, Honorable Samurai, Flash Deity, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #254 "GT200k10": aFhNpOIiOIiXCkUSqSWqSWqULrWarObr
+Constantine, Blink Providence, Stoneheart, Smite Forger, Smite Forger, Serraco Sire, Snowdrift, Dreamhaunter, Flash Deity, Sacred Sanctuary, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #255 "GT200k11": EAhNpMFiSQiGBkHEkWLmSSmWameAqWar
+Halcyon, Sculpted Aegis, Auger Ream, Hephatat Stoic, Neocyte Resonator, Tempest Citadel, Garrison Fortifier, Cadmus the Dragon, Justice Victorious, Stoneheart, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #256 "GT200k12": EAhNpIEidOiHEkJYkBWlSJmSSmQamWar
+Halcyon, Sculpted Aegis, Octane's Bastion, Stalwart Disposer, Neocyte Cultivator, Blast Lancer, Auger Ream, Ardor's Bastille, Justice Ascending, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #257 "GT200k13": EAhNpMFiSQiWLmOQmOQmSSmIKnIKnWar
+Halcyon, Auger Ream, Cruise Launcher, Cruise Launcher, Tundra MK3, Tundra MK3, Neocyte Resonator, Tempest Citadel, Hephatat Stoic, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #258 "GT200k14": EAhSQiGBkJYkWLmOQmSSmcSnaWnNcnKLq
+Halcyon, Hoard Arsenal, Garrison Fortifier, Auger Ream, Halting Corpsman, Cruise Launcher, Blast Lancer, Hephatat Stoic, Glimmer Shine, Octane's Bulwark, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #259 "GT200k15": CFhNpMFiSJmGZmWamYCnIKnMLncSnWar
+Tabitha, Tundra MK3, Sphinxite Liberated, Stalwart Disposer, Justice Victorious, Neocyte Resonator, Tygarm Resolute, Ardengraul, Halting Corpsman, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #260 "GT200k16": aOhNpOIieBkZHkTYlGZmabmOQnCLrWar
+Lord Silus, Charincinerator, Heart Devourer, Shock Disruptor, Sphinxite Liberated, Crude Surgeon, Judgment Nova, Wurz the Brazen, Sacred Sanctuary, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #261 "GT200k17": aOhNpOIiXZlecmMCnWBoUSqCLrWar
+Lord Silus, Sacred Sanctuary, Scorched Hellwing, Serraco Sire, Demi Constrictor, Dreamhaunter, Erebus City Sector, Shock Disruptor, Bane of Truth, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #262 "GT200k18": aOhNpYFiOIiTYlOQnUSqaSqWar
+Lord Silus, Crude Surgeon, Dreamhaunter, Rampage Boomer, Judgment Nova, Serraco Sire, Stoneheart, Sacred Sanctuary, Mobile Encampment
+Enemy's Deck:0.027027: Custom Deck #263 "GT200k19": IBhNpUIiSQiETiJckMcmecmecmIHnWBq
+Dracorex, Tempest Citadel, Oreworks, Croc Oppressor, Scorched Hellwing, Scorched Hellwing, Abhorrent Recluse, Shapesavant, Wurmsleth Infested, Entrails Bog, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #264 "GT200k20": UOhOIiETiETiDVlaKmecmecmcbpCOrWar
+Malort, Scorched Hellwing, Scorched Hellwing, Vicerolos, Arch Nova Alpha, Stoneheart, Oreworks, Oreworks, Tazerious, Ezamit Tranq, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #265 "GT200k21": IFhNpeBkdIkDVlYEmSSmAVmGCncbpWar
+Barracus, Lurker Behemoth, Auger Ream, Charincinerator, Tazerious, Ayrkrane Syn, Bolt Crag, Tartarus Graft, Arch Nova Alpha, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #266 "GT200k22": IFhNpOIiOIiDVlHYlXZlSSmMFncbpWar
+Barracus, Demi Constrictor, Sacred Sanctuary, Sacred Sanctuary, Arch Nova Alpha, Incog Niaq, Tazerious, Steadfast Assailant, Auger Ream, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #267 "GT200k23": IFhNpSQiETiaAkdIkVKlDVlXZlSSmWar
+Barracus, Tazerious, Auger Ream, Lord Hades, Tempest Citadel, Veiled Defiler, Dreamhaunter, Bolt Crag, Demi Constrictor, Oreworks, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #268 "GT200k24": IFhNpCNlQLmWRmGZmGZmKAnWGnMLn
+Barracus, Executioner Hiborn, Deft Reclaimer, Portal Noctil, Sphinxite Liberated, Sphinxite Liberated, Cockatrice Baxis, Havenguard, Ardengraul, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #269 "GT200k25": IFhNpOIiETiDVlXZlSSmGCncPncbpWar
+Barracus, Demi Constrictor, Sacred Sanctuary, Oreworks, Arch Nova Alpha, Xillanail, Tazerious, Auger Ream, Ayrkrane Syn, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #270 "GT200k26": IFhNpETiDVlaKmecmecmKAnDencbpWar
+Barracus, Hardened Palisade, Dreamhaunter, Vicerolos, Tazerious, Scorched Hellwing, Scorched Hellwing, Cockatrice Baxis, Oreworks, Arch Nova Alpha, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #271 "GT200k27": IFhNpETiETiXZlabmecmecmCemCemKAn
+Barracus, Wurz the Brazen, Scorched Hellwing, Scorched Hellwing, Oreworks, Oreworks, Razor Pinion, Razor Pinion, Cockatrice Baxis, Dreamhaunter, Demi Constrictor
+Enemy's Deck:0.027027: Custom Deck #272 "GT200k28": UFhNpSQiETiETiecmeCneInEbpcbpUSq
+Nexor, Oreworks, Oreworks, Dreamhaunter, Tygarm Adamant, Ion Converter, Tempest Citadel, Scorched Hellwing, Serraco Sire, Arch Nova Alpha, Wilter Conscript
+Enemy's Deck:0.027027: Custom Deck #273 "GT200k29": UFhNpSQiETiFRkfZkXZlecmGfmKAncbp
+Nexor, Narscious the Eerie, Styxasis, Warp Alchemist, Oreworks, Arch Nova Alpha, Tempest Citadel, Scorched Hellwing, Cockatrice Baxis, Demi Constrictor, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #274 "GT200k30": UFhNpNpSQiORiDVlXZlXZlWRmcbpWar
+Nexor, Tazerious, Demi Constrictor, Demi Constrictor, Dreamhaunter, Neo Dredge, Arch Nova Alpha, Tempest Citadel, Portal Noctil, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #275 "GT200k31": GNhNpOIiSQiETiXZlXZlecmeCncbpWar
+Kylen, Scorched Hellwing, Demi Constrictor, Demi Constrictor, Dreamhaunter, Tempest Citadel, Oreworks, Arch Nova Alpha, Tygarm Adamant, Stoneheart, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #276 "GT200k32": GNhNpOIiOIiDVlXZlXZlWRmKAncbpWar
+Kylen, Demi Constrictor, Demi Constrictor, Sacred Sanctuary, Sacred Sanctuary, Arch Nova Alpha, Dreamhaunter, Cockatrice Baxis, Tazerious, Portal Noctil, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #277 "GT200k33": UFhNpETifZkDVlXZlXZlecmCemeInWPn
+Nexor, Demi Constrictor, Demi Constrictor, Grizrael the Damned, Tazerious, Razor Pinion, Ion Converter, Scorched Hellwing, Warp Alchemist, Oreworks, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #278 "GT200k34": UFhNpOIiABkABkDVlcelSSmcbpOLrWar
+Nexor, The Adversary, Arch Nova Alpha, Vicious Borg, Vicious Borg, Tazerious, Sacred Sanctuary, Talendath Reborn, Auger Ream, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #279 "GT200k35": GNhNpOIiORiSBkUNlXZlXZlCYmcbpWar
+Kylen, Dusk Shade, Azure Reveler, Sacred Sanctuary, Demi Constrictor, Demi Constrictor, Neo Dredge, Invoskeleton, Arch Nova Alpha, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #280 "GT200k36": YChNpOIiSQiETiXZlWRmCYmUEnaZncbp
+Krellus, Serak United, Invoskeleton, Dreamhaunter, Arch Nova Alpha, Oreworks, Portal Noctil, Sacred Sanctuary, Demi Constrictor, Pherous Astute, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #281 "GT200k37": GNhNpSQiXZlWRmcPnaZnWBocbpNcqCOr
+Kylen, Demi Constrictor, Portal Noctil, Arch Nova Alpha, Dreamhaunter, Erebus City Sector, Tempest Citadel, Ezamit Tranq, Xillanail, Jilted Baughe, Pherous Astute
+win%: 0.733838 (14 84 88 174 184 747 3143 356 509 1104 487 6919 247 2911 658 20 1358 662 400 90 581 1442 381 578 723 156 6 108 34 9 100 77 111 1366 195 1075 55 / 100000)
+stall%: 0.0062973 (1 0 0 1 0 0 0 0 4 0 0 25 1 0 3 0 2 0 3 1 10 10 15 14 40 2 0 2 11 1 1 2 39 5 28 11 1 / 100000)
+loss%: 99.2599 (99985 99916 99912 99825 99816 99253 96857 99644 99487 98896 99513 93056 99752 97089 99339 99980 98640 99338 99597 99909 99409 98548 99604 99408 99237 99842 99994 99890 99955 99990 99899 99921 99850 98629 99777 98914 99944 / 100000)
+ECHO is on.
+Your Deck: Custom Deck #332 "ST10": aFhPVkdclOIiKOkSWqdIkUAkWBrWbpRak
+Constantine, Zodiac Harbinger, Honorable Samurai, Sacred Sanctuary, Noble Defiance, Smite Forger, Bolt Crag, Grand Templar, Supernova, Flank, Recovery Sanctum
+Enemy's Deck:0.027027: Custom Deck #245 "GT200k01": aFhNpSQiUAkdIkVIldclGCnSWqSWqWar
+Constantine, Longshot Deadeye, Smite Forger, Smite Forger, Honorable Samurai, Bolt Crag, Ayrkrane Syn, Grand Templar, Dreamhaunter, Stoneheart, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #246 "GT200k02": aFhNpOIiSQidcldclGCnSWqSWqULrWar
+Constantine, Sacred Sanctuary, Smite Forger, Smite Forger, Ayrkrane Syn, Honorable Samurai, Honorable Samurai, Tempest Citadel, Dreamhaunter, Stoneheart, Blink Providence
+Enemy's Deck:0.027027: Custom Deck #247 "GT200k03": aFhNpOIiSQidIkdIkGCnSWqSWqSWqSWq
+Constantine, Smite Forger, Smite Forger, Smite Forger, Smite Forger, Bolt Crag, Bolt Crag, Ayrkrane Syn, Dreamhaunter, Sacred Sanctuary, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #248 "GT200k04": aFhNpOIiOIiUAkdIkdIkVIldclSWqWar
+Constantine, Smite Forger, Bolt Crag, Bolt Crag, Grand Templar, Longshot Deadeye, Honorable Samurai, Sacred Sanctuary, Sacred Sanctuary, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #249 "GT200k05": aFhNpOIiUAkdIkdIkdIkVIlVenSWqWar
+Constantine, Bolt Crag, Bolt Crag, Bolt Crag, Inviolable Bema, Grand Templar, Sacred Sanctuary, Stoneheart, Dreamhaunter, Longshot Deadeye, Smite Forger
+Enemy's Deck:0.027027: Custom Deck #250 "GT200k06": aFhNpOIiOIiSQiUAkXCkdIkeClGCnWar
+Constantine, Ayrkrane Syn, Tempest Citadel, Bolt Crag, Sacred Sanctuary, Sacred Sanctuary, Crogall Static, Flash Deity, Grand Templar, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #251 "GT200k07": aFhOIiSQiUAkXCkVIlVenSWqULrULrWar
+Constantine, Flash Deity, Sacred Sanctuary, Inviolable Bema, Longshot Deadeye, Grand Templar, Blink Providence, Blink Providence, Tempest Citadel, Stoneheart, Smite Forger
+Enemy's Deck:0.027027: Custom Deck #252 "GT200k08": aFhNpOIiSQiXCkdIkdIkUSqSWqSWqSWq
+Constantine, Bolt Crag, Bolt Crag, Tempest Citadel, Flash Deity, Serraco Sire, Smite Forger, Smite Forger, Smite Forger, Sacred Sanctuary, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #253 "GT200k09": aFhNpOIiSQiXCkdIkKOkdclSWqSWqULr
+Constantine, Sacred Sanctuary, Blink Providence, Bolt Crag, Dreamhaunter, Smite Forger, Smite Forger, Noble Defiance, Honorable Samurai, Flash Deity, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #254 "GT200k10": aFhNpOIiOIiXCkUSqSWqSWqULrWarObr
+Constantine, Blink Providence, Stoneheart, Smite Forger, Smite Forger, Serraco Sire, Snowdrift, Dreamhaunter, Flash Deity, Sacred Sanctuary, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #255 "GT200k11": EAhNpMFiSQiGBkHEkWLmSSmWameAqWar
+Halcyon, Sculpted Aegis, Auger Ream, Hephatat Stoic, Neocyte Resonator, Tempest Citadel, Garrison Fortifier, Cadmus the Dragon, Justice Victorious, Stoneheart, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #256 "GT200k12": EAhNpIEidOiHEkJYkBWlSJmSSmQamWar
+Halcyon, Sculpted Aegis, Octane's Bastion, Stalwart Disposer, Neocyte Cultivator, Blast Lancer, Auger Ream, Ardor's Bastille, Justice Ascending, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #257 "GT200k13": EAhNpMFiSQiWLmOQmOQmSSmIKnIKnWar
+Halcyon, Auger Ream, Cruise Launcher, Cruise Launcher, Tundra MK3, Tundra MK3, Neocyte Resonator, Tempest Citadel, Hephatat Stoic, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #258 "GT200k14": EAhSQiGBkJYkWLmOQmSSmcSnaWnNcnKLq
+Halcyon, Hoard Arsenal, Garrison Fortifier, Auger Ream, Halting Corpsman, Cruise Launcher, Blast Lancer, Hephatat Stoic, Glimmer Shine, Octane's Bulwark, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #259 "GT200k15": CFhNpMFiSJmGZmWamYCnIKnMLncSnWar
+Tabitha, Tundra MK3, Sphinxite Liberated, Stalwart Disposer, Justice Victorious, Neocyte Resonator, Tygarm Resolute, Ardengraul, Halting Corpsman, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #260 "GT200k16": aOhNpOIieBkZHkTYlGZmabmOQnCLrWar
+Lord Silus, Charincinerator, Heart Devourer, Shock Disruptor, Sphinxite Liberated, Crude Surgeon, Judgment Nova, Wurz the Brazen, Sacred Sanctuary, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #261 "GT200k17": aOhNpOIiXZlecmMCnWBoUSqCLrWar
+Lord Silus, Sacred Sanctuary, Scorched Hellwing, Serraco Sire, Demi Constrictor, Dreamhaunter, Erebus City Sector, Shock Disruptor, Bane of Truth, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #262 "GT200k18": aOhNpYFiOIiTYlOQnUSqaSqWar
+Lord Silus, Crude Surgeon, Dreamhaunter, Rampage Boomer, Judgment Nova, Serraco Sire, Stoneheart, Sacred Sanctuary, Mobile Encampment
+Enemy's Deck:0.027027: Custom Deck #263 "GT200k19": IBhNpUIiSQiETiJckMcmecmecmIHnWBq
+Dracorex, Tempest Citadel, Oreworks, Croc Oppressor, Scorched Hellwing, Scorched Hellwing, Abhorrent Recluse, Shapesavant, Wurmsleth Infested, Entrails Bog, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #264 "GT200k20": UOhOIiETiETiDVlaKmecmecmcbpCOrWar
+Malort, Scorched Hellwing, Scorched Hellwing, Vicerolos, Arch Nova Alpha, Stoneheart, Oreworks, Oreworks, Tazerious, Ezamit Tranq, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #265 "GT200k21": IFhNpeBkdIkDVlYEmSSmAVmGCncbpWar
+Barracus, Lurker Behemoth, Auger Ream, Charincinerator, Tazerious, Ayrkrane Syn, Bolt Crag, Tartarus Graft, Arch Nova Alpha, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #266 "GT200k22": IFhNpOIiOIiDVlHYlXZlSSmMFncbpWar
+Barracus, Demi Constrictor, Sacred Sanctuary, Sacred Sanctuary, Arch Nova Alpha, Incog Niaq, Tazerious, Steadfast Assailant, Auger Ream, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #267 "GT200k23": IFhNpSQiETiaAkdIkVKlDVlXZlSSmWar
+Barracus, Tazerious, Auger Ream, Lord Hades, Tempest Citadel, Veiled Defiler, Dreamhaunter, Bolt Crag, Demi Constrictor, Oreworks, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #268 "GT200k24": IFhNpCNlQLmWRmGZmGZmKAnWGnMLn
+Barracus, Executioner Hiborn, Deft Reclaimer, Portal Noctil, Sphinxite Liberated, Sphinxite Liberated, Cockatrice Baxis, Havenguard, Ardengraul, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #269 "GT200k25": IFhNpOIiETiDVlXZlSSmGCncPncbpWar
+Barracus, Demi Constrictor, Sacred Sanctuary, Oreworks, Arch Nova Alpha, Xillanail, Tazerious, Auger Ream, Ayrkrane Syn, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #270 "GT200k26": IFhNpETiDVlaKmecmecmKAnDencbpWar
+Barracus, Hardened Palisade, Dreamhaunter, Vicerolos, Tazerious, Scorched Hellwing, Scorched Hellwing, Cockatrice Baxis, Oreworks, Arch Nova Alpha, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #271 "GT200k27": IFhNpETiETiXZlabmecmecmCemCemKAn
+Barracus, Wurz the Brazen, Scorched Hellwing, Scorched Hellwing, Oreworks, Oreworks, Razor Pinion, Razor Pinion, Cockatrice Baxis, Dreamhaunter, Demi Constrictor
+Enemy's Deck:0.027027: Custom Deck #272 "GT200k28": UFhNpSQiETiETiecmeCneInEbpcbpUSq
+Nexor, Oreworks, Oreworks, Dreamhaunter, Tygarm Adamant, Ion Converter, Tempest Citadel, Scorched Hellwing, Serraco Sire, Arch Nova Alpha, Wilter Conscript
+Enemy's Deck:0.027027: Custom Deck #273 "GT200k29": UFhNpSQiETiFRkfZkXZlecmGfmKAncbp
+Nexor, Narscious the Eerie, Styxasis, Warp Alchemist, Oreworks, Arch Nova Alpha, Tempest Citadel, Scorched Hellwing, Cockatrice Baxis, Demi Constrictor, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #274 "GT200k30": UFhNpNpSQiORiDVlXZlXZlWRmcbpWar
+Nexor, Tazerious, Demi Constrictor, Demi Constrictor, Dreamhaunter, Neo Dredge, Arch Nova Alpha, Tempest Citadel, Portal Noctil, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #275 "GT200k31": GNhNpOIiSQiETiXZlXZlecmeCncbpWar
+Kylen, Scorched Hellwing, Demi Constrictor, Demi Constrictor, Dreamhaunter, Tempest Citadel, Oreworks, Arch Nova Alpha, Tygarm Adamant, Stoneheart, Sacred Sanctuary
+Enemy's Deck:0.027027: Custom Deck #276 "GT200k32": GNhNpOIiOIiDVlXZlXZlWRmKAncbpWar
+Kylen, Demi Constrictor, Demi Constrictor, Sacred Sanctuary, Sacred Sanctuary, Arch Nova Alpha, Dreamhaunter, Cockatrice Baxis, Tazerious, Portal Noctil, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #277 "GT200k33": UFhNpETifZkDVlXZlXZlecmCemeInWPn
+Nexor, Demi Constrictor, Demi Constrictor, Grizrael the Damned, Tazerious, Razor Pinion, Ion Converter, Scorched Hellwing, Warp Alchemist, Oreworks, Dreamhaunter
+Enemy's Deck:0.027027: Custom Deck #278 "GT200k34": UFhNpOIiABkABkDVlcelSSmcbpOLrWar
+Nexor, The Adversary, Arch Nova Alpha, Vicious Borg, Vicious Borg, Tazerious, Sacred Sanctuary, Talendath Reborn, Auger Ream, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #279 "GT200k35": GNhNpOIiORiSBkUNlXZlXZlCYmcbpWar
+Kylen, Dusk Shade, Azure Reveler, Sacred Sanctuary, Demi Constrictor, Demi Constrictor, Neo Dredge, Invoskeleton, Arch Nova Alpha, Dreamhaunter, Stoneheart
+Enemy's Deck:0.027027: Custom Deck #280 "GT200k36": YChNpOIiSQiETiXZlWRmCYmUEnaZncbp
+Krellus, Serak United, Invoskeleton, Dreamhaunter, Arch Nova Alpha, Oreworks, Portal Noctil, Sacred Sanctuary, Demi Constrictor, Pherous Astute, Tempest Citadel
+Enemy's Deck:0.027027: Custom Deck #281 "GT200k37": GNhNpSQiXZlWRmcPnaZnWBocbpNcqCOr
+Kylen, Demi Constrictor, Portal Noctil, Arch Nova Alpha, Dreamhaunter, Erebus City Sector, Tempest Citadel, Ezamit Tranq, Xillanail, Jilted Baughe, Pherous Astute
+win%: 5.25443 (5674 5249 1757 3522 3071 8420 12683 5585 7622 3859 8545 5591 2328 7883 2543 1540 5500 1789 11504 2046 14247 6446 13337 5041 3191 2266 1791 3091 4269 2109 4258 2800 4466 8621 2255 5837 3678 / 100000)
+stall%: 0.0423243 (21 11 6 1 2 5 7 19 77 2 47 1 12 4 5 2 0 0 340 2 62 7 31 1 18 38 32 77 48 43 56 3 56 10 15 239 266 / 100000)
+loss%: 94.7032 (94305 94740 98237 96477 96927 91575 87310 94396 92301 96139 91408 94408 97660 92113 97452 98458 94500 98211 88156 97952 85691 93547 86632 94958 96791 97696 98177 96832 95683 97848 95686 97197 95478 91369 97730 93924 96056 / 100000)
+ECHO is on.
+ECHO is on.
+ECHO is on.
+ECHO is on.

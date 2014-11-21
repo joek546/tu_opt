@@ -1,6 +1,206 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Grimoire Pack -->
+
+	<fusion_recipe>
+		<card_id>12524</card_id>
+		<resource card_id='12523' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12530</card_id>
+		<resource card_id='12529' number='2' />
+	</fusion_recipe>
+
+<!-- Round 6 Base Set Fusions -->
+
+	<fusion_recipe>
+		<card_id>12476</card_id>
+		<resource card_id='449' number='1' />
+		<resource card_id='6756' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12482</card_id>
+		<resource card_id='455' number='1' />
+		<resource card_id='2160' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12488</card_id>
+		<resource card_id='5925' number='1' />
+		<resource card_id='427' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12494</card_id>
+		<resource card_id='6015' number='1' />
+		<resource card_id='467' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12500</card_id>
+		<resource card_id='473' number='1' />
+		<resource card_id='2178' number='1' />
+	</fusion_recipe>
+
+<!-- Brutality Cache -->
+
+	<fusion_recipe>
+		<card_id>12464</card_id>
+		<resource card_id='12463' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12470</card_id>
+		<resource card_id='12469' number='2' />
+	</fusion_recipe>
+
+<!-- Oluth Raid Reward -->
+
+	<fusion_recipe>
+		<card_id>12350</card_id>
+		<resource card_id='12349' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12356</card_id>
+		<resource card_id='12355' number='2' />
+	</fusion_recipe>
+
+<!-- Classified Box -->
+
+	<fusion_recipe>
+		<card_id>12404</card_id>
+		<resource card_id='12403' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12410</card_id>
+		<resource card_id='12409' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12368</card_id>
+		<resource card_id='12367' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12374</card_id>
+		<resource card_id='12373' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12386</card_id>
+		<resource card_id='12385' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12392</card_id>
+		<resource card_id='12391' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12422</card_id>
+		<resource card_id='12421' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12428</card_id>
+		<resource card_id='12427' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12440</card_id>
+		<resource card_id='12439' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12446</card_id>
+		<resource card_id='12445' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12452</card_id>
+		<resource card_id='6308' number='2' />
+	</fusion_recipe>
+
+<!-- Macabre Pack -->
+
+	<fusion_recipe>
+		<card_id>12282</card_id>
+		<resource card_id='12281' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12288</card_id>
+		<resource card_id='12287' number='2' />
+	</fusion_recipe>
+
+<!-- Regal Cache -->
+
+	<fusion_recipe>
+		<card_id>12258</card_id>
+		<resource card_id='12257' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12264</card_id>
+		<resource card_id='12263' number='2' />
+	</fusion_recipe>
+
+<!-- Gore Brawl -->
+
+	<fusion_recipe>
+		<card_id>12240</card_id>
+		<resource card_id='12239' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12246</card_id>
+		<resource card_id='12245' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12222</card_id>
+		<resource card_id='12221' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12228</card_id>
+		<resource card_id='12227' number='2' />
+	</fusion_recipe>
+
+<!-- Crimson Box -->
+
+	<fusion_recipe>
+		<card_id>12156</card_id>
+		<resource card_id='12155' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12162</card_id>
+		<resource card_id='12161' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12137</card_id>
+		<resource card_id='12136' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12143</card_id>
+		<resource card_id='12142' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12180</card_id>
+		<resource card_id='12179' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12186</card_id>
+		<resource card_id='12185' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8235</card_id>
+		<resource card_id='8234' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8241</card_id>
+		<resource card_id='8240' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12198</card_id>
+		<resource card_id='12197' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12204</card_id>
+		<resource card_id='12203' number='2' />
+	</fusion_recipe>
+
+<!-- November 2014 Week 1 Reward --> 
+
+	<fusion_recipe>
+		<card_id>12210</card_id>
+		<resource card_id='7802' number='2' />
+	</fusion_recipe>
+	
+
 <!-- Forsaken Horde Raid -->
 
 	<fusion_recipe>

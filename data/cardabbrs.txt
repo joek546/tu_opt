@@ -1,3 +1,5 @@
+ANA: Arch Nova Alpha
+ANE: Arch Nova Elite
 AV: Ayrkrane Vik
 Ayr: Ayrkrane
 BC: Blight Crusher
@@ -7,7 +9,9 @@ CA: Crushing Anvil
 CJ: Covert Jet
 Const: Constantine
 CP: Contaminant Purifier
-DF: Deranged Fanatic
+CS: Corrosive Spore
+DFan: Deranged Fanatic
+DF: Death Factory
 DQ: Draconian Queen
 DV: Dutiful Veteran
 Eerie: Narscious the Eerie
@@ -16,6 +20,7 @@ GF: Garrison Fortifier
 HA: Havoc Alpha
 HD: Heart Devourer
 HG: Havoc Genesis
+IA: Inspiring Altar
 IT: Indestructible Troop
 IV: Indebted Veteran
 MJ: Mach Jet

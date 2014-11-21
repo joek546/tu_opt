@@ -18228,6 +18228,679 @@
 		<req>2290</req>
 	</mission>
 	<!-- END October 2014 Missions -->
+	<!-- START November 2014 Missions -->
+	<mission>
+		<id>2292</id>
+		<name>Unexpected Discovery</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>25</energy>
+		<x>75</x>
+		<y>400</y>
+		<commander>1011</commander>
+		<speech>
+			<line commander='1003'>Ugh... That was a rough fall. Where in the Seven Hells are we?</line>
+			<line commander='1998'>Sir! I think we found the Bloodthirsty we were tracking.</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>70</card>
+			<card>70</card>
+			<card>70</card>
+			<card>78</card>
+			<card>75</card>
+			<card>75</card>
+			<card>172</card>
+			<card>505</card>
+			<card>2016</card>
+		</deck>
+		<rewards>
+			<gold>27</gold>
+			<card>172</card>
+			<item>1021</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>10</req>
+	</mission>
+	
+	<mission>
+		<id>2293</id>
+		<name>Waking Nightmare</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>27</energy>
+		<x>130</x>
+		<y>320</y>
+		<commander>1011</commander>
+		<speech>
+			<line commander='1998'>Fighting the Forsaken woke something up down here. It caused a collapse and made us fall.</line>
+			<line commander='1003'>Well we're in the thick of it now! We need to slice our way out of here.</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>366</card>
+			<card>366</card>
+			<card>68</card>
+			<card>71</card>
+			<card>81</card>
+			<card>81</card>
+			<card>75</card>
+			<card>75</card>
+			<card>67</card>
+		</deck>
+		<rewards>
+			<gold>27</gold>
+			<card>67</card>
+			<item>1021</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2292</req>
+	</mission>
+
+	<mission>
+		<id>2294</id>
+		<name>Predatory Impulse</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>30</energy>
+		<x>210</x>
+		<y>280</y>
+		<commander>1011</commander>
+		<speech>
+			<line commander='1003'>Looks to me that some of the Forsaken we were fighting survived the fall, but they did not survive the Bloodthirsty.</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>72</card>
+			<card>72</card>
+			<card>81</card>
+			<card>81</card>
+			<card>172</card>
+			<card>73</card>
+			<card>364</card>
+			<card>364</card>
+			<card>362</card>
+		</deck>
+		<rewards>
+			<gold>33</gold>
+			<card>72</card>
+			<item>1022</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2293</req>
+	</mission>
+
+	<mission>
+		<id>2295</id>
+		<name>Horrific Advance</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>33</energy>
+		<x>130</x>
+		<y>180</y>
+		<commander>1012</commander>
+		<speech>
+			<line commander='1998'>I wonder if Yurich and the Raiders got away before the collapse?</line>
+			<line commander='1003'>Let's not concern ourselves with those that betray us.</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>173</card>
+			<card>364</card>
+			<card>364</card>
+			<card>78</card>
+			<card>78</card>
+			<card>75</card>
+			<card>81</card>
+			<card>81</card>
+			<card>528</card>
+		</deck>
+		<rewards>
+			<gold>36</gold>
+			<card>78</card>
+			<item>1022</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2294</req>
+	</mission>
+
+	<mission>
+		<id>2296</id>
+		<name>Dead Wait</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>35</energy>
+		<x>210</x>
+		<y>160</y>
+		<commander>1012</commander>
+		<speech>
+			<line commander='1998'>Any plans on how to get out of here?</line>
+			<line commander='1003'>By climbing the corpses of our foes.</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>197</card>
+			<card>70</card>
+			<card>70</card>
+			<card>504</card>
+			<card>2015</card>
+			<card>366</card>
+			<card>366</card>
+			<card>73</card>
+			<card>173</card>
+		</deck>
+		<rewards>
+			<gold>38</gold>
+			<card>70</card>
+			<item>1023</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2295</req>
+	</mission>
+
+	<mission>
+		<id>2297</id>
+		<name>Hasteful Plans</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>40</energy>
+		<x>290</x>
+		<y>170</y>
+		<commander>1012</commander>
+		<speech>
+			<line commander='1998'>Our dead bodies would join our foes in that corpse pile if we tried to fight that long.</line>
+			<line commander='1003'>That far cavern wall looks like it might be scalable... but we're going to have to deal with that monstrosity in front of us first.</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>68</card>
+			<card>68</card>
+			<card>79</card>
+			<card>79</card>
+			<card>173</card>
+			<card>71</card>
+			<card>71</card>
+			<card>81</card>
+			<card>82</card>
+		</deck>
+		<rewards>
+			<gold>44</gold>
+			<card>71</card>
+			<item>1023</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2296</req>
+	</mission>
+
+	<mission>
+		<id>2298</id>
+		<name>Unknown Evil</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>45</energy>
+		<x>370</x>
+		<y>170</y>
+		<commander>1012</commander>
+		<speech>
+			<line commander='1003'>Speaking of which... what exactly is this thing we're approaching? I cannot tell where the teeth end and the mouth begins.</line>
+			<line commander='1998'>By the look of it, I would venture a guess that these are not the Bloodthirsty we tracked here... it looks like it lives here.</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>325</card>
+			<card>173</card>
+			<card>173</card>
+			<card>362</card>
+			<card>79</card>
+			<card>79</card>
+			<card>78</card>
+			<card>67</card>
+			<card>67</card>
+		</deck>
+		<rewards>
+			<gold>49</gold>
+			<card>78</card>
+			<item>1024</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2297</req>
+	</mission>
+
+	<mission>
+		<id>2299</id>
+		<name>Insidious</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<mission_type>2</mission_type>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>50</energy>
+		<x>451</x>
+		<y>162</y>
+		<commander>1533</commander>
+		<speech>
+			<line commander='1003'>A Bloodthirsty colony under the Sulfuris Acid Pits? I guess they'll be tough to kill... I love a challenge!</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>6207</card>
+			<card>6629</card>
+			<card>619</card>
+			<card>528</card>
+			<card>11415</card>
+			<card>86</card>
+			<card>7215</card>
+			<card>4628</card>
+			<card>5647</card>
+		</deck>
+		<rewards>
+			<gold>60</gold>
+			<card>528</card>
+			<item>1024</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2298</req>
+	</mission>
+	
+	<mission>
+		<id>2300</id>
+		<name>Hollow Teeth</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>50</energy>
+		<x>550</x>
+		<y>160</y>
+		<commander>1013</commander>
+		<speech>
+			<line commander='1003'>There's not enough teeth in this cavern to kill me.</line>
+			<line commander='1998'>The amount of Bloodthirsty keeps increasing... Over there! That cave sort of looks like an exit.</line>
+		</speech>
+		<deck>
+			<card>12270</card>
+			<card>505</card>
+			<card>76</card>
+			<card>78</card>
+			<card>81</card>
+			<card>505</card>
+			<card>618</card>
+			<card>5768</card>
+			<card>6270</card>
+			<card>5826</card>
+		</deck>
+		<rewards>
+			<gold>55</gold>
+			<card>2012</card>
+			<item>1021</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2299</req>
+	</mission>
+
+	<mission>
+		<id>2301</id>
+		<name>Uncertain Future</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>55</energy>
+		<x>590</x>
+		<y>230</y>
+		<commander>1013</commander>
+		<speech>
+			<line commander='1003'>Are we sure there are exits? I still think scaling that far off wall would be better.</line>
+			<line commander='1998'>I'd rather not risk our lives rock climbing with Bloodthirsty nipping at our heels.</line>
+		</speech>
+		<deck>
+			<card>12270</card>
+			<card>8078</card>
+			<card>5376</card>
+			<card>6269</card>
+			<card>197</card>
+			<card>68</card>
+			<card>73</card>
+			<card>79</card>
+			<card>79</card>
+			<card>2013</card>
+		</deck>
+		<rewards>
+			<gold>60</gold>
+			<card>72</card>
+			<item>1021</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2300</req>
+	</mission>
+
+	<mission>
+		<id>2302</id>
+		<name>Friend or Foe</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>60</energy>
+		<x>570</x>
+		<y>310</y>
+		<commander>1013</commander>
+		<speech>
+			<line commander='1053'>Well well, if it isn't our friends the Imperials.</line>
+			<line commander='1003'>I had hoped I wouldn't have to see your face again any time soon Yurich.</line>
+		</speech>
+		<deck>
+			<card>12270</card>
+			<card>173</card>
+			<card>73</card>
+			<card>505</card>
+			<card>366</card>
+			<card>70</card>
+			<card>529</card>
+			<card>6470</card>
+			<card>4330</card>
+			<card>10567</card>
+		</deck>
+		<rewards>
+			<gold>66</gold>
+			<card>67</card>
+			<item>1022</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2301</req>
+	</mission>
+
+	<mission>
+		<id>2303</id>
+		<name>A Raider Apology</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>60</energy>
+		<x>650</x>
+		<y>320</y>
+		<commander>1013</commander>
+		<speech>
+			<line commander='1053'>I realize I was being no better than the Forsaken. You were right, destroying the weapon should have been enough.</line>
+			<line commander='1998'>I don't think we have time for your apology.</line>
+		</speech>
+		<deck>
+			<card>12270</card>
+			<card>4712</card>
+			<card>2298</card>
+			<card>5264</card>
+			<card>82</card>
+			<card>5575</card>
+			<card>78</card>
+			<card>362</card>
+			<card>364</card>
+			<card>68</card>
+		</deck>
+		<rewards>
+			<gold>66</gold>
+			<card>78</card>
+			<item>1022</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2302</req>
+	</mission>
+
+	<mission>
+		<id>2304</id>
+		<name>Catharsis</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>65</energy>
+		<x>690</x>
+		<y>240</y>
+		<commander>1013</commander>
+		<speech>
+			<line commander='1003'>Honestly, I wouldn't mind leaving you here to meet your end by the tentacles in this cavern.</line>
+			<line commander='1053'>We can work together and get out alive, or split up and make this cavern our permanent home. Don't be a fool.</line>
+		</speech>
+		<deck>
+			<card>12270</card>
+			<card>173</card>
+			<card>73</card>
+			<card>2016</card>
+			<card>504</card>
+			<card>11409</card>
+			<card>4330</card>
+			<card>2397</card>
+			<card>325</card>
+			<card>551</card>
+		</deck>
+		<rewards>
+			<gold>71</gold>
+			<card>81</card>
+			<item>1023</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2303</req>
+	</mission>
+
+	<mission>
+		<id>2305</id>
+		<name>Compromise</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>70</energy>
+		<x>740</x>
+		<y>170</y>
+		<commander>1013</commander>
+		<speech>
+			<line commander='1003'>Very well, we'll lead you to safety as soon as we figure out where safety is... but I have my eye on you.</line>
+		</speech>
+		<deck>
+			<card>12270</card>
+			<card>551</card>
+			<card>619</card>
+			<card>5769</card>
+			<card>6269</card>
+			<card>7383</card>
+			<card>2012</card>
+			<card>68</card>
+			<card>366</card>
+			<card>173</card>
+		</deck>
+		<rewards>
+			<gold>77</gold>
+			<card>172</card>
+			<item>1023</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2304</req>
+	</mission>
+
+	<mission>
+		<id>2306</id>
+		<name>An Insane Plan</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>75</energy>
+		<x>920</x>
+		<y>180</y>
+		<commander>1013</commander>
+		<speech>
+			<line commander='1053'>So what exactly is the plan?</line>
+			<line commander='1998'>We're going to try seeing if there is an exit in that glowing red cave.</line>
+			<line commander='1053'>You mean that ominous glowing blood red cave behind a gigantic Bloodthirsty? Are you insane?</line>
+		</speech>
+		<deck>
+			<card>12270</card>
+			<card>11090</card>
+			<card>5265</card>
+			<card>83</card>
+			<card>551</card>
+			<card>5376</card>
+			<card>366</card>
+			<card>76</card>
+			<card>362</card>
+			<card>434</card>
+		</deck>
+		<rewards>
+			<gold>82</gold>
+			<card>2015</card>
+			<item>1024</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2305</req>
+	</mission>
+	
+	<mission>
+		<id>2307</id>
+		<name>Mammon</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<mission_type>2</mission_type>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>75</energy>
+		<x>820</x>
+		<y>215</y>
+		<commander>1539</commander>
+		<speech>
+			<line commander='1998'>We don't have much of a choice!</line>
+			<line commander='1003'>More Bloodthirsty to conquer. I care not how large the beast, only more for me to slay!</line>
+		</speech>
+		<deck>
+			<card>6207</card>
+			<card>12270</card>
+			<card>12270</card>
+			<card>6269</card>
+			<card>11090</card>
+			<card>11035</card>
+			<card>7497</card>
+			<card>7845</card>
+			<card>11096</card>
+			<card>4453</card>
+		</deck>
+		<rewards>
+			<gold>90</gold>
+			<card>2030</card>
+			<item>1025</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2306</req>
+	</mission>
+	<!-- END November 2014 Missions -->
 
 	<location>
 		<id>1</id>
@@ -18401,13 +19074,22 @@
     	<asset_bundle>19</asset_bundle>
     	<req>10</req>
     </location>
+
+	<location>
+		<id>114</id>
+		<name>Cavern of Blood</name>
+		<event_req>25</event_req>
+		<mapBG>bt_cave_w2</mapBG>
+		<asset_bundle>20</asset_bundle>
+		<req>10</req>
+	</location>
 	
 <!-- Event Portals -->
 
 	<portal>
 		<location_id>1</location_id>
-		<destination_id>113</destination_id>
-		<event_req>23</event_req>
+		<destination_id>114</destination_id>
+		<event_req>25</event_req>
 		<req>10</req>
 		<x>420</x>
 		<y>450</y>
@@ -18415,8 +19097,8 @@
 
 	<portal>
 		<location_id>2</location_id>
-		<destination_id>113</destination_id>
-		<event_req>23</event_req>
+		<destination_id>114</destination_id>
+		<event_req>25</event_req>
 		<req>10</req>
 		<x>650</x>
 		<y>250</y>
@@ -18424,8 +19106,8 @@
 
 	<portal>
 		<location_id>3</location_id>
-		<destination_id>113</destination_id>
-		<event_req>23</event_req>
+		<destination_id>114</destination_id>
+		<event_req>25</event_req>
 		<req>10</req>
 		<x>180</x>
 		<y>600</y>
@@ -18433,8 +19115,8 @@
 
 	<portal>
 		<location_id>4</location_id>
-		<destination_id>113</destination_id>
-		<event_req>23</event_req>
+		<destination_id>114</destination_id>
+		<event_req>25</event_req>
 		<req>10</req>
 		<x>270</x>
 		<y>270</y>
@@ -18442,8 +19124,8 @@
 
 	<portal>
 		<location_id>5</location_id>
-		<destination_id>113</destination_id>
-		<event_req>23</event_req>
+		<destination_id>114</destination_id>
+		<event_req>25</event_req>
 		<req>10</req>
 		<x>350</x>
 		<y>580</y>
@@ -18451,8 +19133,8 @@
 
 	<portal>
 		<location_id>6</location_id>
-		<destination_id>113</destination_id>
-		<event_req>23</event_req>
+		<destination_id>114</destination_id>
+		<event_req>25</event_req>
 		<req>10</req>
 		<x>500</x>
 		<y>600</y>
@@ -18460,8 +19142,8 @@
 
 	<portal>
 		<location_id>7</location_id>
-		<destination_id>113</destination_id>
-		<event_req>23</event_req>
+		<destination_id>114</destination_id>
+		<event_req>25</event_req>
 		<req>10</req>
 		<x>420</x>
 		<y>380</y>
@@ -18469,18 +19151,18 @@
 
 	<portal>
 		<location_id>8</location_id>
-		<destination_id>113</destination_id>
-		<event_req>23</event_req>
+		<destination_id>114</destination_id>
+		<event_req>25</event_req>
 		<req>10</req>
 		<x>840</x>
 		<y>230</y>
 	</portal>
 
 	<portal>
-		<location_id>113</location_id>
+		<location_id>114</location_id>
 		<destination_id>0</destination_id>
-		<event_req>23</event_req>
-		<x>890</x>
+		<event_req>25</event_req>
+		<x>100</x>
 		<y>600</y>
 	</portal>
 
