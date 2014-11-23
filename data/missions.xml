@@ -11423,7 +11423,7 @@
 	    <commander>1017</commander>
 	    <speech>
 	        <line commander='1998'>Halcyon, Wyrmhold has been secured.</line> 
-	    	<line commander='1023'>Good, advance to the Worldship, we won’t be able to hold the ground invasion much longer.</line>
+	    	<line commander='1023'>Good, advance to the Worldship, we won't be able to hold the ground invasion much longer.</line>
 	 	<line commander='1003'>We got problems up here as well. Rastax has returned, and is on his way to intercept us.</line> 
 	    </speech>
 	    <deck>
@@ -13490,7 +13490,7 @@
         <y>500</y>
         <commander>1269</commander>
         <speech>
-            <line commander='1301'>Halcyon! As soon as I’m done with your giant metal puppet, I'm coming for you next.</line>
+            <line commander='1301'>Halcyon! As soon as I'm done with your giant metal puppet, I'm coming for you next.</line>
         </speech>
         <deck>
             <card>5143</card>
@@ -13740,7 +13740,7 @@
         <y>530</y>
         <commander>1261</commander>
         <speech>
-            <line commander='1053'>Scout’s report, the Imperials have loaded their siege APC - The Albatross - with enough troops to overrun Asphodel.</line>
+            <line commander='1053'>Scout's report, the Imperials have loaded their siege APC - The Albatross - with enough troops to overrun Asphodel.</line>
         </speech>
         <deck>
             <card>4978</card>
@@ -18900,6 +18900,342 @@
 		</rewards>
 		<req>2306</req>
 	</mission>
+	
+	<mission>
+		<id>2308</id>
+		<name>Dashed Hopes</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>75</energy>
+		<x>720</x>
+		<y>370</y>
+		<commander>1014</commander>
+		<speech>
+			<line commander='1998'>Well this cave is a bust. All we did was wake up more Bloodthirsty!</line>
+			<line commander='1053'>Pretty big ones at that!</line>
+		</speech>
+		<deck>
+			<card>12688</card>
+			<card>11409</card>
+			<card>11090</card>
+			<card>550</card>
+			<card>6269</card>
+			<card>5576</card>
+			<card>83</card>
+			<card>505</card>
+			<card>75</card>
+			<card>78</card>
+		</deck>
+		<rewards>
+			<gold>82</gold>
+			<card>504</card>
+			<item>1021</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2307</req>
+	</mission>
+	
+	<mission>
+		<id>2309</id>
+		<name>Risky Alternatives</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>80</energy>
+		<x>660</x>
+		<y>400</y>
+		<commander>1014</commander>
+		<speech>
+			<line commander='1053'>Does this mean we have found our graves?</line>
+			<line commander='1003'>Not quite. On the other side of that giant snake-looking monstrosity is a wall that looks like it can be scaled.</line>
+		</speech>
+		<deck>
+			<card>12688</card>
+			<card>72</card>
+			<card>173</card>
+			<card>362</card>
+			<card>618</card>
+			<card>4330</card>
+			<card>529</card>
+			<card>5376</card>
+			<card>7383</card>
+			<card>10367</card>
+		</deck>
+		<rewards>
+			<gold>88</gold>
+			<card>2015</card>
+			<item>1021</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2308</req>
+	</mission>
+
+	<mission>
+		<id>2310</id>
+		<name>Slain Beasts</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>85</energy>
+		<x>600</x>
+		<y>420</y>
+		<commander>1014</commander>
+		<speech>
+			<line commander='1998'>Getting to where we could even think about scaling that wall would require quite the boost up… how exactly do you plan on doing that?</line>
+			<line commander='1003'>Remember what I said about climbing the corpses of our enemies?</line>
+		</speech>
+		<deck>
+			<card>12688</card>
+			<card>5444</card>
+			<card>8078</card>
+			<card>5264</card>
+			<card>5264</card>
+			<card>198</card>
+			<card>2297</card>
+			<card>504</card>
+			<card>362</card>
+			<card>366</card>
+		</deck>
+		<rewards>
+			<gold>93</gold>
+			<card>72</card>
+			<item>1022</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2309</req>
+	</mission>
+
+	<mission>
+		<id>2311</id>
+		<name>Escape From Depths</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>85</energy>
+		<x>500</x>
+		<y>450</y>
+		<commander>1014</commander>
+		<speech>
+			<line commander='1998'>I did not think you were serious.</line>
+			<line commander='1003'>That Bloodthirsty looks like it has enough mass to get us where we need to go provided we kill it first.</line>
+		</speech>
+		<deck>
+			<card>12688</card>
+			<card>2016</card>
+			<card>68</card>
+			<card>75</card>
+			<card>324</card>
+			<card>5769</card>
+			<card>6470</card>
+			<card>198</card>
+			<card>828</card>
+			<card>10320</card>
+		</deck>
+		<rewards>
+			<gold>93</gold>
+			<card>75</card>
+			<item>1022</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2310</req>
+	</mission>
+	
+	<mission>
+		<id>2312</id>
+		<name>Suicide Missions</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>90</energy>
+		<x>470</x>
+		<y>360</y>
+		<commander>1014</commander>
+		<speech>
+			<line commander='1053'>Why do Octane's plans always include getting into the biggest fight possible?</line>
+		</speech>
+		<deck>
+			<card>12688</card>
+			<card>87</card>
+			<card>11835</card>
+			<card>2032</card>
+			<card>6690</card>
+			<card>5375</card>
+			<card>618</card>
+			<card>70</card>
+			<card>72</card>
+			<card>73</card>
+		</deck>
+		<rewards>
+			<gold>99</gold>
+			<card>172</card>
+			<item>1023</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2311</req>
+	</mission>
+	
+	<mission>
+		<id>2313</id>
+		<name>Fight For Honor</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>90</energy>
+		<x>360</x>
+		<y>360</y>
+		<commander>1014</commander>
+		<speech>
+			<line commander='1003'>The hard fights are the fights that end up mattering in your life Yurich.</line>
+		</speech>
+		<deck>
+			<card>12688</card>
+			<card>173</card>
+			<card>79</card>
+			<card>504</card>
+			<card>528</card>
+			<card>550</card>
+			<card>4331</card>
+			<card>5577</card>
+			<card>7035</card>
+			<card>11271</card>
+		</deck>
+		<rewards>
+			<gold>99</gold>
+			<card>67</card>
+			<item>1024</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2312</req>
+	</mission>
+
+	<mission>
+		<id>2314</id>
+		<name>Blood Covered Heroes</name>
+		<location_id>114</location_id>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>95</energy>
+		<x>290</x>
+		<y>390</y>
+		<commander>1014</commander>
+		<speech>
+			<line commander='1998'>We're almost to the end of this nightmare… If we make it out alive we're going to reek of Bloodthirsty entrails for weeks.</line>
+			<line commander='1003'>A fitting trophy considering they want us inside their entrails.</line>
+		</speech>
+		<deck>
+			<card>12688</card>
+			<card>2424</card>
+			<card>631</card>
+			<card>4453</card>
+			<card>620</card>
+			<card>6690</card>
+			<card>4330</card>
+			<card>78</card>
+			<card>79</card>
+			<card>76</card>
+		</deck>
+		<rewards>
+			<gold>104</gold>
+			<card>78</card>
+			<item>1025</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2313</req>
+	</mission>
+	
+	<mission>
+		<id>2315</id>
+		<name>Mephistopheles</name>
+		<location_id>114</location_id>
+		<mission_type>2</mission_type>
+		<event_req>25</event_req>
+		<combatBG asset_bundle='5'>CombatBGBlightlands</combatBG>
+		<energy>100</energy>
+		<x>340</x>
+		<y>480</y>
+		<commander>1555</commander>
+		<speech>
+			<line commander='1053'>Watch out! This creature seems to be controlling the other Bloodthirsty.</line>
+			<line commander='1003'>Domino effect, kill the leader and the rest will follow - this is our way out, don't hold back!</line>
+		</speech>
+		<deck>
+			<card>12688</card>
+			<card>12688</card>
+			<card>6207</card>
+			<card>12270</card>
+			<card>7059</card>
+			<card>12198</card>
+			<card>4760</card>
+			<card>12398</card>
+			<card>4025</card>
+			<card>7383</card>
+		</deck>
+		<rewards>
+			<gold>120</gold>
+			<card>197</card>
+			<item>1012</item>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2314</req>
+	</mission>
+
 	<!-- END November 2014 Missions -->
 
 	<location>
@@ -19079,7 +19415,7 @@
 		<id>114</id>
 		<name>Cavern of Blood</name>
 		<event_req>25</event_req>
-		<mapBG>bt_cave_w2</mapBG>
+		<mapBG>bt_cave_w3</mapBG>
 		<asset_bundle>20</asset_bundle>
 		<req>10</req>
 	</location>

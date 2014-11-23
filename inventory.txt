@@ -10,6 +10,9 @@ Brood Mother-1
 Petrisis-1
 Lord Silus-1
 Kylen-1
+Malort-1
+Daedalus-1
+Arkadios-1
 
 
 //Sacred Sanctuary
@@ -50,6 +53,7 @@ Lurker Beast-1 (4)
 //Reward epic
 Subterran Horror-1 (2)
 Bane-1 (4)
+Shock Disruptor-5
 Razor Maiden
 Demon of Embers-4 (2)
 Zodiac Harbinger (2)

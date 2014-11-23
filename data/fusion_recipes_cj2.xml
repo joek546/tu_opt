@@ -1,6 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Harvest Brawl Reward -->
+
+	<fusion_recipe>
+		<card_id>12542</card_id>
+		<resource card_id='12541' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12548</card_id>
+		<resource card_id='12547' number='2' />
+	</fusion_recipe>
+
+<!-- Sanguine Box -->
+
+	<fusion_recipe>
+		<card_id>12676</card_id>
+		<resource card_id='12675' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12682</card_id>
+		<resource card_id='12681' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12638</card_id>
+		<resource card_id='12637' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12644</card_id>
+		<resource card_id='12643' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12620</card_id>
+		<resource card_id='12619' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12626</card_id>
+		<resource card_id='12625' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12602</card_id>
+		<resource card_id='12601' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12608</card_id>
+		<resource card_id='12607' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12584</card_id>
+		<resource card_id='12583' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12590</card_id>
+		<resource card_id='12589' number='2' />
+	</fusion_recipe>
+
+<!-- Nov 2014 Week 3 Reward -->
+
+	<fusion_recipe>
+		<card_id>12512</card_id>
+		<resource card_id='12511' number='2' />
+	</fusion_recipe>
+
 <!-- Grimoire Pack -->
 
 	<fusion_recipe>
