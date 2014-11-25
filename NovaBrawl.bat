@@ -2,6 +2,7 @@
 setlocal enabledelayedexpansion
 
 SET iter=10000
+SET memSize=49
 
 set fort[01]="Mortar Tower(2)"
 set fort[02]="Mortar Tower,Lightning Cannon"
@@ -45,9 +46,9 @@ SET file="NS_Brawl_Result_BGE2.txt"
 
 echo %time%>%file% 
 
-for /l %%i in (1,1,50) do (
+for /l %%i in (1,1,memSize) do (
 	echo NS%%i>> %file% 
-	tuo "NS%%i" "GT200k" gw ordered -e "Bloodlust 2" -o=guild\invt%%i.txt climb %iter% | find %find% >> %file% 
+	tuo "NS%%i" "GT200k" gw ordered -e "Bloodlust 2" -o=nova\invt%%i.txt climb %iter% | find %find% >> %file% 
 	echo.>>%file% 
 	
 )
