@@ -26,56 +26,55 @@ eatme546: Barracus, Xillafang-4, Baughe #2, Brood Minion, Gorrus Carn-4, Xeno Ov
 
 
 
-NS1:Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Zodiac Harbinger, Honorable Samurai
-NS2:Lord Silus, Stoneheart, Dreamhaunter, Sacred Sanctuary#2, Shock Disruptor#4, Obsidian
-NS3:Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Sacred Sanctuary,Auger Ream, Bane of Truth, Blackrock Cleaver
-NS4:Barracus, Stoneheart, dreamhaunter
+NS1:Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+NS2:Lord Silus, Stoneheart, Dreamhaunter, Sacred Sanctuary(2), Shock Disruptor(5), Obsidian
+NS3:Lord Silus, Stoneheart, Sacred Sanctuary#2, DreamHaunter, Obsidian, Shock Disruptor#3 
+NS4:Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
 NS5:Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
-NS6:Arkadios, Sacred Sanctuary#2, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Jilted Baughe, Ezamit Tranq, StoneHeart, Obsidian
-NS7:Arkadios, Sacred Sanctuary, DreamHaunter, Tazerious, Demi Constrictor, Arch Nova Alpha, Jilted Baughe, Jilted Baughe, The Adversary, Obsidian
-NS8:Arkadios, Razor Pinion, Dreamhaunter, Erebus City Sector, Gehenna Cursed, Scorched hellwing, Oreworks
+NS6:Arkadios, Sacred Sanctuary#2, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Ezamit Tranq, StoneHeart, Obsidian, Tazerious, Dreamhaunter
+NS7:Kylen, Sacred Sanctuary, Dreamhaunter, Tazerious, Demi Constrictor, Arch Nova Alpha, Demi Constrictor, The Adversary, Obsidian, Xillanail, Ezamit Tranq
+NS8:Arkadios, Razor Pinion, Dreamhaunter, Erebus City Sector, Gehenna Cursed, Scorched hellwing, Flourish turbine
 NS9:Typhon Vex, Stoneheart, dreamhaunter, obsidian, portal noctil, sacred sanctuary
 NS10:Typhon Vex, Stoneheart, Sacred Sanctuary#2, Dreamhaunter, Obsidian, Aggeroth Chaos, Auger Ream, Inferno Demon 
 NS11:Lord Silus,  stoneheart, dreamhaunter, arch nova alpha, crude surgeon, inferno demon, sacred sanctuary, oreworks, shock disruptor, erebus city sector
-NS12:Barracus, Stoneheart, dreamhaunter
+NS12:Nexor, Gehenna Cursed, Stoneheart, Arch Nova Alpha, Erebus City Sector, Razor Pinion, Scorched Hellwing (2), Portal Noctil, Oreworks, Dreamhaunter
 NS13:Nexor, Stoneheart, Dreamhaunter, Jet, Xillanail, Arch nova alpha, Sacred Sanctuary, Aggeroth Chaos, The Adversary, Demi Constrictor
-NS14:Typhon Vex, Obsidian, Stoneheart, Portal Noctil, Sacred Sanctuary#2, DreamHaunter, The Adversary 
+NS14:Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Sacred Sanctuary,Auger Ream, Bane of Truth, Blackrock Cleaver
 NS15:Barracus, Stoneheart, dreamhaunter, Demi Constrictor, Demi Constrictor, Sacred Sanctuary, Xillanail, Jilted Baughe, Arch Nova Alpha, Aggeroth Chaos, Tazerecca
 NS16:Kylen, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Xillanail, Portal Noctil, Tazerecca
-NS17:Barracus, Stoneheart, dreamhaunter
+NS17:Tabitha, Decorated Marshall, Coldheart, Octane's Bulwark, Bane of Truth, Blackrock Cleaver, Auger Ream, Hephatat Stoic
 NS18:Barracus, Stoneheart, dreamhaunter, Obsidian, Aggeroth Chaos, Tazerecca, Arch Nova Alpha, Auger Ream, Xillanail, Noxious Tank, Demi Constrictor
-NS19:Barracus, Stoneheart, dreamhaunter
-NS20:Barracus, Stoneheart, dreamhaunter
+NS19:Kylen, Stoneheart, Arch Nova Alpha, Xillanail, Demi Constrictor (2), Sculpted Aegis, Sacred Sanctuary, Dreamhaunter
+NS20:Constantine, Sacred Sanctuary, Bolt Crag, Dawn's Virtue, Flank, Grand Templar, Blink Providence, Ezamit Serene, Coldheart, Jet(2)
 NS21:Barracus, Dreamhaunter, Xillanail, Aggeroth Chaos, Tazerecca, Arch Nova Alpha, Trench Hurler, Jilted Baughe, Bane of Truth, Lurker Behemoth
 NS22:Barracus, Dreamhaunter, Xillanail, Jilted Baughe, Bane of Truth, Constrictor, Obsidian, Oreworks, Erebus Outpost, Bolt Crag, Inferno Demon
 NS23:typhon vex, dreamhaunter, stoneheart, sacred sanctuary, obsidian, abhorrent recluse, bane of truth, honorable samurai
 NS24:Constantine, Sacred Sanctuary, Bolt Crag(2), Grand Templar, Flash Deity, Noble Defiance, Honorable Samurai, Dreamhaunter, Stoneheart, Obsidian
 NS25:Nexor, Stoneheart, Dreamhaunter, Obsidian, Xillanail, Arch Nova Alpha, Sacred Sanctuary (2), Abhorrent Recluse, Xanadu Ultra 
 NS26:Lord Silus, Dreamhaunter, Stoneheart, Shock Disruptor, Judgment Nova(2), Serrated Grater, Sacred Sanctuary, Crude Surgeon
-NS27:Barracus, Stoneheart, dreamhaunter, obsidian, xillanail, arch nova alpha, lurker behemoth, serak united, portal noctil, sculpted aegis
+NS27:krellus, Stoneheart, dreamhaunter, obsidian, xillanail, arch nova alpha, lurker behemoth, serak united, portal noctil, sculpted aegis
 NS28:Constantine, Sacred Sanctuary, Dreamhaunter, Grand Templar, Bolt Crag#2 Longshot Deadeye, Honorable Samurai, Ayrkrane Syn, Stoneheart, Obsidian
-NS29:Barracus, Stoneheart, dreamhaunter
+NS29:Kylen, Coldheart, Jilted Baughe, Wilter Conscript, Xillanail, Lurker Behemoth, Demi Constrictor (2), Tazerious, Sacred Sanctuary, Dreamhaunter
 NS30:Constantine, Obsidian, Stoneheart, Sacred Sanctuary, Smite Forger, Bolt Crag, Grand Templar, Bolt Crag, Noble Defiance
-NS31:Barracus, Stoneheart, dreamhaunter
+NS31:Arkadios, Sacred Sanctuary, Obsidian, The Adversary, Xanadu Ultra, Abhorrent Recluse, Xillanail, Arch Nova Alpha, Noble Defiance
 NS32:arkadios, stoneheart, dreamhaunter, erebus city sector, scorched hellwing, razor pinion, ezamit tranq, tempest citadel, gehenna cursed
 NS33:Constantine, Ezamit serene, Lucifire, obsidian, erebus outpost, Sacred Sanctuary, bolt crag , bolt crag , Grand Templar
 NS34:Kylen, Stoneheart, dreamhaunter, Demi Constrictor (2), Arch Nova Alpha, The Adversary, Gorrus Rav, Aggeroth Chaos
-NS35:Lord Silus, Shock Disruptor #2, Crude Surgeon, Judgment Nova, Stoneheart, Sacred Sanctuary, Trench Hurler
+NS35:Lord Silus, Shock Disruptor #2, Crude Surgeon, Judgment Nova, Stoneheart, Sacred Sanctuary, Obsidian
 NS36:Kylen, Dreamhaunter, Demi Constrictor, The Adversary, Arch Nova Alpha, Xillanail, Tazerious, Coldheart, Sacred Sanctuary, Abhorrent Recluse
 NS37:Barracus, Galvanic Commando #2, Jilted Baughe, Erebus City Sector, Dreamhaunter, Ardenmass, Croc Oppressor, Inferno Demon, Gehenna Cursed
 NS38:Nexor, Withersnare, Demi Constrictor, Arch Nova Alpha, The Adversary, Coldheart, Croc Oppressor, Sacred Sanctuary, Tempest Citadel, Xillanail, Xanadu Ultra
-NS39:Barracus, Stoneheart, dreamhaunter
-NS40:Barracus, Stoneheart, dreamhaunter
-NS41:Kylen, Dreamhaunter, Arch Nova Alpha, Xillanail, Tazerious, Demi Constrictor, Stoneheart, Obsidian, Sacred Sanctuary, Inferno Demon
-NS42:Typhon Vex, Dreamhaunter, Sacred Sanctuary, Tazerious, Inferno Demon, Inferno Demon, Abhorrent Recluse, Obsidian
-NS43:Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Hephatat Stoic, Sculpted Aegis, Ezamit Serene,
-NS44:Barracus, Stoneheart, dreamhaunter, Erebus City Sector, Oreworks, Oreworks, Grand Templar, Ayrkrane Syn, Arch Nova Alpha
+NS39:Nexor, Jet, Coldheart, Baughe, Arch Nova Alpha, Xillanail, Aggeroth Enraged, Inferno Demon, Demi Constrictor, Tazerecca, Sacred Sanctuary 
+NS40:Arkadios, Obsidian, Stoneheart, Aggeroth Chaos, Abhorrent Recluse, Arch Nova Alpha, Xillanail, Demi Constrictor, Tazerecca, Sacred Sanctuary, Dreamhaunter
+NS41:Nexor, Dreamhaunter, Tazerious, Stoneheart, Obsidian, Inferno Demon, Aggeroth Chaos, Sacred Sanctuary
+NS42:Kylen, Dreamhaunter, Sacred Sanctuary, Tazerious, Nubassage, Obsidian, Xillanail, Jilted Baughe, Demi Constrictor, Arch Nova Alpha
+NS43:Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Hephatat Stoic, Sculpted Aegis, Ezamit Serene, Triad Cannon
+NS44:Barracus, Stoneheart, Dreamhaunter, Erebus City Sector, Oreworks, Oreworks, Grand Templar, Ayrkrane Syn, Arch Nova Alpha
 NS45:halcyon, stoneheart, obsidian, dreamhaunter, incog niaq, tazerecca, xillanail, Aggeroth Chaos
-NS46:Daedalus, Dreamhaunter, Scorched Hellwing#2, Erebus City Sector#2, Abhorrent Recluse, Ezamit Tranq, Gehenna Cursed#2, Mutilator
-NS47:Barracus, Stoneheart, dreamhaunter
+NS46:Arkadios, Dreamhaunter, Scorched Hellwing#2, Erebus City Sector#2, Abhorrent Recluse, Ezamit Tranq, Gehenna Cursed#2, Obsidian
+NS47:Barracus, Obsidian, Ezamit Serene, Revolt Ranger, Arch Nova Alpha, Xillanail, Elite Squadron, Auger Ream, Withersnare, Tazerious, Tempest Keep
 NS48:Tabitha, Stoneheart, Octane's Bulwark, Dreamhaunter, Sacred Sanctuary, Jet, Auger Ream
-NS49:Barracus, Stoneheart, dreamhaunter
-NS50:Barracus, Stoneheart, dreamhaunter
+NS49:Malort, Obsidian, Ezamit Serene, Arch Nova Alpha, Aggeroth Enraged, Sacred Sanctuary#2, Dreamhaunter
 
 
 nova: /^NS.*$/

@@ -1,53 +1,52 @@
- 1:24:18.94 
-Optimized Deck: 57.2824: Constantine, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Honorable Samurai
-Optimized Deck: 80.4822: Lord Silus, Shock Disruptor #4, Stoneheart, Obsidian, Dreamhaunter
-Optimized Deck: 47.6219: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Sacred Sanctuary, Bane of Truth, Auger Ream
-Optimized Deck: 0.682973: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 57.5984: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Portal Noctil, Tazerecca, Serak United
-Optimized Deck: 40.0173: Arkadios, Stoneheart, Aggeroth Chaos, Obsidian, Sacred Sanctuary #2, Ezamit Tranq, Arch Nova Alpha, Jilted Baughe
-Optimized Deck: 33.1689: Arkadios, Obsidian, Dreamhaunter, Tazerious, Jilted Baughe #2
-Optimized Deck: 67.9651: Arkadios, Razor Pinion, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Cyclops Raged
-Optimized Deck: 48.0578: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Portal Noctil, Sacred Sanctuary
-Optimized Deck: 54.5954: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Aggeroth Chaos, Tazerecca, Inferno Demon
-Optimized Deck: 63.6249: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Crude Surgeon, Inferno Demon
-Optimized Deck: 0.713243: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 43.2119: Nexor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Ayrkrane Syn, Tazerecca
-Optimized Deck: 56.4803: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Abhorrent Recluse, Portal Noctil, Serak United
-Optimized Deck: 41.6335: Empress, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca, Bane of Truth
-Optimized Deck: 51.7557: Kylen, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerecca
-Optimized Deck: 0.687297: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 36.3684: Barracus, Stoneheart, Obsidian, Dreamhaunter, Aggeroth Chaos, Tazerecca, Noxious Tank
-Optimized Deck: 0.692703: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 0.685946: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 31.0184: Nexor, Dreamhaunter, Xillanail, Trench Hurler, Aggeroth Chaos, Auger Ream, Bane of Truth, Lurker Behemoth
-Optimized Deck: 35.5962: Barracus, Obsidian, Dreamhaunter, Bane of Truth, Revolt Ranger, Jilted Baughe, Bolt Crag
-Optimized Deck: 59.0073: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Bane of Truth, Honorable Samurai, Abhorrent Recluse
-Optimized Deck: 61.3378: Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Bolt Crag, Honorable Samurai, Longshot Deadeye
-Optimized Deck: 48.2332: Nexor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Abhorrent Recluse, Noxious Tank, Steadfast Assailant
-Optimized Deck: 66.7186: Lord Silus, Shock Disruptor, Stoneheart, Serrated Grater, Sacred Sanctuary, Dreamhaunter, Judgment Nova #2
-Optimized Deck: 50.2903: Nexor, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Honorable Samurai, Serak United
-Optimized Deck: 60.9932: Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Bolt Crag #2, Honorable Samurai
-Optimized Deck: 0.695135: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 45.9468: Constantine, Stoneheart, Obsidian, Sacred Sanctuary, Bolt Crag #2, Zodiac Harbinger #2
-Optimized Deck: 0.723514: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 77.577: Constantine, Razor Pinion, Stoneheart, Dreamhaunter, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Gehenna Cursed
-Optimized Deck: 28.4662: Constantine, Obsidian, Bolt Crag, Sacred Sanctuary, Bolt Crag, Grand Templar, Zodiac Harbinger #2
-Optimized Deck: 27.8781: Kylen, Stoneheart, Demi Constrictor, Dreamhaunter, Aggeroth Chaos, Arch Nova Alpha, Gorrus Rav
-Optimized Deck: 74.597: Lord Silus, Shock Disruptor #2, Stoneheart, Sacred Sanctuary, Trench Hurler, Judgment Nova
-Optimized Deck: 30.9008: Nexor, Shock Disruptor, Coldheart, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Tazerious, Ayrkrane Syn
-Optimized Deck: 41.7597: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Croc Oppressor, Jilted Baughe, Ardenmass
-Optimized Deck: 24.5214: Nexor, Coldheart, Tempest Citadel, The Adversary, Sacred Sanctuary, Aggeroth Chaos, Croc Oppressor, Arch Nova Alpha, Jilted Baughe-5
-Optimized Deck: 0.673784: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 0.668919: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 51.1359: Kylen, Stoneheart, Obsidian, Dreamhaunter, Tazerious, Aggeroth Chaos
-Optimized Deck: 45.0595: Typhon Vex, Dreamhaunter, Obsidian, Abhorrent Recluse, Tazerious, Inferno Demon #2
-Optimized Deck: 56.5473: Halcyon, Stoneheart, Dreamhaunter, Obsidian, Guardian Gamut, Bane of Truth, Myriad Beleaguer
-Optimized Deck: 35.7265: Barracus, Stoneheart, Dreamhaunter, Erebus City Sector, Grand Templar, Ayrkrane Syn, Arch Nova Alpha, Bolt Crag
-Optimized Deck: 49.5938: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Aggeroth Chaos, Tazerecca, Incog Niaq
-Optimized Deck: 61.4211: Daedalus, Ezamit Tranq, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Scorched Hellwing #2, Gehenna Cursed, Abhorrent Recluse, Erebus City Sector
-Optimized Deck: 0.691081: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 51.7865: Tabitha, Stoneheart, Octane's Bulwark, Dreamhaunter, Sacred Sanctuary, Auger Ream, Jet, Abhorrent Recluse
-Optimized Deck: 0.685135: Barracus, Stoneheart, Dreamhaunter
-Optimized Deck: 0.679459: Barracus, Stoneheart, Dreamhaunter
+14:51:35.64 
+Optimized Deck: 28.0818: Constantine, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Honorable Samurai
+Optimized Deck: 70.5721: Lord Silus, Shock Disruptor #5, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter
+Optimized Deck: 59.6145: Lord Silus, Shock Disruptor #3, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Sacred Sanctuary
+Optimized Deck: 42.9267: Typhon Vex, Stoneheart, Dreamhaunter, Sacred Sanctuary, Obsidian, Tazerious, Incog Niaq, Portal Noctil
+Optimized Deck: 50.6794: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Sacred Sanctuary, Obsidian, Portal Noctil, Tazerecca
+Optimized Deck: 36.96: Arkadios, Shock Disruptor, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Ezamit Tranq, Xanadu Ultra, Aggeroth Chaos
+Optimized Deck: 28.2876: Daedalus, The Adversary, Ezamit Tranq, Astral Strider, Arch Nova Alpha, Jilted Baughe #2
+Optimized Deck: 64.0421: Arkadios, Razor Pinion, The Adversary, Erebus City Sector, Cyclops Raged, Gehenna Cursed, Scorched Hellwing, Flourish Turbine
+Optimized Deck: 33.6509: Typhon Vex, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Portal Noctil
+Optimized Deck: 46.2552: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, The Adversary, Arch Nova Alpha, Aggeroth Chaos
+Optimized Deck: 34.7358: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Erebus City Sector, Xeno Suzerain, Arch Nova Alpha
+Optimized Deck: 64.8336: Nexor, Razor Pinion, Stoneheart, Erebus City Sector, Gehenna Cursed, Scorched Hellwing #2
+Optimized Deck: 21.6376: Nexor, Stoneheart, Sacred Sanctuary, Dreamhaunter, The Adversary, Aggeroth Chaos, Arch Nova Alpha, Tazerecca
+Optimized Deck: 30.733: Tabitha, Octane's Bulwark, Obsidian, Sacred Sanctuary, Dreamhaunter, Blackrock Cleaver, Bane of Truth, Auger Ream
+Optimized Deck: 29.7752: Empress, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Aggeroth Chaos, Bane of Truth, Tazerecca
+Optimized Deck: 22.4561: Kylen, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Xillanail, Portal Noctil, Tazerecca
+Optimized Deck: 13.4136: Tabitha, Octane's Bulwark, Blackrock Cleaver, Coldheart, Sacred Sanctuary, Jet, Hephatat Stoic, Bane of Truth, Auger Ream, Decorated Marshall
+Optimized Deck: 15.0321: Barracus, Stoneheart, Obsidian, Dreamhaunter, Aggeroth Chaos, Tazerecca, Noxious Tank
+Optimized Deck: 15.21: Kylen, Stoneheart, Xillanail, Sacred Sanctuary, Dreamhaunter, Sculpted Aegis, Arch Nova Alpha
+Optimized Deck: 10.3615: Constantine, Coldheart, Flank, Grand Templar, Zodiac Harbinger, Blink Providence, Zodiac Harbinger #3, Response Fleet, Bolt Crag
+Optimized Deck: 5.70545: Nexor, Dreamhaunter, Xillanail, Aggeroth Chaos, Auger Ream, Tazerecca, Bane of Truth, Lurker Behemoth
+Optimized Deck: 10.1136: Barracus, Obsidian, Dreamhaunter, Inferno Demon, Bane of Truth, Jilted Baughe, Revolt Ranger
+Optimized Deck: 42.9755: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Bane of Truth, Honorable Samurai
+Optimized Deck: 27.7761: Constantine, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Flash Deity, Honorable Samurai, Blink Providence
+Optimized Deck: 28.7048: Nexor, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Xanadu Ultra, Steadfast Assailant
+Optimized Deck: 39.5167: Typhon Vex, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Judgment Nova #2
+Optimized Deck: 27.5273: Krellus, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Honorable Samurai, Serak United
+Optimized Deck: 26.4518: Constantine, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Grand Templar, Honorable Samurai, Bolt Crag
+Optimized Deck: 6.43364: Kylen, Xillanail, Dreamhaunter, Wilter Conscript, Tazerious, Lurker Behemoth, Jilted Baughe
+Optimized Deck: 22.1061: Constantine, Stoneheart, Obsidian, Sacred Sanctuary, Flank, Grand Templar, Ezamit Serene, Smite Forger, Zodiac Harbinger, Bolt Crag
+Optimized Deck: 10.5148: Arkadios, The Adversary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Xanadu Ultra, Arch Nova Alpha, Xillanail, Noble Defiance
+Optimized Deck: 69.3252: Constantine, Razor Pinion, Stoneheart, Erebus City Sector, Ezamit Tranq, Gehenna Cursed, Scorched Hellwing, Dreamhaunter
+Optimized Deck: 10.9606: Typhon Vex, Obsidian, Bolt Crag, Sacred Sanctuary, Erebus Outpost, Grand Templar, Bolt Crag, Lucifire
+Optimized Deck: 10.2742: Kylen, Stoneheart, Dreamhaunter, The Adversary, Demi Constrictor, Arch Nova Alpha, Aggeroth Chaos
+Optimized Deck: 52.1464: Lord Silus, Shock Disruptor #2, Stoneheart, Sacred Sanctuary, Obsidian, Trench Hurler, Judgment Nova
+Optimized Deck: 9.68727: Nexor, The Adversary, Shock Disruptor, Coldheart, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Arch Nova Alpha, Tazerious
+Optimized Deck: 33.3245: Barracus, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Jilted Baughe, Croc Oppressor
+Optimized Deck: 20.7927: Nexor, Tempest Citadel, Demi Constrictor, The Adversary, Oreworks, Arch Nova Alpha, Jilted Baughe-5
+Optimized Deck: 1.50333: Nexor, Coldheart, Xillanail, Sacred Sanctuary, Aggeroth Enraged, Inferno Demon, Arch Nova Alpha, Baughe, Tazerecca
+Optimized Deck: 27.1927: Arkadios, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: 42.5906: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Aggeroth Chaos, Tazerious, Auger Ream
+Optimized Deck: 24.6242: Typhon Vex, Dreamhaunter, The Adversary, Obsidian, Sacred Sanctuary, Abhorrent Recluse #2, Tazerious, Dune Runner
+Optimized Deck: 26.8991: Halcyon, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Guardian Gamut, Bane of Truth, Hephatat Stoic
+Optimized Deck: 35.5921: Constantine, Stoneheart, Erebus City Sector, Grand Templar, Dreamhaunter, Arch Nova Alpha, Oreworks #2
+Optimized Deck: 21.8382: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Aggeroth Chaos, Tazerecca, Incog Niaq
+Optimized Deck: 83.5839: Arkadios, Tarantachnid, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Erebus City Sector, Scorched Hellwing, Gehenna Cursed
+Optimized Deck: 3.42121: Barracus, Xillanail, Obsidian, Auger Ream, Revolt Ranger, Tazerious, Withersnare, Elite Squadron
+Optimized Deck: 37.1297: Tabitha, Stoneheart, Octane's Bulwark, Sacred Sanctuary, Dreamhaunter, Jet, Auger Ream
+Optimized Deck: 5.05848: Malort, Obsidian, Dreamhaunter, Auger Ream, Aggeroth Enraged, Arch Nova Alpha
  
- 2:58:18.68
+19:43:42.51

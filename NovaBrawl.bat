@@ -46,9 +46,9 @@ SET file="NS_Brawl_Result_BGE2.txt"
 
 echo %time%>%file% 
 
-for /l %%i in (1,1,memSize) do (
+for /l %%i in (1,1,%memSize%) do (
 	echo NS%%i>> %file% 
-	tuo "NS%%i" "GT200k" gw ordered -e "Bloodlust 2" -o=nova\invt%%i.txt climb %iter% | find %find% >> %file% 
+	tuo "NS%%i" "GT250k" gw ordered -e "Heal all 2" -o=nova\invt%%i.txt climb %iter% | find %find% >> %file% 
 	echo.>>%file% 
 	
 )
