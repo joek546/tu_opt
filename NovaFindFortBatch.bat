@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 SET iter=5000
-SET memSize=9
+SET memSize=5
 SET efort="Foreboding Archway"
 
 set fort[01]="Mortar Tower(2)"
@@ -50,9 +50,11 @@ echo %time%>%file%
 for /F "tokens=2 delims==" %%a in ('set fort[') do (
 	echo %efort%>>%file%
 	echo %%a>>%file%
-	for /L %%i in (1,1,5) do (
+	for /L %%i in (1,1,%memSize%) do (
 		echo NS%%i>> %file% 
+		tuo "NS%%i" "GT250k" gw ordered yf %%a ef %efort% -e "Heal all 2" -o=nova\invt%%i.txt climb %iter% | find %find% >> %file% 
 		echo.>>%file% 
+	
 	)
 )
 echo %time%>>%file%

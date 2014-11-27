@@ -112,7 +112,6 @@ WH27:Constantine, zodiac harbinger (3), smite forger (2), Sacred Sanctuary, cold
 WH28:Barracus, Dreamhaunter, Sculpted Aegis, Tazerecca, Demi Constrictor, Inferno Demon, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Coldheart
 WH29:Halcyon, Garrison Fortifier, Indestructible Troop, Tempest Keep, Sculpted Aegis, Sacred Sanctuary, Auger Ream, Noble Defiance, Elite Squadron
 WH30:Halcyon, Decorated Marshall, Bane of Truth, Hephatat Stoic, Coldheart, Octane's Bastion, Auger Bore, Sculpted Aegis, Ezamit Serene, Steel Ram
-
 WH31:Arkadios, Scorched Hellwing (2), Erebus City Sector (2), Abhorrent Recluse, Ezamit Tranq, Cyclops Raged, Gehenna Cursed
 WH32:Nexor, Dreamhaunter, Sacred Sanctuary, Tazerecca, Auger Bore, Xillanail, Arch Nova Alpha, Abhorrent Recluse
 WH33:Nexor, Dreamhaunter, Coldheart, Xanadu Ultra, Xillanail, Aggeroth Chaos, Sculpted Aegis, Tazerecca, Fenlord, Ezamit Serene
@@ -135,6 +134,61 @@ WH49:Constantine, Lightning Crag, Sculpted Aegis, Noble Defiance, Zodiac Harbing
 
 
 warp: /^WH.*$/
+
+
+
+top_NS01: Arkadios, Tarantachnid, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Erebus City Sector, Scorched Hellwing, Gehenna Cursed
+top_NS02: Lord Silus, Shock Disruptor #5, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter
+top_NS03: Constantine, Razor Pinion, Stoneheart, Erebus City Sector, Ezamit Tranq, Gehenna Cursed, Scorched Hellwing, Dreamhaunter
+top_NS04: Nexor, Razor Pinion, Stoneheart, Erebus City Sector, Gehenna Cursed, Scorched Hellwing #2
+top_NS05: Arkadios, Razor Pinion, The Adversary, Erebus City Sector, Cyclops Raged, Gehenna Cursed, Scorched Hellwing, Flourish Turbine
+top_NS06: Lord Silus, Shock Disruptor #3, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Sacred Sanctuary
+top_NS07: Lord Silus, Shock Disruptor #2, Stoneheart, Sacred Sanctuary, Obsidian, Trench Hurler, Judgment Nova
+top_NS08: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Sacred Sanctuary, Obsidian, Portal Noctil, Tazerecca
+top_NS09: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, The Adversary, Arch Nova Alpha, Aggeroth Chaos
+top_NS10: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Bane of Truth, Honorable Samurai
+top_NS11: Typhon Vex, Stoneheart, Dreamhaunter, Sacred Sanctuary, Obsidian, Tazerious, Incog Niaq, Portal Noctil
+top_NS12: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Aggeroth Chaos, Tazerious, Auger Ream
+top_NS13: Typhon Vex, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Judgment Nova #2
+top_NS14: Tabitha, Stoneheart, Octane's Bulwark, Sacred Sanctuary, Dreamhaunter, Jet, Auger Ream
+top_NS15: Arkadios, Shock Disruptor, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Ezamit Tranq, Xanadu Ultra, Aggeroth Chaos
+top_NS16: Constantine, Stoneheart, Erebus City Sector, Grand Templar, Dreamhaunter, Arch Nova Alpha, Oreworks #2
+top_NS17: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Erebus City Sector, Arch Nova Alpha
+top_NS18: Typhon Vex, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Portal Noctil
+top_NS19: Barracus, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Jilted Baughe, Croc Oppressor
+top_NS20: Tabitha, Octane's Bulwark, Obsidian, Sacred Sanctuary, Dreamhaunter, Blackrock Cleaver, Bane of Truth, Auger Ream
+top_GT250k01: Lord Silus, Shock Disruptor (2), Crude Surgeon, Judgment Nova (2), Erebus City Sector, Mobile Encampment, Stoneheart, Den Usurper, Ezamit Tranq
+top_GT250k02: Lord Silus, Shock Disruptor (2), Judgment Nova (2), Den Usurper, Dartron, Barrel Zulficar, Crude Surgeon, Erebus City Sector, Stoneheart
+top_GT250k03: Lord Silus, Grizrael the Damned, Styxasis, Jyack, Cleave Ripper, Stoneheart, Shock Disruptor, Tempest Citadel, Dreamhaunter, Tempest Citadel, Ezamit Tranq
+top_GT250k04: Constantine, Council's Hubris (2), Sacred Sanctuary (2), Razor Pinion (4), Dreamhaunter, Stoneheart
+top_GT250k05: Constantine, Tempest Citadel, Razor Pinion (5), Cockatrice Baxis, Ion Converter, Vicerolos, Sacred Sanctuary
+top_GT250k06: Constantine, Razor Pinion (2), Council's Hubris, Scorched Hellwing, Demi Constrictor (2), Erebus City Sector, Cockatrice Baxis, Tempest Citadel, Stoneheart
+top_GT250k07: Constantine, Arindite, Tygarm Adamant, Grizrael the Damned, Tempest Citadel, Council's Hubris, Razor Pinion, Erebus City Sector, Jyack, Stoneheart, Ezamit Tranq
+top_GT250k08: Constantine, Tempest Citadel (2), Havenguard, Razor Pinion (3), Grand Templar, Bolt Crag, Dreamhaunter, Stoneheart
+top_GT250k09: Constantine, Grand Templar, Sacred Sanctuary (2), Styxasis, Razor Pinion, Crogall Static, Jyack, Bolt Crag, Demi Constrictor, Dreamhaunter
+top_GT250k10: Constantine, Razor Pinion (4), Tempest Citadel, Sacred Sanctuary, Dreamhaunter, Dartron, Avian Baron, Arindite
+top_GT250k11: Constantine, Flash Deity, Smite Forger (3), Council's Hubris, Grand Templar, Razor Pinion, Stoneheart, Tempest Citadel, Sacred Sanctuary
+top_GT250k12: Constantine, Flash Deity, Sacred Sanctuary, Razor Pinion, Blink Providence, Serraco Sire, Bolt Crag, Grand Templar, Stoneheart, Tempest Citadel (2)
+top_GT250k13: Arkadios, Smite Forger (4), Flash Deity, Tempest Citadel (2), Dreamhaunter, Stoneheart, Obsidian
+top_GT250k14: Lord Silus, Shock Disruptor (4), Crude Surgeon, Judgment Nova (2), Erebus City Sector, Mobile Encampment, Stoneheart
+top_GT250k15: Lord Silus, Shock Disruptor (2), Judgment Nova (2), Den Usurper, Dartron, Barrel Zulficar, Crude Surgeon, Erebus City Sector, Stoneheart
+top_GT250k16: Lord Silus, Grizrael the Damned, Styxasis, Jyack, Cleave Ripper, Stoneheart, Shock Disruptor, Tempest Citadel, Dreamhaunter, Tempest Citadel, Ezamit Tranq
+top_GT250k17: Malort, Razarp Shank, Tempest Citadel, Shapesavant (2), Abhorrent Recluse (2), Repulse Ghoul, Dreamhaunter, Stoneheart, Ravenous Terrorsaur
+top_GT250k18: Malort, Veiled Defiler, Aggeroth Chaos, Withersnare, Stoneheart, Croc Oppressor, Ravenous Terrorsaur, Dreamhaunter, Sacred Sanctuary, Shapesavant, Gehenna Cursed 
+top_GT250k19: Malort, Razarp Shank, Dreamhaunter, Ezamit Tranq, Ravenous Terrorsaur, Shapesavant, Aggeroth Chaos, Shapesavant, Ravenous Terrorsaur, Gehenna Cursed (2)
+top_GT250k20: Halcyon, Hoard Arsenal, Stoneheart, Nebucadnezzar, Auger Ream, Haven-bearer, Sculpted Aegis, Octane's Bulwark, Tempest Citadel, Hephatat Stoic, Dreamhaunter
+top_GT250k21: Halcyon, Justice Victorious (4), Serraco Sire, Octane's Bulwark, Tempest Citadel, Dreamhaunter, Sphinxite Liberated, Guardian Gamut
+top_GT250k22: Halcyon, Sculpted Aegis, Hephatat Stoic, Guardian Gamut (2), Stoneheart, Justice Victorious (2), Tempest Citadel, Haven-Bearer, Octane's Bulwark
+top_GT250k23: Daedalus, Nebucadnezzar, Bolt Crag, Odynn the Godsteel, Razor Pinion, Scorched Hellwing, Dreamhaunter, Demi Constrictor, Flourish Turbine, Execration
+top_GT250k24: Typhon Vex, Judgment Nova (2), Mobile Encampment, Heart Devourer (2), Tempest Citadel, Crude Surgeon, Dreamhaunter, Stoneheart, Shock Disruptor
+top_GT250k25: Kylen, Ardengraul, Portal Noctil, The Adversary, Sphinxite Liberated, Tempest Citadel, Neo Dredge, Sacred Sanctuary, Demi Constrictor, Dreamhaunter, Stoneheart
+top_GT250k26: Nexor, Demi Constrictor, Arch Nova Alpha, Dreamhaunter, Styxasis, Oreworks, Erebus City Sector, Tempest Citadel, Scorched Hellwing, Ezamit Tranq, Stoneheart 
+top_GT250k27: Nexor, Oreworks, Demi Constrictor (2), Scorched Hellwing (2), Razor Pinion, Dreamhaunter, Stoneheart, Tempest Citadel, Erebus City Sector
+top_GT250k28: Nexor, Erebus City Sector, Neo Dredge, Portal Noctil, Invoskeleton (2), Sphinxite Liberated, Obsidian, Ardengraul, Dreamhaunter, Stoneheart 
+top_GT250k29: Nexor, Razor Pinion, Cockatrice Baxis, Oreworks, Demi Constrictor, Scorched Hellwing, Gehenna Cursed, Dreamhaunter, Stoneheart, Erebus City Sector (2)
+top_GT250k30: Nexor, Tempest Citadel, Erebus City Sector, Dreamhaunter, Obsidian, Scorched Hellwing, Guardian Gamut, Stoneheart
+top_GT250k31: Nexor, Erebus City Sector, Scorched Hellwing (2), Perzix World Eater, Dreamhaunter, Stoneheart, Ezamit Tranq, Gehenna Cursed, Tempest Citadel, Savant Ascendant
+novaGT: /^top_.*$/
 
 
 
