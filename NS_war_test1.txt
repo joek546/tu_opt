@@ -1,0 +1,290 @@
+ 1:30:12.24 
+"Foreboding Archway"
+"Mortar Tower(2)"
+Optimized Deck: 14.0509: Nexor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 46.2715: Lord Silus, Shock Disruptor #3, Obsidian, Shock Disruptor #2, Stoneheart, Dreamhaunter, Tazerious
+Optimized Deck: 35.4182: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: 34.3121: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Incog Niaq, Tazerious, Portal Noctil
+Optimized Deck: 38.3127: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Neo Dredge, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Lightning Cannon"
+Optimized Deck: 18.3909: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 56.7042: Lord Silus, Shock Disruptor #4, Obsidian, Dreamhaunter, Shock Disruptor, Stoneheart, Tazerious
+Optimized Deck: 48.7521: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Tazerecca
+Optimized Deck: 46.3782: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Portal Noctil, Incog Niaq
+Optimized Deck: 51.7515: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Neo Dredge, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Corrosive Spore"
+Optimized Deck: 19.6309: Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 49.9521: Lord Silus, Shock Disruptor #3, Obsidian, Sacred Sanctuary, Dreamhaunter, Stoneheart, Sacred Sanctuary, Shock Disruptor #2
+Optimized Deck: 45.6515: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Tazerecca
+Optimized Deck: 41.9552: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Incog Niaq, Portal Noctil
+Optimized Deck: 50.0648: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Sacred Sanctuary, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Sky Fortress"
+Optimized Deck: 23.5848: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 64.2061: Lord Silus, Shock Disruptor #2, Obsidian, Sacred Sanctuary, Dreamhaunter, Stoneheart, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 64.3012: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Shock Disruptor #3
+Optimized Deck: 58.0588: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: 65.9012: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Neo Dredge, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Mortar Tower,Death Factory"
+Optimized Deck: 23.1042: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 56.3994: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Tazerious, Aggeroth Chaos
+Optimized Deck: 55.9758: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 50.4527: Typhon Vex, Stoneheart, Dreamhaunter, Sacred Sanctuary, Obsidian, Incog Niaq, Tazerious, Portal Noctil
+Optimized Deck: 59.0885: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Inspiring Altar"
+Optimized Deck: 26.297: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 58.2776: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Shock Disruptor #3, Tazerious
+Optimized Deck: 53.5448: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Shock Disruptor, Abhorrent Recluse, Tazerecca
+Optimized Deck: 49.6655: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 55.0297: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Mortar Tower"
+Optimized Deck: 18.2752: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Tazerecca
+Optimized Deck: 56.803: Lord Silus, Shock Disruptor #3, Obsidian, Shock Disruptor #2, Dreamhaunter, Stoneheart, Tazerious
+Optimized Deck: 46.4479: Typhon Vex, Shock Disruptor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Shock Disruptor #2, Tazerecca
+Optimized Deck: 46.6267: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Incog Niaq, Tazerious, Portal Noctil
+Optimized Deck: 51.8333: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Neo Dredge, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon(2)"
+Optimized Deck: 26.4618: Nexor, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Honorable Samurai, Aggeroth Chaos
+Optimized Deck: 67.0255: Lord Silus, Shock Disruptor #3, Obsidian, Dreamhaunter, Shock Disruptor #2, Stoneheart, Tazerious
+Optimized Deck: 59.9594: Typhon Vex, Shock Disruptor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Shock Disruptor #2
+Optimized Deck: 58.4594: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Incog Niaq, Tazerious, Portal Noctil
+Optimized Deck: 63.2824: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Corrosive Spore"
+Optimized Deck: 26.8224: Nexor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 61.3182: Lord Silus, Shock Disruptor #3, Obsidian, Sacred Sanctuary, Dreamhaunter, Stoneheart, Shock Disruptor #2, Tazerious
+Optimized Deck: 59.2873: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 55.5424: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 63.3927: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Sky Fortress"
+Optimized Deck: 32.3236: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 77.5091: Typhon Vex, Shock Disruptor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Shock Disruptor #3
+Optimized Deck: 77.3297: Typhon Vex, Shock Disruptor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Shock Disruptor #2
+Optimized Deck: 72.0406: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: 77.0097: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Lightning Cannon,Death Factory"
+Optimized Deck: 31.0939: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 67.1467: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 68.6964: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos
+Optimized Deck: 64.2109: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Incog Niaq
+Optimized Deck: 71.5776: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: 35.8861: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 70.3933: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Shock Disruptor #3, Tazerious
+Optimized Deck: 65.8018: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Abhorrent Recluse, Portal Noctil, Tazerecca
+Optimized Deck: 64.4685: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 69.3158: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Mortar Tower"
+Optimized Deck: 22.5376: Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 52.057: Lord Silus, Shock Disruptor #3, Obsidian, Sacred Sanctuary, Dreamhaunter, Shock Disruptor, Stoneheart, Shock Disruptor, Tazerious
+Optimized Deck: 48.6418: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Tazerecca
+Optimized Deck: 45.5958: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Incog Niaq, Portal Noctil
+Optimized Deck: 52.5806: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Lightning Cannon"
+Optimized Deck: 28.9061: Nexor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 63.2158: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 61.3564: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 58.1618: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 65.0939: Typhon Vex, Stoneheart, Neo Dredge, Obsidian, Dreamhaunter, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore(2)"
+Optimized Deck: 28.2164: Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 54.7873: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 54.0855: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, The Adversary, Arch Nova Alpha
+Optimized Deck: 50.0915: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Jilted Baughe
+Optimized Deck: 58.2212: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Sacred Sanctuary, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Sky Fortress"
+Optimized Deck: 32.3352: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 77.0412: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Shock Disruptor
+Optimized Deck: 76.9697: Typhon Vex, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Shock Disruptor
+Optimized Deck: 67.8533: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Auger Ream, Tazerious
+Optimized Deck: 77.1794: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Corrosive Spore,Death Factory"
+Optimized Deck: 33.5903: Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 69.6085: Typhon Vex, Stoneheart, Dreamhaunter, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Tazerious, Aggeroth Chaos
+Optimized Deck: 68.9467: Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 62.0358: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Incog Niaq, Tazerious
+Optimized Deck: 73.2067: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Corrosive Spore,Inspiring Altar"
+Optimized Deck: 34.6091: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 64.0673: Typhon Vex, Stoneheart, Dreamhaunter, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Tazerious
+Optimized Deck: 63.3655: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 59.6794: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 66.1333: Typhon Vex, Stoneheart, Neo Dredge, Obsidian, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Mortar Tower"
+Optimized Deck: 23.6703: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 64.2121: Lord Silus, Shock Disruptor #2, Obsidian, Sacred Sanctuary, Dreamhaunter, Stoneheart, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 65.0545: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, The Adversary
+Optimized Deck: 58.1733: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: 65.777: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Neo Dredge, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Sky Fortress,Lightning Cannon"
+Optimized Deck: 32.2194: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 77.6376: Typhon Vex, Shock Disruptor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Shock Disruptor #3
+Optimized Deck: 77.2024: Typhon Vex, Shock Disruptor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Shock Disruptor #2
+Optimized Deck: 72.1782: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: 77.7509: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Neo Dredge, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Sky Fortress,Corrosive Spore"
+Optimized Deck: 31.9418: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 77.1133: Typhon Vex, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Shock Disruptor
+Optimized Deck: 77.0618: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Shock Disruptor
+Optimized Deck: 67.9024: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: 77.3206: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Sky Fortress(2)"
+Optimized Deck: 50.9406: Constantine, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Demi Constrictor, Aggeroth Chaos
+Optimized Deck: 83.4121: Lord Silus, Shock Disruptor, Sacred Sanctuary, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 82.5261: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Aggeroth Chaos, Sacred Sanctuary, Shock Disruptor #2
+Optimized Deck: 78.0309: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Auger Ream, Tazerious, Aggeroth Enraged
+Optimized Deck: 81.6715: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Sky Fortress,Death Factory"
+Optimized Deck: 39.1194: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 82.6806: Typhon Vex, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 82.7018: Typhon Vex, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 76.5582: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: 83.4442: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Sky Fortress,Inspiring Altar"
+Optimized Deck: 43.1485: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 75.6667: Lord Silus, Shock Disruptor #2, Obsidian, Sacred Sanctuary, Dreamhaunter, Stoneheart, Shock Disruptor #3
+Optimized Deck: 76.9303: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Shock Disruptor
+Optimized Deck: 73.2673: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: 76.6939: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory(2)"
+Optimized Deck: 38.9442: Constantine, Stoneheart, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Honorable Samurai
+Optimized Deck: 75.5085: Typhon Vex, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos
+Optimized Deck: 75.4018: Typhon Vex, Stoneheart, Dreamhaunter, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Auger Ream, Aggeroth Chaos
+Optimized Deck: 68.2927: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Incog Niaq
+Optimized Deck: 78.457: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Death Factory,Mortar Tower"
+Optimized Deck: 23.5897: Constantine, Stoneheart, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Honorable Samurai
+Optimized Deck: 55.6861: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 55.8176: Typhon Vex, Stoneheart, Dreamhaunter, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Auger Ream, Aggeroth Chaos
+Optimized Deck: 50.2661: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Incog Niaq
+Optimized Deck: 59.2061: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Death Factory,Lightning Cannon"
+Optimized Deck: 31.0491: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 69.4255: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Tazerious
+Optimized Deck: 69.0982: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 64.0558: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Incog Niaq
+Optimized Deck: 71.4758: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Neo Dredge, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Corrosive Spore"
+Optimized Deck: 32.0667: Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 68.3267: Typhon Vex, Stoneheart, Dreamhaunter, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Tazerious, Aggeroth Chaos
+Optimized Deck: 67.3139: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 60.4109: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Incog Niaq, Tazerious
+Optimized Deck: 71.8364: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Death Factory,Sky Fortress"
+Optimized Deck: 39.0564: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 82.7521: Typhon Vex, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Shock Disruptor
+Optimized Deck: 82.9606: Typhon Vex, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, The Adversary
+Optimized Deck: 76.6842: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: 83.6909: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, The Adversary
+ 
+"Foreboding Archway"
+"Death Factory,Inspiring Altar"
+Optimized Deck: 42.2739: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 69.2933: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 72.7024: Typhon Vex, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos
+Optimized Deck: 68.2867: Typhon Vex, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Tazerious, Incog Niaq
+Optimized Deck: 74.5097: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Mortar Tower"
+Optimized Deck: 26.2818: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 58.0564: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 53.3545: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Shock Disruptor, Tazerecca
+Optimized Deck: 49.3891: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 54.9436: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Lightning Cannon" 
+Optimized Deck: 35.8055: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 70.4855: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Shock Disruptor #3, Tazerious
+Optimized Deck: 65.0182: Typhon Vex, Shock Disruptor, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Sacred Sanctuary, Shock Disruptor #2
+Optimized Deck: 64.3127: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 69.0727: Typhon Vex, Obsidian, Stoneheart, Neo Dredge, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Corrosive Spore"
+Optimized Deck: 34.7897: Constantine, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 63.5297: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 63.3479: Typhon Vex, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Auger Ream, Aggeroth Chaos
+Optimized Deck: 59.7545: Typhon Vex, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 66.0982: Typhon Vex, Stoneheart, Neo Dredge, Sacred Sanctuary, Obsidian, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Sky Fortress"
+Optimized Deck: 43.1533: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 77.1048: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Shock Disruptor
+Optimized Deck: 77.0642: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Auger Ream
+Optimized Deck: 73.6879: Typhon Vex, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Tazerious, Auger Ream
+Optimized Deck: 76.7824: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Death Factory"
+Optimized Deck: 42.2509: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 69.1279: Lord Silus, Shock Disruptor #2, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Shock Disruptor #3
+Optimized Deck: 72.8545: Typhon Vex, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Auger Ream, Aggeroth Chaos
+Optimized Deck: 68.1976: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerious, Incog Niaq
+Optimized Deck: 74.5333: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar(2)"
+Optimized Deck: 46.4152: Constantine, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 71.6315: Lord Silus, Shock Disruptor #2, Stoneheart, Obsidian, Dreamhaunter, Abhorrent Recluse, Tazerious, Shock Disruptor #2
+Optimized Deck: 68.4055: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Tazerecca, Portal Noctil
+Optimized Deck: 67.163: Typhon Vex, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Tazerious, Portal Noctil
+Optimized Deck: 71.9364: Typhon Vex, Stoneheart, Neo Dredge, Obsidian, Dreamhaunter, Portal Noctil, Tazerecca
+ 
+13:47:04.52
