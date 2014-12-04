@@ -1,6 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Feast of Blood Rewards -->
+
+	<fusion_recipe>
+		<card_id>12560</card_id>
+		<resource card_id='12559' number='2' />
+	</fusion_recipe>
+	<!-- <fusion_recipe>
+		<card_id>12566</card_id>
+		<resource card_id='12565' number='2' />
+	</fusion_recipe> -->
+	<fusion_recipe>
+		<card_id>12572</card_id>
+		<resource card_id='11149' number='2' />
+	</fusion_recipe>
+
+<!-- Fury Box -->	
+	
+	<fusion_recipe>
+		<card_id>12952</card_id>
+		<resource card_id='12951' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12958</card_id>
+		<resource card_id='12957' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12880</card_id>
+		<resource card_id='12879' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12886</card_id>
+		<resource card_id='12885' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12862</card_id>
+		<resource card_id='12861' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12868</card_id>
+		<resource card_id='12867' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12898</card_id>
+		<resource card_id='12897' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12904</card_id>
+		<resource card_id='12903' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12934</card_id>
+		<resource card_id='12933' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12940</card_id>
+		<resource card_id='12939' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12844</card_id>
+		<resource card_id='12843' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12850</card_id>
+		<resource card_id='12849' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12916</card_id>
+		<resource card_id='12915' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12922</card_id>
+		<resource card_id='12921' number='2' />
+	</fusion_recipe>
+	
+<!-- Hecatomb Box -->
+
+	<fusion_recipe>
+		<card_id>12790</card_id>
+		<resource card_id='12789' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12796</card_id>
+		<resource card_id='12795' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12736</card_id>
+		<resource card_id='12735' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12742</card_id>
+		<resource card_id='12741' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12754</card_id>
+		<resource card_id='12753' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12760</card_id>
+		<resource card_id='12759' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12772</card_id>
+		<resource card_id='12771' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12778</card_id>
+		<resource card_id='12777' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12808</card_id>
+		<resource card_id='12807' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12814</card_id>
+		<resource card_id='12813' number='2' />
+	</fusion_recipe>
+
+<!-- Industrial Pack -->
+
+	<fusion_recipe>
+		<card_id>12699</card_id>
+		<resource card_id='12698' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12705</card_id>
+		<resource card_id='12704' number='2' />
+	</fusion_recipe>
+
+<!-- Menace Cache -->
+
+	<fusion_recipe>
+		<card_id>12717</card_id>
+		<resource card_id='12716' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12723</card_id>
+		<resource card_id='12722' number='2' />
+	</fusion_recipe>
+
 <!-- Harvest Brawl Reward -->
 
 	<fusion_recipe>

@@ -1,0 +1,38 @@
+start time
+23:41:10.79
+
+Start Deck
+Optimized Deck: 53.5404: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+
+Xanadu Ultra
+Optimized Deck: 53.5339: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+
+Sage Ascendant
+Optimized Deck: 53.6957: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Sage Ascendant
+
+Ezamit Serene
+Optimized Deck: 54.5827: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Ezamit Serene, Aggeroth Chaos
+
+The Adversary
+Optimized Deck: 53.6704: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+
+Trench Hurler
+Optimized Deck: 58.3731: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
+
+Auger Ream
+Optimized Deck: 53.538: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+
+Serrated Grater
+Optimized Deck: 59.3467: Lord Silus, Shock Disruptor, Serrated Grater, Stoneheart, Sacred Sanctuary, Dreamhaunter, Honorable Samurai, Tazerecca
+
+Judgment Nova
+Optimized Deck: 57.6076: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Judgment Nova, Aggeroth Chaos
+
+Abhorrent Recluse
+Optimized Deck: 53.5735: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+
+Jet
+Optimized Deck: 53.9784: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Jet, Aggeroth Chaos
+
+stop time
+23:58:26.44

@@ -1,0 +1,9 @@
+23:52:20.14 
+"Enhance all Counter 2"
+Optimized Deck: 51.8862: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Honorable Samurai
+Optimized Deck: 84.7697: Lord Silus, Shock Disruptor #2, Stoneheart, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Shock Disruptor #2, Obsidian, Sacred Sanctuary
+"Enhance all Enfeeble 2"
+Optimized Deck: 52.1014: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 80.0557: Lord Silus, Shock Disruptor #3, Stoneheart, Sacred Sanctuary, Dreamhaunter, Shock Disruptor #2, Obsidian
+"Enhance all Protect X"
+ 0:12:12.66
