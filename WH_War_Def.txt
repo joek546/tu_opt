@@ -1,0 +1,51 @@
+18:51:46.25 
+Optimized Deck: (0.0202703% stall) 45.9027: Barracus, Dreamhaunter, Auger Bore, Honorable Samurai, Inferno Demon, Arch Nova Alpha, Abhorrent Recluse, Baughe
+Optimized Deck: (0.0275676% stall) 64.2011: Lord Silus, Dreamhaunter, Judgment Nova, Inferno Demon, Serrated Grater, Shock Disruptor #2, Coldheart
+Optimized Deck: (0.0259459% stall) 42.4892: Nexor, Dreamhaunter, Auger Bore, Tazerious, Xillanail, Arch Nova Alpha, Jilted Baughe
+Optimized Deck: (0.0624324% stall) 61.4141: Barracus, Dreamhaunter, Auger Ream, Inferno Demon, Bane of Truth, Xillanail, Arch Nova Alpha, Aggeroth Chaos
+Optimized Deck: (0.00891892% stall) 32.0543: Barracus, Steadfast Assailant, Auger Ream, Bane of Truth, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe
+Optimized Deck: (0.0651351% stall) 38.8227: Nexor, Dreamhaunter, Steadfast Assailant, Inferno Demon, Xillanail, Baughe, Gorrus Rav
+Optimized Deck: (0.0518919% stall) 51.0695: Lord Silus, Dreamhaunter, Judgment Nova #2, Tumblox, Inferno Demon #2, Crude Surgeon, Shock Disruptor
+Optimized Deck: (0.0345946% stall) 43.523: Barracus, Dreamhaunter, Auger Bore, Bane of Truth, Xillanail, Arch Nova Alpha, Jilted Baughe
+Optimized Deck: (0.483243% stall) 55.9986: Krellus, Dreamhaunter, Bane of Truth, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Xanadu Ultra, Jet
+Optimized Deck: (0.0562162% stall) 36.7189: Barracus, Tazerecca, Auger Ream, Bane of Truth, Xillanail, Arch Nova Alpha, Jilted Baughe, Jet
+Optimized Deck: (0.00243243% stall) 70.0797: Malort, Dreamhaunter, Veiled Defiler, Croc Oppressor #3, Ravenous Terrorsaur, Aggeroth Chaos
+Optimized Deck: (0.0478378% stall) 32.5897: Tabitha, Dreamreaper, Auger Ream, Bane of Truth, Octane's Bulwark, Coldheart, Decorated Marshall
+Optimized Deck: (0.032973% stall) 32.5119: Barracus, Noble Defiance, Auger Bore, Steadfast Assailant, Dreamreaper, Xillanail, Arch Nova Alpha, Jilted Baughe
+Optimized Deck: (0.0418919% stall) 48.8995: Nexor, Dreamhaunter, Xillanail, Shrewd Fabricator, Wilter Conscript, Arch Nova Alpha, Jilted Baughe
+Optimized Deck: (0.0564865% stall) 51.657: Barracus, Dreamhaunter, Noble Defiance, Lurker Behemoth, Bane of Truth, Xillanail, Arch Nova Alpha, Abhorrent Recluse
+Optimized Deck: (0.0851351% stall) 59.7995: Barracus, Dreamhaunter, Steadfast Assailant, Inferno Demon, Bane of Truth, Xillanail, Arch Nova Alpha, Stoneheart
+Optimized Deck: (0.0072973% stall) 22.5192: Constantine, Bolt Crag, Zodiac Harbinger #2, Deranged Fanatic, Honorable Samurai, Smite Forger, Coldheart
+Optimized Deck: (0.0486486% stall) 58.703: Barracus, Dreamhaunter, Inferno Demon, Bane of Truth, Arch Nova Alpha, Revolt Ranger, Jilted Baughe, Jet
+Optimized Deck: (0.0556757% stall) 47.4716: Barracus, Dreamhaunter, Honorable Samurai, Bane of Truth, Xillanail, Wilter Conscript, Arch Nova Alpha
+Optimized Deck: (0.0651351% stall) 49.88: Arkadios, Dreamhaunter, Inferno Demon, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, The Adversary
+Optimized Deck: (0.0145946% stall) 28.6362: Constantine, Grand Templar, Noble Defiance, Zodiac Harbinger, Longshot Deadeye, Deranged Fanatic, Dreamreaper, Smite Forger, Coldheart
+Optimized Deck: (0.00648649% stall) 28.7603: Barracus, Noble Defiance, Steadfast Assailant, Deranged Fanatic, Dreamreaper, Auger Ream, Bane of Truth, Jilted Baughe
+Optimized Deck: (0.139189% stall) 15.0816: Kylen, Tazerecca, Demi Constrictor #2, Xillanail, Arch Nova Alpha, Jilted Baughe, Coldheart
+Optimized Deck: (0.0191892% stall) 46.0341: Barracus, Dreamhaunter, Auger Bore, Inferno Demon, Bane of Truth, Arch Nova Alpha, Gorrus Rav
+Optimized Deck: (0.00783784% stall) 40.7178: Constantine, Dreamhaunter, Noble Defiance, Zodiac Harbinger #2, Heroic Knight, Smite Forger, Coldheart
+Optimized Deck: (0.00135135% stall) 10.5205: Barracus, Indestructible Troop, Tazerious, Auger Ream, Elite Squadron, Arch Nova Alpha, Guardian Gamut
+Optimized Deck: (0.000810811% stall) 37.5646: Constantine, Zodiac Harbinger #3, Honorable Samurai, Dreamreaper, Smite Forger #2
+Optimized Deck: (0.0891892% stall) 52.2265: Barracus, Dreamhaunter, Tazerecca, Inferno Demon, Xillanail, Arch Nova Alpha, Abhorrent Recluse
+Optimized Deck: (0.000540541% stall) 4.80027: Barracus, Indestructible Troop, Noble Defiance, Xeno Suzerain, Auger Ream, Elite Squadron
+Optimized Deck: (0.00378378% stall) 27.7108: Tabitha, Auger Bore, Steadfast Assailant, Dreamreaper, Bane of Truth, Cadmus, Coldheart, Decorated Marshall
+Optimized Deck: (0.0505405% stall) 67.05: Arkadios, Scorched Hellwing #2, Erebus City Sector #2, Abhorrent Recluse, Ezamit Tranq, Cyclops Raged, Gehenna Cursed
+Optimized Deck: (0.0294595% stall) 38.9976: Nexor, Dreamhaunter, Tazerecca, Auger Bore, Xillanail, Arch Nova Alpha, Abhorrent Recluse
+Optimized Deck: (0.0289189% stall) 48.3392: Nexor, Dreamhaunter, Bane of Truth, Xillanail, Fenlord, Aggeroth Chaos, Jilted Baughe
+Optimized Deck: (0.0116216% stall) 46.9457: Barracus, Dreamhaunter, Noble Defiance, Bane of Truth, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Gorrus Rav
+Optimized Deck: (0.0527027% stall) 41.9749: Barracus, Deranged Fanatic, Auger Ream, Bane of Truth-5, Xillanail, Arch Nova Alpha, Jilted Baughe, Decorated Marshall
+Optimized Deck: (0.0554054% stall) 29.4638: Barracus, Auger Bore, Deranged Fanatic, Tumblox, Dreamreaper, Xillanail, Arch Nova Alpha, Jilted Baughe
+Optimized Deck: (0.00540541% stall) 43.7808: Barracus, Dreamhaunter, Auger Bore, Ayrkrane Syn, Arch Nova Alpha, Aggeroth Chaos, Jilted Baughe
+Optimized Deck: (0.0591892% stall) 33.49: Barracus, Noble Defiance, Auger Bore, Deranged Fanatic, Dreamreaper, Xillanail, Arch Nova Alpha, Smite Forger
+Optimized Deck: (0.0202703% stall) 18.8284: Barracus, Arch Nova Elite, Tumblox, Serak United, Baughe #2, Coldheart
+Optimized Deck: (0.042973% stall) 31.677: Nexor, Honorable Samurai, Inferno Demon, Lurker Behemoth, Bane of Truth, Xillanail, Arch Nova Alpha, Jilted Baughe
+Optimized Deck: (0.00810811% stall) 33.5297: Constantine, Noble Defiance, Zodiac Harbinger #2, Honorable Samurai, Smite Forger #2, Coldheart
+Optimized Deck: (0.0143243% stall) 30.4157: Halcyon, Steadfast Assailant, Dreamreaper, Auger Ream, Bane of Truth, Decorated Marshall, Jet, Dune Runner
+Optimized Deck: (0.00513514% stall) 33.8186: Arkadios, Dreamhaunter, Inferno Demon, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe
+Optimized Deck: (0.0283784% stall) 15.7441: Constantine, Heart Devourer, Bolt Crag #2, Dreamreaper, Deft Reclaimer, Xillanail
+Optimized Deck: (0.0454054% stall) 39.1005: Barracus, Dreamhaunter, Tazerecca, Trampling Anvil, Xillanail, Arch Nova Alpha, Jilted Baughe, The Adversary
+Optimized Deck: (0.00567568% stall) 7.87568: Halcyon, Sculpted Aegis, Indestructible Troop, Hephatat Stoic, Cruise Launcher, Auger Ream, Guardian Gamut, Coldheart
+Optimized Deck: (0.062973% stall) 44.2092: Barracus, Steadfast Assailant, Dreamreaper, Bane of Truth, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Revolt Ranger
+Optimized Deck: (0.0489189% stall) 47.9265: Arkadios, Dreamhaunter, Tazerious, Auger Ream, Inferno Demon, Xillanail, Arch Nova Alpha
+Optimized Deck: (0.037027% stall) 23.0278: Constantine, Noble Defiance, Dreamreaper, Inferno Demon, Xillanail, Jilted Baughe, Coldheart
+19:07:44.87

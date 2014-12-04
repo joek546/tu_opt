@@ -1,1 +1,51 @@
-16:39:59.13 
+17:35:20.13 
+Optimized Deck: (0.0260784% stall) 38.4494: Barracus, Dreamhaunter, Honorable Samurai, Ayrkrane Syn, Arch Nova Alpha, Aggeroth Chaos, Stoneheart
+Optimized Deck: (0.0333333% stall) 75.472: Typhon Vex, Dreamhaunter, Shock Disruptor #5, Stoneheart, Obsidian
+Optimized Deck: (0.0582353% stall) 69.2767: Typhon Vex, Dreamhaunter, Shock Disruptor #3, Stoneheart, Obsidian
+Optimized Deck: (0.150196% stall) 66.1378: Typhon Vex, Dreamhaunter, Tazerious, Incog Niaq, Xillanail, Stoneheart, Obsidian
+Optimized Deck: (0.17549% stall) 62.822: Typhon Vex, Dreamhaunter, Neo Dredge, Serak United, Xillanail, Stoneheart, Obsidian
+Optimized Deck: (0.015098% stall) 50.8986: Arkadios, Dreamhaunter, Tazerious, Xillanail, Fenlord, Aggeroth Chaos, Stoneheart, Obsidian
+Optimized Deck: (0.0458824% stall) 53.4084: Barracus, Dreamhaunter, Tazerious, Auger Ream, Xillanail, Arch Nova Alpha, Jilted Baughe #2, Obsidian
+Optimized Deck: (0.0343137% stall) 50.4965: Arkadios, Dreamhaunter, Scorched Hellwing, Serak United, Erebus City Sector, Wilter Conscript, Cyclops Raged, Gehenna Cursed
+Optimized Deck: (0.126863% stall) 46.5765: Typhon Vex, Dreamhaunter, Sacred Sanctuary, Stoneheart, Obsidian
+Optimized Deck: (0.106275% stall) 68.3259: Typhon Vex, Dreamhaunter, Inferno Demon, Xillanail, Aggeroth Chaos, Stoneheart, Obsidian
+Optimized Deck: (0.0127451% stall) 34.3484: Lord Silus, Dreamhaunter, Charincinerator, Inferno Demon, Arch Nova Alpha, Shock Disruptor, Stoneheart
+Optimized Deck: (0.00901961% stall) 65.1771: Nexor, Dreamhaunter, Scorched Hellwing #2, Erebus City Sector, Stoneheart, Gehenna Cursed
+Optimized Deck: (0.05% stall) 46.3449: Nexor, Dreamhaunter, Ayrkrane Syn, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Jilted Baughe, Stoneheart
+Optimized Deck: (0.198039% stall) 44.361: Tabitha, Dreamhaunter, Auger Ream, Bane of Truth, Octane's Bulwark, Obsidian
+Optimized Deck: (0.0854902% stall) 57.4673: Barracus, Dreamhaunter, Auger Ream, Bane of Truth, Xillanail, Aggeroth Chaos, Stoneheart, Obsidian
+Optimized Deck: (0.0841176% stall) 38.18: Kylen, Dreamhaunter, Tazerecca, Xillanail, Stoneheart, Obsidian
+Optimized Deck: (0.0498039% stall) 23.7429: Tabitha, Auger Ream, Bane of Truth, Octane's Bulwark, Coldheart, Decorated Marshall, Jet
+Optimized Deck: (0.0707843% stall) 52.5592: Barracus, Dreamhaunter, Auger Ream, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Stoneheart, Obsidian
+Optimized Deck: (0.145294% stall) 25.0073: Kylen, Dreamhaunter, Xillanail, Arch Nova Alpha, Stoneheart
+Optimized Deck: (0% stall) 17.5463: Constantine, Zodiac Harbinger #4, Response Fleet, Jet #2
+Optimized Deck: (0.0831373% stall) 45.8424: Barracus, Dreamhaunter, Auger Ream, Bane of Truth, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Jilted Baughe
+Optimized Deck: (0.139216% stall) 63.3916: Barracus, Dreamhaunter, Inferno Demon, Bane of Truth, Xillanail, Revolt Ranger, Jilted Baughe, Obsidian
+Optimized Deck: (0.0741176% stall) 73.202: Typhon Vex, Dreamhaunter, Inferno Demon, Bane of Truth, Abhorrent Recluse, Aggeroth Chaos, Stoneheart, Obsidian
+Optimized Deck: (0.00568627% stall) 46.0531: Empress, Dreamhaunter, Noble Defiance, Longshot Deadeye, Honorable Samurai, Stoneheart, Obsidian
+Optimized Deck: (0.0917647% stall) 51.6584: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Baughe, Stoneheart, Obsidian
+Optimized Deck: (0.0223529% stall) 52.618: Typhon Vex, Dreamhaunter, Charincinerator, Inferno Demon, Serrated Grater, Shock Disruptor, Stoneheart
+Optimized Deck: (0.131961% stall) 58.2445: Krellus, Dreamhaunter, Lurker Behemoth, Serak United, Xillanail, Stoneheart, Obsidian
+Optimized Deck: (0.00960784% stall) 33.4604: Constantine, Dreamhaunter, Grand Templar, Honorable Samurai, Ayrkrane Syn, Stoneheart, Obsidian
+Optimized Deck: (0.05% stall) 37.59: Kylen, Dreamhaunter, Tazerious, Lurker Behemoth, Xillanail, Wilter Conscript, Jilted Baughe
+Optimized Deck: (0.0139216% stall) 31.8349: Constantine, Noble Defiance, Auger Ream, Deathsteel Falcion, Smite Forger, Stoneheart, Obsidian
+Optimized Deck: (0.102745% stall) 27.758: Arkadios, Noble Defiance, Xillanail, Arch Nova Alpha, Abhorrent Recluse, The Adversary, Obsidian
+Optimized Deck: (0.130392% stall) 62.4245: Barracus, Dreamhaunter, Inferno Demon, Scorched Hellwing, Xillanail, Erebus City Sector, Stoneheart, Gehenna Cursed
+Optimized Deck: (0.0217647% stall) 21.1498: Typhon Vex, Bolt Crag #2, Noble Defiance, Tazerecca, Deranged Fanatic, Obsidian
+Optimized Deck: (0.0113725% stall) 26.2602: Kylen, Dreamhaunter, Arch Nova Alpha, Aggeroth Chaos, Gorrus Rav, The Adversary, Stoneheart
+Optimized Deck: (0.0409804% stall) 59.9347: Typhon Vex, Charincinerator, Inferno Demon, Trench Hurler, Shock Disruptor #2, Stoneheart, Obsidian
+Optimized Deck: (0.113137% stall) 47.3976: Barracus, Dreamhaunter, Noble Defiance, Tazerious, Ayrkrane Syn, Xillanail, Arch Nova Alpha, Abhorrent Recluse
+Optimized Deck: (0.11451% stall) 61.4773: Barracus, Dreamhaunter, Inferno Demon, Ardenmass, Xillanail, Jilted Baughe, Galvanic Commando, Gehenna Cursed
+Optimized Deck: (0.0731373% stall) 35.3282: Barracus, Dreamreaper, Croc Oppressor, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Jilted Baughe-5, Obsidian
+Optimized Deck: (0.0494118% stall) 22.3741: Nexor, Tazerecca, Inferno Demon, Aggeroth Enraged, Xillanail, Arch Nova Alpha, Baughe, Jet
+Optimized Deck: (0.0276471% stall) 53.0524: Arkadios, Dreamhaunter, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Aggeroth Chaos, Stoneheart, Obsidian
+Optimized Deck: (0.0613725% stall) 69.3114: Typhon Vex, Dreamhaunter, Tazerious, Inferno Demon, Xillanail, Aggeroth Chaos, Stoneheart, Obsidian
+Optimized Deck: (0.0784314% stall) 71.1139: Typhon Vex, Dreamhaunter, Inferno Demon #2, Xillanail, Abhorrent Recluse #2, Obsidian, Dune Runner
+Optimized Deck: (0.02% stall) 41.9288: Halcyon, Dreamhaunter, Steadfast Assailant, Bane of Truth, Myriad Beleaguer, Stoneheart, Obsidian
+Optimized Deck: (0.0129412% stall) 47.2961: Barracus, Dreamhaunter, Noble Defiance, Auger Ream, Ayrkrane Syn, Arch Nova Alpha, Aggeroth Chaos, Smite Forger, Stoneheart
+Optimized Deck: (0.0762745% stall) 50.5086: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Baughe, Stoneheart, Obsidian
+Optimized Deck: (0.0615686% stall) 79.7608: Daedalus, Dreamhaunter, Scorched Hellwing #2, Erebus City Sector, Machina Awoken, Gehenna Cursed #2, Tarantachnid
+Optimized Deck: (0.168431% stall) 42.9804: Barracus, Tazerious, Auger Ream, Xillanail, Arch Nova Alpha, Revolt Ranger, Obsidian
+Optimized Deck: (0.0947059% stall) 48.1065: Barracus, Dreamhaunter, Auger Ream, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Baughe, Stoneheart
+Optimized Deck: (0.0109804% stall) 34.3763: Malort, Dreamhaunter, Auger Ream, Aggeroth Enraged, Arch Nova Alpha, Obsidian
+18:06:49.38
