@@ -21,7 +21,7 @@ for /F "tokens=2 delims==" %%a in ('set BGE[') do (
 
 	echo %%a>>%file%
 	for /L %%i in (1,1,%memSize%) do (
-		tuo "WH%%i" "GT200k" gw ordered -e %%a -o=Warp\invt%%i.txt -t 8 climb %iter% | find %find% >> %file% 
+		tuo "WH%%i" "GT200k" gw ordered -e %%a -o=Warp\invt%%i.txt -t 6 climb %iter% | find %find% >> %file% 
 	)
 )
 echo %time%>>%file%
