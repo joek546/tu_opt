@@ -1,7 +1,6 @@
 Barracus
  Nexor
  Arkadios
- Kylen
  Demi Constrictor (2)
  Sculpted Aegis
  Xillanail
@@ -11,6 +10,7 @@ Barracus
  Auger Ream
  Inferno Demon
  Astral Strider
+
 
 
 

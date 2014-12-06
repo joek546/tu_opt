@@ -1,4 +1,6 @@
-Sacred Sanctuary
+Barracus
+ Nexor
+ Sacred Sanctuary
  Deranged Fanatic
  Xeno Suzerain
  Incog Niaq
@@ -9,9 +11,7 @@ Sacred Sanctuary
  Auger Ream
  Noble Defiance
  Arch Nova Alpha
-
-
-
-
+ Arch Nova Elite
+ Demi Constrictor (2)
 
 
