@@ -12,14 +12,14 @@ set BGE[01]="Enfeeble all 2"
 
 
 SET find="Optimized"
-SET file="WH_Allegiance_Brawl_Enf_all.txt"
+SET file="WH_Allegiance_Brawl_Enf_all3.txt"
 
 echo %time%>%file% 
 
 for /F "tokens=2 delims==" %%a in ('set BGE[') do (
 
 	echo %%a>>%file%
-	for /L %%i in (1,1,%memSize%) do (
+	for /L %%i in (33,1,%memSize%) do (
 		tuo "WH%%i" "GT200k" gw ordered -e %%a -o=Warp\invt%%i.txt -t 6 climb %iter% | find %find% >> %file% 
 	)
 )

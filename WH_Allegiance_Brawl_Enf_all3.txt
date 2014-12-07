@@ -1,0 +1,21 @@
+17:33:17.03 
+"Enfeeble all 2"
+Optimized Deck: 19.0973: Barracus, Dreamhaunter, The Adversary, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Tazerecca, Auger Bore
+Optimized Deck: 13.3378: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Jilted Baughe, Tazerecca, Decorated Marshall, Bane of Truth-5
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 23.1743: Barracus, Dreamhaunter, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Ayrkrane Syn, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: 14.0573: Constantine, Dreamhaunter, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Smite Forger, Ayrkrane Syn, Noble Defiance, Auger Bore
+Optimized Deck: 7.84838: Barracus, Demi Constrictor, Serak United, Arch Nova Elite, Baughe #2, Sacred Sanctuary, Portal Noctil
+Optimized Deck: 9.26514: Nexor, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Honorable Samurai, Jilted Baughe, Bane of Truth, Tazerecca
+Optimized Deck: 13.6632: Constantine, Bolt Crag, Sacred Sanctuary, Smite Forger #2, Blink Providence, Divine Equalizer, Heroic Knight
+Optimized Deck: 14.0395: Halcyon, Octane's Bastion, Hephatat Stoic, Jet, Guardian Gamut, Auger Ream, Bane of Truth, Dune Runner, Dreamreaper
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 22.8786: Constantine, Bolt Crag, Sacred Sanctuary, Bolt Crag, Flash Deity, Smite Forger, Deft Reclaimer, Dreamreaper
+Optimized Deck: 23.0608: Barracus, Dreamhaunter, Demi Constrictor, Xanadu Ultra, Sacred Sanctuary, Arch Nova Alpha, The Adversary, Jilted Baughe, Tazerecca
+Optimized Deck: 8.00703: Halcyon, Sculpted Aegis, Octane's Bastion, Cruise Launcher, Guardian Gamut, Hephatat Stoic, Auger Ream, Coldheart, Indestructible Troop
+Optimized Deck: 12.6578: Barracus, Demi Constrictor, Arch Nova Alpha, Revolt Ranger, Bane of Truth, Baughe #2, Tazerecca, Dreamreaper
+Optimized Deck: 24.6919: Arkadios, Dreamhaunter, Xanadu Ultra, Sacred Sanctuary, Demi Constrictor, Ezamit Tranq, Arch Nova Alpha, Tazerious, Auger Ream
+Optimized Deck: 21.8954: Barracus, Dreamhaunter, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Judgment Nova, Inferno Demon, Jilted Baughe, Bane of Truth
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 0: Cyrus, Infantry
+18:41:49.19

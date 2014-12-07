@@ -1,0 +1,10 @@
+16:57:53.47 
+"Enfeeble all 2"
+Optimized Deck: 6.25514: Constantine, Smite Forger #2, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Dreamreaper, Zodiac Harbinger
+Optimized Deck: 25.3989: Barracus, Dreamhaunter, Demi Constrictor, Arch Nova Alpha, Sacred Sanctuary, Abhorrent Recluse, Inferno Demon, Bane of Truth
+Optimized Deck: 27.7486: Kylen, Demi Constrictor, Dreamhaunter, Xanadu Ultra, Sacred Sanctuary, Arch Nova Alpha, Xillanail, Tazerecca, Auger Bore
+Optimized Deck: 5.37541: Halcyon, Steel Ram, Octane's Bastion, Coldheart, Sculpted Aegis, Hephatat Stoic, Bane of Truth, Decorated Marshall, Steadfast Assailant
+Optimized Deck: 78.6381: Arkadios, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing #2, Erebus City Sector, Abhorrent Recluse
+Optimized Deck: 18.0754: Nexor, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Abhorrent Recluse, Xillanail, Tazerecca, Auger Bore
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 19.0614: Barracus, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Tazerecca, Auger Bore, Noble Defiance
