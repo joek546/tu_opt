@@ -19237,11 +19237,340 @@
 	</mission>
 
 	<!-- END November 2014 Missions -->
+	
+	<!-- START December 2014 Missions -->
+	
+	<mission>
+		<id>2316</id>
+		<name>Mission Refused</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>25</energy>
+		<x>190</x>
+		<y>490</y>
+		<commander>1567</commander>
+		<speech>
+			<line commander='1023'>Do as you are commanded!</line>
+			<line commander='1181'>No, this mission is against everything I stand for.</line>
+			<line commander='1023'>You will comply or you will be stripped of rank and sentenced to death.</line>
+		</speech>
+		<deck>
+			<card>12168</card>
+			<card>4</card>
+			<card>4</card>
+			<card>5</card>
+			<card>166</card>
+			<card>166</card>
+			<card>2000</card>
+			<card>6</card>
+			<card>502</card>
+			<card>502</card>
+		</deck>
+		<rewards>
+			<gold>27</gold>
+			<card>4</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>10</req>
+	</mission>
+	
+	<mission>
+		<id>2317</id>
+		<name>Death Before Dishonor</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>27</energy>
+		<x>120</x>
+		<y>410</y>
+		<commander>1567</commander>
+		<speech>
+			<line commander='1181'>Very well, old man. I am not your puppet and will not do your dirty work for you.</line>
+		</speech>
+		<deck>
+			<card>12168</card>
+			<card>501</card>
+			<card>501</card>
+			<card>15</card>
+			<card>12</card>
+			<card>12</card>
+			<card>5</card>
+			<card>2004</card>
+			<card>7</card>
+			<card>7</card>
+		</deck>
+		<rewards>
+			<gold>27</gold>
+			<card>501</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2316</req>
+	</mission>
+
+	<mission>
+		<id>2318</id>
+		<name>Dead or Alive</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>30</energy>
+		<x>200</x>
+		<y>380</y>
+		<commander>1567</commander>
+		<speech>
+			<line commander='1023'>All units in the area, this is not a drill. Tabitha has betrayed us. I want her brought in dead or alive.</line>
+		</speech>
+		<deck>
+			<card>12168</card>
+			<card>352</card>
+			<card>352</card>
+			<card>2001</card>
+			<card>354</card>
+			<card>166</card>
+			<card>166</card>
+			<card>2000</card>
+			<card>4</card>
+			<card>1</card>
+		</deck>
+		<rewards>
+			<gold>33</gold>
+			<card>166</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2317</req>
+	</mission>
+
+	<mission>
+		<id>2319</id>
+		<name>Seek Independence</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>33</energy>
+		<x>140</x>
+		<y>320</y>
+		<commander>1568</commander>
+		<speech>
+			<line commander='1181'>Fellow Imperials! You're blind to his ways comrades, think for yourselves.</line>
+		</speech>
+		<deck>
+			<card>12168</card>
+			<card>1</card>
+			<card>1</card>
+			<card>15</card>
+			<card>12</card>
+			<card>9</card>
+			<card>7</card>
+			<card>502</card>
+			<card>502</card>
+			<card>510</card>
+		</deck>
+		<rewards>
+			<gold>36</gold>
+			<card>1</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2318</req>
+	</mission>
+
+	<mission>
+		<id>2320</id>
+		<name>Keep Control</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>35</energy>
+		<x>210</x>
+		<y>260</y>
+		<commander>1568</commander>
+		<speech>
+			<line commander='1023'>Do not listen to her pleas to convert you. You are all subjects of the Imperial Army, unlike this back stabbing traitor.</line>
+		</speech>
+		<deck>
+			<card>12168</card>
+			<card>16</card>
+			<card>166</card>
+			<card>166</card>
+			<card>12</card>
+			<card>6</card>
+			<card>352</card>
+			<card>352</card>
+			<card>7</card>
+			<card>354</card>
+		</deck>
+		<rewards>
+			<gold>38</gold>
+			<card>6</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2319</req>
+	</mission>
+
+	<mission>
+		<id>2321</id>
+		<name>Role Reversal</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>40</energy>
+		<x>320</x>
+		<y>240</y>
+		<commander>1568</commander>
+		<speech>
+			<line commander='1181'>It is not I that has stabbed anyone in the back, Halcyon. This "mission" you want me to do is nothing but betrayal to our allies in their time of need. A role I will not partake.</line>
+		</speech>
+		<deck>
+			<card>12168</card>
+			<card>352</card>
+			<card>352</card>
+			<card>13</card>
+			<card>10</card>
+			<card>10</card>
+			<card>4</card>
+			<card>4</card>
+			<card>15</card>
+			<card>320</card>
+		</deck>
+		<rewards>
+			<gold>44</gold>
+			<card>5</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2320</req>
+	</mission>
+
+	<mission>
+		<id>2322</id>
+		<name>Lust For Power</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>45</energy>
+		<x>390</x>
+		<y>260</y>
+		<commander>1568</commander>
+		<speech>
+			<line commander='1023'>It is for the good of our people and the vision of our goals. Your small minded view of the world will be your undoing.</line>
+		</speech>
+		<deck>
+			<card>12168</card>
+			<card>195</card>
+			<card>13</card>
+			<card>13</card>
+			<card>7</card>
+			<card>2</card>
+			<card>166</card>
+			<card>166</card>
+			<card>5</card>
+			<card>5</card>
+		</deck>
+		<rewards>
+			<gold>49</gold>
+			<card>12</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2321</req>
+	</mission>
+
+	<mission>
+		<id>2323</id>
+		<name>Cain's Outpost</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<mission_type>2</mission_type>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>50</energy>
+		<x>490</x>
+		<y>240</y>
+		<commander>1561</commander>
+		<speech>
+			<line commander='1181'>I will fight for what is right regardless of what the implications are. You cannot quell justice with your atrocious acts of war.</line>
+			<line commander='1023'>You will be silenced. Attention Cain's Outpost! See that Tabitha and her supporters meet their end.</line>
+		</speech>
+		<deck>
+			<card>12168</card>
+			<card>12168</card>
+			<card>16</card>
+			<card>321</card>
+			<card>12258</card>
+			<card>12838</card>
+			<card>11108</card>
+			<card>4436</card>
+			<card>11871</card>
+			<card>11925</card>
+		</deck>
+		<rewards>
+			<gold>60</gold>
+			<card>16</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2322</req>
+	</mission>
+	
+	<!-- END December 2014 Missions -->
 
 	<location>
 		<id>1</id>
 		<name>Ashrock</name>
 		<mapBG>map1</mapBG> <!-- map1 -->
+		<!-- <asset_bundle>21</asset_bundle> -->
 	</location>
 
 	<location>
@@ -19420,12 +19749,21 @@
 		<req>10</req>
 	</location>
 	
+	<location>
+		<id>115</id>
+		<name>Valhalla Station</name>
+		<event_req>27</event_req>
+		<mapBG>snow_mountain_w1</mapBG>
+		<asset_bundle>21</asset_bundle>
+		<req>10</req>
+	</location>
+	
 <!-- Event Portals -->
 
 	<portal>
 		<location_id>1</location_id>
-		<destination_id>114</destination_id>
-		<event_req>25</event_req>
+		<destination_id>115</destination_id>
+		<event_req>27</event_req>
 		<req>10</req>
 		<x>420</x>
 		<y>450</y>
@@ -19433,8 +19771,8 @@
 
 	<portal>
 		<location_id>2</location_id>
-		<destination_id>114</destination_id>
-		<event_req>25</event_req>
+		<destination_id>115</destination_id>
+		<event_req>27</event_req>
 		<req>10</req>
 		<x>650</x>
 		<y>250</y>
@@ -19442,8 +19780,8 @@
 
 	<portal>
 		<location_id>3</location_id>
-		<destination_id>114</destination_id>
-		<event_req>25</event_req>
+		<destination_id>115</destination_id>
+		<event_req>27</event_req>
 		<req>10</req>
 		<x>180</x>
 		<y>600</y>
@@ -19451,8 +19789,8 @@
 
 	<portal>
 		<location_id>4</location_id>
-		<destination_id>114</destination_id>
-		<event_req>25</event_req>
+		<destination_id>115</destination_id>
+		<event_req>27</event_req>
 		<req>10</req>
 		<x>270</x>
 		<y>270</y>
@@ -19460,8 +19798,8 @@
 
 	<portal>
 		<location_id>5</location_id>
-		<destination_id>114</destination_id>
-		<event_req>25</event_req>
+		<destination_id>115</destination_id>
+		<event_req>27</event_req>
 		<req>10</req>
 		<x>350</x>
 		<y>580</y>
@@ -19469,8 +19807,8 @@
 
 	<portal>
 		<location_id>6</location_id>
-		<destination_id>114</destination_id>
-		<event_req>25</event_req>
+		<destination_id>115</destination_id>
+		<event_req>27</event_req>
 		<req>10</req>
 		<x>500</x>
 		<y>600</y>
@@ -19478,8 +19816,8 @@
 
 	<portal>
 		<location_id>7</location_id>
-		<destination_id>114</destination_id>
-		<event_req>25</event_req>
+		<destination_id>115</destination_id>
+		<event_req>27</event_req>
 		<req>10</req>
 		<x>420</x>
 		<y>380</y>
@@ -19487,17 +19825,17 @@
 
 	<portal>
 		<location_id>8</location_id>
-		<destination_id>114</destination_id>
-		<event_req>25</event_req>
+		<destination_id>115</destination_id>
+		<event_req>27</event_req>
 		<req>10</req>
 		<x>840</x>
 		<y>230</y>
 	</portal>
 
 	<portal>
-		<location_id>114</location_id>
+		<location_id>115</location_id>
 		<destination_id>0</destination_id>
-		<event_req>25</event_req>
+		<event_req>27</event_req>
 		<x>100</x>
 		<y>600</y>
 	</portal>

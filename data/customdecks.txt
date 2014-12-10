@@ -20,7 +20,7 @@ NKtyr: Barracus, Demi Constrictor, Arch Nova Alpha, Arch Nova Elite, Baughe #2, 
 //1.03333 @ 10/20/2014
 
 
-shinigami: Barracus, Brood Minion, Blitz Plate, Gorrus Carn #2, Xillafang-5, Lurker Horror,Jilted Baughe, Auger Bore
+shinigami: Barracus, Gorrus Carn #2, Xillafang, Lurker Horror,Jilted Baughe, Baughe, Auger Bore
 
 eatme546: Barracus, Xillafang-5, Jilted Baughe, Brood Minion, Gorrus Carn-4, Xeno Overlord, Blitz Plate, Auger Bore
 

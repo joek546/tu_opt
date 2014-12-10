@@ -1,6 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Allegiance Brawl -->
+
+	<fusion_recipe>
+		<card_id>13078</card_id>
+		<resource card_id='11582' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>13066</card_id>
+		<resource card_id='13065' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13072</card_id>
+		<resource card_id='13071' number='2' />
+	</fusion_recipe>
+
+<!-- Tabitha's Exile Week 1 -->
+
+	<fusion_recipe>
+		<card_id>12970</card_id>
+		<resource card_id='12969' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12976</card_id>
+		<resource card_id='12975' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13024</card_id>
+		<resource card_id='13023' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13030</card_id>
+		<resource card_id='13029' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13042</card_id>
+		<resource card_id='13041' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13048</card_id>
+		<resource card_id='13047' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12988</card_id>
+		<resource card_id='12987' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12994</card_id>
+		<resource card_id='12993' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13006</card_id>
+		<resource card_id='13005' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13012</card_id>
+		<resource card_id='13011' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13054</card_id>
+		<resource card_id='10414' number='2' />
+	</fusion_recipe>
+
+<!-- Exemplar Cache -->
+
+	<fusion_recipe>
+		<card_id>12826</card_id>
+		<resource card_id='12825' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12832</card_id>
+		<resource card_id='12831' number='2' />
+	</fusion_recipe>
+
 <!-- Feast of Blood Rewards -->
 
 	<fusion_recipe>
