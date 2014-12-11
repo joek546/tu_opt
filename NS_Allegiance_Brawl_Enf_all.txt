@@ -1,0 +1,53 @@
+14:36:11.67 
+"Enfeeble all 2"
+Optimized Deck: 22.8053: Constantine, Stoneheart, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Arch Nova Alpha, Honorable Samurai, Tazerecca
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 40.9459: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Portal Noctil, Tazerious
+Optimized Deck: 42.3157: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca
+Optimized Deck: 28.3451: Arkadios, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Ezamit Tranq, Arch Nova Alpha, Tazerious
+Optimized Deck: 33.45: Daedalus, Obsidian, Dreamhaunter, Arch Nova Alpha, Tazerious, Jilted Baughe #2, Auger Ream
+Optimized Deck: 76.3455: Arkadios, Razor Pinion, Dirge, Rox Exterminator, Erebus City Sector, Scorched Hellwing, Flourish Turbine, Machina Awoken
+Optimized Deck: 38.4118: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Deserted Baughe, Portal Noctil
+Optimized Deck: 41.1904: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary #2, Ezamit Tranq, Arch Nova Alpha
+Optimized Deck: 26.0582: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Erebus City Sector, Arch Nova Alpha, Oreworks
+Optimized Deck: 69.771: Arkadios, Razor Pinion, Tempest Citadel, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Razor Pinion
+Optimized Deck: 23.4127: Nexor, Dreamhaunter, Stoneheart, Obsidian, Arch Nova Alpha, Jilted Baughe, Tazerecca, Ayrkrane Syn
+Optimized Deck: 37.7878: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Sacred Sanctuary, Bane of Truth, Auger Ream
+Optimized Deck: 32.8359: Barracus, Dreamhaunter, Obsidian, Arch Nova Alpha, Bane of Truth, Jilted Baughe, Tazerecca, Aggeroth Chaos
+Optimized Deck: 21.6886: Kylen, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Xillanail, Portal Noctil
+Optimized Deck: 13.0129: Tabitha, Octane's Bulwark, Auger Ream, Jet, Bane of Truth, Dune Runner, Decorated Marshall, Elite Squadron
+Optimized Deck: 23.5469: Barracus, Dreamhaunter, Stoneheart, Obsidian, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos
+Optimized Deck: 16.2798: Kylen, Dreamhaunter, Stoneheart, Sacred Sanctuary, Demi Constrictor #2, Arch Nova Alpha, Xillanail, Sculpted Aegis
+Optimized Deck: 3.76255: Constantine, Bolt Crag, Coldheart, Sacred Sanctuary, Blink Providence, Grand Templar, Response Fleet, Dawn's Virtue, Honorable Samurai, Auger Bore
+Optimized Deck: 25.5604: Barracus, Dreamhaunter, Arch Nova Alpha, Dune Runner, Jilted Baughe, Bane of Truth, Tazerecca, Lurker Behemoth
+Optimized Deck: 36.2824: Barracus, Dreamhaunter, Obsidian, Inferno Demon, Bane of Truth, Revolt Ranger, Jilted Baughe, Bolt Crag
+Optimized Deck: 42.8104: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Bane of Truth, Honorable Samurai
+Optimized Deck: 29.268: Constantine, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Trishot Trike, Honorable Samurai, Longshot Deadeye
+Optimized Deck: 29.1247: Nexor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Xanadu Ultra, Arch Nova Alpha
+Optimized Deck: 28.9496: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Shock Disruptor, Judgment Nova #2
+Optimized Deck: 28.9867: Krellus, Obsidian, Dreamhaunter, Stoneheart, Serak United, Jilted Baughe, Honorable Samurai, Portal Noctil
+Optimized Deck: 27.019: Constantine, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Ayrkrane Syn, Honorable Samurai
+Optimized Deck: 15.7496: Kylen, Dreamhaunter, Demi Constrictor, Xillanail, Wilter Conscript, Tazerious, Jilted Baughe, Lurker Behemoth, Demi Constrictor, Coldheart
+Optimized Deck: 16.4251: Constantine, Stoneheart, Obsidian, Sacred Sanctuary, Bolt Crag, Smite Forger, Samurai, Auger Ream
+Optimized Deck: 11.4106: Arkadios, The Adversary, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Arch Nova Alpha, Xanadu Ultra, Xillanail, Noble Defiance
+Optimized Deck: 64.6955: Arkadios, Razor Pinion, Tempest Citadel, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: 12.1998: Constantine, Obsidian, Bolt Crag, Sacred Sanctuary, Erebus Outpost, Grand Templar, Bolt Crag, Lucifire
+Optimized Deck: 25.4065: Typhon Vex, Dreamhaunter, Stoneheart, Aggeroth Chaos, Tazerecca, Auger Bore
+Optimized Deck: 45.892: Typhon Vex, Trench Hurler, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Judgment Nova
+Optimized Deck: 27.132: Barracus, Dreamhaunter, Ayrkrane Syn, Abhorrent Recluse, Ezamit Tranq, Arch Nova Alpha, Jilted Baughe, Tazerious, Auger Ream, Noble Defiance
+Optimized Deck: 48.1333: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Croc Oppressor, Jilted Baughe, Ardenmass, Erebus City Sector
+Optimized Deck: 28.8871: Barracus, Dreamhaunter, Obsidian, Arch Nova Alpha, Oreworks, Jilted Baughe-5, Tazerecca, Croc Oppressor
+Optimized Deck: 5.61137: Nexor, Xillanail, Arch Nova Alpha, Inferno Demon, Baughe, Tazerecca, Jet, Aggeroth Enraged
+Optimized Deck: 26.7857: Arkadios, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Arch Nova Alpha, Tazerecca, Aggeroth Chaos
+Optimized Deck: 39.9804: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Aggeroth Chaos
+Optimized Deck: 46.6525: Daedalus, Obsidian, Dune Runner, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse #2, Jilted Baughe, Tazerious, Auger Ream
+Optimized Deck: 32.4361: Halcyon, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Bane of Truth, Guardian Gamut, Hephatat Stoic
+Optimized Deck: 48.7792: Barracus, Dreamhaunter, Arch Nova Alpha, Oreworks, Erebus City Sector, Oreworks, Ayrkrane Syn, Bolt Crag
+Optimized Deck: 27.9231: Halcyon, Dreamhaunter, Stoneheart, Obsidian, Aggeroth Chaos, Tazerecca, Incog Niaq
+Optimized Deck: 78.291: Arkadios, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Scorched Hellwing #2, Gehenna Cursed, Erebus City Sector, Machina Awoken
+Optimized Deck: 16.4414: Barracus, Obsidian, Arch Nova Alpha, Revolt Ranger, Tazerious, Elite Squadron, Auger Ream
+Optimized Deck: 43.8222: Tabitha, Dreamhaunter, Octane's Bulwark, Obsidian, Stoneheart, Sacred Sanctuary, Abhorrent Recluse, Auger Ream
+Optimized Deck: 35.4006: Barracus, Dreamhaunter, Obsidian, Arch Nova Alpha, Deserted Baughe, Tazerious, Auger Ream, Aggeroth Enraged
+Optimized Deck: 17.4067: Lord Silus, Primus Ultima, Shock Disruptor #2, Dreamhaunter, Coldheart, Sacred Sanctuary, Judgment Nova, Serrated Grater, Crushing Anvil, Inferno Demon
+19:46:30.76

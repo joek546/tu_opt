@@ -26,6 +26,14 @@ eatme546: Barracus, Xillafang-5, Jilted Baughe, Brood Minion, Gorrus Carn-4, Xen
 
 
 
+RW1:Arkadios, Dreamhaunter, Scorched Hellwing (2), Erebus City Sector (2), Abhorrent Recluse, Gehenna Cursed (2), Obsidian, Tarantachnid
+RW2:Arkadios, Dreamhaunter, Gehenna Cursed (2), Scorched Hellwing, Erebus City Sector, Hyrael the other, Tempest Citadel, Ravenous Terrorsaur (2), Tarantachnid
+RW3:Arkadios, Dreamhaunter, Scorched Hellwing, Razor Pinion, Erebus City Sector (2), Ezamit Tranq, Gehenna Cursed (3) Rox Annihilator 
+RW4:Arkadios, Scorched Hellwing (2), Erebus City Sector (2), Abhorrent Recluse, Ezamit Tranq, Cyclops Raged, Gehenna Cursed
+RW5:Arkadios, Gehenna Cursed, Stoneheart, The Adversary, Erebus City Sector, Razor Pinion (2), Scorched Hellwing, Tempest Citadel, Dreamhaunter, Ezamit Tranq
+RW6:Arkadios, Gehenna Cursed(1), Hellwing(2), Erebus City Sector(2), Dreamhaunter, Abhorrent Recluse, Razor Pinion, Belfryze
+
+
 NS1:Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
 NS2:Cyrus, Infantry
 NS3:Cyrus, Infantry

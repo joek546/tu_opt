@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Piety Pack -->
+
+	<fusion_recipe>
+		<card_id>13176</card_id>
+		<resource card_id='13175' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13182</card_id>
+		<resource card_id='13181' number='2' />
+	</fusion_recipe>
+
+<!-- Carnage Cache -->
+
+	<fusion_recipe>
+		<card_id>13090</card_id>
+		<resource card_id='13089' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13096</card_id>
+		<resource card_id='13095' number='2' />
+	</fusion_recipe>
+
 <!-- Allegiance Brawl -->
 
 	<fusion_recipe>

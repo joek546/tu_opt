@@ -1,0 +1,1364 @@
+23:25:15.72 
+"Foreboding Archway"
+"Mortar Tower(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Lightning Cannon"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Tazerecca, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil
+ 
+"Foreboding Archway"
+"Mortar Tower,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Dreamhaunter, Stoneheart, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Lightning Cannon"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Lightning Cannon"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerecca, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Lightning Cannon"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Tazerecca, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Lightning Cannon" 
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower(2)"
+NS1 
+Optimized Deck: 99.96: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Stoneheart, Serak United, Dreamhaunter, Tazerious, Portal Noctil
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Lightning Cannon"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Stoneheart, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Neo Dredge, Obsidian, Portal Noctil, Tazerecca, Sacred Sanctuary
+ 
+"Foreboding Archway"
+"Mortar Tower,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Sacred Sanctuary, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Serak United, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Sky Fortress"
+NS1 
+Optimized Deck: 99.98: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Serak United, Stoneheart, Dreamhaunter, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Neo Dredge, Obsidian, Stoneheart, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Stoneheart, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Tazerecca, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Neo Dredge, Stoneheart, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerecca, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Dreamhaunter, Stoneheart, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Stoneheart, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Neo Dredge, Obsidian, Portal Noctil, Sacred Sanctuary, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Lightning Cannon"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Tazerecca, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Stoneheart, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Neo Dredge, Dreamhaunter, Stoneheart, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Aggeroth Chaos, Sacred Sanctuary, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Stoneheart, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Corrosive Spore,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Dreamhaunter, Stoneheart, Aggeroth Chaos, Sacred Sanctuary, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Mortar Tower"
+NS1 
+Optimized Deck: 99.96: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Aggeroth Chaos, Sacred Sanctuary
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Lightning Cannon"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Sacred Sanctuary, Shock Disruptor, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Dreamhaunter, Aggeroth Chaos, Sacred Sanctuary, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Dreamhaunter, Stoneheart, Shock Disruptor, Tazerecca, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Sky Fortress,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Tazerecca, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Serak United, Obsidian, Dreamhaunter, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Dreamhaunter, Stoneheart, Sacred Sanctuary, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Serak United, Stoneheart, Dreamhaunter, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Lightning Cannon"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Aggeroth Chaos, Sacred Sanctuary, Dreamhaunter, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Death Factory,Inspiring Altar"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerecca, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Dreamhaunter, Serak United, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Mortar Tower"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Sacred Sanctuary, Tazerecca, Portal Noctil
+ 
+"Foreboding Archway"
+"Inspiring Altar,Lightning Cannon" 
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Corrosive Spore"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Sky Fortress"
+NS1 
+Optimized Deck: 100: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Neo Dredge, Obsidian, Stoneheart, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar,Death Factory"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerecca, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Inspiring Altar(2)"
+NS1 
+Optimized Deck: 100: Lord Silus, Stoneheart, Dreamhaunter, Aggeroth Chaos, Tazerecca, Sacred Sanctuary
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Tazerious, Serak United
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Neo Dredge, Obsidian, Portal Noctil, Tazerecca, Sacred Sanctuary
+ 
+"Foreboding Archway"
+"Mortar Tower(2)"
+NS1 
+Optimized Deck: 98.7: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 99.84: Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Serak United, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 99.86: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Lightning Cannon"
+NS1 
+Optimized Deck: 99.84: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 99.94: Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 99.96: Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Corrosive Spore"
+NS1 
+Optimized Deck: 99.52: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 99.94: Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Serak United, Tazerious
+ 
+NS5 
+Optimized Deck: 99.94: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Sky Fortress"
+NS1 
+Optimized Deck: 99.64: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 99.96: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Serak United, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 99.94: Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Neo Dredge, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Death Factory"
+NS1 
+Optimized Deck: 99.76: Lord Silus, Dreamhaunter, Stoneheart, Shock Disruptor, Sacred Sanctuary, Aggeroth Chaos
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 99.94: Typhon Vex, Dreamhaunter, Stoneheart, Serak United, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Neo Dredge, Obsidian, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Mortar Tower,Inspiring Altar"
+NS1 
+Optimized Deck: 99.7: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Aggeroth Chaos, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 99.98: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Tazerious, Portal Noctil
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon,Mortar Tower"
+NS1 
+Optimized Deck: 99.84: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Sacred Sanctuary, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 99.98: Typhon Vex, Stoneheart, Dreamhaunter, Serak United, Obsidian, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Neo Dredge, Portal Noctil, Tazerecca
+ 
+"Foreboding Archway"
+"Lightning Cannon(2)"
+NS1 
+Optimized Deck: 99.98: Lord Silus, Stoneheart, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Tazerecca
+ 
+NS2 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS3 
+Optimized Deck: 0: Cyrus, Infantry
+ 
+NS4 
+Optimized Deck: 100: Typhon Vex, Obsidian, Stoneheart, Serak United, Dreamhaunter, Portal Noctil, Tazerious
+ 
+NS5 
+Optimized Deck: 100: Typhon Vex, Dreamhaunter, Stoneheart, Obsidian, Sacred Sanctuary, Tazerecca, Portal Noctil
+ 
+"Foreboding Archway"
+"Lightning Cannon,Corrosive Spore"
+NS1 

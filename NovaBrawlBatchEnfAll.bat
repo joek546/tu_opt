@@ -20,7 +20,7 @@ for /F "tokens=2 delims==" %%a in ('set BGE[') do (
 
 	echo %%a>>%file%
 	for /L %%i in (1,1,%memSize%) do (
-		tuo "NS%%i" "novaGT" gw ordered -e %%a -o=nova\invt%%i.txt -t 6 climb %iter% | find %find% >> %file% 
+		tuo "NS%%i" "novaGT" gw ordered -e %%a -o=nova\invt%%i.txt -t 8 climb %iter% | find %find% >> %file% 
 	)
 )
 echo %time%>>%file%

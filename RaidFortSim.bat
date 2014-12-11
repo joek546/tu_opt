@@ -1,8 +1,8 @@
 
 setlocal enabledelayedexpansion
 
-SET iter=5000
-SET memSize=5
+SET iter=100000
+SET memSize=6
 SET efort="Foreboding Archway"
 
 set fort[01]="Mortar Tower(2)"
@@ -42,20 +42,18 @@ set fort[34]="Inspiring Altar,Sky Fortress"
 set fort[35]="Inspiring Altar,Death Factory"
 set fort[36]="Inspiring Altar(2)"
 
-SET find="Optimized"
+SET find="score"
 SET file="test_raid_fort.txt"
 
 echo %time%>%file% 
 
-for /L %%j in (8,2,18) do(
-
+for /L %%j in (26,2,26) do (
+	echo.>>%file%
+	echo level %%j>>%file%
 for /F "tokens=2 delims==" %%a in ('set fort[') do (
-	echo %efort%>>%file%
 	echo %%a>>%file%
 	for /L %%i in (1,1,%memSize%) do (
-		echo NS%%i>> %file% 
-		tuo "NS%%i" "Oluth-%%j" pvp ordered yf %%a -t 6 -o=blank.txt climb %iter% | find %find% >> %file% 
-		echo.>>%file% 
+		tuo "RD%%i" "Carnifex-%%j" raid random yf %%a -t 6 -o=blank.txt sim %iter% | find %find% >> %file% 
 	
 	)
 )

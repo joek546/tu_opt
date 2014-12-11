@@ -89,5 +89,29 @@
 			</always_include>
 		</deck>
 	</raid>
+	<raid>
+		<id>5</id>
+		<name>Carnifex</name>
+		<commander>8413</commander>
+		<levels>26</levels>
+		<deck>
+			<always_include>
+				<card>80511</card>
+				<card>80521</card>
+				<card>80531</card>
+				<card>80541</card>
+				<card>80551</card>
+				<card>80561</card>
+			</always_include>
+			<card_pool amount="4">
+				<card>80511</card>
+				<card>80521</card>
+				<card>80531</card>
+				<card>80541</card>
+				<card>80551</card>
+				<card>80561</card>
+			</card_pool>
+		</deck>
+	</raid>
 
 </root>
