@@ -34,6 +34,15 @@ RW5:Arkadios, Gehenna Cursed, Stoneheart, The Adversary, Erebus City Sector, Raz
 RW6:Arkadios, Gehenna Cursed(1), Hellwing(2), Erebus City Sector(2), Dreamhaunter, Abhorrent Recluse, Razor Pinion, Belfryze
 
 
+RF1: Malort, Machina Awoken, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Erebus City Sector, Gehenna Cursed #2, Scorched Hellwing, Dreamhaunter
+RF2: Malort, Gehenna Cursed #2, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Repulse Ghoul
+RF3: Arkadios, Gehenna Cursed #2, Erebus City Sector #2, Gehenna Cursed, Scorched Hellwing, Dreamhaunter
+RF4: Nexor, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Erebus City Sector, Scorched Hellwing, Abhorrent Recluse
+RF5: Arkadios, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Stoneheart
+RF6: Arkadios, Gehenna Cursed, Erebus City Sector, Abhorrent Recluse, Dreamhaunter, Erebus City Sector, Cyclops Raged, Hellwing, Avian Baron
+
+
+
 NS1:Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
 NS2:Cyrus, Infantry
 NS3:Cyrus, Infantry

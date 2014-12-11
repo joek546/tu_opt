@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Carnifex Fusions -->
+
+	<fusion_recipe>
+		<card_id>13158</card_id>
+		<resource card_id='13157' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13164</card_id>
+		<resource card_id='13163' number='2' />
+	</fusion_recipe>
+
+<!-- Enigma Box -->
+	<fusion_recipe>
+		<card_id>13212</card_id>
+		<resource card_id='13211' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13218</card_id>
+		<resource card_id='13217' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13194</card_id>
+		<resource card_id='13193' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13200</card_id>
+		<resource card_id='13199' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13230</card_id>
+		<resource card_id='13229' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13236</card_id>
+		<resource card_id='13235' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13248</card_id>
+		<resource card_id='13247' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13254</card_id>
+		<resource card_id='13253' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13266</card_id>
+		<resource card_id='13265' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13272</card_id>
+		<resource card_id='13271' number='2' />
+	</fusion_recipe>
+	
+<!-- December Week 2 Reward -->
+
+	<fusion_recipe>
+		<card_id>13278</card_id>
+		<resource card_id='6962' number='2' />
+	</fusion_recipe>
+
 <!-- Piety Pack -->
 
 	<fusion_recipe>

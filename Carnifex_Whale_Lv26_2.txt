@@ -1,0 +1,23 @@
+15:20:39.27 
+"Lightning Cannon(2)"
+Optimized Deck: (31.228% win, 0.009% stall) 37.1977: Malort, Gehenna Cursed #2, Erebus City Sector, Machina Awoken, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (26.117% win, 0.009% stall) 33.583: Malort, Gehenna Cursed #2, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Repulse Ghoul
+Optimized Deck: (28.934% win, 0.012% stall) 35.1746: Nexor, Gehenna Cursed, Savant Ascendant, Erebus City Sector, Gehenna Cursed, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (11.668% win, 0.019% stall) 19.7711: Nexor, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Erebus City Sector, Scorched Hellwing, Abhorrent Recluse
+Optimized Deck: (3.373% win, 0.011% stall) 11.2371: Arkadios, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Stoneheart
+Optimized Deck: (1.639% win, 0.001% stall) 8.92774: Arkadios, Gehenna Cursed, Erebus City Sector, Abhorrent Recluse, Avian Baron, Hellwing, Dreamhaunter, Erebus City Sector
+"Lightning Cannon,Corrosive Spore"
+Optimized Deck: (30.509% win, 0.004% stall) 36.3858: Malort, Machina Awoken, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Erebus City Sector, Gehenna Cursed #2, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (27.257% win, 0.002% stall) 34.3093: Malort, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed, Deserted Baughe, Dreamhaunter, Repulse Ghoul
+Optimized Deck: (23.024% win, 0.016% stall) 30.0064: Barracus, Gehenna Cursed #2, Erebus City Sector #2, Gehenna Cursed, Scorched Hellwing, Dreamhaunter, Abhorrent Recluse
+Optimized Deck: (10.027% win, 0.018% stall) 18.2012: Nexor, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Erebus City Sector, Scorched Hellwing, Abhorrent Recluse
+Optimized Deck: (5.089% win, 0.012% stall) 13.1755: Arkadios, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Stoneheart
+Optimized Deck: (2.272% win, 0.005% stall) 9.48437: Arkadios, Gehenna Cursed, Erebus City Sector, Hellwing, Abhorrent Recluse, Dreamhaunter, Hellwing, Erebus City Sector
+"Corrosive Spore(2)"
+Optimized Deck: (24.663% win, 0.023% stall) 31.5507: Daedalus, Machina Awoken, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed #2, Scorched Hellwing, Dreamhaunter, Erebus City Sector
+Optimized Deck: (24.265% win, 0.005% stall) 31.6532: Malort, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed, Deserted Baughe, Dreamhaunter, Repulse Ghoul
+Optimized Deck: (18.588% win, 0.017% stall) 25.7497: Arkadios, Gehenna Cursed #2, Erebus City Sector, Scorched Hellwing, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Abhorrent Recluse
+Optimized Deck: (5.228% win, 0% stall) 14.3975: Barracus, Gehenna Cursed, Erebus City Sector, Scorched Hellwing #2, Abhorrent Recluse, Erebus City Sector
+Optimized Deck: (4.982% win, 0.025% stall) 12.9609: Arkadios, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Stoneheart
+Optimized Deck: (2.514% win, 0.005% stall) 9.5873: Arkadios, Gehenna Cursed, Erebus City Sector, Hellwing, Abhorrent Recluse, Dreamhaunter, Hellwing, Erebus City Sector
+15:31:25.08

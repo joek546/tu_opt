@@ -92,24 +92,24 @@
 	<raid>
 		<id>5</id>
 		<name>Carnifex</name>
-		<commander>8413</commander>
+		<commander>1571</commander>
 		<levels>26</levels>
 		<deck>
 			<always_include>
-				<card>80511</card>
-				<card>80521</card>
-				<card>80531</card>
-				<card>80541</card>
-				<card>80551</card>
-				<card>80561</card>
+				<card>13142</card>
+				<card>13102</card>
+				<card>13112</card>
+				<card>13122</card>
+				<card>13132</card>
+				<card>8247</card>
 			</always_include>
 			<card_pool amount="4">
-				<card>80511</card>
-				<card>80521</card>
-				<card>80531</card>
-				<card>80541</card>
-				<card>80551</card>
-				<card>80561</card>
+				<card>13142</card>
+				<card>13102</card>
+				<card>13112</card>
+				<card>13122</card>
+				<card>13132</card>
+				<card>8247</card>
 			</card_pool>
 		</deck>
 	</raid>

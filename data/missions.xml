@@ -19564,6 +19564,332 @@
 		<req>2322</req>
 	</mission>
 	
+	<mission>
+		<id>2324</id>
+		<name>Cloak and Dagger</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>50</energy>
+		<x>560</x>
+		<y>200</y>
+		<commander>1569</commander>
+		<speech>
+			<line commander='1003'>Imperial Dark Ops touching down in Valhalla Station. Preparing to engage the threat.</line>
+			<line commander='1023'>Good, keep me updated on your progress. The enemy has gotten far enough past friendly lines.</line>
+		</speech>
+		<deck>
+			<card>13284</card>
+			<card>1</card>
+			<card>1</card>
+			<card>352</card>
+			<card>167</card>
+			<card>167</card>
+			<card>320</card>
+			<card>320</card>
+			<card>511</card>
+			<card>10795</card>
+		</deck>
+		<rewards>
+			<gold>55</gold>
+			<card>1</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2323</req>
+	</mission>
+
+	<mission>
+		<id>2325</id>
+		<name>Tabitha Pleas</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>55</energy>
+		<x>500</x>
+		<y>156</y>
+		<commander>1569</commander>
+		<speech>
+			<line commander='1181'>Octane, Stop this madness!</line>
+		</speech>
+		<deck>
+			<card>13284</card>
+			<card>11180</card>
+			<card>16</card>
+			<card>194</card>
+			<card>321</card>
+			<card>2</card>
+			<card>2</card>
+			<card>167</card>
+			<card>350</card>
+			<card>15</card>
+		</deck>
+		<rewards>
+			<gold>60</gold>
+			<card>15</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2324</req>
+	</mission>
+
+	<mission>
+		<id>2326</id>
+		<name>Uncertain Foes</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>60</energy>
+		<x>620</x>
+		<y>150</y>
+		<commander>1569</commander>
+		<speech>
+			<line commander='1003'>What is the meaning of this? Tabitha, why are you with enemy forces?</line>
+			<line commander='1023'>Do not let her distract you, she is leading these traitors.</line>
+		</speech>
+		<deck>
+			<card>13284</card>
+			<card>12252</card>
+			<card>510</card>
+			<card>17</card>
+			<card>17</card>
+			<card>10</card>
+			<card>10</card>
+			<card>7</card>
+			<card>2</card>
+			<card>12</card>
+		</deck>
+		<rewards>
+			<gold>66</gold>
+			<card>12</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2325</req>
+	</mission>
+
+	<mission>
+		<id>2327</id>
+		<name>Loyalties Lie</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>60</energy>
+		<x>690</x>
+		<y>205</y>
+		<commander>1569</commander>
+		<speech>
+			<line commander='1181'>I am no traitor!</line>
+			<line commander='1003'>Tabitha... If you've turned your back on the Imperials, then you have to be a traitor.</line>
+		</speech>
+		<deck>
+			<card>13284</card>
+			<card>501</card>
+			<card>352</card>
+			<card>352</card>
+			<card>7</card>
+			<card>321</card>
+			<card>16</card>
+			<card>16</card>
+			<card>194</card>
+			<card>5597</card>
+		</deck>
+		<rewards>
+			<gold>66</gold>
+			<card>501</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2326</req>
+	</mission>
+
+	<mission>
+		<id>2328</id>
+		<name>Real Danger</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>65</energy>
+		<x>750</x>
+		<y>155</y>
+		<commander>1569</commander>
+		<speech>
+			<line commander='1181'>But I have not turned my back on the Imperials, only on Halcyon.</line>
+		</speech>
+		<deck>
+			<card>13284</card>
+			<card>10699</card>
+			<card>320</card>
+			<card>320</card>
+			<card>511</card>
+			<card>2055</card>
+			<card>2001</card>
+			<card>13</card>
+			<card>13</card>
+			<card>9</card>
+		</deck>
+		<rewards>
+			<gold>71</gold>
+			<card>9</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2327</req>
+	</mission>
+
+	<mission>
+		<id>2329</id>
+		<name>Imperial Emperor</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>70</energy>
+		<x>890</x>
+		<y>155</y>
+		<commander>1569</commander>
+		<speech>
+			<line commander='1023'>I am the Imperials! You are nothing but whelps without me.</line>
+		</speech>
+		<deck>
+			<card>13284</card>
+			<card>5</card>
+			<card>2004</card>
+			<card>2004</card>
+			<card>167</card>
+			<card>511</card>
+			<card>195</card>
+			<card>195</card>
+			<card>320</card>
+			<card>6745</card>
+		</deck>
+		<rewards>
+			<gold>77</gold>
+			<card>5</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2328</req>
+	</mission>
+
+	<mission>
+		<id>2330</id>
+		<name>True Virtues</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<energy>75</energy>
+		<x>970</x>
+		<y>205</y>
+		<commander>1569</commander>
+		<speech>
+			<line commander='1181'>You dare to say you are Imperial when you operate in the shadows and use assassination plots against our allies!?</line>
+		</speech>
+		<deck>
+			<card>13284</card>
+			<card>4290</card>
+			<card>2056</card>
+			<card>17</card>
+			<card>17</card>
+			<card>320</card>
+			<card>352</card>
+			<card>352</card>
+			<card>350</card>
+			<card>4</card>
+		</deck>
+		<rewards>
+			<gold>82</gold>
+			<card>4</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2329</req>
+	</mission>
+
+	<mission>
+		<id>2331</id>
+		<name>Octane's Tank</name>
+		<location_id>115</location_id>
+		<event_req>27</event_req>
+		<combatBG>CombatBGSnow</combatBG>
+		<mission_type>2</mission_type>
+		<energy>75</energy>
+		<x>815</x>
+		<y>195</y>
+		<commander>1581</commander>
+		<speech>
+			<line commander='1003'>Sir. Engaging Tabitha's forces. I am going to apprehend her.</line>
+			<line commander='1023'>Kill her! Her fate has already been sealed. Send her to the Seven Hells where she belongs.</line>
+			<line commander='1181'>Octane, I won't hesitate if you are going to follow his lies. Do what you know is right!</line>
+		</speech>
+		<deck>
+			<card>13284</card>
+			<card>13284</card>
+			<card>12168</card>
+			<card>12368</card>
+			<card>10609</card>
+			<card>13060</card>
+			<card>11355</card>
+			<card>10705</card>
+			<card>4436</card>
+			<card>321</card>
+		</deck>
+		<rewards>
+			<gold>90</gold>
+			<card>320</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2330</req>
+	</mission>
+	
 	<!-- END December 2014 Missions -->
 
 	<location>
@@ -19753,7 +20079,7 @@
 		<id>115</id>
 		<name>Valhalla Station</name>
 		<event_req>27</event_req>
-		<mapBG>snow_mountain_w1</mapBG>
+		<mapBG>snow_mountain_w2</mapBG>
 		<asset_bundle>21</asset_bundle>
 		<req>10</req>
 	</location>

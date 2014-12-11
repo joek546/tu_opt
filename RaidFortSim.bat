@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 SET iter=100000
 SET memSize=6
-SET efort="Foreboding Archway"
+
 
 set fort[01]="Mortar Tower(2)"
 set fort[02]="Mortar Tower,Lightning Cannon"
@@ -43,7 +43,7 @@ set fort[35]="Inspiring Altar,Death Factory"
 set fort[36]="Inspiring Altar(2)"
 
 SET find="score"
-SET file="test_raid_fort.txt"
+SET file="test_raid_fort2.txt"
 
 echo %time%>%file% 
 
@@ -53,7 +53,7 @@ for /L %%j in (26,2,26) do (
 for /F "tokens=2 delims==" %%a in ('set fort[') do (
 	echo %%a>>%file%
 	for /L %%i in (1,1,%memSize%) do (
-		tuo "RD%%i" "Carnifex-%%j" raid random yf %%a -t 6 -o=blank.txt sim %iter% | find %find% >> %file% 
+		tuo "RF%%i" "Carnifex-%%j" raid random yf %%a -t 8 -o=blank.txt sim %iter% | find %find% >> %file% 
 	
 	)
 )
