@@ -1,0 +1,776 @@
+13:16:08.81 
+
+level 12
+"Lightning Cannon(2)"
+Optimized Deck: (99.275% win, 0.01% stall) 99.3796: Lord Silus, Shock Disruptor, Ezamit Serene, Shock Disruptor, Dreamhaunter, Inferno Demon, Tumblox, Abhorrent Recluse, Auger Bore
+Optimized Deck: (99.975% win, 0.00166667% stall) 99.9782: Lord Silus, Primus Ultima, Shock Disruptor #2, Serrated Grater, Sacred Sanctuary, Dreamhaunter, Coldheart, Inferno Demon, Judgment Nova
+Optimized Deck: (98.74% win, 0.02% stall) 98.9352: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (99.04% win, 0.035% stall) 99.185: Barracus, Dreamhaunter, Xillanail, Inferno Demon, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (98% win, 0.0316667% stall) 98.2952: Barracus, Auger Ream, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (97.3467% win, 0.101667% stall) 97.7379: Nexor, Dreamhaunter, Xillanail, Demi Constrictor, Ezamit Serene, Tumblox, Steadfast Assailant, Gorrus Rav, Inferno Demon, Baughe
+Optimized Deck: (99.8217% win, 0.005% stall) 99.8487: Lord Silus, Shock Disruptor #2, Judgment Nova, Dreamhaunter, Crude Surgeon, Judgment Nova, Inferno Demon, Guillotine Grinder
+Optimized Deck: (98.8833% win, 0.0416667% stall) 99.0516: Barracus, Xillanail, Dreamhaunter, Demi Constrictor, Inferno Demon, Arch Nova Alpha, Auger Bore, Tazerecca, Jilted Baughe #2
+Optimized Deck: (99.4583% win, 0.0366667% stall) 99.5427: Barracus, The Adversary, Xillanail, Dreamhaunter, Sculpted Aegis, Arch Nova Alpha, Jet, Bane of Truth, Abhorrent Recluse, Jilted Baughe
+Optimized Deck: (99.1183% win, 0.055% stall) 99.243: Barracus, Xillanail, Arch Nova Alpha, Auger Ream, Sacred Sanctuary, Jet, Tazerecca, Bane of Truth, Jilted Baughe
+Optimized Deck: (99.7% win, 0.0133333% stall) 99.7481: Malort, Ravenous Terrorsaur, Dreamhaunter, Aggeroth Chaos, Withersnare, Croc Oppressor #3
+Optimized Deck: (99.765% win, 0.00166667% stall) 99.7945: Halcyon, Dreamhaunter, Octane's Bulwark, Blackrock Cleaver, Coldheart, Sacred Sanctuary, Jet, Bane of Truth
+Optimized Deck: (98.8967% win, 0.015% stall) 99.0388: Barracus, Xillanail, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Sacred Sanctuary, Noble Defiance, Jilted Baughe, Demi Constrictor, Auger Bore
+Optimized Deck: (98.6067% win, 0.02% stall) 98.8: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Zealous Pursuer-5, Trigger Mark
+Optimized Deck: (99.21% win, 0.035% stall) 99.3291: Barracus, Dreamhaunter, Xillanail, Sculpted Aegis, Arch Nova Alpha, Abhorrent Recluse, Decorated Marshall, Noble Defiance, Jilted Baughe, Bane of Truth
+Optimized Deck: (99.5367% win, 0.00166667% stall) 99.5958: Arkadios, Dreamhaunter, Xillanail, Stoneheart, Sacred Sanctuary, Inferno Demon, Bane of Truth, Steadfast Assailant
+Optimized Deck: (98.565% win, 0.00333333% stall) 98.7382: Constantine, Dignified Vigil, Coldheart, Ezamit Serene, Bolt Crag, Flash Deity, Smite Forger, Zodiac Harbinger #2, Honorable Samurai, Deranged Fanatic
+Optimized Deck: (99.3117% win, 0.0216667% stall) 99.416: Lord Silus, Coldheart, Dreamhaunter, Shock Disruptor, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (99.44% win, 0.015% stall) 99.5175: Barracus, Dreamhaunter, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Wilter Conscript, Bolt Crag, Honorable Samurai, Bane of Truth
+Optimized Deck: (99.3583% win, 0.0133333% stall) 99.4518: Arkadios, Xillanail, Dreamhaunter, The Adversary, Sacred Sanctuary, Abhorrent Recluse, Arch Nova Alpha, Inferno Demon, Jilted Baughe
+Optimized Deck: (98.4233% win, 0.015% stall) 98.6036: Constantine, Coldheart, Grand Templar, Zodiac Harbinger, Flank, Sacred Sanctuary, Smite Forger, Noble Defiance, Blink Providence, Longshot Deadeye, Dreamreaper
+Optimized Deck: (97.0783% win, 0.095% stall) 97.4347: Barracus, Sculpted Aegis, The Adversary, Ezamit Serene, Sage Ascendant, Sacred Sanctuary, Tazerecca, Noble Defiance, Jilted Baughe, Baughe
+Optimized Deck: (97.6517% win, 0.02% stall) 97.9421: Kylen, Xillanail, Demi Constrictor, Coldheart, Sacred Sanctuary, Demi Constrictor, Arch Nova Alpha, Tazerecca, Jilted Baughe
+Optimized Deck: (98.8383% win, 0.005% stall) 98.987: Constantine, Ezamit Serene, Dreamhaunter, Coldheart, Sacred Sanctuary, Smite Forger, Noble Defiance, Zodiac Harbinger #2
+Optimized Deck: (91.9117% win, 0.0466667% stall) 93.0425: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Jilted Baughe, Dreamweaver
+Optimized Deck: (99.0667% win, 0.00166667% stall) 99.1924: Constantine, Coldheart, Ezamit Serene, Zodiac Harbinger, Smite Forger #2, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Dreamreaper
+Optimized Deck: (99.4433% win, 0.0233333% stall) 99.5238: Barracus, Dreamhaunter, Sacred Sanctuary, Xillanail, Abhorrent Recluse, Arch Nova Alpha, Inferno Demon, Tazerecca, Bane of Truth
+Optimized Deck: (98.1817% win, 0.01% stall) 98.433: Kylen, Dreamhaunter, Xillanail, Sacred Sanctuary, Demi Constrictor, Arch Nova Alpha, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (97.9883% win, 0.0283333% stall) 98.2352: Halcyon, Coldheart, Octane's Bastion, Decorated Marshall, Blackrock Cleaver, Steadfast Assailant, Hephatat Stoic, Bane of Truth, Auger Bore
+Optimized Deck: (99.9033% win, 0% stall) 99.9159: Arkadios, Erebus City Sector #2, Ezamit Tranq, Gehenna Cursed, Scorched Hellwing #2
+Optimized Deck: (98.9233% win, 0.0133333% stall) 99.0767: Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (98.5317% win, 0.0133333% stall) 98.7376: Barracus, Dreamhaunter, Xanadu Ultra, The Adversary, Arch Nova Alpha, Abhorrent Recluse, Noble Defiance, Tazerecca, Jilted Baughe, Auger Bore
+Optimized Deck: (98.5933% win, 0.0633333% stall) 98.8138: Barracus, Xillanail, Demi Constrictor, Arch Nova Alpha, Auger Ream, Decorated Marshall, Tazerecca, Jilted Baughe, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.08258: Cyrus, Infantry
+Optimized Deck: (99.1633% win, 0.00333333% stall) 99.2742: Barracus, Dreamhaunter, Demi Constrictor, Lucifire, Sacred Sanctuary, Aggeroth Chaos, Arch Nova Alpha, Tazerious, Withersnare, Jilted Baughe, Auger Bore
+Optimized Deck: (99.26% win, 0.0166667% stall) 99.363: Barracus, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Smite Forger, Ayrkrane Syn, Deranged Fanatic, Zodiac Harbinger
+Optimized Deck: (96.56% win, 0.0533333% stall) 96.9637: Barracus, Demi Constrictor, Tumblox, Coldheart, Sacred Sanctuary, Serak United, Baughe #2, Portal Noctil
+Optimized Deck: (98.0667% win, 0.045% stall) 98.3331: Nexor, Xillanail, Demi Constrictor, Arch Nova Alpha, Sacred Sanctuary, Inferno Demon, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (98.445% win, 0.0166667% stall) 98.6617: Constantine, Coldheart, Zodiac Harbinger, Smite Forger #2, Noble Defiance, Zodiac Harbinger, Bolt Crag, Blink Providence
+Optimized Deck: (99.125% win, 0.01% stall) 99.2324: Halcyon, Octane's Bastion, Hoard Arsenal, Coldheart, Decorated Marshall, Jet, Guardian Gamut, Hephatat Stoic, Bane of Truth, Dune Runner, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6.0816: Cyrus, Infantry
+Optimized Deck: (96.93% win, 0.03% stall) 97.3018: Constantine, Xillanail, Ezamit Serene, Bolt Crag, Smite Forger, Deft Reclaimer, Sacred Sanctuary, Heart Devourer, Bolt Crag, Dreamreaper
+Optimized Deck: (99.5917% win, 0.00333333% stall) 99.6506: Barracus, Dreamhaunter, Xillanail, Sacred Sanctuary, The Adversary, Demi Constrictor, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: (97.2083% win, 0.015% stall) 97.5218: Halcyon, Octane's Bastion, Coldheart, Cruise Launcher, Auger Ream, Indestructible Troop, Hephatat Stoic, Guardian Gamut
+Optimized Deck: (98.475% win, 0.0333333% stall) 98.6953: Barracus, Aggeroth Chaos, Steadfast Assailant, Xillanail, Demi Constrictor, Arch Nova Alpha, Revolt Ranger, Tazerecca, Baughe, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6.08177: Cyrus, Infantry
+Optimized Deck: (99.555% win, 0.0416667% stall) 99.6285: Barracus, Xillanail, Shock Disruptor, Dreamhaunter, Judgment Nova, Jet, Inferno Demon, Bane of Truth
+Optimized Deck: (98.5883% win, 0.0133333% stall) 98.769: Constantine, Coldheart, Ezamit Serene, Dreamhaunter, Smite Forger, Sacred Sanctuary, Jet, Zodiac Harbinger, Blink Providence, Deranged Fanatic
+Optimized Deck: (0% win, 0% stall) 6.08205: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (99.5933% win, 0.00333333% stall) 99.6506: Lord Silus, Shock Disruptor #2, Dreamhaunter, Ezamit Serene, Inferno Demon, Tumblox, Tazerecca, Abhorrent Recluse
+Optimized Deck: (99.9883% win, 0% stall) 99.9892: Lord Silus, Primus Ultima, Shock Disruptor, Sacred Sanctuary, Shock Disruptor, Dreamhaunter, Serrated Grater, Coldheart, Judgment Nova, Inferno Demon, Crushing Anvil
+Optimized Deck: (99.02% win, 0.015% stall) 99.1687: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Arch Nova Alpha, Tazerious, Auger Bore, Jilted Baughe
+Optimized Deck: (99.405% win, 0.0266667% stall) 99.5009: Barracus, Xillanail, Aggeroth Chaos, Dreamhaunter, Arch Nova Alpha, Auger Ream, Inferno Demon, Tazerecca, Bane of Truth
+Optimized Deck: (98.2683% win, 0.015% stall) 98.5072: Barracus, Demi Constrictor, Auger Ream, Arch Nova Alpha, Steadfast Assailant, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (97.9517% win, 0.0616667% stall) 98.2608: Nexor, Dreamhaunter, Xillanail, Demi Constrictor, Ezamit Serene, Gorrus Rav, Steadfast Assailant, Inferno Demon, Baughe
+Optimized Deck: (99.9083% win, 0% stall) 99.9235: Lord Silus, Shock Disruptor, Judgment Nova, Shock Disruptor, Dreamhaunter, Judgment Nova, Inferno Demon, Guillotine Grinder
+Optimized Deck: (99.0217% win, 0.0283333% stall) 99.1648: Barracus, Dreamhaunter, Xanadu Ultra, Xillanail, Arch Nova Alpha, Auger Bore, Tazerecca, Inferno Demon, Bane of Truth
+Optimized Deck: (99.535% win, 0.0216667% stall) 99.6081: Kylen, The Adversary, Ezamit Serene, Xillanail, Dreamhaunter, Arch Nova Alpha, Jet, Abhorrent Recluse, Bane of Truth
+Optimized Deck: (98.9933% win, 0.015% stall) 99.112: Barracus, Sacred Sanctuary, Auger Ream, Xillanail, Coldheart, Jet, Arch Nova Alpha, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (99.8017% win, 0.00333333% stall) 99.8335: Malort, Ravenous Terrorsaur, Aggeroth Chaos, Dreamhaunter, Withersnare, Croc Oppressor #3
+Optimized Deck: (99.8367% win, 0.00166667% stall) 99.8596: Halcyon, Dreamhaunter, Blackrock Cleaver, Octane's Bulwark, Coldheart, Auger Ream, Bane of Truth, Earnest Pursuer
+Optimized Deck: (98.7767% win, 0.0283333% stall) 98.9255: Barracus, Xillanail, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Sacred Sanctuary, Noble Defiance, Jilted Baughe, Withersnare, Demi Constrictor
+Optimized Deck: (99.2617% win, 0.00666667% stall) 99.3705: Halcyon, Tundra MK3, Hoard Arsenal, Cruise Launcher, Blast Lancer, Trigger Mark, Zealous Pursuer-5, Galvanic Commando
+Optimized Deck: (99.2717% win, 0.02% stall) 99.3809: Barracus, Dreamhaunter, Xillanail, Sculpted Aegis, Arch Nova Alpha, Decorated Marshall, Abhorrent Recluse, Lurker Behemoth, Bane of Truth
+Optimized Deck: (99.7867% win, 0.005% stall) 99.8167: Arkadios, Xillanail, Dreamhaunter, Stoneheart, Sacred Sanctuary, Inferno Demon, Bane of Truth
+Optimized Deck: (98.96% win, 0.00333333% stall) 99.0877: Constantine, Dignified Vigil, Ezamit Serene, Flash Deity, Coldheart, Smite Forger, Zodiac Harbinger #2, Honorable Samurai, Ayrkrane Vik, Bolt Crag
+Optimized Deck: (99.58% win, 0.0133333% stall) 99.6409: Lord Silus, Dreamhaunter, Shock Disruptor, Coldheart, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (99.4967% win, 0.0183333% stall) 99.564: Barracus, Xillanail, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Wilter Conscript, Honorable Samurai, Bolt Crag
+Optimized Deck: (99.715% win, 0.00166667% stall) 99.7538: Arkadios, Dreamhaunter, The Adversary, Sacred Sanctuary, Xillanail, Abhorrent Recluse, Arch Nova Alpha, Inferno Demon, Jilted Baughe
+Optimized Deck: (98.8283% win, 0.00666667% stall) 98.9653: Constantine, Flank, Grand Templar, Coldheart, Sacred Sanctuary, Zodiac Harbinger, Smite Forger, Noble Defiance, Longshot Deadeye, Auger Bore, Dreamreaper
+Optimized Deck: (96.545% win, 0.0433333% stall) 96.9469: Barracus, The Adversary, Sacred Sanctuary, Ezamit Serene, Sage Ascendant, Tazerecca, Auger Bore, Jilted Baughe, Baughe
+Optimized Deck: (98.44% win, 0.015% stall) 98.6364: Kylen, Xillanail, Demi Constrictor, Coldheart, Arch Nova Alpha, Sacred Sanctuary, Jilted Baughe, Tazerecca, Demi Constrictor
+Optimized Deck: (99.3983% win, 0.00333333% stall) 99.4684: Constantine, Ezamit Serene, Dreamhaunter, Coldheart, Sacred Sanctuary, Smite Forger, Noble Defiance, Zodiac Harbinger #2
+Optimized Deck: (92.695% win, 0.04% stall) 93.6974: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Jilted Baughe, Dreamweaver
+Optimized Deck: (99.3683% win, 0% stall) 99.4552: Constantine, Coldheart, Ezamit Serene, Zodiac Harbinger, Smite Forger #2, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Dreamreaper
+Optimized Deck: (99.5683% win, 0.0166667% stall) 99.6256: Barracus, Dreamhaunter, Xillanail, Coldheart, Sacred Sanctuary, Inferno Demon, Abhorrent Recluse, Tazerecca, Bane of Truth
+Optimized Deck: (98.785% win, 0.00833333% stall) 98.9505: Kylen, Xillanail, Dreamhaunter, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Baughe
+Optimized Deck: (98.805% win, 0.015% stall) 98.9468: Halcyon, Blackrock Cleaver, Decorated Marshall, Octane's Bastion, Coldheart, Steadfast Assailant, Hephatat Stoic, Bane of Truth, Cadmus
+Optimized Deck: (99.96% win, 0% stall) 99.9662: Arkadios, Abhorrent Recluse, Ezamit Tranq, Erebus City Sector, Cyclops Raged, Gehenna Cursed, Scorched Hellwing #2, Erebus City Sector
+Optimized Deck: (99.3033% win, 0.0166667% stall) 99.3982: Nexor, Xillanail, Dreamhaunter, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Auger Bore, Tazerecca
+Optimized Deck: (0% win, 0% stall) 6.00568: Cyrus, Infantry
+Optimized Deck: (98.8983% win, 0.01% stall) 99.0559: Barracus, The Adversary, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Jilted Baughe, Auger Bore
+Optimized Deck: (98.8433% win, 0.0366667% stall) 99.0084: Barracus, Xillanail, Demi Constrictor, Arch Nova Alpha, Auger Ream, Decorated Marshall, Tazerecca, Jilted Baughe, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.00573: Cyrus, Infantry
+Optimized Deck: (99.5317% win, 0.00666667% stall) 99.5929: Nexor, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Coldheart, Withersnare, Ayrkrane Syn, Tazerious, Jilted Baughe
+Optimized Deck: (99.3917% win, 0.00166667% stall) 99.4694: Constantine, Dreamhaunter, Coldheart, Sacred Sanctuary, Xillanail, Smite Forger, Ayrkrane Syn, Zodiac Harbinger, Baughe
+Optimized Deck: (96.615% win, 0.0166667% stall) 97.0096: Barracus, Pherous Astute, Demi Constrictor, Coldheart, Sacred Sanctuary, Serak United, Portal Noctil, Baughe #2
+Optimized Deck: (98.295% win, 0.015% stall) 98.508: Nexor, Demi Constrictor, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Inferno Demon, Honorable Samurai, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (99.0067% win, 0.00333333% stall) 99.1221: Constantine, Sacred Sanctuary, Coldheart, Zodiac Harbinger, Smite Forger #2, Noble Defiance, Zodiac Harbinger, Divine Equalizer, Bolt Crag
+Optimized Deck: (99.4333% win, 0.00666667% stall) 99.5033: Halcyon, Hoard Arsenal, Octane's Bastion, Coldheart, Decorated Marshall, Guardian Gamut, Jet, Dune Runner, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.00553: Cyrus, Infantry
+Optimized Deck: (98.08% win, 0.0233333% stall) 98.3066: Constantine, Xillanail, Ezamit Serene, Bolt Crag, Sacred Sanctuary, Smite Forger, Deft Reclaimer, Heart Devourer, Bolt Crag, Dreamreaper
+Optimized Deck: (99.545% win, 0.005% stall) 99.6024: Barracus, Dreamhaunter, Xillanail, Sacred Sanctuary, Xanadu Ultra, The Adversary, Arch Nova Alpha, Tazerecca, Jilted Baughe
+Optimized Deck: (98.35% win, 0.015% stall) 98.5289: Halcyon, Octane's Bastion, Coldheart, Cruise Launcher, Auger Ream, Indestructible Troop, Guardian Gamut, Hephatat Stoic
+Optimized Deck: (98.9167% win, 0.0233333% stall) 99.0743: Barracus, Xillanail, Aggeroth Chaos, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Revolt Ranger, Tazerecca, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6.00582: Cyrus, Infantry
+Optimized Deck: (99.665% win, 0.0116667% stall) 99.7158: Barracus, Xillanail, Shock Disruptor, Dreamhaunter, Judgment Nova, Inferno Demon, Jet, Bane of Truth, Serraco
+Optimized Deck: (99.1683% win, 0.00333333% stall) 99.2681: Constantine, Ezamit Serene, Coldheart, Dreamhaunter, Sacred Sanctuary, Smite Forger, Jet, Zodiac Harbinger, Blink Providence, Deranged Fanatic
+Optimized Deck: (0% win, 0% stall) 6.00542: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (99.6767% win, 0.00166667% stall) 99.7237: Lord Silus, Ezamit Serene, Shock Disruptor #2, Tumblox, Dreamhaunter, Inferno Demon, Tazerecca, Abhorrent Recluse
+Optimized Deck: (99.9583% win, 0.00333333% stall) 99.9634: Lord Silus, Serrated Grater, Primus Ultima, Shock Disruptor, Sacred Sanctuary, Shock Disruptor, Judgment Nova, Dreamhaunter, Crushing Anvil, Coldheart
+Optimized Deck: (99.33% win, 0.00666667% stall) 99.4312: Nexor, Dreamhaunter, Ezamit Serene, Xillanail, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (99.6783% win, 0.005% stall) 99.725: Barracus, Xillanail, Dreamhaunter, Xanadu Ultra, Aggeroth Chaos, Arch Nova Alpha, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (98.6267% win, 0.015% stall) 98.8008: Barracus, Steadfast Assailant, Spiteful Raptor, Coldheart, Arch Nova Alpha, Auger Ream, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (98.6317% win, 0.0633333% stall) 98.8439: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Steadfast Assailant, Gorrus Rav, Inferno Demon, Baughe
+Optimized Deck: (99.95% win, 0% stall) 99.9572: Lord Silus, Shock Disruptor, Judgment Nova, Crude Surgeon, Shock Disruptor, Dreamhaunter, Judgment Nova, Inferno Demon, Guillotine Grinder
+Optimized Deck: (99.3583% win, 0.015% stall) 99.4527: Barracus, Xillanail, Dreamhaunter, Xanadu Ultra, Arch Nova Alpha, Inferno Demon, Tazerecca, Bane of Truth
+Optimized Deck: (99.7067% win, 0.005% stall) 99.7496: Arkadios, The Adversary, Xanadu Ultra, Xillanail, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Bane of Truth
+Optimized Deck: (99.385% win, 0.00666667% stall) 99.4575: Nexor, Xillanail, Auger Ream, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Jet, Tazerecca, Trench Hurler, Bane of Truth
+Optimized Deck: (99.91% win, 0% stall) 99.9246: Malort, Ravenous Terrorsaur, Dreamhaunter, Aggeroth Chaos, Croc Oppressor, Withersnare, Croc Oppressor #2
+Optimized Deck: (99.895% win, 0.00333333% stall) 99.909: Halcyon, Octane's Bulwark, Dreamhaunter, Blackrock Cleaver, Decorated Marshall, Coldheart, Hephatat Stoic, Jet, Bane of Truth
+Optimized Deck: (98.8883% win, 0.0183333% stall) 99.0102: Barracus, Xillanail, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Sacred Sanctuary, Withersnare, Jilted Baughe, Noble Defiance, Demi Constrictor
+Optimized Deck: (99.445% win, 0.00333333% stall) 99.523: Halcyon, Hoard Arsenal, Tundra MK3, Cruise Launcher, Blast Lancer, Trigger Mark, Zealous Pursuer-5, Galvanic Commando
+Optimized Deck: (99.7067% win, 0.005% stall) 99.7493: Arkadios, Dreamhaunter, Xillanail, Abhorrent Recluse, Decorated Marshall, Arch Nova Alpha, Noble Defiance, Jilted Baughe #2
+Optimized Deck: (99.8483% win, 0.00166667% stall) 99.8662: Arkadios, Dreamhaunter, Xillanail, Arch Nova Alpha, Stoneheart, Sacred Sanctuary, Steadfast Assailant, Inferno Demon, Xanadu Ultra
+Optimized Deck: (99.315% win, 0.01% stall) 99.4047: Constantine, Coldheart, Dignified Vigil, Ezamit Serene, Smite Forger, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Bolt Crag
+Optimized Deck: (99.6467% win, 0.0116667% stall) 99.6973: Lord Silus, Shock Disruptor, Inferno Demon, Dreamhaunter, Coldheart, Jet, Revolt Ranger, Bane of Truth
+Optimized Deck: (99.605% win, 0.01% stall) 99.655: Barracus, Sacred Sanctuary, Dreamhaunter, Xillanail, Arch Nova Alpha, Wilter Conscript, Honorable Samurai, Bolt Crag, Bane of Truth
+Optimized Deck: (99.785% win, 0.005% stall) 99.8128: Arkadios, Sacred Sanctuary, The Adversary, Dreamhaunter, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Inferno Demon
+Optimized Deck: (99.2533% win, 0.01% stall) 99.3418: Constantine, Blink Providence, Coldheart, Sacred Sanctuary, Grand Templar, Smite Forger, Zodiac Harbinger, Noble Defiance, Longshot Deadeye, Dreamreaper, Trench Lobber
+Optimized Deck: (96.9933% win, 0.04% stall) 97.3246: Barracus, The Adversary, Sculpted Aegis, Sacred Sanctuary, Ezamit Serene, Auger Bore, Tazerecca, Jilted Baughe, Baughe
+Optimized Deck: (99.0033% win, 0.00666667% stall) 99.1281: Kylen, Xillanail, Demi Constrictor, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Jilted Baughe, Demi Constrictor
+Optimized Deck: (99.6833% win, 0.00333333% stall) 99.7219: Constantine, Sacred Sanctuary, Ezamit Serene, Dreamhaunter, Coldheart, Smite Forger, Zodiac Harbinger, Noble Defiance, Serraco, Zodiac Harbinger
+Optimized Deck: (92.685% win, 0.045% stall) 93.6518: Alaric, Dreamreaper, Halerift, Animus Geist, Zodiac Harbinger #2, Jilted Baughe, Dreamweaver
+Optimized Deck: (99.525% win, 0.00166667% stall) 99.5909: Constantine, Ezamit Serene, Zodiac Harbinger, Coldheart, Smite Forger, Zodiac Harbinger #2, Smite Forger, Honorable Samurai, Ayrkrane Syn, Animus Geist
+Optimized Deck: (99.6783% win, 0.00333333% stall) 99.7178: Barracus, Xillanail, Sacred Sanctuary, Dreamhaunter, Coldheart, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Inferno Demon
+Optimized Deck: (99.29% win, 0.00166667% stall) 99.3801: Kylen, Xanadu Ultra, Xillanail, Dreamhaunter, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (99.1433% win, 0.01% stall) 99.2455: Halcyon, Blackrock Cleaver, Coldheart, Octane's Bastion, Hephatat Stoic, Decorated Marshall, Steadfast Assailant, Bane of Truth, Auger Bore
+Optimized Deck: (99.9933% win, 0% stall) 99.9944: Arkadios, Ezamit Tranq, Erebus City Sector, Cyclops Raged, Gehenna Cursed, Scorched Hellwing #2
+Optimized Deck: (99.5333% win, 0.01% stall) 99.5938: Nexor, Dreamhaunter, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (99.47% win, 0.00666667% stall) 99.5418: Arkadios, The Adversary, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Noble Defiance, Abhorrent Recluse, Jilted Baughe, Tazerecca
+Optimized Deck: (98.9483% win, 0.0133333% stall) 99.0826: Barracus, Sculpted Aegis, Xillanail, Coldheart, Auger Ream, Arch Nova Alpha, Decorated Marshall, Jilted Baughe, Tazerecca, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (99.7583% win, 0.00166667% stall) 99.791: Nexor, Dreamhaunter, Sacred Sanctuary, Aggeroth Chaos, Arch Nova Alpha, Coldheart, Ayrkrane Syn, Tazerious, Withersnare, Jilted Baughe
+Optimized Deck: (99.675% win, 0.00166667% stall) 99.7149: Constantine, Ezamit Serene, Dreamhaunter, Coldheart, Sacred Sanctuary, Smite Forger, Ayrkrane Syn, Zodiac Harbinger, Baughe, Animus Geist
+Optimized Deck: (96.9483% win, 0.02% stall) 97.2867: Barracus, Demi Constrictor, Pherous Astute, Coldheart, Sacred Sanctuary, Serak United, Portal Noctil, Baughe #2
+Optimized Deck: (98.7917% win, 0.02% stall) 98.946: Nexor, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Lurker Behemoth, Inferno Demon, Elite Squadron, Honorable Samurai, Bane of Truth, Tazerecca
+Optimized Deck: (99.4267% win, 0.005% stall) 99.4883: Constantine, Coldheart, Smite Forger #2, Sacred Sanctuary, Zodiac Harbinger, Noble Defiance, Blink Providence, Zodiac Harbinger, Bolt Crag
+Optimized Deck: (99.7183% win, 0.00333333% stall) 99.7506: Halcyon, Coldheart, Hoard Arsenal, Decorated Marshall, Octane's Bastion, Auger Ream, Guardian Gamut, Hephatat Stoic, Dune Runner, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (98.8067% win, 0.01% stall) 98.945: Constantine, Ezamit Serene, Xillanail, Deft Reclaimer, Sacred Sanctuary, Smite Forger, Heart Devourer, Bolt Crag, Dreamreaper, Bolt Crag, Greatheart
+Optimized Deck: (99.63% win, 0.0133333% stall) 99.6764: Barracus, Xillanail, Xanadu Ultra, Dreamhaunter, The Adversary, Sacred Sanctuary, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: (99.0683% win, 0.0133333% stall) 99.1699: Halcyon, Cruise Launcher, Coldheart, Octane's Bastion, Auger Ream, Guardian Gamut, Indestructible Troop, Hephatat Stoic, Ezamit Serene
+Optimized Deck: (99.1133% win, 0.0216667% stall) 99.2382: Barracus, Xillanail, Aggeroth Chaos, Steadfast Assailant, Demi Constrictor, Arch Nova Alpha, Revolt Ranger, Tazerecca, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (99.6733% win, 0.00666667% stall) 99.722: Lord Silus, Xillanail, Shock Disruptor, Inferno Demon, Dreamhaunter, Judgment Nova, Jet, Bane of Truth, Serraco
+Optimized Deck: (99.5667% win, 0.00333333% stall) 99.6188: Constantine, Ezamit Serene, Dreamhaunter, Coldheart, Sacred Sanctuary, Smite Forger, Jet, Zodiac Harbinger, Blink Providence
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+
+level 14
+"Lightning Cannon(2)"
+Optimized Deck: (93.725% win, 0.0333333% stall) 94.5667: Lord Silus, Shock Disruptor #2, Dreamhaunter, Ezamit Serene, Inferno Demon, Tumblox, Abhorrent Recluse, Auger Bore
+Optimized Deck: (99.1683% win, 0.0316667% stall) 99.2535: Lord Silus, Primus Ultima, Shock Disruptor, Sacred Sanctuary, Shock Disruptor, Serrated Grater, Dreamhaunter, Coldheart, Judgment Nova, Crushing Anvil, Inferno Demon
+Optimized Deck: (90.925% win, 0.0783333% stall) 92.2415: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (92.1617% win, 0.19% stall) 93.2893: Barracus, Dreamhaunter, Inferno Demon, Xillanail, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (86.835% win, 0.163333% stall) 88.6828: Barracus, Steadfast Assailant, Demi Constrictor, Abhorrent Recluse, Arch Nova Alpha, Auger Ream, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (82.3% win, 0.225% stall) 84.7191: Nexor, Xillanail, Dreamhaunter, Demi Constrictor, Tumblox, Ezamit Serene, Gorrus Rav, Baughe, Steadfast Assailant
+Optimized Deck: (98.0617% win, 0.02% stall) 98.3368: Lord Silus, Shock Disruptor #2, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Inferno Demon, Guillotine Grinder
+Optimized Deck: (91.525% win, 0.0683333% stall) 92.6874: Barracus, Dreamhaunter, Xillanail, Demi Constrictor, Sculpted Aegis, Arch Nova Alpha, Tazerecca, Auger Bore, Jilted Baughe, Bane of Truth
+Optimized Deck: (94.3267% win, 0.111667% stall) 95.1467: Barracus, Dreamhaunter, Sculpted Aegis, Xillanail, The Adversary, Arch Nova Alpha, Jet, Bane of Truth, Jilted Baughe, Abhorrent Recluse
+Optimized Deck: (92.945% win, 0.156667% stall) 93.8751: Barracus, Xillanail, Arch Nova Alpha, Auger Ream, Sacred Sanctuary, Jet, Tazerecca, Bane of Truth, Jilted Baughe
+Optimized Deck: (96.8917% win, 0.03% stall) 97.3583: Malort, Ravenous Terrorsaur, Dreamhaunter, Aggeroth Chaos, Withersnare, Croc Oppressor #3, Veiled Defiler
+Optimized Deck: (97.3517% win, 0.02% stall) 97.6534: Halcyon, Octane's Bulwark, Dreamhaunter, Coldheart, Sacred Sanctuary, Jet, Hephatat Stoic, Bane of Truth
+Optimized Deck: (90.8467% win, 0.1% stall) 91.9752: Barracus, Steadfast Assailant, Xillanail, Demi Constrictor #2, Arch Nova Alpha, Sacred Sanctuary, Jilted Baughe, Noble Defiance, Dreamreaper
+Optimized Deck: (89.745% win, 0.0216667% stall) 91.0298: Halcyon, Hoard Arsenal, Tundra MK3, Blast Lancer, Cruise Launcher, Ezamit Serene, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (92.5617% win, 0.0633333% stall) 93.6204: Barracus, Sculpted Aegis, Xillanail, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Decorated Marshall, Jilted Baughe, Bane of Truth, Lurker Behemoth
+Optimized Deck: (95.645% win, 0.04% stall) 96.1978: Arkadios, Dreamhaunter, Xillanail, Stoneheart, Sacred Sanctuary, Inferno Demon, Bane of Truth, Steadfast Assailant
+Optimized Deck: (90.925% win, 0.00666667% stall) 91.9462: Constantine, Coldheart, Dignified Vigil, Ezamit Serene, Smite Forger, Bolt Crag, Flash Deity, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Ayrkrane Vik
+Optimized Deck: (94.2933% win, 0.111667% stall) 95.1394: Barracus, Shock Disruptor, Dreamhaunter, Arch Nova Alpha, Jet, Inferno Demon, Revolt Ranger, Jilted Baughe, Bane of Truth
+Optimized Deck: (94.7033% win, 0.0916667% stall) 95.4113: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Wilter Conscript, Bolt Crag, Honorable Samurai, Bane of Truth
+Optimized Deck: (94.435% win, 0.16% stall) 95.2144: Arkadios, Xillanail, The Adversary, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Arch Nova Alpha, Inferno Demon, Jilted Baughe
+Optimized Deck: (88.9233% win, 0.04% stall) 90.2143: Constantine, Coldheart, Flank, Grand Templar, Smite Forger, Zodiac Harbinger, Blink Providence, Noble Defiance, Dreamreaper, Longshot Deadeye
+Optimized Deck: (80.905% win, 0.181667% stall) 83.1117: Barracus, The Adversary, Sacred Sanctuary, Ezamit Serene, Sage Ascendant, Auger Bore, Tazerecca, Jilted Baughe, Baughe, Noble Defiance
+Optimized Deck: (86.8217% win, 0.0666667% stall) 88.3853: Kylen, Xillanail, Demi Constrictor, Coldheart, Sacred Sanctuary, Demi Constrictor, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: (91.9267% win, 0.0366667% stall) 92.9185: Constantine, Dreamhaunter, Smite Forger, Coldheart, Sacred Sanctuary, Zodiac Harbinger, Noble Defiance, Zodiac Harbinger, Serraco
+Optimized Deck: (69.9883% win, 0.0583333% stall) 73.8148: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Jilted Baughe, Dreamweaver
+Optimized Deck: (92.4883% win, 0.00666667% stall) 93.4488: Constantine, Coldheart, Smite Forger, Zodiac Harbinger, Smite Forger, Zodiac Harbinger #2, Honorable Samurai, Dreamreaper
+Optimized Deck: (95.0967% win, 0.0683333% stall) 95.7322: Barracus, Xillanail, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Inferno Demon, Arch Nova Alpha, Auger Bore, Tazerecca, Bane of Truth
+Optimized Deck: (89.2117% win, 0.045% stall) 90.6265: Kylen, Dreamhaunter, Xillanail, Demi Constrictor, Arch Nova Alpha, Sacred Sanctuary, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (86.255% win, 0.1% stall) 87.8965: Halcyon, Decorated Marshall, Coldheart, Octane's Bastion, Steadfast Assailant, Hephatat Stoic, Auger Bore, Bane of Truth, Cadmus
+Optimized Deck: (99.3767% win, 0% stall) 99.4557: Arkadios, Ezamit Tranq, Erebus City Sector, Gehenna Cursed, Erebus City Sector, Scorched Hellwing #2
+Optimized Deck: (92.65% win, 0.0616667% stall) 93.6683: Nexor, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6.04153: Cyrus, Infantry
+Optimized Deck: (88.8767% win, 0.09% stall) 90.4834: Barracus, Dreamhaunter, Xanadu Ultra, The Adversary, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Jilted Baughe, Auger Bore
+Optimized Deck: (89.5117% win, 0.09% stall) 90.9138: Barracus, Xillanail, Sculpted Aegis, Demi Constrictor, Arch Nova Alpha, Auger Ream, Decorated Marshall, Tazerecca, Jilted Baughe, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.03967: Cyrus, Infantry
+Optimized Deck: (93.37% win, 0.04% stall) 94.2492: Barracus, Dreamhaunter, Demi Constrictor, Lucifire, Sacred Sanctuary, Arch Nova Alpha, Tazerious, Jilted Baughe, Aggeroth Chaos
+Optimized Deck: (93.7083% win, 0.07% stall) 94.5499: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Smite Forger, Ayrkrane Syn, Auger Bore, Zodiac Harbinger
+Optimized Deck: (82.5367% win, 0.08% stall) 84.5386: Barracus, Demi Constrictor, Coldheart, Sacred Sanctuary, Serak United, Arch Nova Elite, Baughe #2, Portal Noctil
+Optimized Deck: (88.1917% win, 0.188333% stall) 89.7436: Nexor, Xillanail, Demi Constrictor, Arch Nova Alpha, Sacred Sanctuary, Inferno Demon, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (90.0767% win, 0.0116667% stall) 91.3464: Constantine, Coldheart, Smite Forger, Bolt Crag, Smite Forger, Zodiac Harbinger #2, Noble Defiance, Divine Equalizer
+Optimized Deck: (93.71% win, 0.0266667% stall) 94.4338: Halcyon, Coldheart, Hoard Arsenal, Octane's Bastion, Jet, Auger Ream, Guardian Gamut, Hephatat Stoic, Bane of Truth, Decorated Marshall, Dune Runner
+Optimized Deck: (0% win, 0% stall) 6.03977: Cyrus, Infantry
+Optimized Deck: (84.7617% win, 0.0316667% stall) 86.323: Constantine, Xillanail, Smite Forger, Bolt Crag #2, Ezamit Serene, Sacred Sanctuary, Flash Deity, Deft Reclaimer, Onyx, Dreamreaper
+Optimized Deck: (95.5233% win, 0.0833333% stall) 96.1316: Barracus, Dreamhaunter, Xillanail, Sacred Sanctuary, Demi Constrictor, The Adversary, Arch Nova Alpha, Tazerecca, Jilted Baughe
+Optimized Deck: (83.885% win, 0.111667% stall) 85.5792: Halcyon, Coldheart, Octane's Bastion, Auger Ream, Cruise Launcher, Indestructible Troop, Hephatat Stoic, Guardian Gamut, Ezamit Serene
+Optimized Deck: (88.2867% win, 0.17% stall) 89.9152: Barracus, Xillanail, Steadfast Assailant, Demi Constrictor, Arch Nova Alpha, Aggeroth Chaos, Revolt Ranger, Tazerecca, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.04142: Cyrus, Infantry
+Optimized Deck: (95.8917% win, 0.0983333% stall) 96.5054: Barracus, Xillanail, Shock Disruptor, Dreamhaunter, Jet, Judgment Nova, Inferno Demon, Bane of Truth, Serraco
+Optimized Deck: (90.0217% win, 0.0316667% stall) 91.1876: Constantine, Dreamhaunter, Jet, Coldheart, Sacred Sanctuary, Smite Forger, Ezamit Serene, Zodiac Harbinger, Blink Providence
+Optimized Deck: (0% win, 0% stall) 6.04057: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (95.6317% win, 0.0183333% stall) 96.2259: Lord Silus, Shock Disruptor, Ezamit Serene, Shock Disruptor, Dreamhaunter, Inferno Demon, Tumblox, Tazerecca, Abhorrent Recluse
+Optimized Deck: (99.33% win, 0.0266667% stall) 99.3989: Lord Silus, Primus Ultima, Shock Disruptor, Sacred Sanctuary, Shock Disruptor, Serrated Grater, Dreamhaunter, Coldheart, Judgment Nova, Inferno Demon, Crushing Anvil
+Optimized Deck: (92.9467% win, 0.0416667% stall) 93.951: Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Ezamit Serene, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (94.2933% win, 0.101667% stall) 95.1132: Barracus, Xanadu Ultra, Xillanail, Dreamhaunter, Arch Nova Alpha, Auger Ream, Aggeroth Chaos, Inferno Demon, Bane of Truth
+Optimized Deck: (89.265% win, 0.065% stall) 90.6923: Barracus, Demi Constrictor, Auger Ream, Steadfast Assailant, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (85.7117% win, 0.38% stall) 87.8121: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Steadfast Assailant, Gorrus Rav, Inferno Demon, Baughe
+Optimized Deck: (98.8483% win, 0.00333333% stall) 99.0141: Lord Silus, Shock Disruptor, Crude Surgeon, Shock Disruptor, Dreamhaunter, Judgment Nova #2, Inferno Demon, Guillotine Grinder
+Optimized Deck: (92.585% win, 0.101667% stall) 93.6239: Barracus, Xillanail, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Inferno Demon, Auger Bore, Tazerecca, Bane of Truth
+Optimized Deck: (95.5533% win, 0.123333% stall) 96.2089: Nexor, Dreamhaunter, The Adversary, Xillanail, Arch Nova Alpha, Jet, Abhorrent Recluse, Jilted Baughe, Bane of Truth
+Optimized Deck: (93.0317% win, 0.0366667% stall) 93.875: Nexor, Xillanail, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Auger Ream, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (97.82% win, 0.0383333% stall) 98.1508: Malort, Dreamhaunter, Ravenous Terrorsaur, Aggeroth Chaos, Withersnare, Croc Oppressor #3
+Optimized Deck: (98.225% win, 0.015% stall) 98.4297: Tabitha, Dreamhaunter, Octane's Bulwark, Coldheart, Sacred Sanctuary, Auger Ream, Jet, Bane of Truth
+Optimized Deck: (90.17% win, 0.106667% stall) 91.3394: Barracus, Xillanail, Demi Constrictor, Steadfast Assailant, Sacred Sanctuary, Arch Nova Alpha, Withersnare, Jilted Baughe, Noble Defiance, Demi Constrictor
+Optimized Deck: (93.155% win, 0.0416667% stall) 94.0911: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Zealous Pursuer-5, Galvanic Commando
+Optimized Deck: (93.7783% win, 0.0616667% stall) 94.6763: Barracus, Dreamhaunter, Sculpted Aegis, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Decorated Marshall, Bane of Truth, Jilted Baughe
+Optimized Deck: (97.74% win, 0.0233333% stall) 98.0258: Arkadios, Xillanail, Dreamhaunter, Stoneheart, Sacred Sanctuary, Inferno Demon, Steadfast Assailant
+Optimized Deck: (92.3183% win, 0.00666667% stall) 93.1775: Constantine, Coldheart, Ezamit Serene, Dignified Vigil, Flash Deity, Smite Forger, Bolt Crag, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Ayrkrane Vik
+Optimized Deck: (95.7933% win, 0.0516667% stall) 96.381: Lord Silus, Shock Disruptor, Dreamhaunter, Coldheart, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (95.49% win, 0.0533333% stall) 96.0562: Barracus, Dreamhaunter, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Wilter Conscript, Bolt Crag, Honorable Samurai, Bane of Truth
+Optimized Deck: (96.9783% win, 0.055% stall) 97.3913: Arkadios, The Adversary, Xillanail, Dreamhaunter, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (90.94% win, 0.0266667% stall) 91.9942: Constantine, Coldheart, Flank, Grand Templar, Smite Forger, Blink Providence, Zodiac Harbinger, Noble Defiance, Longshot Deadeye, Dreamreaper
+Optimized Deck: (80.7817% win, 0.141667% stall) 82.9541: Barracus, The Adversary, Sacred Sanctuary, Auger Bore, Ezamit Serene, Tazerecca, Jilted Baughe, Baughe #2
+Optimized Deck: (89.8033% win, 0.075% stall) 91.0622: Kylen, Xillanail, Demi Constrictor, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Jilted Baughe, Tazerecca, Demi Constrictor
+Optimized Deck: (94.6767% win, 0.02% stall) 95.3132: Constantine, Coldheart, Dreamhaunter, Sacred Sanctuary, Smite Forger, Zodiac Harbinger, Noble Defiance, Zodiac Harbinger, Serraco
+Optimized Deck: (70.875% win, 0.055% stall) 74.4847: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Jilted Baughe, Dreamweaver
+Optimized Deck: (94.2183% win, 0.0116667% stall) 94.9711: Constantine, Coldheart, Zodiac Harbinger, Smite Forger #2, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Ayrkrane Syn, Dreamreaper
+Optimized Deck: (95.805% win, 0.055% stall) 96.3495: Barracus, Dreamhaunter, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Arch Nova Alpha, Inferno Demon, Tazerecca, Bane of Truth
+Optimized Deck: (92.2967% win, 0.0316667% stall) 93.2793: Kylen, Xillanail, Demi Constrictor, Dreamhaunter, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (90.1383% win, 0.0433333% stall) 91.2719: Halcyon, Coldheart, Octane's Bastion, Decorated Marshall, Steadfast Assailant, Hephatat Stoic, Auger Bore, Bane of Truth, Cadmus
+Optimized Deck: (99.495% win, 0.00166667% stall) 99.5583: Arkadios, Erebus City Sector, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing #2
+Optimized Deck: (94.7967% win, 0.0433333% stall) 95.4848: Nexor, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6.00163: Cyrus, Infantry
+Optimized Deck: (91.9217% win, 0.0566667% stall) 93.0597: Barracus, Dreamhaunter, The Adversary, Xanadu Ultra, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Jilted Baughe, Auger Bore
+Optimized Deck: (90.5367% win, 0.143333% stall) 91.8499: Barracus, Xillanail, Demi Constrictor, Arch Nova Alpha, Auger Ream, Decorated Marshall, Tazerecca, Jilted Baughe, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.00167: Cyrus, Infantry
+Optimized Deck: (95.135% win, 0.0216667% stall) 95.7358: Nexor, Dreamhaunter, Sacred Sanctuary, Coldheart, Arch Nova Alpha, Aggeroth Chaos, Withersnare, Tazerious, Jilted Baughe, Serraco Lord
+Optimized Deck: (94.2117% win, 0.0216667% stall) 94.9219: Constantine, Dreamhaunter, Coldheart, Sacred Sanctuary, Xillanail, Smite Forger, Ayrkrane Syn, Zodiac Harbinger, Auger Bore
+Optimized Deck: (82.8533% win, 0.055% stall) 84.7537: Barracus, Demi Constrictor, Coldheart, Sacred Sanctuary, Serak United, Arch Nova Elite, Portal Noctil, Baughe #2
+Optimized Deck: (89.52% win, 0.0416667% stall) 90.7833: Nexor, Xillanail, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Inferno Demon, Honorable Samurai, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (92.0267% win, 0.0233333% stall) 93.0022: Constantine, Coldheart, Smite Forger, Zodiac Harbinger, Smite Forger, Bolt Crag, Noble Defiance, Zodiac Harbinger, Divine Equalizer, Bane of Truth
+Optimized Deck: (95.41% win, 0.035% stall) 95.917: Halcyon, Hoard Arsenal, Coldheart, Octane's Bastion, Jet, Auger Ream, Guardian Gamut, Hephatat Stoic, Bane of Truth, Dune Runner
+Optimized Deck: (0% win, 0% stall) 6.00147: Cyrus, Infantry
+Optimized Deck: (87.7733% win, 0.0716667% stall) 89.1414: Constantine, Xillanail, Ezamit Serene, Smite Forger, Bolt Crag, Sacred Sanctuary, Deft Reclaimer, Bolt Crag, Dreamreaper, Heart Devourer
+Optimized Deck: (95.075% win, 0.0616667% stall) 95.6962: Barracus, Xillanail, Dreamhaunter, Sacred Sanctuary, Demi Constrictor, The Adversary, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: (89.3133% win, 0.0666667% stall) 90.4742: Halcyon, Octane's Bastion, Cruise Launcher, Coldheart, Auger Ream, Guardian Gamut, Hephatat Stoic, Indestructible Troop
+Optimized Deck: (90.4683% win, 0.0816667% stall) 91.7493: Barracus, Demi Constrictor, Xillanail, Steadfast Assailant, Arch Nova Alpha, Aggeroth Chaos, Revolt Ranger, Tazerecca, Bane of Truth, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6.00183: Cyrus, Infantry
+Optimized Deck: (95.6817% win, 0.0333333% stall) 96.3294: Lord Silus, Shock Disruptor, Dreamhaunter, Judgment Nova, Jet, Inferno Demon, Bane of Truth, Serraco
+Optimized Deck: (93.195% win, 0.025% stall) 93.9992: Constantine, Ezamit Serene, Dreamhaunter, Coldheart, Sacred Sanctuary, Smite Forger, Jet, Zodiac Harbinger, Blink Providence, Deranged Fanatic
+Optimized Deck: (0% win, 0% stall) 6.00172: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (96.1267% win, 0.0116667% stall) 96.6442: Lord Silus, Ezamit Serene, Shock Disruptor, Dreamhaunter, Shock Disruptor, Inferno Demon, Tumblox, Abhorrent Recluse, Tazerecca
+Optimized Deck: (99.1333% win, 0.0133333% stall) 99.2164: Lord Silus, Primus Ultima, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Shock Disruptor, Serrated Grater, Coldheart, Judgment Nova, Crushing Anvil, Inferno Demon
+Optimized Deck: (94.1233% win, 0.0466667% stall) 94.9469: Nexor, Xillanail, Dreamhaunter, Arch Nova Alpha, Ezamit Serene, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (96.3767% win, 0.0366667% stall) 96.8758: Barracus, Dreamhaunter, Xillanail, Xanadu Ultra, Arch Nova Alpha, Aggeroth Chaos, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (90.12% win, 0.0283333% stall) 91.3743: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Steadfast Assailant, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (88.37% win, 0.248333% stall) 90.0426: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Steadfast Assailant, Gorrus Rav, Inferno Demon, Baughe
+Optimized Deck: (99.06% win, 0.00333333% stall) 99.1943: Lord Silus, Shock Disruptor #2, Judgment Nova #2, Crude Surgeon, Dreamhaunter, Inferno Demon, Guillotine Grinder
+Optimized Deck: (94.37% win, 0.116667% stall) 95.1527: Barracus, Xillanail, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Inferno Demon, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (97.1867% win, 0.0466667% stall) 97.5876: Arkadios, The Adversary, Xanadu Ultra, Xillanail, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Bane of Truth
+Optimized Deck: (94.4017% win, 0.035% stall) 95.0812: Nexor, Xillanail, Arch Nova Alpha, Coldheart, Sacred Sanctuary, Auger Ream, Tazerecca, Trench Hurler, Bane of Truth
+Optimized Deck: (98.5167% win, 0.015% stall) 98.7416: Malort, Ravenous Terrorsaur, Dreamhaunter, Aggeroth Chaos, Croc Oppressor, Withersnare, Croc Oppressor, Veiled Defiler, Croc Oppressor
+Optimized Deck: (98.6% win, 0.02% stall) 98.7638: Halcyon, Octane's Bulwark, Dreamhaunter, Coldheart, Auger Ream, Decorated Marshall, Jet, Bane of Truth, Hephatat Stoic
+Optimized Deck: (90.3033% win, 0.0933333% stall) 91.3698: Barracus, Xillanail, Demi Constrictor, Arch Nova Alpha, Steadfast Assailant, Sacred Sanctuary, Withersnare, Jilted Baughe, Noble Defiance, Demi Constrictor
+Optimized Deck: (94.4433% win, 0.0233333% stall) 95.1714: Halcyon, Hoard Arsenal, Tundra MK3, Blast Lancer, Cruise Launcher, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (96.3067% win, 0.0416667% stall) 96.8386: Arkadios, Xillanail, Dreamhaunter, Decorated Marshall, Arch Nova Alpha, Noble Defiance, Abhorrent Recluse, Jilted Baughe, Bane of Truth
+Optimized Deck: (98.2233% win, 0.0166667% stall) 98.4387: Arkadios, Dreamhaunter, Xillanail, Stoneheart, Arch Nova Alpha, Sacred Sanctuary, Inferno Demon, Bane of Truth, Steadfast Assailant
+Optimized Deck: (94.27% win, 0.00666667% stall) 94.9263: Constantine, Dignified Vigil, Ezamit Serene, Flash Deity, Coldheart, Smite Forger, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Bolt Crag
+Optimized Deck: (96.0117% win, 0.055% stall) 96.5537: Lord Silus, Dreamhaunter, Shock Disruptor, Coldheart, Inferno Demon, Jet, Revolt Ranger, Bane of Truth
+Optimized Deck: (95.9683% win, 0.0433333% stall) 96.4563: Barracus, Sacred Sanctuary, Dreamhaunter, Xillanail, Arch Nova Alpha, Wilter Conscript, Bolt Crag, Honorable Samurai, Bane of Truth
+Optimized Deck: (98.0067% win, 0.03% stall) 98.2617: Arkadios, The Adversary, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (93.115% win, 0.0366667% stall) 93.8181: Constantine, Grand Templar, Flank, Smite Forger, Coldheart, Sacred Sanctuary, Zodiac Harbinger, Blink Providence, Noble Defiance, Longshot Deadeye, Dreamreaper
+Optimized Deck: (81.7067% win, 0.103333% stall) 83.6214: Barracus, The Adversary, Sculpted Aegis, Sacred Sanctuary, Ezamit Serene, Auger Bore, Tazerecca, Jilted Baughe, Baughe
+Optimized Deck: (92.65% win, 0.0766667% stall) 93.5412: Kylen, Demi Constrictor, Xillanail, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Jilted Baughe, Demi Constrictor
+Optimized Deck: (96.1383% win, 0.015% stall) 96.5868: Constantine, Ezamit Serene, Dreamhaunter, Coldheart, Smite Forger, Sacred Sanctuary, Zodiac Harbinger, Noble Defiance, Zodiac Harbinger, Serraco
+Optimized Deck: (70.6267% win, 0.0816667% stall) 74.1649: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Jilted Baughe, Dreamweaver
+Optimized Deck: (95.4883% win, 0.0183333% stall) 96.0372: Constantine, Ezamit Serene, Coldheart, Smite Forger #2, Zodiac Harbinger #3, Honorable Samurai
+Optimized Deck: (96.2317% win, 0.0183333% stall) 96.6796: Barracus, Xillanail, Dreamhaunter, Sacred Sanctuary, Coldheart, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Tazerecca, Auger Bore
+Optimized Deck: (94.6733% win, 0.0383333% stall) 95.3266: Kylen, Xillanail, Dreamhaunter, Xanadu Ultra, Arch Nova Alpha, Sacred Sanctuary, Tazerecca, Auger Bore, Baughe
+Optimized Deck: (91.8883% win, 0.02% stall) 92.7951: Tabitha, Decorated Marshall, Octane's Bastion, Coldheart, Hephatat Stoic, Auger Bore, Bane of Truth, Steadfast Assailant
+Optimized Deck: (99.9033% win, 0% stall) 99.9169: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Cyclops Raged, Scorched Hellwing #2, Erebus City Sector
+Optimized Deck: (96.17% win, 0.0366667% stall) 96.6513: Nexor, Xillanail, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (95.76% win, 0.055% stall) 96.3624: Arkadios, The Adversary, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Jilted Baughe
+Optimized Deck: (91.15% win, 0.0266667% stall) 92.2047: Barracus, Sculpted Aegis, Arch Nova Alpha, Xillanail, Auger Ream, Coldheart, Decorated Marshall, Tazerecca, Jilted Baughe, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (96.8183% win, 0.0166667% stall) 97.2054: Nexor, Dreamhaunter, Aggeroth Chaos, Arch Nova Alpha, Sacred Sanctuary, Coldheart, Tazerious, Withersnare, Ayrkrane Syn, Serraco Lord
+Optimized Deck: (95.6867% win, 0.0233333% stall) 96.2096: Constantine, Ezamit Serene, Dreamhaunter, Smite Forger, Coldheart, Sacred Sanctuary, Ayrkrane Syn, Zodiac Harbinger, Deranged Fanatic
+Optimized Deck: (83.5883% win, 0.0533333% stall) 85.3421: Barracus, Pherous Astute, Demi Constrictor, Coldheart, Sacred Sanctuary, Serak United, Portal Noctil, Baughe #2
+Optimized Deck: (90.455% win, 0.0733333% stall) 91.6173: Nexor, Xillanail, Sacred Sanctuary, Lurker Behemoth, Arch Nova Alpha, Inferno Demon, Honorable Samurai, Tazerecca, Bane of Truth
+Optimized Deck: (94.355% win, 0.0183333% stall) 94.9487: Constantine, Smite Forger, Coldheart, Sacred Sanctuary, Smite Forger, Blink Providence, Zodiac Harbinger, Noble Defiance, Zodiac Harbinger, Bolt Crag
+Optimized Deck: (96.9433% win, 0.0116667% stall) 97.2762: Halcyon, Hoard Arsenal, Octane's Bastion, Coldheart, Auger Ream, Guardian Gamut, Hephatat Stoic, Decorated Marshall, Dune Runner, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (90.915% win, 0.0683333% stall) 91.9161: Constantine, Ezamit Serene, Xillanail, Smite Forger, Deft Reclaimer, Sacred Sanctuary, Bolt Crag #2, Dreamreaper, Heart Devourer
+Optimized Deck: (95.8233% win, 0.065% stall) 96.3214: Barracus, Xillanail, Xanadu Ultra, Sacred Sanctuary, Dreamhaunter, The Adversary, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: (92.5683% win, 0.07% stall) 93.3571: Halcyon, Octane's Bastion, Cruise Launcher, Coldheart, Auger Ream, Guardian Gamut, Hephatat Stoic, Indestructible Troop, Ezamit Serene
+Optimized Deck: (91.5933% win, 0.115% stall) 92.6975: Barracus, Xillanail, Demi Constrictor, Arch Nova Alpha, Aggeroth Chaos, Steadfast Assailant, Revolt Ranger, Tazerecca, Bane of Truth, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (96.395% win, 0.0266667% stall) 96.9028: Lord Silus, Shock Disruptor, Inferno Demon, Dreamhaunter, Judgment Nova, Jet, Serraco, Bane of Truth
+Optimized Deck: (95.2167% win, 0.0133333% stall) 95.7772: Constantine, Coldheart, Ezamit Serene, Dreamhaunter, Sacred Sanctuary, Smite Forger, Jet, Zodiac Harbinger, Blink Providence, Deranged Fanatic
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+
+level 16
+"Lightning Cannon(2)"
+Optimized Deck: (74.39% win, 0.0316667% stall) 77.435: Lord Silus, Shock Disruptor #2, Dreamhaunter, Inferno Demon, Ezamit Serene, Tumblox, Arch Nova Alpha, Tazerecca, Abhorrent Recluse
+Optimized Deck: (92.2083% win, 0.108333% stall) 92.9727: Lord Silus, Primus Ultima, Shock Disruptor, Serrated Grater, Shock Disruptor, Dreamhaunter, Sacred Sanctuary, Coldheart, Judgment Nova, Crushing Anvil, Inferno Demon
+Optimized Deck: (67.5167% win, 0.0883333% stall) 71.8638: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (70.4683% win, 0.2% stall) 74.5288: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (59.2933% win, 0.145% stall) 64.5403: Barracus, Demi Constrictor, Arch Nova Alpha, Abhorrent Recluse, Auger Ream, Steadfast Assailant, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (49.5517% win, 0.508333% stall) 55.7202: Nexor, Dreamhaunter, Xillanail, Demi Constrictor, Steadfast Assailant, Ezamit Serene, Tumblox, Baughe, Gorrus Rav, Inferno Demon
+Optimized Deck: (89.9867% win, 0.06% stall) 91.2913: Lord Silus, Shock Disruptor #2, Dreamhaunter, Crude Surgeon, Judgment Nova #2, Inferno Demon, Guillotine Grinder
+Optimized Deck: (68.7217% win, 0.075% stall) 72.6727: Barracus, Dreamhaunter, Xillanail, Demi Constrictor, Sculpted Aegis, Arch Nova Alpha, Tazerecca, Auger Bore, Jilted Baughe, Bane of Truth
+Optimized Deck: (75.495% win, 0.175% stall) 78.783: Nexor, Xillanail, The Adversary, Dreamhaunter, Sculpted Aegis, Arch Nova Alpha, Jet, Abhorrent Recluse, Bane of Truth, Jilted Baughe
+Optimized Deck: (71.445% win, 0.196667% stall) 74.8793: Barracus, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Jet, Auger Ream, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (84.5633% win, 0.0183333% stall) 86.6654: Malort, Ravenous Terrorsaur, Dreamhaunter, Croc Oppressor, Withersnare, Aggeroth Chaos, Croc Oppressor #2, Veiled Defiler
+Optimized Deck: (86.36% win, 0.0716667% stall) 88.0729: Halcyon, Dreamhaunter, Octane's Bulwark, Coldheart, Jet, Auger Ream, Hephatat Stoic, Bane of Truth, Earnest Pursuer
+Optimized Deck: (65.025% win, 0.0933333% stall) 68.9163: Barracus, Xillanail, Steadfast Assailant, Demi Constrictor #2, Arch Nova Alpha, Sacred Sanctuary, Jilted Baughe, Auger Bore, Dreamreaper
+Optimized Deck: (63.9067% win, 0.0133333% stall) 68.0184: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Ezamit Serene, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (70.81% win, 0.08% stall) 74.7327: Barracus, Dreamhaunter, Sculpted Aegis, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Decorated Marshall, Bane of Truth, Lurker Behemoth
+Optimized Deck: (79.6567% win, 0.103333% stall) 82.0521: Arkadios, Dreamhaunter, Stoneheart, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Auger Bore, Steadfast Assailant
+Optimized Deck: (68.0167% win, 0.00833333% stall) 71.499: Constantine, Dignified Vigil, Coldheart, Smite Forger, Bolt Crag, Flash Deity, Zodiac Harbinger #2, Honorable Samurai, Ayrkrane Vik
+Optimized Deck: (77.0283% win, 0.238333% stall) 80.1556: Barracus, Dreamhaunter, Shock Disruptor, Inferno Demon, Arch Nova Alpha, Jet, Revolt Ranger, Bane of Truth, Jilted Baughe
+Optimized Deck: (75.3983% win, 0.156667% stall) 78.4487: Barracus, Dreamhaunter, Bolt Crag, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Wilter Conscript, Honorable Samurai, Bane of Truth
+Optimized Deck: (74.0333% win, 0.363333% stall) 77.5234: Arkadios, Dreamhaunter, Xillanail, The Adversary, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (64.3717% win, 0.0133333% stall) 68.13: Constantine, Coldheart, Flank, Smite Forger, Grand Templar, Blink Providence, Zodiac Harbinger, Noble Defiance, Dreamreaper, Longshot Deadeye
+Optimized Deck: (47.8133% win, 0.126667% stall) 53.0075: Barracus, Auger Bore, The Adversary, Sacred Sanctuary, Ezamit Serene, Sage Ascendant, Tazerecca, Jilted Baughe, Baughe #2, Bane of Truth
+Optimized Deck: (55.6983% win, 0.128333% stall) 60.5759: Kylen, Xillanail, Demi Constrictor, Coldheart, Sacred Sanctuary, Demi Constrictor, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: (68.6717% win, 0.025% stall) 72.2148: Constantine, Dreamhaunter, Smite Forger, Coldheart, Sacred Sanctuary, Zodiac Harbinger, Noble Defiance, Zodiac Harbinger, Serraco
+Optimized Deck: (37.0167% win, 0.0216667% stall) 44.049: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Jilted Baughe, Dreamweaver
+Optimized Deck: (73.3167% win, 0.00833333% stall) 76.4968: Constantine, Smite Forger #2, Zodiac Harbinger #3, Honorable Samurai, Dreamreaper, Ayrkrane Syn
+Optimized Deck: (77.2233% win, 0.103333% stall) 80.0616: Barracus, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Inferno Demon, Abhorrent Recluse, Auger Bore, Tazerecca, Bane of Truth
+Optimized Deck: (64.7433% win, 0.0566667% stall) 69.0396: Kylen, Dreamhaunter, Xillanail, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (57.435% win, 0.07% stall) 61.9962: Halcyon, Coldheart, Steadfast Assailant, Octane's Bastion, Decorated Marshall, Hephatat Stoic, Auger Bore, Bane of Truth, Cadmus
+Optimized Deck: (97.4183% win, 0.0133333% stall) 97.7325: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector #2, Scorched Hellwing #2
+Optimized Deck: (71.6517% win, 0.125% stall) 75.3365: Nexor, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6.01817: Cyrus, Infantry
+Optimized Deck: (64.79% win, 0.256667% stall) 69.5034: Barracus, Dreamhaunter, The Adversary, Arch Nova Alpha, Abhorrent Recluse, Auger Bore, Tazerecca, Jilted Baughe, Noble Defiance
+Optimized Deck: (62.87% win, 0.085% stall) 67.3287: Barracus, Xillanail, Demi Constrictor, Arch Nova Alpha, Auger Ream, Sculpted Aegis, Tazerecca, Decorated Marshall, Jilted Baughe, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.01747: Cyrus, Infantry
+Optimized Deck: (74.7% win, 0.045% stall) 77.7847: Barracus, Dreamhaunter, Demi Constrictor, Arch Nova Alpha, Sacred Sanctuary, Arch Nova Elite, Tazerious, Jilted Baughe, Aggeroth Chaos
+Optimized Deck: (73.01% win, 0.121667% stall) 76.3975: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Smite Forger, Auger Bore, Ayrkrane Syn, Zodiac Harbinger
+Optimized Deck: (53.6083% win, 0.085% stall) 58.4868: Barracus, Demi Constrictor, Coldheart, Sacred Sanctuary, Serak United, Arch Nova Elite, Baughe #2, Portal Noctil
+Optimized Deck: (61.6967% win, 0.0866667% stall) 66.124: Nexor, Xillanail, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Inferno Demon, Jilted Baughe, Honorable Samurai, Tazerecca, Lurker Behemoth
+Optimized Deck: (67.4567% win, 0.00833333% stall) 71.2681: Constantine, Coldheart, Smite Forger, Bolt Crag, Smite Forger, Zodiac Harbinger #2, Noble Defiance, Divine Equalizer
+Optimized Deck: (73.9367% win, 0.065% stall) 76.7426: Halcyon, Hoard Arsenal, Octane's Bastion, Coldheart, Auger Ream, Jet, Hephatat Stoic, Guardian Gamut, Bane of Truth, Dune Runner, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6.01765: Cyrus, Infantry
+Optimized Deck: (58.23% win, 0.02% stall) 62.2159: Constantine, Smite Forger, Bolt Crag #2, Xillanail, Sacred Sanctuary, Ezamit Serene, Flash Deity, Deft Reclaimer, Onyx, Dreamreaper
+Optimized Deck: (77.3817% win, 0.268333% stall) 80.2193: Barracus, Dreamhaunter, Sacred Sanctuary, Xillanail, Demi Constrictor, The Adversary, Arch Nova Alpha, Tazerecca, Jilted Baughe
+Optimized Deck: (54.2217% win, 0.065% stall) 58.6684: Halcyon, Coldheart, Octane's Bastion, Cruise Launcher, Auger Ream, Guardian Gamut, Hephatat Stoic, Ezamit Serene, Indestructible Troop
+Optimized Deck: (58.555% win, 0.146667% stall) 63.6975: Barracus, Steadfast Assailant, Xillanail, Demi Constrictor, Arch Nova Alpha, Revolt Ranger, Aggeroth Chaos, Tazerecca, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.01882: Cyrus, Infantry
+Optimized Deck: (78.685% win, 0.19% stall) 81.7325: Barracus, Shock Disruptor, Dreamhaunter, Judgment Nova, Jet, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (66.3883% win, 0.0616667% stall) 70.1435: Constantine, Dreamhaunter, Smite Forger, Coldheart, Sacred Sanctuary, Jet, Zodiac Harbinger, Blink Providence, Deranged Fanatic
+Optimized Deck: (0% win, 0% stall) 6.0192: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (79.37% win, 0.0433333% stall) 81.905: Lord Silus, Shock Disruptor #2, Dreamhaunter, Ezamit Serene, Inferno Demon, Tumblox, Tazerecca, Abhorrent Recluse
+Optimized Deck: (92.9183% win, 0.07% stall) 93.6011: Lord Silus, Primus Ultima, Shock Disruptor #2, Serrated Grater, Sacred Sanctuary, Dreamhaunter, Coldheart, Judgment Nova, Inferno Demon, Crushing Anvil
+Optimized Deck: (72.2033% win, 0.055% stall) 75.8564: Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Ezamit Serene, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (75.6833% win, 0.1% stall) 78.8024: Barracus, Dreamhaunter, Xillanail, Xanadu Ultra, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (64.405% win, 0.065% stall) 68.8355: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Steadfast Assailant, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (53.7183% win, 0.336667% stall) 59.8021: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Steadfast Assailant, Gorrus Rav, Inferno Demon, Baughe
+Optimized Deck: (92.775% win, 0.0233333% stall) 93.7197: Lord Silus, Shock Disruptor #2, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Inferno Demon, Guillotine Grinder
+Optimized Deck: (71.75% win, 0.155% stall) 75.4486: Barracus, Demi Constrictor, Dreamhaunter, Xillanail, Arch Nova Alpha, Auger Bore, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (77.76% win, 0.138333% stall) 80.7366: Nexor, The Adversary, Dreamhaunter, Sculpted Aegis, Xillanail, Arch Nova Alpha, Jet, Bane of Truth, Abhorrent Recluse
+Optimized Deck: (71.9017% win, 0.111667% stall) 75.0585: Nexor, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Jet, Auger Ream, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (87.6767% win, 0.05% stall) 89.3694: Malort, Dreamhaunter, Ravenous Terrorsaur, Croc Oppressor, Aggeroth Chaos, Withersnare, Croc Oppressor #2, Veiled Defiler
+Optimized Deck: (89.115% win, 0.0516667% stall) 90.4194: Halcyon, Octane's Bulwark, Dreamhaunter, Coldheart, Jet, Auger Ream, Hephatat Stoic, Bane of Truth, Earnest Pursuer
+Optimized Deck: (60.85% win, 0.163333% stall) 65.2092: Barracus, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Jilted Baughe, Noble Defiance, Dreamreaper
+Optimized Deck: (71.8967% win, 0.0166667% stall) 75.3583: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (74.6517% win, 0.055% stall) 78.0002: Barracus, Dreamhaunter, Sculpted Aegis, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Decorated Marshall, Bane of Truth, Lurker Behemoth
+Optimized Deck: (86.4917% win, 0.128333% stall) 88.2063: Arkadios, Xillanail, Dreamhaunter, Stoneheart, Sacred Sanctuary, Arch Nova Alpha, Inferno Demon, Bane of Truth
+Optimized Deck: (71.595% win, 0.00166667% stall) 74.6715: Constantine, Dignified Vigil, Coldheart, Flash Deity, Smite Forger, Bolt Crag, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Ayrkrane Vik
+Optimized Deck: (80.5283% win, 0.126667% stall) 83.059: Lord Silus, Shock Disruptor, Dreamhaunter, Coldheart, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (77.8283% win, 0.1% stall) 80.4681: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Bolt Crag, Wilter Conscript, Honorable Samurai, Bane of Truth
+Optimized Deck: (83.4717% win, 0.198333% stall) 85.5961: Arkadios, Dreamhaunter, Xillanail, The Adversary, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (67.6367% win, 0.015% stall) 71.003: Constantine, Flank, Coldheart, Grand Templar, Smite Forger, Blink Providence, Zodiac Harbinger, Noble Defiance, Longshot Deadeye, Dreamreaper
+Optimized Deck: (47.8683% win, 0.105% stall) 53.2006: Barracus, The Adversary, Auger Bore, Sacred Sanctuary, Ezamit Serene, Jilted Baughe, Tazerecca, Baughe, Bane of Truth
+Optimized Deck: (62.5917% win, 0.133333% stall) 66.812: Kylen, Demi Constrictor, Xillanail, Coldheart, Arch Nova Alpha, Sacred Sanctuary, Jilted Baughe, Tazerecca, Demi Constrictor
+Optimized Deck: (75.27% win, 0.04% stall) 78.0203: Constantine, Dreamhaunter, Smite Forger, Coldheart, Sacred Sanctuary, Zodiac Harbinger, Noble Defiance, Zodiac Harbinger, Serraco
+Optimized Deck: (37.5033% win, 0.0216667% stall) 44.2643: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Jilted Baughe, Dreamweaver
+Optimized Deck: (76.39% win, 0.00833333% stall) 79.0991: Constantine, Coldheart, Smite Forger #2, Zodiac Harbinger #2, Honorable Samurai, Zodiac Harbinger, Dreamreaper
+Optimized Deck: (79.6867% win, 0.106667% stall) 82.2308: Barracus, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Tazerecca, Bane of Truth
+Optimized Deck: (70.4467% win, 0.0716667% stall) 73.962: Kylen, Dreamhaunter, Xillanail, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (63.7617% win, 0.065% stall) 67.5543: Halcyon, Octane's Bastion, Coldheart, Steadfast Assailant, Decorated Marshall, Hephatat Stoic, Auger Bore, Bane of Truth, Cadmus
+Optimized Deck: (97.7733% win, 0.0183333% stall) 98.0481: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector #2, Scorched Hellwing #2
+Optimized Deck: (76.8733% win, 0.113333% stall) 79.8089: Nexor, Xillanail, Dreamhaunter, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6.00037: Cyrus, Infantry
+Optimized Deck: (70.88% win, 0.118333% stall) 74.6818: Arkadios, The Adversary, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Auger Bore, Tazerecca, Jilted Baughe
+Optimized Deck: (65.4633% win, 0.0416667% stall) 69.4609: Barracus, Demi Constrictor, Sculpted Aegis, Xillanail, Arch Nova Alpha, Auger Ream, Decorated Marshall, Tazerecca, Jilted Baughe, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.00033: Cyrus, Infantry
+Optimized Deck: (77.545% win, 0.0333333% stall) 80.1035: Nexor, Dreamhaunter, Coldheart, Arch Nova Alpha, Sacred Sanctuary, Aggeroth Chaos, Withersnare, Tazerious, Jilted Baughe, Serraco Lord
+Optimized Deck: (71.9183% win, 0.0666667% stall) 75.1127: Constantine, Dreamhaunter, Coldheart, Smite Forger, Sacred Sanctuary, Xillanail, Ayrkrane Syn, Zodiac Harbinger, Deranged Fanatic
+Optimized Deck: (52.8367% win, 0.06% stall) 57.6397: Barracus, Demi Constrictor, Coldheart, Sacred Sanctuary, Serak United, Arch Nova Elite, Portal Noctil, Baughe #2
+Optimized Deck: (64.505% win, 0.0766667% stall) 68.4659: Nexor, Xillanail, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Inferno Demon, Honorable Samurai, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (72.8083% win, 0.0133333% stall) 75.9406: Constantine, Coldheart, Smite Forger #2, Bolt Crag, Zodiac Harbinger #2, Divine Equalizer, Bane of Truth
+Optimized Deck: (78.8117% win, 0.03% stall) 81.014: Halcyon, Hoard Arsenal, Octane's Bastion, Coldheart, Jet, Auger Ream, Guardian Gamut, Hephatat Stoic, Bane of Truth, Dune Runner
+Optimized Deck: (0% win, 0% stall) 6.00037: Cyrus, Infantry
+Optimized Deck: (62.8283% win, 0.07% stall) 66.5733: Constantine, Smite Forger, Bolt Crag, Sacred Sanctuary, Xillanail, Deft Reclaimer, Ezamit Serene, Dreamreaper, Bolt Crag
+Optimized Deck: (75.3833% win, 0.178333% stall) 78.3034: Barracus, Dreamhaunter, Xanadu Ultra, The Adversary, Sacred Sanctuary, Arch Nova Alpha, Xillanail, Tazerecca, Jilted Baughe
+Optimized Deck: (63.425% win, 0.0683333% stall) 67.0006: Halcyon, Octane's Bastion, Coldheart, Cruise Launcher, Auger Ream, Guardian Gamut, Hephatat Stoic, Ezamit Serene, Indestructible Troop
+Optimized Deck: (63.125% win, 0.111667% stall) 67.5885: Barracus, Demi Constrictor, Xillanail, Steadfast Assailant, Arch Nova Alpha, Aggeroth Chaos, Revolt Ranger, Tazerecca, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.00033: Cyrus, Infantry
+Optimized Deck: (81.5117% win, 0.0416667% stall) 84.0696: Lord Silus, Shock Disruptor, Dreamhaunter, Judgment Nova, Jet, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (72.2733% win, 0.0733333% stall) 75.4127: Constantine, Dreamhaunter, Coldheart, Smite Forger, Sacred Sanctuary, Jet, Zodiac Harbinger, Blink Providence
+Optimized Deck: (0% win, 0% stall) 6.00035: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (82.0817% win, 0.0583333% stall) 84.3306: Lord Silus, Shock Disruptor #2, Ezamit Serene, Dreamhaunter, Inferno Demon, Tazerecca, Abhorrent Recluse
+Optimized Deck: (92.3% win, 0.08% stall) 93.0064: Lord Silus, Primus Ultima, Shock Disruptor, Serrated Grater, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Coldheart, Judgment Nova, Inferno Demon, Crushing Anvil
+Optimized Deck: (72.0683% win, 0.168333% stall) 75.6687: Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Auger Bore, Tazerious, Ezamit Serene, Jilted Baughe
+Optimized Deck: (80.57% win, 0.141667% stall) 83.0684: Barracus, Xillanail, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Auger Ream, Aggeroth Chaos, Tazerecca, Bane of Truth
+Optimized Deck: (66.6817% win, 0.0483333% stall) 70.8609: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (57.4667% win, 0.285% stall) 62.8836: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Steadfast Assailant, Gorrus Rav, Inferno Demon, Baughe
+Optimized Deck: (93.3717% win, 0.0183333% stall) 94.2438: Lord Silus, Shock Disruptor #2, Judgment Nova, Crude Surgeon, Judgment Nova, Dreamhaunter, Inferno Demon, Guillotine Grinder
+Optimized Deck: (75.6383% win, 0.208333% stall) 78.6689: Barracus, Dreamhaunter, Xanadu Ultra, Xillanail, Arch Nova Alpha, Auger Bore, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (84.5083% win, 0.11% stall) 86.6155: Arkadios, The Adversary, Xanadu Ultra, Xillanail, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Jilted Baughe, Bane of Truth
+Optimized Deck: (73.7817% win, 0.065% stall) 76.7824: Nexor, Xillanail, Arch Nova Alpha, Coldheart, Sacred Sanctuary, Auger Ream, Tazerecca, Trench Hurler, Bane of Truth
+Optimized Deck: (89.1483% win, 0.0583333% stall) 90.6503: Malort, Ravenous Terrorsaur, Dreamhaunter, Croc Oppressor, Aggeroth Chaos, Withersnare, Croc Oppressor #2, Veiled Defiler
+Optimized Deck: (91.0133% win, 0.02% stall) 92.075: Halcyon, Dreamhaunter, Octane's Bulwark, Coldheart, Auger Ream, Hephatat Stoic, Jet, Bane of Truth, Earnest Pursuer
+Optimized Deck: (59.5483% win, 0.14% stall) 63.6546: Barracus, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Withersnare, Jilted Baughe, Noble Defiance, Demi Constrictor
+Optimized Deck: (76.205% win, 0.02% stall) 79.0707: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (79.6233% win, 0.178333% stall) 82.5177: Arkadios, Dreamhaunter, Xillanail, Arch Nova Alpha, Decorated Marshall, Abhorrent Recluse, Bane of Truth, Lurker Behemoth
+Optimized Deck: (88.7383% win, 0.0933333% stall) 90.1204: Arkadios, Dreamhaunter, Xillanail, Stoneheart, Sacred Sanctuary, Arch Nova Alpha, Inferno Demon, Bane of Truth
+Optimized Deck: (74.5883% win, 0.00333333% stall) 77.1946: Constantine, Dignified Vigil, Coldheart, Ezamit Serene, Flash Deity, Smite Forger, Zodiac Harbinger #2, Honorable Samurai, Bolt Crag
+Optimized Deck: (81.3717% win, 0.07% stall) 83.6889: Lord Silus, Shock Disruptor, Dreamhaunter, Coldheart, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (78.1167% win, 0.0983333% stall) 80.6436: Barracus, Xillanail, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Wilter Conscript, Bolt Crag, Honorable Samurai, Bane of Truth
+Optimized Deck: (88.4533% win, 0.156667% stall) 89.8935: Arkadios, The Adversary, Xillanail, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (71.0633% win, 0.0216667% stall) 74.1257: Constantine, Flank, Coldheart, Grand Templar, Smite Forger, Blink Providence, Zodiac Harbinger, Longshot Deadeye, Dreamreaper, Samurai-2
+Optimized Deck: (48.8733% win, 0.0633333% stall) 54.094: Barracus, The Adversary, Sculpted Aegis, Ezamit Serene, Auger Bore, Tazerecca, Jilted Baughe, Baughe, Bane of Truth
+Optimized Deck: (68.675% win, 0.148333% stall) 72.1737: Kylen, Demi Constrictor, Xillanail, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Jilted Baughe, Demi Constrictor
+Optimized Deck: (79.8017% win, 0.0283333% stall) 82.2391: Constantine, Ezamit Serene, Dreamhaunter, Coldheart, Smite Forger, Zodiac Harbinger #2, Serraco #2
+Optimized Deck: (35.795% win, 0.0216667% stall) 42.5084: Alaric, Halerift, Animus Geist, Dreamreaper, Zodiac Harbinger #2, Jilted Baughe, Dreamweaver
+Optimized Deck: (79.4433% win, 0.0266667% stall) 81.753: Constantine, Smite Forger, Coldheart, Smite Forger, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger #2, Dreamreaper
+Optimized Deck: (80.0083% win, 0.126667% stall) 82.3974: Barracus, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Abhorrent Recluse, Tazerecca, Inferno Demon, Bane of Truth
+Optimized Deck: (76.3583% win, 0.113333% stall) 79.0901: Kylen, Xillanail, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (69.2817% win, 0.0483333% stall) 72.4826: Halcyon, Octane's Bastion, Coldheart, Hephatat Stoic, Decorated Marshall, Steadfast Assailant, Auger Bore, Bane of Truth, Cadmus
+Optimized Deck: (99.0983% win, 0.00833333% stall) 99.2145: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Cyclops Raged, Scorched Hellwing, Abhorrent Recluse, Scorched Hellwing, Erebus City Sector
+Optimized Deck: (79.4817% win, 0.095% stall) 81.963: Nexor, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (81.0967% win, 0.12% stall) 83.647: Arkadios, The Adversary, Xanadu Ultra, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Tazerecca, Jilted Baughe
+Optimized Deck: (67.105% win, 0.0183333% stall) 70.921: Barracus, Sculpted Aegis, Xillanail, Arch Nova Alpha, Auger Ream, Decorated Marshall, Tazerecca, Jilted Baughe, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (81.4317% win, 0.0233333% stall) 83.4653: Arkadios, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Aggeroth Chaos, Coldheart, Withersnare, Tazerious, Jilted Baughe, Serraco Lord
+Optimized Deck: (77.495% win, 0.0333333% stall) 79.947: Constantine, Dreamhaunter, Coldheart, Sacred Sanctuary, Smite Forger, Ezamit Serene, Ayrkrane Syn, Zodiac Harbinger, Auger Bore
+Optimized Deck: (50.7967% win, 0.0516667% stall) 56.3139: Barracus, Demi Constrictor, Serak United, Coldheart, Portal Noctil, Arch Nova Elite, Baughe #2
+Optimized Deck: (66.1067% win, 0.0733333% stall) 69.8442: Nexor, Demi Constrictor, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Honorable Samurai, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (76.755% win, 0.00666667% stall) 79.2845: Constantine, Coldheart, Smite Forger #2, Blink Providence, Bolt Crag, Zodiac Harbinger #2, Divine Equalizer, Bane of Truth
+Optimized Deck: (83.27% win, 0.0216667% stall) 84.9599: Halcyon, Hoard Arsenal, Octane's Bastion, Coldheart, Auger Ream, Guardian Gamut, Hephatat Stoic, Dune Runner, Decorated Marshall, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (65.1167% win, 0.101667% stall) 68.4492: Constantine, Smite Forger, Bolt Crag, Ezamit Serene, Sacred Sanctuary, Bolt Crag, Deft Reclaimer, Xillanail, Dreamreaper, Flash Deity
+Optimized Deck: (78.1867% win, 0.193333% stall) 80.6172: Barracus, Xillanail, Xanadu Ultra, Sacred Sanctuary, Dreamhaunter, The Adversary, Arch Nova Alpha, Tazerecca, Jilted Baughe
+Optimized Deck: (70.2117% win, 0.0633333% stall) 73.0832: Halcyon, Auger Ream, Octane's Bastion, Coldheart, Cruise Launcher, Guardian Gamut, Hephatat Stoic, Ezamit Serene, Indestructible Troop
+Optimized Deck: (64.1717% win, 0.0933333% stall) 68.4552: Barracus, Xillanail, Steadfast Assailant, Arch Nova Alpha, Aggeroth Chaos, Revolt Ranger, Tazerecca, Bane of Truth, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (83.4817% win, 0.06% stall) 85.6802: Lord Silus, Shock Disruptor, Dreamhaunter, Judgment Nova, Jet, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (76.5033% win, 0.06% stall) 78.9892: Constantine, Dreamhaunter, Sacred Sanctuary, Coldheart, Smite Forger, Ezamit Serene, Jet, Zodiac Harbinger, Blink Providence
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+
+level 18
+"Lightning Cannon(2)"
+Optimized Deck: (41.13% win, 0.015% stall) 47.4786: Lord Silus, Shock Disruptor #2, Dreamhaunter, Ezamit Serene, Inferno Demon, Tumblox, Arch Nova Alpha, Tazerecca, Abhorrent Recluse
+Optimized Deck: (67.0683% win, 0.0666667% stall) 70.4215: Lord Silus, Shock Disruptor, Primus Ultima, Shock Disruptor, Serrated Grater, Dreamhaunter, Coldheart, Judgment Nova, Crushing Anvil, Inferno Demon
+Optimized Deck: (34.1167% win, 0.0316667% stall) 41.899: Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Ezamit Serene, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (39.5567% win, 0.0883333% stall) 46.9193: Barracus, Dreamhaunter, Arch Nova Alpha, Xillanail, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (26.8983% win, 0.025% stall) 35.2374: Barracus, Demi Constrictor, Arch Nova Alpha, Abhorrent Recluse, Auger Ream, Tazerecca, Jilted Baughe, Steadfast Assailant, Bane of Truth
+Optimized Deck: (16.5467% win, 0.0783333% stall) 25.1536: Nexor, Xillanail, Dreamhaunter, Demi Constrictor, Ezamit Serene, Tumblox, Gorrus Rav, Baughe, Steadfast Assailant, Inferno Demon
+Optimized Deck: (70.2067% win, 0.065% stall) 73.8305: Lord Silus, Shock Disruptor #2, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Guillotine Grinder, Inferno Demon
+Optimized Deck: (35.5067% win, 0.0233333% stall) 42.5905: Barracus, Dreamhaunter, Demi Constrictor, Sculpted Aegis, Arch Nova Alpha, Xillanail, Auger Bore, Jilted Baughe, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (41.425% win, 0.0766667% stall) 48.829: Nexor, Dreamhaunter, The Adversary, Sculpted Aegis, Arch Nova Alpha, Jet, Abhorrent Recluse, Bane of Truth, Jilted Baughe
+Optimized Deck: (38.3167% win, 0.0816667% stall) 44.8922: Barracus, Arch Nova Alpha, Auger Ream, Xillanail, Sacred Sanctuary, Jet, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (59.27% win, 0.01% stall) 64.3951: Malort, Dreamhaunter, Ravenous Terrorsaur, Croc Oppressor, Withersnare, Croc Oppressor #2, Veiled Defiler, Aggeroth Chaos
+Optimized Deck: (58.4633% win, 0.101667% stall) 63.5886: Tabitha, Dreamhaunter, Octane's Bulwark, Jet, Auger Ream, Hephatat Stoic, Bane of Truth, Earnest Pursuer
+Optimized Deck: (28.9633% win, 0.035% stall) 36.1586: Barracus, Demi Constrictor #2, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Jilted Baughe, Auger Bore, Dreamreaper
+Optimized Deck: (28.885% win, 0.005% stall) 36.5877: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (37.9167% win, 0.0133333% stall) 45.2959: Barracus, Dreamhaunter, Arch Nova Alpha, Sculpted Aegis, Xillanail, Abhorrent Recluse, Decorated Marshall, Bane of Truth, Lurker Behemoth
+Optimized Deck: (48.6167% win, 0.0533333% stall) 54.1242: Arkadios, Stoneheart, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Auger Bore, Steadfast Assailant
+Optimized Deck: (35.79% win, 0.005% stall) 42.333: Constantine, Bolt Crag, Dignified Vigil, Smite Forger, Flash Deity, Zodiac Harbinger #2, Honorable Samurai, Ayrkrane Vik
+Optimized Deck: (46.1933% win, 0.126667% stall) 52.8019: Barracus, Dreamhaunter, Shock Disruptor, Arch Nova Alpha, Jet, Inferno Demon, Revolt Ranger, Jilted Baughe, Bane of Truth
+Optimized Deck: (43.4333% win, 0.116667% stall) 49.743: Barracus, Dreamhaunter, Bolt Crag, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Wilter Conscript, Honorable Samurai, Bane of Truth
+Optimized Deck: (36.1867% win, 0.341667% stall) 43.8576: Arkadios, Dreamhaunter, Xillanail, The Adversary, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (31.31% win, 0.00166667% stall) 37.6712: Constantine, Coldheart, Flank, Smite Forger, Blink Providence, Grand Templar, Zodiac Harbinger, Noble Defiance, Dreamreaper, Longshot Deadeye
+Optimized Deck: (15.6817% win, 0.0166667% stall) 22.8099: Barracus, Sculpted Aegis, The Adversary, Ezamit Serene, Sage Ascendant, Jilted Baughe, Baughe #2, Auger Bore, Noble Defiance
+Optimized Deck: (21.33% win, 0.02% stall) 28.833: Kylen, Demi Constrictor #2, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Jilted Baughe, Tazerecca, Coldheart
+Optimized Deck: (35.9383% win, 0.00833333% stall) 42.8673: Constantine, Dreamhaunter, Coldheart, Smite Forger, Animus Geist, Zodiac Harbinger #2, Serraco #2
+Optimized Deck: (13.5517% win, 0% stall) 21.7524: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Jilted Baughe, Dreamweaver
+Optimized Deck: (44.0983% win, 0% stall) 50.0618: Constantine, Smite Forger #2, Zodiac Harbinger #2, Honorable Samurai, Zodiac Harbinger, Dreamreaper
+Optimized Deck: (44.205% win, 0.08% stall) 50.4863: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Inferno Demon, Abhorrent Recluse, Auger Bore, Tazerecca, Bane of Truth
+Optimized Deck: (29.2983% win, 0.035% stall) 36.8904: Kylen, Demi Constrictor, Dreamhaunter, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (22.6733% win, 0% stall) 29.9237: Tabitha, Coldheart, Sculpted Aegis, Decorated Marshall, Hephatat Stoic, Auger Bore, Steadfast Assailant, Bane of Truth, Cadmus
+Optimized Deck: (91.5383% win, 0.0433333% stall) 92.5449: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (36.9117% win, 0.0616667% stall) 44.2785: Nexor, Dreamhaunter, Arch Nova Alpha, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6.00752: Cyrus, Infantry
+Optimized Deck: (32.5733% win, 0.0833333% stall) 40.5795: Barracus, Dreamhaunter, Abhorrent Recluse, The Adversary, Arch Nova Alpha, Auger Bore, Tazerecca, Jilted Baughe, Noble Defiance
+Optimized Deck: (30.725% win, 0.015% stall) 37.8409: Barracus, Demi Constrictor, Arch Nova Alpha, Sculpted Aegis, Xillanail, Auger Ream, Jilted Baughe, Tazerecca, Decorated Marshall, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.0075: Cyrus, Infantry
+Optimized Deck: (45.7217% win, 0.0333333% stall) 51.7242: Barracus, Dreamhaunter, Demi Constrictor, Arch Nova Alpha, Sacred Sanctuary, Arch Nova Elite, Tazerious, Jilted Baughe, Aggeroth Chaos
+Optimized Deck: (39.9833% win, 0.0483333% stall) 46.583: Barracus, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Smite Forger, Auger Bore, Zodiac Harbinger, Ayrkrane Syn
+Optimized Deck: (23.5867% win, 0.0316667% stall) 31.1662: Barracus, Demi Constrictor, Sacred Sanctuary, Serak United, Arch Nova Elite, Baughe #2, Portal Noctil
+Optimized Deck: (28.725% win, 0.0166667% stall) 35.9783: Nexor, Demi Constrictor, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Inferno Demon, Jilted Baughe, Honorable Samurai, Tazerecca, Lurker Behemoth
+Optimized Deck: (38.7033% win, 0.00166667% stall) 45.1031: Constantine, Bolt Crag, Smite Forger #2, Blink Providence, Zodiac Harbinger #2, Divine Equalizer, Noble Defiance
+Optimized Deck: (44.5367% win, 0.00666667% stall) 50.1634: Halcyon, Hoard Arsenal, Jet, Auger Ream, Guardian Gamut, Hephatat Stoic, Decorated Marshall, Dune Runner, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.00702: Cyrus, Infantry
+Optimized Deck: (27.6033% win, 0.01% stall) 33.9439: Constantine, Smite Forger, Bolt Crag #2, Sacred Sanctuary, Ezamit Serene, Deft Reclaimer, Flash Deity, Onyx, Dreamreaper
+Optimized Deck: (39.7567% win, 0.243333% stall) 46.511: Barracus, Dreamhaunter, Demi Constrictor, Sacred Sanctuary, The Adversary, Arch Nova Alpha, Xillanail, Jilted Baughe, Tazerecca
+Optimized Deck: (22.335% win, 0.0166667% stall) 28.9117: Halcyon, Coldheart, Cruise Launcher, Octane's Bastion, Auger Ream, Guardian Gamut, Hephatat Stoic, Ezamit Serene, Indestructible Troop
+Optimized Deck: (23.7417% win, 0.055% stall) 31.7549: Barracus, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Xillanail, Revolt Ranger, Tazerecca, Aggeroth Chaos, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.00693: Cyrus, Infantry
+Optimized Deck: (48.3433% win, 0.0733333% stall) 54.937: Barracus, Shock Disruptor, Dreamhaunter, Jet, Judgment Nova, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (31.0867% win, 0.00333333% stall) 38.4947: Constantine, Coldheart, Smite Forger, Dreamhaunter, Blink Providence, Jet, Zodiac Harbinger, Deranged Fanatic
+Optimized Deck: (0% win, 0% stall) 6.00735: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (48.79% win, 0.0166667% stall) 54.5221: Lord Silus, Shock Disruptor #2, Dreamhaunter, Ezamit Serene, Inferno Demon, Arch Nova Alpha, Tazerecca, Abhorrent Recluse
+Optimized Deck: (67.61% win, 0.0183333% stall) 71.0548: Lord Silus, Shock Disruptor #2, Serrated Grater, Coldheart, Dreamhaunter, Judgment Nova, Crushing Anvil, Inferno Demon
+Optimized Deck: (40.0233% win, 0.0233333% stall) 47.0055: Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Ezamit Serene, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (44.135% win, 0.0516667% stall) 50.7444: Barracus, Dreamhaunter, Arch Nova Alpha, Xillanail, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (33.0733% win, 0.00666667% stall) 40.4043: Barracus, Demi Constrictor, Arch Nova Alpha, Abhorrent Recluse, Auger Ream, Tazerecca, Jilted Baughe, Steadfast Assailant, Bane of Truth
+Optimized Deck: (19.9167% win, 0.05% stall) 28.6916: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Steadfast Assailant, Gorrus Rav, Baughe, Inferno Demon
+Optimized Deck: (74.9117% win, 0.035% stall) 77.9167: Lord Silus, Shock Disruptor #2, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Inferno Demon, Guillotine Grinder
+Optimized Deck: (39.3033% win, 0.0716667% stall) 46.2869: Barracus, Xanadu Ultra, Xillanail, Arch Nova Alpha, Dreamhaunter, Auger Bore, Tazerecca, Bane of Truth, Jilted Baughe
+Optimized Deck: (44.91% win, 0.0816667% stall) 51.8872: Arkadios, The Adversary, Xillanail, Dreamhaunter, Arch Nova Alpha, Jet, Abhorrent Recluse, Bane of Truth, Jilted Baughe
+Optimized Deck: (38.875% win, 0.00833333% stall) 45.6739: Nexor, Xillanail, Arch Nova Alpha, Jet, Auger Ream, Tazerecca, Jilted Baughe, Bane of Truth, Trench Hurler
+Optimized Deck: (62.2117% win, 0.0366667% stall) 66.8349: Malort, Dreamhaunter, Ravenous Terrorsaur, Croc Oppressor, Withersnare, Aggeroth Chaos, Croc Oppressor #2, Veiled Defiler
+Optimized Deck: (65.1467% win, 0.065% stall) 69.1098: Halcyon, Dreamhaunter, Octane's Bulwark, Coldheart, Jet, Hephatat Stoic, Auger Ream, Bane of Truth, Earnest Pursuer
+Optimized Deck: (26.1633% win, 0.103333% stall) 33.2084: Barracus, Demi Constrictor, Steadfast Assailant, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Jilted Baughe, Auger Bore, Dreamreaper, Demi Constrictor
+Optimized Deck: (38.5917% win, 0.00666667% stall) 45.2787: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (42.515% win, 0.005% stall) 49.2964: Arkadios, Dreamhaunter, Sculpted Aegis, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Decorated Marshall, Bane of Truth, Lurker Behemoth
+Optimized Deck: (57.425% win, 0.138333% stall) 62.3734: Arkadios, Xillanail, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Inferno Demon, Bane of Truth
+Optimized Deck: (40.1567% win, 0.00333333% stall) 46.1904: Constantine, Bolt Crag, Dignified Vigil, Flash Deity, Smite Forger, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Ayrkrane Vik
+Optimized Deck: (50.9983% win, 0.075% stall) 56.7411: Lord Silus, Shock Disruptor, Coldheart, Dreamhaunter, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (45.25% win, 0.065% stall) 51.0322: Barracus, Bolt Crag, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Wilter Conscript, Honorable Samurai, Bane of Truth
+Optimized Deck: (50.9417% win, 0.283333% stall) 56.8319: Arkadios, Dreamhaunter, The Adversary, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (33.2967% win, 0.00666667% stall) 39.7277: Constantine, Coldheart, Flank, Smite Forger, Grand Templar, Blink Providence, Zodiac Harbinger, Dreamreaper, Longshot Deadeye
+Optimized Deck: (18.3967% win, 0.0183333% stall) 25.1677: Barracus, The Adversary, Auger Bore, Sacred Sanctuary, Ezamit Serene, Jilted Baughe, Tazerecca, Baughe #2, Bane of Truth
+Optimized Deck: (26.0083% win, 0.101667% stall) 33.1732: Kylen, Demi Constrictor, Coldheart, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Jilted Baughe, Tazerecca, Demi Constrictor
+Optimized Deck: (42.3967% win, 0.015% stall) 48.8165: Constantine, Smite Forger, Coldheart, Dreamhaunter, Zodiac Harbinger #2, Serraco #2
+Optimized Deck: (12.48% win, 0% stall) 20.5266: Alaric, Halerift, Animus Geist, Dreamreaper, Zodiac Harbinger #2, Jilted Baughe, Dreamweaver
+Optimized Deck: (46.4817% win, 0.00166667% stall) 52.1075: Constantine, Smite Forger #2, Zodiac Harbinger #2, Honorable Samurai, Zodiac Harbinger, Dreamreaper
+Optimized Deck: (46.79% win, 0.0766667% stall) 52.817: Barracus, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Abhorrent Recluse, Inferno Demon, Tazerecca, Bane of Truth
+Optimized Deck: (35.1367% win, 0.0366667% stall) 42.0123: Kylen, Dreamhaunter, Demi Constrictor, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (28.6783% win, 0.00333333% stall) 35.9213: Halcyon, Coldheart, Hephatat Stoic, Decorated Marshall, Auger Bore, Steadfast Assailant, Cadmus, Bane of Truth
+Optimized Deck: (92.845% win, 0.0266667% stall) 93.6782: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector #2, Scorched Hellwing #2
+Optimized Deck: (43.1517% win, 0.07% stall) 49.6556: Nexor, Dreamhaunter, Arch Nova Alpha, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6.0001: Cyrus, Infantry
+Optimized Deck: (38.4483% win, 0.045% stall) 45.6638: Arkadios, The Adversary, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Auger Bore, Tazerecca, Jilted Baughe, Noble Defiance
+Optimized Deck: (32.1367% win, 0.0233333% stall) 39.4453: Barracus, Demi Constrictor, Arch Nova Alpha, Xillanail, Auger Ream, Tazerecca, Jilted Baughe, Decorated Marshall, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.00005: Cyrus, Infantry
+Optimized Deck: (43.9083% win, 0.0433333% stall) 50.6536: Nexor, Dreamhaunter, Demi Constrictor, Arch Nova Alpha, Arch Nova Elite, Tazerious, Jilted Baughe, Aggeroth Chaos
+Optimized Deck: (36.8383% win, 0.0466667% stall) 43.0948: Constantine, Dreamhaunter, Smite Forger, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Ezamit Serene, Zodiac Harbinger, Ayrkrane Syn
+Optimized Deck: (21.7533% win, 0.0116667% stall) 29.8169: Barracus, Demi Constrictor, Serak United, Arch Nova Elite, Portal Noctil, Baughe #2, Coldheart
+Optimized Deck: (31.3917% win, 0.0233333% stall) 38.1149: Nexor, Demi Constrictor, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Honorable Samurai, Jilted Baughe, Tazerecca, Bane of Truth, Lurker Behemoth
+Optimized Deck: (44.035% win, 0.00333333% stall) 49.7982: Constantine, Smite Forger, Bolt Crag, Blink Providence, Smite Forger, Zodiac Harbinger #2, Divine Equalizer, Bane of Truth
+Optimized Deck: (50.225% win, 0.00333333% stall) 55.4152: Halcyon, Hoard Arsenal, Jet, Auger Ream, Hephatat Stoic, Guardian Gamut, Decorated Marshall, Bane of Truth, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6.00007: Cyrus, Infantry
+Optimized Deck: (31.9783% win, 0.00166667% stall) 38.3942: Constantine, Smite Forger, Bolt Crag, Flash Deity, Ezamit Serene, Deft Reclaimer, Onyx, Dreamreaper, Bolt Crag
+Optimized Deck: (40.1067% win, 0.116667% stall) 46.5295: Barracus, Dreamhaunter, The Adversary, Sacred Sanctuary, Arch Nova Alpha, Xillanail, Tazerecca, Jilted Baughe, Trampling Anvil
+Optimized Deck: (28.9817% win, 0.0166667% stall) 35.0449: Halcyon, Coldheart, Octane's Bastion, Cruise Launcher, Auger Ream, Guardian Gamut, Hephatat Stoic, Ezamit Serene, Indestructible Troop
+Optimized Deck: (27.0917% win, 0.00833333% stall) 34.5904: Barracus, Arch Nova Alpha, Sculpted Aegis, Xillanail, Aggeroth Chaos, Revolt Ranger, Tazerecca, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.00002: Cyrus, Infantry
+Optimized Deck: (54.5967% win, 0.015% stall) 60.2144: Lord Silus, Shock Disruptor, Dreamhaunter, Jet, Judgment Nova, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (37.855% win, 0.0216667% stall) 43.9036: Constantine, Smite Forger, Dreamhaunter, Coldheart, Sacred Sanctuary, Jet, Blink Providence, Zodiac Harbinger, Deranged Fanatic
+Optimized Deck: (0% win, 0% stall) 6.00007: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (55.7567% win, 0.0266667% stall) 60.7461: Lord Silus, Shock Disruptor #2, Ezamit Serene, Dreamhaunter, Inferno Demon, Tazerecca, Abhorrent Recluse
+Optimized Deck: (69.9717% win, 0.0366667% stall) 73.0991: Lord Silus, Shock Disruptor #2, Serrated Grater, Coldheart, Judgment Nova, Dreamhaunter, Inferno Demon, Bane of Truth
+Optimized Deck: (39.3183% win, 0.0283333% stall) 46.1935: Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Ezamit Serene, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (48.3967% win, 0.0916667% stall) 54.1945: Barracus, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Auger Ream, Aggeroth Chaos, Tazerecca, Bane of Truth, Inferno Demon
+Optimized Deck: (36.395% win, 0.0133333% stall) 43.561: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (21.7133% win, 0.065% stall) 29.983: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Steadfast Assailant, Gorrus Rav, Baughe, Inferno Demon
+Optimized Deck: (76.4083% win, 0.015% stall) 79.2005: Lord Silus, Shock Disruptor #2, Judgment Nova #2, Crude Surgeon, Dreamhaunter, Inferno Demon, Guillotine Grinder
+Optimized Deck: (42.8767% win, 0.118333% stall) 49.2173: Barracus, Dreamhaunter, Xanadu Ultra, Xillanail, Arch Nova Alpha, Auger Bore, Tazerecca, Bane of Truth, Inferno Demon
+Optimized Deck: (53.5967% win, 0.09% stall) 59.0632: Arkadios, The Adversary, Xanadu Ultra, Xillanail, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Jet, Bane of Truth, Jilted Baughe
+Optimized Deck: (38.6117% win, 0.025% stall) 45.291: Nexor, Xillanail, Arch Nova Alpha, Jet, Auger Ream, Jilted Baughe, Tazerecca, Bane of Truth, Trench Hurler
+Optimized Deck: (62.9733% win, 0.04% stall) 67.5788: Malort, Ravenous Terrorsaur, Dreamhaunter, Croc Oppressor, Aggeroth Chaos, Withersnare, Croc Oppressor #2, Veiled Defiler
+Optimized Deck: (68.7683% win, 0.0683333% stall) 72.3839: Tabitha, Dreamhaunter, Octane's Bulwark, Auger Ream, Jet, Hephatat Stoic, Bane of Truth, Earnest Pursuer
+Optimized Deck: (21.9983% win, 0.14% stall) 29.368: Barracus, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Xillanail, Auger Bore, Jilted Baughe, Dreamreaper, Demi Constrictor
+Optimized Deck: (45.11% win, 0.005% stall) 51.0495: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Zealous Pursuer-5, Galvanic Commando
+Optimized Deck: (49.6833% win, 0.0183333% stall) 55.532: Arkadios, Dreamhaunter, Sculpted Aegis, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Decorated Marshall, Bane of Truth, Lurker Behemoth
+Optimized Deck: (62.6717% win, 0.146667% stall) 66.858: Arkadios, Xillanail, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Inferno Demon, Bane of Truth
+Optimized Deck: (43.2% win, 0% stall) 48.6231: Constantine, Dignified Vigil, Coldheart, Flash Deity, Smite Forger, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Bolt Crag
+Optimized Deck: (55.1083% win, 0.06% stall) 60.0818: Lord Silus, Shock Disruptor, Dreamhaunter, Coldheart, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (43.2333% win, 0.0416667% stall) 49.0502: Barracus, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Bolt Crag, Wilter Conscript, Honorable Samurai, Bane of Truth
+Optimized Deck: (60.47% win, 0.251667% stall) 65.0462: Arkadios, The Adversary, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (37.5383% win, 0.0116667% stall) 43.7418: Constantine, Smite Forger, Coldheart, Grand Templar, Blink Providence, Zodiac Harbinger, Longshot Deadeye, Dreamreaper, Trench Lobber
+Optimized Deck: (19.0217% win, 0.015% stall) 26.015: Barracus, The Adversary, Sculpted Aegis, Ezamit Serene, Auger Bore, Tazerecca, Jilted Baughe, Baughe, Bane of Truth
+Optimized Deck: (31.5983% win, 0.0883333% stall) 38.1904: Kylen, Demi Constrictor, Coldheart, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Tazerecca, Jilted Baughe, Demi Constrictor
+Optimized Deck: (48.9633% win, 0.0133333% stall) 54.6152: Constantine, Dreamhaunter, Coldheart, Smite Forger, Zodiac Harbinger #2, Serraco #2
+Optimized Deck: (10.96% win, 0.00333333% stall) 18.6835: Alaric, Halerift, Dreamreaper, Animus Geist, Zodiac Harbinger #2, Jilted Baughe, Dreamweaver
+Optimized Deck: (48.9833% win, 0.005% stall) 54.3224: Constantine, Smite Forger #2, Zodiac Harbinger #2, Honorable Samurai, Zodiac Harbinger, Dreamreaper
+Optimized Deck: (46.2167% win, 0.0833333% stall) 52.0661: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Abhorrent Recluse, Inferno Demon, Tazerecca, Bane of Truth
+Optimized Deck: (41.7567% win, 0.0466667% stall) 47.6608: Kylen, Dreamhaunter, Xanadu Ultra, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Tazerecca, Auger Bore, Baughe
+Optimized Deck: (34.9817% win, 0.00666667% stall) 41.4361: Halcyon, Coldheart, Hephatat Stoic, Decorated Marshall, Auger Bore, Steadfast Assailant, Cadmus, Bane of Truth
+Optimized Deck: (95.4133% win, 0.06% stall) 95.9568: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (44.4117% win, 0.0766667% stall) 50.5299: Nexor, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (50.6383% win, 0.11% stall) 56.8259: Arkadios, The Adversary, Xanadu Ultra, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Tazerecca, Jilted Baughe
+Optimized Deck: (32.9533% win, 0.0133333% stall) 40.01: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Decorated Marshall, Jilted Baughe, Tazerecca, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (49.4117% win, 0.0166667% stall) 54.4082: Arkadios, Dreamhaunter, Arch Nova Alpha, Coldheart, Sacred Sanctuary, Aggeroth Chaos, Withersnare, Tazerious, Jilted Baughe, Serraco Lord
+Optimized Deck: (43.105% win, 0.0433333% stall) 48.7425: Constantine, Dreamhaunter, Coldheart, Sacred Sanctuary, Smite Forger, Ezamit Serene, Zodiac Harbinger, Ayrkrane Syn, Baughe
+Optimized Deck: (20.555% win, 0.0133333% stall) 28.2965: Barracus, Demi Constrictor, Serak United, Arch Nova Elite, Portal Noctil, Baughe #2, Coldheart
+Optimized Deck: (31.2467% win, 0.035% stall) 37.6928: Nexor, Demi Constrictor, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Honorable Samurai, Jilted Baughe, Tazerecca, Bane of Truth, Lurker Behemoth
+Optimized Deck: (48.4033% win, 0.00833333% stall) 53.6422: Constantine, Bolt Crag, Smite Forger #2, Blink Providence, Zodiac Harbinger #2, Divine Equalizer, Bane of Truth
+Optimized Deck: (57.285% win, 0.00666667% stall) 61.7496: Halcyon, Hoard Arsenal, Jet, Auger Ream, Guardian Gamut, Hephatat Stoic, Dune Runner, Bane of Truth, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (36.1483% win, 0% stall) 41.8609: Constantine, Bolt Crag, Smite Forger, Flash Deity, Ezamit Serene, Deft Reclaimer, Onyx, Dreamreaper, Bolt Crag
+Optimized Deck: (43.5783% win, 0.163333% stall) 49.2181: Barracus, Xanadu Ultra, Dreamhaunter, The Adversary, Sacred Sanctuary, Arch Nova Alpha, Xillanail, Tazerecca, Jilted Baughe
+Optimized Deck: (36.0017% win, 0.0333333% stall) 41.4854: Halcyon, Octane's Bastion, Cruise Launcher, Coldheart, Auger Ream, Guardian Gamut, Hephatat Stoic, Ezamit Serene, Indestructible Troop
+Optimized Deck: (27.1633% win, 0.00166667% stall) 34.6483: Barracus, Sculpted Aegis, Arch Nova Alpha, Xillanail, Aggeroth Chaos, Tazerecca, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (58.6083% win, 0.0266667% stall) 63.5463: Lord Silus, Shock Disruptor, Dreamhaunter, Judgment Nova, Jet, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (43.54% win, 0.0366667% stall) 48.9558: Constantine, Dreamhaunter, Smite Forger, Coldheart, Sacred Sanctuary, Jet, Blink Providence, Zodiac Harbinger, Deranged Fanatic
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+
+level 20
+"Lightning Cannon(2)"
+Optimized Deck: (15.8683% win, 0.00333333% stall) 23.947: Lord Silus, Shock Disruptor #2, Dreamhaunter, Inferno Demon, Ezamit Serene, Arch Nova Alpha, Auger Bore, Abhorrent Recluse
+Optimized Deck: (35.0067% win, 0.0266667% stall) 40.8345: Lord Silus, Shock Disruptor #2, Serrated Grater, Dreamhaunter, Coldheart, Primus Ultima, Judgment Nova, Crushing Anvil, Inferno Demon
+Optimized Deck: (11.76% win, 0.00333333% stall) 20.6949: Nexor, Arch Nova Alpha, Dreamhaunter, Ezamit Serene, Tazerious, Jilted Baughe, Auger Bore, Xillanail
+Optimized Deck: (15.9817% win, 0.0133333% stall) 24.8107: Barracus, Arch Nova Alpha, Dreamhaunter, Xillanail, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (9.07% win, 0.00333333% stall) 17.9551: Barracus, Demi Constrictor, Arch Nova Alpha, Abhorrent Recluse, Auger Ream, Jilted Baughe, Tazerecca, Steadfast Assailant, Bane of Truth
+Optimized Deck: (2.80333% win, 0.00333333% stall) 11.5699: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Inferno Demon, Baughe, Steadfast Assailant, Gorrus Rav
+Optimized Deck: (42.6783% win, 0.0183333% stall) 49.0805: Lord Silus, Shock Disruptor #2, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Guillotine Grinder, Inferno Demon
+Optimized Deck: (13.1483% win, 0.0183333% stall) 22.3013: Barracus, Demi Constrictor, Dreamhaunter, Arch Nova Alpha, Auger Bore, Tazerecca, Jilted Baughe #2, Bane of Truth
+Optimized Deck: (15.4183% win, 0.00166667% stall) 25.0501: Barracus, Arch Nova Alpha, Jet, Abhorrent Recluse, Dreamhaunter, Jilted Baughe, Bane of Truth
+Optimized Deck: (14.4717% win, 0.0116667% stall) 22.073: Barracus, Arch Nova Alpha, Jet, Auger Ream, Sacred Sanctuary, Xillanail, Tazerecca, Jilted Baughe, Bane of Truth, Trench Hurler
+Optimized Deck: (31.845% win, 0% stall) 39.3206: Malort, Dreamhaunter, Croc Oppressor, Withersnare, Ravenous Terrorsaur, Croc Oppressor #2, Veiled Defiler
+Optimized Deck: (30.1933% win, 0.0333333% stall) 37.4668: Tabitha, Octane's Bulwark, Jet, Dreamhaunter, Auger Ream, Hephatat Stoic, Decorated Marshall, Bane of Truth, Earnest Pursuer
+Optimized Deck: (9.13667% win, 0.00666667% stall) 16.7515: Barracus, Demi Constrictor #2, Arch Nova Alpha, Sacred Sanctuary, Jilted Baughe, Auger Bore, Noble Defiance, Dreamreaper
+Optimized Deck: (7.48% win, 0% stall) 16.0428: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (14.5217% win, 0% stall) 23.0497: Barracus, Arch Nova Alpha, Abhorrent Recluse, Dreamhaunter, Sculpted Aegis, Decorated Marshall, Jilted Baughe, Bane of Truth, Lurker Behemoth
+Optimized Deck: (20.11% win, 0.0133333% stall) 27.5977: Arkadios, Stoneheart, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Auger Bore, Steadfast Assailant, Bane of Truth
+Optimized Deck: (13.4033% win, 0% stall) 21.1201: Constantine, Bolt Crag, Smite Forger, Dignified Vigil, Flash Deity, Zodiac Harbinger #2, Honorable Samurai, Ayrkrane Vik
+Optimized Deck: (18.7583% win, 0.0133333% stall) 27.5837: Barracus, Arch Nova Alpha, Shock Disruptor, Dreamhaunter, Jet, Revolt Ranger, Bane of Truth, Inferno Demon
+Optimized Deck: (17.04% win, 0.025% stall) 25.0768: Barracus, Bolt Crag, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Wilter Conscript, Honorable Samurai, Bane of Truth
+Optimized Deck: (9.01% win, 0.0566667% stall) 17.9508: Arkadios, The Adversary, Arch Nova Alpha, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Dreamhaunter, Jilted Baughe, Inferno Demon
+Optimized Deck: (10.355% win, 0% stall) 17.8232: Constantine, Smite Forger, Flank, Blink Providence, Grand Templar, Zodiac Harbinger, Noble Defiance, Dreamreaper, Longshot Deadeye
+Optimized Deck: (3.36667% win, 0.00333333% stall) 10.478: Barracus, The Adversary, Ezamit Serene, Sage Ascendant, Jilted Baughe, Tazerecca, Baughe #2, Auger Bore, Noble Defiance
+Optimized Deck: (4.72333% win, 0.00166667% stall) 12.3959: Kylen, Demi Constrictor #2, Arch Nova Alpha, Xillanail, Sacred Sanctuary, Jilted Baughe, Tazerecca, Coldheart
+Optimized Deck: (13.8783% win, 0% stall) 22.1892: Constantine, Smite Forger, Dreamhaunter, Animus Geist, Zodiac Harbinger #2, Serraco #2
+Optimized Deck: (3.66% win, 0% stall) 11.5241: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Dreamweaver
+Optimized Deck: (20.0183% win, 0% stall) 27.3998: Constantine, Smite Forger #2, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger #2, Dreamreaper
+Optimized Deck: (17.5317% win, 0.00666667% stall) 25.5297: Barracus, Arch Nova Alpha, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Inferno Demon, Auger Bore, Tazerecca, Bane of Truth, Baughe
+Optimized Deck: (7.53667% win, 0.00166667% stall) 15.8576: Kylen, Demi Constrictor, Dreamhaunter, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (7.32667% win, 0% stall) 14.7535: Tabitha, Coldheart, Sculpted Aegis, Hephatat Stoic, Auger Bore, Decorated Marshall, Steadfast Assailant, Cadmus, Bane of Truth
+Optimized Deck: (78.3533% win, 0.0466667% stall) 80.8289: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector #2, Scorched Hellwing #2
+Optimized Deck: (11.6933% win, 0.00833333% stall) 20.5655: Nexor, Arch Nova Alpha, Dreamhaunter, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6.00222: Cyrus, Infantry
+Optimized Deck: (13.705% win, 0.00666667% stall) 22.6503: Barracus, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Auger Bore, Tazerecca, Noble Defiance, Jilted Baughe
+Optimized Deck: (9.61833% win, 0% stall) 17.745: Barracus, Demi Constrictor, Arch Nova Alpha, Sculpted Aegis, Auger Ream, Jilted Baughe, Tazerecca, Decorated Marshall, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6.00208: Cyrus, Infantry
+Optimized Deck: (20.01% win, 0.005% stall) 28.1254: Barracus, Demi Constrictor, Arch Nova Alpha, Arch Nova Elite, Tazerious, Auger Bore, Dreamhaunter, Aggeroth Chaos
+Optimized Deck: (17.76% win, 0.00166667% stall) 26.1655: Barracus, Arch Nova Alpha, Smite Forger, Dreamhaunter, Animus Geist, Auger Bore, Zodiac Harbinger, Ayrkrane Syn
+Optimized Deck: (6.69333% win, 0.00333333% stall) 14.6936: Barracus, Demi Constrictor, Serak United, Arch Nova Elite, Sacred Sanctuary, Baughe #2, Portal Noctil
+Optimized Deck: (8.41167% win, 0.00333333% stall) 16.3305: Nexor, Demi Constrictor, Arch Nova Alpha, Xillanail, Sacred Sanctuary, Jilted Baughe, Honorable Samurai, Tazerecca, Bane of Truth, Lurker Behemoth
+Optimized Deck: (15.7017% win, 0% stall) 23.5166: Constantine, Bolt Crag, Smite Forger #2, Blink Providence, Zodiac Harbinger #2, Divine Equalizer, Noble Defiance
+Optimized Deck: (20.4367% win, 0% stall) 27.6299: Halcyon, Jet, Auger Ream, Dune Runner, Hephatat Stoic, Guardian Gamut, Decorated Marshall, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.00235: Cyrus, Infantry
+Optimized Deck: (8.39833% win, 0% stall) 16.2279: Constantine, Bolt Crag, Smite Forger, Deft Reclaimer, Flash Deity, Ezamit Serene, Onyx, Dreamreaper, Bolt Crag
+Optimized Deck: (12.6767% win, 0.035% stall) 20.9075: Barracus, Dreamhaunter, Demi Constrictor, The Adversary, Arch Nova Alpha, Sacred Sanctuary, Jilted Baughe, Tazerecca, Trampling Anvil
+Optimized Deck: (4.615% win, 0% stall) 11.7866: Halcyon, Cruise Launcher, Coldheart, Auger Ream, Guardian Gamut, Hephatat Stoic, Sculpted Aegis, Ezamit Serene, Indestructible Troop
+Optimized Deck: (5.87% win, 0% stall) 14.2118: Barracus, Demi Constrictor, Arch Nova Alpha, Steadfast Assailant, Revolt Ranger, Tazerecca, Aggeroth Chaos, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.00212: Cyrus, Infantry
+Optimized Deck: (20.215% win, 0.00666667% stall) 29.0582: Barracus, Shock Disruptor, Dreamhaunter, Jet, Judgment Nova, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (10.9267% win, 0% stall) 19.3141: Constantine, Smite Forger, Jet, Dreamhaunter, Blink Providence, Zodiac Harbinger, Deranged Fanatic, Ezamit Serene
+Optimized Deck: (0% win, 0% stall) 6.002: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (19.5633% win, 0.01% stall) 27.9082: Lord Silus, Shock Disruptor #2, Ezamit Serene, Dreamhaunter, Inferno Demon, Tazerecca, Abhorrent Recluse
+Optimized Deck: (36.035% win, 0.0133333% stall) 42.4: Lord Silus, Shock Disruptor, Serrated Grater, Shock Disruptor, Coldheart, Dreamhaunter, Judgment Nova, Inferno Demon, Bane of Truth
+Optimized Deck: (13.7983% win, 0.00166667% stall) 22.3132: Nexor, Dreamhaunter, Arch Nova Alpha, Xillanail, Ezamit Serene, Tazerious, Jilted Baughe, Auger Bore
+Optimized Deck: (19.7183% win, 0.00833333% stall) 27.8787: Barracus, Xanadu Ultra, Arch Nova Alpha, Dreamhaunter, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (12.0983% win, 0.00166667% stall) 21.1642: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Abhorrent Recluse, Jilted Baughe, Tazerecca, Bane of Truth
+Optimized Deck: (4.51667% win, 0.00333333% stall) 12.8481: Nexor, Dreamhaunter, Xillanail, Steadfast Assailant, Ezamit Serene, Baughe, Gorrus Rav, Inferno Demon
+Optimized Deck: (47.4333% win, 0.0216667% stall) 53.2524: Lord Silus, Shock Disruptor #2, Crude Surgeon, Judgment Nova #2, Dreamhaunter, Guillotine Grinder, Inferno Demon
+Optimized Deck: (17.7167% win, 0.00166667% stall) 25.9954: Barracus, Demi Constrictor, Arch Nova Alpha, Dreamhaunter, Auger Bore, Tazerecca, Jilted Baughe, Bane of Truth, Inferno Demon
+Optimized Deck: (18.1933% win, 0.0116667% stall) 27.1357: Nexor, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Jet, Abhorrent Recluse, Jilted Baughe, Bane of Truth
+Optimized Deck: (16.68% win, 0% stall) 24.945: Nexor, Arch Nova Alpha, Jet, Auger Ream, Tazerecca, Jilted Baughe, Bane of Truth, Trench Hurler
+Optimized Deck: (30.5867% win, 0.005% stall) 38.1674: Malort, Dreamhaunter, Ravenous Terrorsaur, Withersnare, Croc Oppressor #3, Veiled Defiler
+Optimized Deck: (34.5517% win, 0.0583333% stall) 41.6706: Tabitha, Dreamhaunter, Octane's Bulwark, Jet, Auger Ream, Hephatat Stoic, Bane of Truth, Earnest Pursuer
+Optimized Deck: (7.12833% win, 0.02% stall) 14.8694: Barracus, Demi Constrictor, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Jilted Baughe, Auger Bore, Dreamreaper, Demi Constrictor
+Optimized Deck: (12.7483% win, 0% stall) 20.9278: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (16.435% win, 0% stall) 24.8189: Arkadios, Xillanail, Arch Nova Alpha, Dreamhaunter, Sculpted Aegis, Abhorrent Recluse, Decorated Marshall, Bane of Truth, Lurker Behemoth
+Optimized Deck: (24.44% win, 0.03% stall) 31.8084: Arkadios, Stoneheart, Xillanail, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Auger Bore, Bane of Truth
+Optimized Deck: (16.3233% win, 0% stall) 23.6694: Constantine, Bolt Crag, Dignified Vigil, Smite Forger, Flash Deity, Honorable Samurai, Zodiac Harbinger #2, Ayrkrane Vik
+Optimized Deck: (22.7367% win, 0.0216667% stall) 30.619: Lord Silus, Shock Disruptor, Coldheart, Dreamhaunter, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (17.2417% win, 0.0166667% stall) 24.8778: Barracus, Bolt Crag, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Wilter Conscript, Honorable Samurai, Bane of Truth
+Optimized Deck: (16.0517% win, 0.145% stall) 24.5991: Arkadios, Dreamhaunter, The Adversary, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (11.3967% win, 0% stall) 18.6225: Constantine, Flank, Smite Forger, Grand Templar, Blink Providence, Zodiac Harbinger, Noble Defiance, Dreamreaper, Longshot Deadeye
+Optimized Deck: (4.48167% win, 0.00166667% stall) 11.6693: Barracus, The Adversary, Auger Bore, Ezamit Serene, Jilted Baughe, Baughe #2, Tazerecca, Bane of Truth
+Optimized Deck: (5.30333% win, 0.00333333% stall) 12.7268: Kylen, Demi Constrictor #2, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Jilted Baughe, Tazerecca, Coldheart
+Optimized Deck: (15.5167% win, 0.00333333% stall) 23.6924: Constantine, Smite Forger, Coldheart, Dreamhaunter, Zodiac Harbinger #2, Serraco #2
+Optimized Deck: (3.36667% win, 0% stall) 10.8301: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Dreamweaver
+Optimized Deck: (20.5267% win, 0% stall) 27.7526: Constantine, Smite Forger #2, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger #2, Dreamreaper
+Optimized Deck: (18.4133% win, 0% stall) 26.9619: Barracus, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Auger Bore, Tazerecca, Bane of Truth, Inferno Demon
+Optimized Deck: (9.6% win, 0.00166667% stall) 17.6855: Kylen, Demi Constrictor, Dreamhaunter, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Tazerecca, Baughe, Auger Bore
+Optimized Deck: (9.36167% win, 0% stall) 17.0659: Halcyon, Coldheart, Hephatat Stoic, Decorated Marshall, Auger Bore, Steadfast Assailant, Cadmus, Bane of Truth
+Optimized Deck: (81.3683% win, 0.055% stall) 83.5144: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Erebus City Sector, Scorched Hellwing, Abhorrent Recluse
+Optimized Deck: (13.6267% win, 0.00833333% stall) 22.1664: Nexor, Dreamhaunter, Arch Nova Alpha, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (13.4617% win, 0.00833333% stall) 22.3083: Arkadios, The Adversary, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Auger Bore, Tazerecca, Jilted Baughe, Noble Defiance
+Optimized Deck: (12.0983% win, 0.00166667% stall) 20.3996: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Tazerecca, Jilted Baughe, Decorated Marshall, Bane of Truth-5
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (19.7167% win, 0.015% stall) 28.1598: Nexor, Demi Constrictor, Arch Nova Alpha, Arch Nova Elite, Dreamhaunter, Tazerious, Jilted Baughe, Aggeroth Chaos
+Optimized Deck: (15.795% win, 0% stall) 24.0498: Barracus, Arch Nova Alpha, Smite Forger, Dreamhaunter, Animus Geist, Auger Bore, Zodiac Harbinger, Ayrkrane Syn
+Optimized Deck: (7.015% win, 0% stall) 15.3497: Barracus, Demi Constrictor, Serak United, Arch Nova Elite, Portal Noctil, Baughe #2, Coldheart
+Optimized Deck: (9.85667% win, 0.00166667% stall) 17.3116: Nexor, Demi Constrictor, Arch Nova Alpha, Xillanail, Sacred Sanctuary, Jilted Baughe, Honorable Samurai, Tazerecca, Bane of Truth, Lurker Behemoth
+Optimized Deck: (18.3967% win, 0% stall) 25.8691: Constantine, Bolt Crag, Smite Forger #2, Blink Providence, Zodiac Harbinger #2, Divine Equalizer, Bane of Truth
+Optimized Deck: (23.0783% win, 0.00166667% stall) 30.1907: Halcyon, Jet, Hoard Arsenal, Auger Ream, Guardian Gamut, Hephatat Stoic, Dune Runner, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (11.1833% win, 0% stall) 18.6027: Constantine, Bolt Crag, Smite Forger, Flash Deity, Deft Reclaimer, Ezamit Serene, Onyx, Dreamreaper, Bolt Crag
+Optimized Deck: (11.525% win, 0.00333333% stall) 19.5521: Barracus, Demi Constrictor, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Jilted Baughe, Tazerecca, Trampling Anvil
+Optimized Deck: (6.42667% win, 0% stall) 13.785: Halcyon, Cruise Launcher, Coldheart, Auger Ream, Guardian Gamut, Hephatat Stoic, Ezamit Serene, Indestructible Troop
+Optimized Deck: (7.10167% win, 0.00166667% stall) 15.443: Barracus, Demi Constrictor, Arch Nova Alpha, Steadfast Assailant, Revolt Ranger, Tazerecca, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6.00003: Cyrus, Infantry
+Optimized Deck: (26.1133% win, 0.00666667% stall) 34.1309: Lord Silus, Shock Disruptor, Jet, Dreamhaunter, Judgment Nova, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (11.3683% win, 0.00166667% stall) 19.6439: Constantine, Smite Forger, Jet, Dreamhaunter, Blink Providence, Zodiac Harbinger, Deranged Fanatic, Ezamit Serene
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (27.37% win, 0.01% stall) 34.6765: Lord Silus, Shock Disruptor #2, Ezamit Serene, Dreamhaunter, Inferno Demon, Tazerecca, Abhorrent Recluse
+Optimized Deck: (41.255% win, 0.02% stall) 47.3318: Lord Silus, Shock Disruptor #2, Serrated Grater, Judgment Nova, Dreamhaunter, Inferno Demon, Bane of Truth
+Optimized Deck: (13.09% win, 0.0166667% stall) 21.6434: Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Auger Bore, Tazerious, Jilted Baughe, Ezamit Serene
+Optimized Deck: (20.5767% win, 0.0166667% stall) 28.4059: Barracus, Xanadu Ultra, Arch Nova Alpha, Dreamhaunter, Auger Ream, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (13.4917% win, 0% stall) 21.8541: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Abhorrent Recluse, Tazerecca, Jilted Baughe, Bane of Truth
+Optimized Deck: (4.40333% win, 0.005% stall) 12.5097: Nexor, Dreamhaunter, Xillanail, Ezamit Serene, Steadfast Assailant, Gorrus Rav, Baughe, Inferno Demon
+Optimized Deck: (51.0367% win, 0.02% stall) 56.6448: Lord Silus, Shock Disruptor #2, Judgment Nova #2, Dreamhaunter, Inferno Demon, Guillotine Grinder
+Optimized Deck: (16.9767% win, 0.0233333% stall) 25.2258: Barracus, Xanadu Ultra, Arch Nova Alpha, Dreamhaunter, Auger Bore, Tazerecca, Bane of Truth, Jilted Baughe
+Optimized Deck: (20.5217% win, 0.0166667% stall) 29.2239: Arkadios, The Adversary, Dreamhaunter, Arch Nova Alpha, Jet, Abhorrent Recluse, Jilted Baughe, Bane of Truth
+Optimized Deck: (16.43% win, 0% stall) 24.3114: Nexor, Arch Nova Alpha, Jet, Auger Ream, Tazerecca, Jilted Baughe, Bane of Truth, Trench Hurler
+Optimized Deck: (29.6133% win, 0.0183333% stall) 37.2338: Malort, Dreamhaunter, Ravenous Terrorsaur, Croc Oppressor, Withersnare, Croc Oppressor #2, Veiled Defiler, Aggeroth Chaos
+Optimized Deck: (37.745% win, 0.0416667% stall) 44.2247: Tabitha, Octane's Bulwark, Dreamhaunter, Jet, Auger Ream, Hephatat Stoic, Bane of Truth, Earnest Pursuer
+Optimized Deck: (4.93667% win, 0% stall) 13.6729: Barracus, Demi Constrictor #2, Arch Nova Alpha, Auger Bore, Jilted Baughe, Dreamreaper
+Optimized Deck: (18.31% win, 0% stall) 25.8376: Halcyon, Tundra MK3, Hoard Arsenal, Blast Lancer, Cruise Launcher, Trigger Mark, Galvanic Commando, Zealous Pursuer-5
+Optimized Deck: (20.0233% win, 0.00333333% stall) 28.0371: Arkadios, Dreamhaunter, Sculpted Aegis, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Decorated Marshall, Bane of Truth, Lurker Behemoth
+Optimized Deck: (28.6717% win, 0.075% stall) 35.6631: Arkadios, Xillanail, Stoneheart, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Inferno Demon, Bane of Truth
+Optimized Deck: (19.1% win, 0% stall) 26.0752: Constantine, Bolt Crag, Dignified Vigil, Flash Deity, Smite Forger, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger, Ayrkrane Vik
+Optimized Deck: (27.8283% win, 0.0166667% stall) 34.8853: Lord Silus, Shock Disruptor, Coldheart, Dreamhaunter, Jet, Inferno Demon, Revolt Ranger, Bane of Truth
+Optimized Deck: (14.4417% win, 0.00333333% stall) 22.4351: Barracus, Bolt Crag, Sculpted Aegis, Arch Nova Alpha, Dreamhaunter, Wilter Conscript, Honorable Samurai, Bane of Truth
+Optimized Deck: (24.0667% win, 0.146667% stall) 31.7183: Arkadios, The Adversary, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Inferno Demon, Jilted Baughe
+Optimized Deck: (12.2967% win, 0% stall) 19.889: Constantine, Smite Forger, Coldheart, Grand Templar, Blink Providence, Zodiac Harbinger, Dreamreaper, Longshot Deadeye
+Optimized Deck: (4.585% win, 0% stall) 11.5563: Barracus, Auger Bore, Ezamit Serene, Jilted Baughe, Tazerecca, Baughe #2, Bane of Truth
+Optimized Deck: (5.78167% win, 0.0166667% stall) 13.0334: Kylen, Demi Constrictor #2, Arch Nova Alpha, Sacred Sanctuary, Jilted Baughe, Tazerecca, Xillanail
+Optimized Deck: (19.4383% win, 0.00166667% stall) 27.1652: Constantine, Smite Forger, Coldheart, Dreamhaunter, Zodiac Harbinger #2, Serraco #2
+Optimized Deck: (2.74167% win, 0% stall) 9.80007: Alaric, Halerift, Animus Geist, Zodiac Harbinger #2, Dreamreaper, Dreamweaver
+Optimized Deck: (21.1067% win, 0% stall) 28.1858: Constantine, Smite Forger #2, Zodiac Harbinger #2, Honorable Samurai, Zodiac Harbinger, Dreamreaper
+Optimized Deck: (16.7367% win, 0.00333333% stall) 25.0304: Barracus, Demi Constrictor, Arch Nova Alpha, Dreamhaunter, Auger Bore, Tazerecca, Bane of Truth, Abhorrent Recluse
+Optimized Deck: (11.075% win, 0.0216667% stall) 19.6118: Kylen, Demi Constrictor, Xanadu Ultra, Arch Nova Alpha, Dreamhaunter, Tazerecca, Auger Bore, Baughe
+Optimized Deck: (13.4433% win, 0% stall) 20.7247: Tabitha, Coldheart, Sculpted Aegis, Hephatat Stoic, Decorated Marshall, Auger Bore, Cadmus, Bane of Truth
+Optimized Deck: (85.8667% win, 0.0433333% stall) 87.4333: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Erebus City Sector, Scorched Hellwing, Abhorrent Recluse
+Optimized Deck: (14.1367% win, 0.00666667% stall) 22.1632: Nexor, Dreamhaunter, Arch Nova Alpha, Sacred Sanctuary, Xillanail, Abhorrent Recluse, Tazerecca, Auger Bore
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (19.085% win, 0.0383333% stall) 27.9842: Arkadios, The Adversary, Xanadu Ultra, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Tazerecca, Jilted Baughe
+Optimized Deck: (12.21% win, 0% stall) 20.3953: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Ream, Tazerecca, Jilted Baughe, Bane of Truth-5, Zodiac Harbinger
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (17.9167% win, 0.0133333% stall) 25.1922: Arkadios, Dreamhaunter, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Aggeroth Chaos, Tazerious, Serraco Lord, Jilted Baughe
+Optimized Deck: (13.9033% win, 0.0183333% stall) 21.958: Constantine, Dreamhaunter, Coldheart, Smite Forger, Ezamit Serene, Zodiac Harbinger, Ayrkrane Syn, Baughe
+Optimized Deck: (5.63333% win, 0% stall) 13.8672: Barracus, Demi Constrictor, Serak United, Arch Nova Elite, Portal Noctil, Baughe #2
+Optimized Deck: (10.2383% win, 0% stall) 18.4267: Nexor, Demi Constrictor, Arch Nova Alpha, Honorable Samurai, Jilted Baughe, Tazerecca, Bane of Truth, Lurker Behemoth
+Optimized Deck: (21.1183% win, 0% stall) 28.3603: Constantine, Bolt Crag, Smite Forger #2, Blink Providence, Zodiac Harbinger #2, Divine Equalizer
+Optimized Deck: (28.42% win, 0.00166667% stall) 35.0612: Halcyon, Hoard Arsenal, Jet, Auger Ream, Hephatat Stoic, Guardian Gamut, Dune Runner, Bane of Truth, Dreamreaper
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (14.4483% win, 0% stall) 21.8509: Constantine, Bolt Crag, Smite Forger, Flash Deity, Deft Reclaimer, Ezamit Serene, Dreamreaper, Bolt Crag
+Optimized Deck: (9.55167% win, 0.0516667% stall) 18.9645: Barracus, Xanadu Ultra, Demi Constrictor, Arch Nova Alpha, Dreamhaunter, Jilted Baughe, Tazerecca
+Optimized Deck: (10.225% win, 0.005% stall) 16.782: Halcyon, Octane's Bastion, Coldheart, Cruise Launcher, Auger Ream, Guardian Gamut, Hephatat Stoic, Ezamit Serene, Indestructible Troop
+Optimized Deck: (7.66833% win, 0.00166667% stall) 15.431: Barracus, Sculpted Aegis, Arch Nova Alpha, Xillanail, Aggeroth Chaos, Tazerecca, Dreamreaper, Bane of Truth
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+Optimized Deck: (30.6667% win, 0.00166667% stall) 37.8587: Lord Silus, Shock Disruptor, Dreamhaunter, Jet, Judgment Nova, Inferno Demon, Serraco, Bane of Truth
+Optimized Deck: (11.5433% win, 0.005% stall) 20.0149: Constantine, Coldheart, Smite Forger, Jet, Dreamhaunter, Zodiac Harbinger, Blink Providence
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+19:20:20.72
