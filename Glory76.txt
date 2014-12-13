@@ -1,0 +1,42 @@
+22:22:13.58 
+
+level 12
+"Lightning Cannon(2)"
+Optimized Deck: (98.705% win, 0.0333333% stall) 98.8756: Barracus, The Adversary, Demi Constrictor, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Jilted Baughe, Baughe #2
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (98.495% win, 0.025% stall) 98.676: Barracus, The Adversary, Demi Constrictor, Sacred Sanctuary, Auger Ream, Abhorrent Recluse, Jilted Baughe, Baughe #2
+"Inspiring Altar(2)"
+Optimized Deck: (98.8133% win, 0.0283333% stall) 98.9487: Arkadios, Demi Constrictor, The Adversary, Sacred Sanctuary, Abhorrent Recluse, Auger Ream, Jilted Baughe, Baughe
+
+level 14
+"Lightning Cannon(2)"
+Optimized Deck: (90.65% win, 0.231667% stall) 91.8367: Barracus, Demi Constrictor, Auger Ream, The Adversary, Sacred Sanctuary, Abhorrent Recluse, Jilted Baughe, Baughe #2
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (90.0483% win, 0.183333% stall) 91.2705: Arkadios, The Adversary, Demi Constrictor, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Jilted Baughe, Baughe
+"Inspiring Altar(2)"
+Optimized Deck: (92.9467% win, 0.136667% stall) 93.7731: Arkadios, The Adversary, Demi Constrictor, Sacred Sanctuary, Auger Ream, Abhorrent Recluse, Jilted Baughe, Baughe
+
+level 16
+"Lightning Cannon(2)"
+Optimized Deck: (65.965% win, 0.223333% stall) 69.8219: Barracus, Demi Constrictor, Auger Ream, The Adversary, Sacred Sanctuary, Abhorrent Recluse, Arch Nova Elite, Jilted Baughe, Baughe #2
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (66.0717% win, 0.236667% stall) 69.8446: Arkadios, The Adversary, Demi Constrictor, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Arch Nova Elite, Jilted Baughe, Baughe
+"Inspiring Altar(2)"
+Optimized Deck: (72.9717% win, 0.226667% stall) 76.013: Arkadios, The Adversary, Demi Constrictor, Sacred Sanctuary, Auger Ream, Abhorrent Recluse, Jilted Baughe, Baughe
+
+level 18
+"Lightning Cannon(2)"
+Optimized Deck: (31.735% win, 0.143333% stall) 38.6385: Barracus, Demi Constrictor, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, The Adversary, Arch Nova Elite, Jilted Baughe, Baughe, Bane of Truth
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (31.2983% win, 0.11% stall) 38.2748: Arkadios, Demi Constrictor, The Adversary, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Jilted Baughe, Baughe, Bane of Truth
+"Inspiring Altar(2)"
+Optimized Deck: (39.3667% win, 0.166667% stall) 45.52: Arkadios, The Adversary, Demi Constrictor, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Jilted Baughe, Baughe
+
+level 20
+"Lightning Cannon(2)"
+Optimized Deck: (9.255% win, 0.0366667% stall) 17.125: Barracus, Demi Constrictor, Auger Ream, The Adversary, Sacred Sanctuary, Arch Nova Elite, Abhorrent Recluse, Jilted Baughe, Baughe, Bane of Truth
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (9.08333% win, 0.03% stall) 16.8502: Arkadios, Demi Constrictor, The Adversary, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Jilted Baughe, Baughe, Bane of Truth
+"Inspiring Altar(2)"
+Optimized Deck: (13.565% win, 0.0266667% stall) 20.8587: Arkadios, The Adversary, Demi Constrictor, Sacred Sanctuary, Auger Ream, Abhorrent Recluse, Jilted Baughe, Baughe, Bane of Truth
+22:28:15.46

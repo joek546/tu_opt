@@ -131,7 +131,7 @@ WH28:Kylen, Xanadu Ultra, Arch Nova Alpha, Xillanail, Nexusis, Demi Constrictor,
 WH29:Halcyon, Decorated Marshall, Bane of Truth, Hephatat Stoic, Coldheart, Octane's Bastion, Auger Bore, Sculpted Aegis, Ezamit Serene, Steel Ram
 WH30:Arkadios, Scorched Hellwing (2), Erebus City Sector (2), Abhorrent Recluse, Ezamit Tranq, Cyclops Raged, Gehenna Cursed
 WH31:Nexor, Dreamhaunter, Sacred Sanctuary, Tazerecca, Auger Bore, Xillanail, Arch Nova Alpha, Abhorrent Recluse
-WH32:Cyrus, Infantry
+WH32:Arkadios,  Demi Constrictor,  The Adversary,  Arch Nova Elite,  Sacred Sanctuary, Abhorrent Recluse,  Jilted Baughe,  Auger Ream, Bane of Truth
 WH33:Arkadios, Dreamhaunter, The Adversary, Xanadu Ultra, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Jilted Baughe, Auger Bore
 WH34:Barracus, Arch Nova Alpha, Jilted Baughe, Coldheart, Xillanail, Decorated Marshall, Tazerecca, Demi Constrictor
 WH35:Cyrus, Infantry
