@@ -1,0 +1,622 @@
+18:06:33.82 
+
+level 17
+"Lightning Cannon(2)"
+Optimized Deck: (78.715% win, 0.194% stall) 81.0948: Nexor, Dreamhaunter, Stoneheart, Sacred Sanctuary, Demi Constrictor, Arch Nova Alpha, Auger Ream, Jilted Baughe, Tazerecca
+Optimized Deck: (99.203% win, 0.001% stall) 99.2898: Arkadios, Dreamhaunter, Tarantachnid, Gehenna Cursed, Erebus City Sector, Savant Ascendant, Gehenna Cursed, Scorched Hellwing, Erebus City Sector, Machina Awoken
+Optimized Deck: (99.03% win, 0.03% stall) 99.1469: Nexor, Dreamhaunter, Ezamit Tranq, Tarantachnid, Gehenna Cursed, Erebus City Sector, Gehenna Cursed, Hyrael the Other, Scorched Hellwing
+Optimized Deck: (90.17% win, 0.13% stall) 91.3153: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Portal Noctil
+Optimized Deck: (91.104% win, 0.126% stall) 92.0335: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Neo Dredge, Portal Noctil, Tazerecca
+Optimized Deck: (89.638% win, 0.032% stall) 90.7377: Arkadios, Shock Disruptor, Ezamit Tranq, Dreamhaunter, Stoneheart, Obsidian, Sacred Sanctuary, Arch Nova Alpha, Tazerious, Auger Ream
+Optimized Deck: (89.265% win, 0.092% stall) 90.5394: Nexor, Dreamhaunter, The Adversary, Ezamit Tranq, Sacred Sanctuary, Obsidian, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Ream
+Optimized Deck: (98.47% win, 0.009% stall) 98.632: Constantine, Ezamit Tranq, Razor Pinion, Rox Exterminator, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Machina Awoken
+Optimized Deck: (87.722% win, 0.156% stall) 89.1772: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Portal Noctil, Deserted Baughe
+Optimized Deck: (91.532% win, 0.099% stall) 92.4229: Nexor, Dreamhaunter, The Adversary, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Obsidian, Arch Nova Alpha, Sacred Sanctuary, Auger Ream
+Optimized Deck: (90.807% win, 0.118% stall) 91.7672: Lord Silus, Shock Disruptor, Stoneheart, Erebus City Sector, Dreamhaunter, Arch Nova Alpha, Xeno Suzerain, Crude Surgeon
+Optimized Deck: (98.034% win, 0.03% stall) 98.272: Arkadios, Dreamhaunter, Razor Pinion, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Razor Pinion
+Optimized Deck: (89.942% win, 0.16% stall) 90.9915: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Ezamit Tranq, The Adversary, Arch Nova Alpha, Tazerecca
+Optimized Deck: (83.182% win, 0.493% stall) 84.956: Tabitha, Octane's Bulwark, Dreamhaunter, Obsidian, Auger Ream, Sacred Sanctuary, Bane of Truth, Blackrock Cleaver
+Optimized Deck: (83.809% win, 0.108% stall) 85.6766: Empress, Dreamhaunter, Stoneheart, Obsidian, Sacred Sanctuary, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (86.361% win, 0.127% stall) 87.8575: Kylen, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Xillanail, Portal Noctil, Tazerecca
+Optimized Deck: (78.049% win, 0.154% stall) 80.4047: Halcyon, Octane's Bulwark, Coldheart, Obsidian, Auger Ream, Hephatat Stoic, Dune Runner, Decorated Marshall, Bane of Truth
+Optimized Deck: (76.023% win, 0.585% stall) 79.0954: Barracus, Stoneheart, Dreamhaunter, Obsidian, Xillanail, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos
+Optimized Deck: (73.796% win, 0.482% stall) 76.6173: Kylen, Stoneheart, Dreamhaunter, Sacred Sanctuary, Xillanail, Demi Constrictor, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (66.567% win, 0.174% stall) 69.5043: Constantine, Coldheart, Flank, Ezamit Serene, Grand Templar, Zodiac Harbinger, Dawn's Virtue, Blink Providence, Zodiac Harbinger #2, Bolt Crag
+Optimized Deck: (51.435% win, 0.666% stall) 57.1745: Barracus, Dreamhaunter, Xanadu Ultra, Xillanail, Arch Nova Alpha, Dune Runner, Auger Bore, Tazerecca, Jilted Baughe, Bane of Truth, Aggeroth Chaos
+Optimized Deck: (79.835% win, 1.183% stall) 82.1035: Barracus, Obsidian, Dreamhaunter, Xillanail, Bolt Crag, Erebus Outpost, Oreworks, Jilted Baughe, Bane of Truth, Revolt Ranger
+Optimized Deck: (88.903% win, 0.185% stall) 90.1748: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Honorable Samurai, Bane of Truth
+Optimized Deck: (85.173% win, 0.097% stall) 86.6927: Empress, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Trishot Trike, Honorable Samurai, Flash Deity
+Optimized Deck: (86.919% win, 0.141% stall) 88.2578: Nexor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Steadfast Assailant
+Optimized Deck: (90.554% win, 0.061% stall) 91.4452: Typhon Vex, Dreamhaunter, Shock Disruptor, Stoneheart, Sacred Sanctuary, Judgment Nova #2, Crude Surgeon
+Optimized Deck: (80.456% win, 0.353% stall) 82.9329: Barracus, Stoneheart, Dreamhaunter, Xillanail, Obsidian, Arch Nova Alpha, Portal Noctil, Jilted Baughe, Honorable Samurai
+Optimized Deck: (82.769% win, 0.145% stall) 84.6205: Constantine, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Honorable Samurai, Bolt Crag
+Optimized Deck: (63.108% win, 0.465% stall) 67.2053: Kylen, Dreamhaunter, Coldheart, Xillanail, Sacred Sanctuary, Demi Constrictor, Wilter Conscript, Tazerious, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (79.433% win, 0.024% stall) 81.408: Constantine, Stoneheart, Flank, Obsidian, Ezamit Serene, Grand Templar, Smite Forger, Zodiac Harbinger #2, Samurai, Bolt Crag
+Optimized Deck: (65.573% win, 1.079% stall) 69.3303: Arkadios, The Adversary, Obsidian, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Arch Nova Alpha, Xanadu Ultra, Noble Defiance
+Optimized Deck: (98.309% win, 0.025% stall) 98.5016: Constantine, Razor Pinion, Ezamit Tranq, Stoneheart, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (83.302% win, 0.164% stall) 85.0305: Constantine, Dreamhaunter, Obsidian, Bolt Crag, Erebus City Sector, Ezamit Serene, Grand Templar, Bolt Crag, Sacred Sanctuary
+Optimized Deck: (75.429% win, 0.23% stall) 78.1333: Kylen, Stoneheart, Dreamhaunter, Demi Constrictor, The Adversary, Ezamit Serene, Arch Nova Alpha, Demi Constrictor, Tazerecca, Auger Bore
+Optimized Deck: (96.075% win, 0.007% stall) 96.4634: Lord Silus, Shock Disruptor, Serrated Grater, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Judgment Nova, Trench Hurler, Tazerious
+Optimized Deck: (86.239% win, 0.279% stall) 87.7711: Kylen, Dreamhaunter, Ezamit Tranq, Xillanail, Sacred Sanctuary, The Adversary, Demi Constrictor, Arch Nova Alpha, Jilted Baughe, Auger Ream
+Optimized Deck: (94.632% win, 0.279% stall) 95.2383: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Jilted Baughe, Erebus City Sector, Ardenmass
+Optimized Deck: (84.223% win, 0.716% stall) 86.0655: Nexor, Dreamhaunter, The Adversary, Tempest Citadel, Obsidian, Demi Constrictor, Arch Nova Alpha, Deserted Baughe, Oreworks
+Optimized Deck: (99.336% win, 0.002% stall) 99.4139: Nexor, Ezamit Tranq, Dreamhaunter, Savant Ascendant, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Gehenna Cursed #2, Erebus City Sector
+Optimized Deck: (83.602% win, 0.248% stall) 85.4742: Arkadios, Obsidian, Dreamhaunter, Stoneheart, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (89.361% win, 0.153% stall) 90.6025: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: (33.021% win, 0.574% stall) 40.7606: Barracus, The Adversary, Auger Ream, Inferno Demon, Abhorrent Recluse, Inferno Demon, Abhorrent Recluse, Honorable Samurai, Dune Runner, Steadfast Assailant
+Optimized Deck: (86.274% win, 0.051% stall) 87.6074: Halcyon, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Myriad Beleaguer, Guardian Gamut, Hephatat Stoic
+Optimized Deck: (95.973% win, 0.1% stall) 96.4887: Constantine, Stoneheart, Dreamhaunter, Grand Templar, Erebus City Sector, Gehenna Cursed, Arch Nova Alpha, Oreworks
+Optimized Deck: (76.583% win, 0.239% stall) 79.3482: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Sculpted Aegis, Xillanail, Tazerecca, Aggeroth Chaos
+Optimized Deck: (65.302% win, 0.201% stall) 69.2943: Constantine, Obsidian, Smite Forger, Grand Templar, Smite Forger, Zodiac Harbinger, Dawn's Virtue, Longshot Deadeye, Noble Defiance
+Optimized Deck: (64.558% win, 0.468% stall) 68.7533: Barracus, Xillanail, Obsidian, Arch Nova Alpha, Auger Ream, Revolt Ranger, Tazerious, Ezamit Serene, Elite Squadron, Withersnare
+Optimized Deck: (92.642% win, 0.063% stall) 93.3781: Tabitha, Stoneheart, Octane's Bulwark, Dreamhaunter, Obsidian, Sacred Sanctuary, Auger Ream, Steadfast Assailant
+Optimized Deck: (82.446% win, 0.077% stall) 84.289: Malort, Dreamhaunter, Obsidian, Jyack, Sacred Sanctuary, Ezamit Serene, Arch Nova Alpha, Deserted Baughe, Tazerious, Auger Ream, Sacred Sanctuary
+Optimized Deck: (0% win, 0% stall) 6.0118: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (82.875% win, 0.177% stall) 84.6919: Lord Silus, Shock Disruptor, Dreamhaunter, Stoneheart, Sacred Sanctuary, Auger Ream, Aggeroth Chaos, Tazerecca
+Optimized Deck: (99.291% win, 0.002% stall) 99.3621: Arkadios, Dreamhaunter, Tarantachnid, Gehenna Cursed, Erebus City Sector, Savant Ascendant, Gehenna Cursed, Scorched Hellwing, Erebus City Sector, Machina Awoken
+Optimized Deck: (99.144% win, 0.009% stall) 99.2514: Arkadios, Ezamit Tranq, Dreamhaunter, Hyrael the Other, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed, Scab Grot
+Optimized Deck: (92.144% win, 0.105% stall) 93.0502: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Portal Noctil
+Optimized Deck: (92.114% win, 0.167% stall) 93.0384: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca
+Optimized Deck: (91.939% win, 0.071% stall) 92.7603: Arkadios, Shock Disruptor, Ezamit Tranq, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Xillanail, Tazerious, Auger Ream
+Optimized Deck: (90.721% win, 0.084% stall) 91.7021: Kylen, Ezamit Tranq, The Adversary, Dreamhaunter, Xillanail, Obsidian, Sacred Sanctuary, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Ream
+Optimized Deck: (98.711% win, 0.004% stall) 98.8564: Arkadios, The Adversary, Ezamit Tranq, Rox Exterminator, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Scab Grot, Machina Awoken
+Optimized Deck: (90.059% win, 0.106% stall) 91.1703: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Auger Ream, Deserted Baughe, Portal Noctil
+Optimized Deck: (91.883% win, 0.088% stall) 92.6518: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Ezamit Tranq, The Adversary, Arch Nova Alpha, Sacred Sanctuary, Tazerecca
+Optimized Deck: (92.288% win, 0.09% stall) 93.1224: Lord Silus, Shock Disruptor, Dreamhaunter, Stoneheart, Erebus City Sector, Arch Nova Alpha, Inferno Demon, Crude Surgeon
+Optimized Deck: (98.494% win, 0.02% stall) 98.6677: Arkadios, Ezamit Tranq, Dreamhaunter, Stoneheart, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Razor Pinion
+Optimized Deck: (91.286% win, 0.146% stall) 92.1805: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Ezamit Tranq, The Adversary, Arch Nova Alpha, Tazerecca
+Optimized Deck: (86.422% win, 0.297% stall) 87.7794: Tabitha, Dreamhaunter, Octane's Bulwark, Obsidian, Auger Ream, Sacred Sanctuary, Bane of Truth, Blackrock Cleaver
+Optimized Deck: (88.12% win, 0.081% stall) 89.4316: Empress, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (89.307% win, 0.11% stall) 90.4593: Kylen, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Xillanail, Portal Noctil, Tazerecca
+Optimized Deck: (82.56% win, 0.1% stall) 84.35: Halcyon, Octane's Bulwark, Obsidian, Coldheart, Auger Ream, Hephatat Stoic, Dune Runner, Bane of Truth
+Optimized Deck: (79.437% win, 0.404% stall) 81.9934: Barracus, Dreamhaunter, Stoneheart, Obsidian, Xillanail, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos
+Optimized Deck: (77.494% win, 0.38% stall) 79.9555: Kylen, Dreamhaunter, Stoneheart, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (67.248% win, 0.172% stall) 70.0766: Constantine, Coldheart, Flank, Ezamit Serene, Grand Templar, Zodiac Harbinger, Dawn's Virtue, Blink Providence, Zodiac Harbinger #2, Bolt Crag
+Optimized Deck: (58.474% win, 0.556% stall) 63.4036: Nexor, Xillanail, Dreamhaunter, Xanadu Ultra, Arch Nova Alpha, Aggeroth Chaos, Auger Bore, Tazerecca, Bane of Truth, Dune Runner
+Optimized Deck: (76.013% win, 1.033% stall) 78.5482: Barracus, Dreamhaunter, Xillanail, Obsidian, Bolt Crag, Erebus Outpost, Oreworks, Jilted Baughe, Bane of Truth, Revolt Ranger
+Optimized Deck: (91.825% win, 0.096% stall) 92.7612: Typhon Vex, Ezamit Tranq, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Honorable Samurai, Auger Ream
+Optimized Deck: (88.678% win, 0.147% stall) 89.8696: Empress, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Trishot Trike, Longshot Deadeye, Honorable Samurai
+Optimized Deck: (89.585% win, 0.2% stall) 90.5792: Nexor, Dreamhaunter, Xillanail, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Sacred Sanctuary, Xanadu Ultra, Steadfast Assailant
+Optimized Deck: (93.457% win, 0.033% stall) 94.0348: Lord Silus, Shock Disruptor, Serrated Grater, Dreamhaunter, Stoneheart, Sacred Sanctuary, Judgment Nova #2, Crude Surgeon
+Optimized Deck: (82.968% win, 0.27% stall) 85.0894: Krellus, Dreamhaunter, Stoneheart, Obsidian, Xillanail, Portal Noctil, Serak United, Jilted Baughe, Honorable Samurai
+Optimized Deck: (86.294% win, 0.142% stall) 87.7351: Constantine, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Bolt Crag, Honorable Samurai, Bolt Crag
+Optimized Deck: (71.202% win, 0.353% stall) 74.4221: Kylen, Dreamhaunter, Xillanail, Coldheart, Sacred Sanctuary, Wilter Conscript, Tazerious, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (81.195% win, 0.106% stall) 83.0098: Constantine, Stoneheart, Obsidian, Smite Forger, Bolt Crag, Sacred Sanctuary, Auger Ream, Samurai, Bolt Crag
+Optimized Deck: (74.305% win, 0.846% stall) 77.0008: Arkadios, Xillanail, The Adversary, Obsidian, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Xanadu Ultra, Noble Defiance
+Optimized Deck: (98.455% win, 0.036% stall) 98.6377: Constantine, Ezamit Tranq, Stoneheart, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (84.238% win, 0.108% stall) 85.8797: Constantine, Dreamhaunter, Erebus City Sector, Ezamit Serene, Grand Templar, Obsidian, Bolt Crag, Sacred Sanctuary, Bolt Crag
+Optimized Deck: (77.188% win, 0.281% stall) 79.6784: Kylen, Dreamhaunter, Stoneheart, Demi Constrictor, The Adversary, Ezamit Serene, Arch Nova Alpha, Tazerecca, Demi Constrictor, Auger Bore
+Optimized Deck: (95.772% win, 0.025% stall) 96.1963: Lord Silus, Shock Disruptor #2, Serrated Grater, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Trench Hurler, Judgment Nova
+Optimized Deck: (87.921% win, 0.213% stall) 89.3521: Nexor, The Adversary, Dreamhaunter, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Tazerious
+Optimized Deck: (92.823% win, 0.224% stall) 93.6292: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Ardenmass, Jilted Baughe, Erebus City Sector, Galvanic Commando
+Optimized Deck: (85.927% win, 0.269% stall) 87.4071: Nexor, Dreamhaunter, The Adversary, Tempest Citadel, Xillanail, Sacred Sanctuary, Aggeroth Chaos, Obsidian, Arch Nova Alpha, Shapesavant, Deserted Baughe
+Optimized Deck: (99.313% win, 0.003% stall) 99.3828: Lord Silus, Ezamit Tranq, Shock Disruptor, Dreamhaunter, Savant Ascendant, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Gehenna Cursed, Erebus City Sector
+Optimized Deck: (89.319% win, 0.205% stall) 90.5074: Arkadios, Dreamhaunter, Xillanail, Obsidian, Stoneheart, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (91.475% win, 0.119% stall) 92.4538: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: (43.767% win, 0.304% stall) 50.1304: Arkadios, The Adversary, Inferno Demon, Auger Ream, Abhorrent Recluse #2, Inferno Demon, Dune Runner, Honorable Samurai, Steadfast Assailant
+Optimized Deck: (89.64% win, 0.04% stall) 90.7271: Halcyon, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Guardian Gamut, Hephatat Stoic, Bane of Truth
+Optimized Deck: (96.266% win, 0.031% stall) 96.699: Constantine, Dreamhaunter, Stoneheart, Gehenna Cursed, Erebus City Sector, Grand Templar, Arch Nova Alpha, Noble Defiance
+Optimized Deck: (80.7% win, 0.238% stall) 83.0022: Halcyon, Dreamhaunter, Obsidian, Stoneheart, Sculpted Aegis, Xillanail, Tazerecca, Incog Niaq
+Optimized Deck: (69.284% win, 0.206% stall) 72.7678: Constantine, Grand Templar, Obsidian, Smite Forger #2, Dawn's Virtue, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (66.411% win, 0.509% stall) 70.4153: Barracus, Xillanail, Obsidian, Arch Nova Alpha, Auger Ream, Revolt Ranger, Tazerious, Withersnare, Elite Squadron
+Optimized Deck: (93.675% win, 0.063% stall) 94.2854: Tabitha, Octane's Bulwark, Stoneheart, Dreamhaunter, Obsidian, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Steadfast Assailant
+Optimized Deck: (84.09% win, 0.073% stall) 85.7383: Malort, Dreamhaunter, Jyack, Obsidian, Sacred Sanctuary, Arch Nova Alpha, Deserted Baughe, Tazerious, Auger Ream, Sacred Sanctuary
+Optimized Deck: (0% win, 0% stall) 6.00026: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (83.565% win, 0.149% stall) 85.2237: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Tazerecca, Auger Ream
+Optimized Deck: (99.499% win, 0.001% stall) 99.558: Arkadios, Dreamhaunter, Tarantachnid, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed, Scorched Hellwing, Erebus City Sector
+Optimized Deck: (99.416% win, 0.006% stall) 99.4904: Arkadios, Hyrael the Other, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Gehenna Cursed, Scorched Hellwing, Repulse Ghoul
+Optimized Deck: (92.184% win, 0.071% stall) 93.0167: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Portal Noctil, Auger Ream
+Optimized Deck: (91.332% win, 0.168% stall) 92.3015: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Portal Noctil, Tazerecca, Serak United
+Optimized Deck: (93.552% win, 0.038% stall) 94.1844: Arkadios, Shock Disruptor, Ezamit Tranq, Xillanail, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Tazerious, Auger Ream #2
+Optimized Deck: (92.403% win, 0.108% stall) 93.2281: Kylen, The Adversary, Sacred Sanctuary, Ezamit Tranq, Dreamhaunter, Obsidian, Arch Nova Alpha, Tazerious, Jilted Baughe
+Optimized Deck: (99.129% win, 0.001% stall) 99.23: Arkadios, Dirge, Ezamit Tranq, Rox Exterminator, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Machina Awoken
+Optimized Deck: (89.778% win, 0.074% stall) 90.8673: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Portal Noctil, Deserted Baughe, Auger Ream
+Optimized Deck: (92.781% win, 0.074% stall) 93.5096: Typhon Vex, Ezamit Tranq, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Aggeroth Chaos, Tazerecca, Sacred Sanctuary, Auger Ream
+Optimized Deck: (92.249% win, 0.073% stall) 93.0309: Lord Silus, Dreamhaunter, Shock Disruptor, Stoneheart, Erebus City Sector, Arch Nova Alpha, Inferno Demon, Crude Surgeon
+Optimized Deck: (98.806% win, 0.01% stall) 98.949: Arkadios, Ezamit Tranq, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Stoneheart
+Optimized Deck: (91.901% win, 0.111% stall) 92.7985: Typhon Vex, Ezamit Tranq, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Aggeroth Chaos, Tazerecca, Auger Bore
+Optimized Deck: (86.2% win, 0.196% stall) 87.5261: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth, Blackrock Cleaver
+Optimized Deck: (89.162% win, 0.077% stall) 90.3546: Empress, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Aggeroth Chaos, Tazerecca, Bane of Truth
+Optimized Deck: (90.152% win, 0.071% stall) 91.1804: Kylen, Dreamhaunter, Xillanail, Stoneheart, Sacred Sanctuary, Obsidian, Portal Noctil, Tazerecca
+Optimized Deck: (85.64% win, 0.074% stall) 87.0244: Halcyon, Octane's Bulwark, Obsidian, Coldheart, Auger Ream, Hephatat Stoic, Dune Runner, Bane of Truth, Decorated Marshall
+Optimized Deck: (79.869% win, 0.562% stall) 82.2665: Barracus, Xillanail, Dreamhaunter, Stoneheart, Arch Nova Alpha, Obsidian, Aggeroth Chaos, Auger Ream, Tazerecca, Noxious Tank
+Optimized Deck: (78.171% win, 0.482% stall) 80.4735: Kylen, Demi Constrictor, Dreamhaunter, Stoneheart, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Sculpted Aegis, Demi Constrictor
+Optimized Deck: (70.099% win, 0.273% stall) 72.6854: Constantine, Flank, Ezamit Serene, Coldheart, Grand Templar, Blink Providence, Dawn's Virtue, Zodiac Harbinger #3, Response Fleet
+Optimized Deck: (66.811% win, 0.538% stall) 70.6118: Nexor, Xillanail, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Aggeroth Chaos, Auger Bore, Tazerecca, Bane of Truth, Dune Runner
+Optimized Deck: (72.98% win, 0.75% stall) 75.8893: Barracus, Dreamhaunter, Xillanail, Obsidian, Bolt Crag, Erebus Outpost, Jilted Baughe, Bane of Truth, Revolt Ranger
+Optimized Deck: (92.898% win, 0.127% stall) 93.7181: Typhon Vex, Ezamit Tranq, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Bane of Truth, Honorable Samurai
+Optimized Deck: (89.549% win, 0.101% stall) 90.6063: Empress, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Trishot Trike, Honorable Samurai, Longshot Deadeye
+Optimized Deck: (89.245% win, 0.196% stall) 90.2086: Nexor, Xillanail, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Sacred Sanctuary, Xanadu Ultra, Steadfast Assailant
+Optimized Deck: (93.26% win, 0.034% stall) 93.8574: Lord Silus, Serrated Grater, Shock Disruptor, Dreamhaunter, Stoneheart, Judgment Nova, Sacred Sanctuary, Judgment Nova, Crude Surgeon, Inferno Demon
+Optimized Deck: (85.122% win, 0.168% stall) 86.9821: Krellus, Dreamhaunter, Obsidian, Stoneheart, Portal Noctil, Serak United, Honorable Samurai, Jilted Baughe
+Optimized Deck: (87.692% win, 0.089% stall) 88.9485: Constantine, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Bolt Crag, Honorable Samurai, Ayrkrane Syn, Bolt Crag
+Optimized Deck: (77.079% win, 0.378% stall) 79.5693: Kylen, Dreamhaunter, Xillanail, Coldheart, Sacred Sanctuary, Wilter Conscript, Tazerious, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (82.823% win, 0.086% stall) 84.4057: Constantine, Obsidian, Stoneheart, Sacred Sanctuary, Smite Forger, Bolt Crag, Auger Ream, Samurai, Bolt Crag
+Optimized Deck: (80.536% win, 0.707% stall) 82.5101: Arkadios, The Adversary, Xillanail, Sacred Sanctuary, Obsidian, Arch Nova Alpha, Abhorrent Recluse, Xanadu Ultra, Noble Defiance
+Optimized Deck: (98.911% win, 0.027% stall) 99.0432: Arkadios, Ezamit Tranq, Stoneheart, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (87.13% win, 0.086% stall) 88.5177: Constantine, Dreamhaunter, Erebus City Sector, Ezamit Serene, Grand Templar, Obsidian, Bolt Crag #2
+Optimized Deck: (79.177% win, 0.205% stall) 81.5711: Kylen, The Adversary, Dreamhaunter, Stoneheart, Ezamit Serene, Arch Nova Alpha, Tazerecca, Auger Bore
+Optimized Deck: (95.599% win, 0.014% stall) 96.0387: Lord Silus, Shock Disruptor, Dreamhaunter, Stoneheart, Judgment Nova, Sacred Sanctuary, Shock Disruptor, Obsidian, Trench Hurler, Tazerious
+Optimized Deck: (91.185% win, 0.135% stall) 92.1519: Kylen, The Adversary, Ezamit Tranq, Dreamhaunter, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Tazerious, Abhorrent Recluse, Jilted Baughe
+Optimized Deck: (93.114% win, 0.069% stall) 93.8183: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Croc Oppressor, Jilted Baughe, Ardenmass, Erebus City Sector, Galvanic Commando
+Optimized Deck: (89.537% win, 0.146% stall) 90.5846: Arkadios, The Adversary, Xillanail, Tempest Citadel, Dreamhaunter, Aggeroth Chaos, Obsidian, Sacred Sanctuary, Arch Nova Alpha, Shapesavant, Deserted Baughe
+Optimized Deck: (99.554% win, 0.005% stall) 99.5999: Arkadios, Dreamhaunter, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed #2, Erebus City Sector
+Optimized Deck: (91.407% win, 0.148% stall) 92.3401: Arkadios, Xillanail, Dreamhaunter, Stoneheart, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Arch Nova Alpha, Tazerecca
+Optimized Deck: (91.382% win, 0.114% stall) 92.3328: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Aggeroth Chaos, Auger Ream
+Optimized Deck: (58.362% win, 0.251% stall) 62.9726: Arkadios, The Adversary, Inferno Demon, Auger Ream, Abhorrent Recluse #2, Dune Runner, Honorable Samurai, Inferno Demon, Steadfast Assailant
+Optimized Deck: (91.282% win, 0.041% stall) 92.1757: Halcyon, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Guardian Gamut, Hephatat Stoic, Bane of Truth
+Optimized Deck: (96.654% win, 0.024% stall) 97.0012: Constantine, Dreamhaunter, Gehenna Cursed, Stoneheart, Erebus City Sector, Grand Templar, Arch Nova Alpha, Bolt Crag
+Optimized Deck: (81.044% win, 0.191% stall) 83.2389: Halcyon, Dreamhaunter, Obsidian, Stoneheart, Sculpted Aegis, Tazerecca, Aggeroth Chaos
+Optimized Deck: (74.028% win, 0.206% stall) 76.8645: Constantine, Obsidian, Grand Templar, Smite Forger #2, Dawn's Virtue, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (68.478% win, 0.229% stall) 72.02: Barracus, Xillanail, Obsidian, Arch Nova Alpha, Auger Ream, Tazerious, Revolt Ranger, Withersnare, Elite Squadron
+Optimized Deck: (93.146% win, 0.059% stall) 93.7794: Tabitha, Octane's Bulwark, Stoneheart, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Steadfast Assailant
+Optimized Deck: (86.752% win, 0.065% stall) 88.0333: Malort, Dreamhaunter, Sacred Sanctuary, Jyack, Obsidian, Arch Nova Alpha, Tazerious, Deserted Baughe, Auger Ream, Sacred Sanctuary
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+
+level 19
+"Lightning Cannon(2)"
+Optimized Deck: (49.159% win, 0.276% stall) 54.2003: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Sacred Sanctuary, Auger Ream, Aggeroth Chaos, Tazerecca
+Optimized Deck: (95.67% win, 0.006% stall) 96.105: Arkadios, Dreamhaunter, Tarantachnid, Gehenna Cursed, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Savant Ascendant, Erebus City Sector, Machina Awoken
+Optimized Deck: (95.715% win, 0.021% stall) 96.2752: Nexor, Dreamhaunter, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Repulse Ghoul
+Optimized Deck: (67.782% win, 0.169% stall) 71.3126: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Portal Noctil, Tazerious
+Optimized Deck: (70.275% win, 0.186% stall) 73.2253: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Neo Dredge, Portal Noctil, Tazerecca
+Optimized Deck: (67.2% win, 0.073% stall) 70.3215: Arkadios, Shock Disruptor, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Tazerious, Fenlord
+Optimized Deck: (64.701% win, 0.128% stall) 68.4671: Nexor, Obsidian, Dreamhaunter, The Adversary, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Ream
+Optimized Deck: (93.149% win, 0.035% stall) 93.9624: Arkadios, Ezamit Tranq, Rox Exterminator, Machina Awoken, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Oreworks
+Optimized Deck: (63.634% win, 0.146% stall) 67.527: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Auger Ream, Portal Noctil, Deserted Baughe
+Optimized Deck: (68.921% win, 0.296% stall) 71.7165: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, The Adversary, Ezamit Tranq, Arch Nova Alpha
+Optimized Deck: (68.609% win, 0.255% stall) 71.847: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Erebus City Sector, Arch Nova Alpha, Oreworks, Crude Surgeon
+Optimized Deck: (90.168% win, 0.091% stall) 91.3439: Arkadios, Dreamhaunter, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Stoneheart
+Optimized Deck: (67.026% win, 0.248% stall) 70.2567: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, The Adversary, Arch Nova Alpha, Tazerecca
+Optimized Deck: (59.147% win, 0.645% stall) 63.221: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth, Blackrock Cleaver
+Optimized Deck: (59.416% win, 0.104% stall) 63.7684: Empress, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (59.863% win, 0.167% stall) 64.0653: Kylen, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Xillanail, Portal Noctil, Tazerecca
+Optimized Deck: (48.656% win, 0.148% stall) 53.6834: Halcyon, Octane's Bulwark, Obsidian, Coldheart, Auger Ream, Hephatat Stoic, Dune Runner, Decorated Marshall, Bane of Truth
+Optimized Deck: (44.515% win, 0.252% stall) 51.0598: Barracus, Obsidian, Stoneheart, Dreamhaunter, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos
+Optimized Deck: (39.187% win, 0.492% stall) 45.3059: Kylen, Stoneheart, Dreamhaunter, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (32.993% win, 0.19% stall) 38.3662: Constantine, Bolt Crag, Flank, Blink Providence, Ezamit Serene, Grand Templar, Zodiac Harbinger #4, Response Fleet
+Optimized Deck: (19.832% win, 0.284% stall) 28.1646: Barracus, Xanadu Ultra, Dreamhaunter, Arch Nova Alpha, Xillanail, Dune Runner, Auger Bore, Jilted Baughe, Tazerecca, Aggeroth Chaos, Lurker Behemoth
+Optimized Deck: (53.937% win, 0.217% stall) 58.4838: Barracus, Obsidian, Dreamhaunter, Demi Constrictor, Erebus Outpost, Arch Nova Elite, Oreworks, Jilted Baughe, Bane of Truth, Bolt Crag
+Optimized Deck: (65.472% win, 0.249% stall) 69.2079: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Honorable Samurai, Bane of Truth
+Optimized Deck: (60.505% win, 0.085% stall) 64.1324: Empress, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Bolt Crag, Flash Deity, Trishot Trike, Honorable Samurai, Bolt Crag
+Optimized Deck: (60.304% win, 0.196% stall) 64.2516: Nexor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Abhorrent Recluse, Steadfast Assailant
+Optimized Deck: (68.875% win, 0.102% stall) 71.7118: Typhon Vex, Dreamhaunter, Shock Disruptor, Stoneheart, Sacred Sanctuary, Judgment Nova #2, Crude Surgeon
+Optimized Deck: (53.166% win, 0.149% stall) 58.7596: Nexor, Obsidian, Stoneheart, Dreamhaunter, Arch Nova Alpha, Portal Noctil, Jilted Baughe, Honorable Samurai
+Optimized Deck: (57.257% win, 0.092% stall) 61.4358: Constantine, Stoneheart, Obsidian, Bolt Crag, Dreamhaunter, Sacred Sanctuary, Grand Templar, Honorable Samurai, Bolt Crag
+Optimized Deck: (25.258% win, 0.293% stall) 32.447: Kylen, Demi Constrictor, Dreamhaunter, Coldheart, Sacred Sanctuary, Xillanail, Tazerious, Wilter Conscript, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (51.308% win, 0.03% stall) 55.5053: Constantine, Obsidian, Stoneheart, Bolt Crag, Flank, Ezamit Serene, Grand Templar, Zodiac Harbinger #2, Samurai, Bolt Crag
+Optimized Deck: (30.481% win, 0.776% stall) 37.4285: Arkadios, The Adversary, Obsidian, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Xanadu Ultra, Noble Defiance
+Optimized Deck: (91.512% win, 0.135% stall) 92.5437: Constantine, Stoneheart, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (57.784% win, 0.165% stall) 61.8315: Constantine, Obsidian, Bolt Crag, Dreamhaunter, Erebus City Sector, Grand Templar, Sacred Sanctuary, Ezamit Serene, Bolt Crag
+Optimized Deck: (41.497% win, 0.921% stall) 47.4329: Kylen, Stoneheart, Dreamhaunter, Demi Constrictor, The Adversary, Ezamit Serene, Arch Nova Alpha, Tazerecca, Auger Bore, Demi Constrictor
+Optimized Deck: (80.258% win, 0.045% stall) 82.0602: Lord Silus, Shock Disruptor #2, Serrated Grater, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Judgment Nova, Trench Hurler, Crude Surgeon
+Optimized Deck: (57.019% win, 0.261% stall) 61.8475: Nexor, Dreamhaunter, The Adversary, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Auger Ream, Jilted Baughe, Tazerious
+Optimized Deck: (83.915% win, 0.348% stall) 85.5734: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector #2, Arch Nova Elite, Jilted Baughe, Ardenmass
+Optimized Deck: (56.861% win, 1.168% stall) 61.3642: Nexor, Obsidian, Dreamhaunter, Tempest Citadel, Demi Constrictor, The Adversary, Arch Nova Alpha, Deserted Baughe, Oreworks
+Optimized Deck: (96.894% win, 0.015% stall) 97.2243: Nexor, Dreamhaunter, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Gehenna Cursed #2, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (54.89% win, 0.28% stall) 59.6988: Arkadios, Obsidian, Dreamhaunter, Stoneheart, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (65.602% win, 0.209% stall) 69.4092: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: (7.545% win, 0.219% stall) 16.6671: Barracus, The Adversary, Auger Ream, Inferno Demon, Dune Runner, Abhorrent Recluse #2, Honorable Samurai, Inferno Demon, Steadfast Assailant
+Optimized Deck: (64.149% win, 0.112% stall) 67.5137: Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Guardian Gamut, Hephatat Stoic, Myriad Beleaguer
+Optimized Deck: (86.548% win, 0.66% stall) 87.9516: Barracus, Dreamhaunter, Gehenna Cursed, Oreworks, Erebus City Sector, Arch Nova Alpha, Oreworks, Baughe
+Optimized Deck: (48.313% win, 0.091% stall) 53.8498: Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sculpted Aegis, Arch Nova Alpha, Tazerecca, Aggeroth Chaos
+Optimized Deck: (32.294% win, 0.065% stall) 39.1477: Constantine, Obsidian, Smite Forger, Grand Templar, Smite Forger, Dawn's Virtue, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (30.522% win, 0.546% stall) 38.3662: Barracus, Obsidian, Auger Ream, Xillanail, Arch Nova Alpha, Tazerious, Revolt Ranger, Withersnare, Elite Squadron
+Optimized Deck: (74.308% win, 0.123% stall) 76.7778: Tabitha, Stoneheart, Octane's Bulwark, Obsidian, Dreamhaunter, Sacred Sanctuary, Auger Ream, Steadfast Assailant
+Optimized Deck: (53.659% win, 0.052% stall) 58.4531: Malort, Obsidian, Dreamhaunter, Jyack, Sacred Sanctuary, Arch Nova Alpha, Auger Ream, Tazerious, Deserted Baughe, Aggeroth Enraged
+Optimized Deck: (0% win, 0% stall) 6.00494: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (56.072% win, 0.195% stall) 60.4536: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Sacred Sanctuary, Auger Ream, Tazerecca, Honorable Samurai
+Optimized Deck: (96.244% win, 0.006% stall) 96.6257: Arkadios, Gehenna Cursed, Savant Ascendant, Erebus City Sector, Machina Awoken, Scorched Hellwing, Gehenna Cursed, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (95.221% win, 0.013% stall) 95.7845: Arkadios, Hyrael the Other, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Gehenna Cursed, Scab Grot, Repulse Ghoul
+Optimized Deck: (72.075% win, 0.095% stall) 74.9972: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Portal Noctil, Auger Ream
+Optimized Deck: (72.095% win, 0.199% stall) 74.9492: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca, Sacred Sanctuary
+Optimized Deck: (70.163% win, 0.061% stall) 72.9151: Arkadios, Dreamhaunter, Shock Disruptor, Obsidian, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Tazerious, Auger Ream
+Optimized Deck: (66.232% win, 0.151% stall) 69.6697: Nexor, The Adversary, Obsidian, Dreamhaunter, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Ream
+Optimized Deck: (93.817% win, 0.019% stall) 94.4615: Arkadios, Razor Pinion, Rox Exterminator, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Machina Awoken
+Optimized Deck: (67.804% win, 0.131% stall) 71.1596: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Auger Ream, Portal Noctil, Deserted Baughe
+Optimized Deck: (70.41% win, 0.125% stall) 73.2138: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Auger Ream, Tazerecca, Sacred Sanctuary
+Optimized Deck: (71.663% win, 0.198% stall) 74.5479: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Erebus City Sector, Arch Nova Alpha, Inferno Demon, Crude Surgeon
+Optimized Deck: (90.893% win, 0.132% stall) 91.9733: Arkadios, Ezamit Tranq, Gehenna Cursed, Stoneheart, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (69.337% win, 0.226% stall) 72.4506: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Tazerecca
+Optimized Deck: (64.118% win, 0.499% stall) 67.5338: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth, Blackrock Cleaver
+Optimized Deck: (65.44% win, 0.108% stall) 69.0767: Empress, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (65.062% win, 0.163% stall) 68.6664: Kylen, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Xillanail, Portal Noctil, Tazerecca
+Optimized Deck: (55.145% win, 0.105% stall) 59.3478: Halcyon, Octane's Bulwark, Obsidian, Coldheart, Auger Ream, Hephatat Stoic, Dune Runner, Decorated Marshall, Bane of Truth
+Optimized Deck: (47.047% win, 0.286% stall) 53.1532: Barracus, Obsidian, Dreamhaunter, Stoneheart, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos
+Optimized Deck: (45% win, 0.396% stall) 50.5775: Kylen, Dreamhaunter, Stoneheart, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (33.551% win, 0.17% stall) 38.8312: Constantine, Flank, Bolt Crag, Blink Providence, Ezamit Serene, Grand Templar, Dawn's Virtue, Zodiac Harbinger #3, Response Fleet
+Optimized Deck: (23.589% win, 0.273% stall) 31.5224: Nexor, Xanadu Ultra, Dreamhaunter, Xillanail, Arch Nova Alpha, Auger Bore, Aggeroth Chaos, Tazerecca, Bane of Truth, Lurker Behemoth
+Optimized Deck: (46.557% win, 1.05% stall) 51.7701: Barracus, Obsidian, Dreamhaunter, Bolt Crag, Oreworks, Erebus Outpost, Jilted Baughe, Bane of Truth, Revolt Ranger
+Optimized Deck: (69.938% win, 0.193% stall) 73.1588: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Abhorrent Recluse, Honorable Samurai, Bane of Truth
+Optimized Deck: (65.155% win, 0.209% stall) 68.6834: Empress, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Honorable Samurai, Trishot Trike
+Optimized Deck: (64.192% win, 0.14% stall) 67.5625: Nexor, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Abhorrent Recluse, Sacred Sanctuary, Arch Nova Alpha, Steadfast Assailant
+Optimized Deck: (74.886% win, 0.054% stall) 76.9767: Lord Silus, Shock Disruptor, Serrated Grater, Stoneheart, Sacred Sanctuary, Dreamhaunter, Judgment Nova #2, Crude Surgeon
+Optimized Deck: (56.709% win, 0.135% stall) 61.7573: Nexor, Dreamhaunter, Obsidian, Stoneheart, Arch Nova Alpha, Portal Noctil, Jilted Baughe, Honorable Samurai
+Optimized Deck: (62.139% win, 0.097% stall) 65.7926: Constantine, Obsidian, Stoneheart, Bolt Crag, Dreamhaunter, Sacred Sanctuary, Honorable Samurai, Grand Templar, Bolt Crag
+Optimized Deck: (32.8% win, 0.243% stall) 39.4232: Kylen, Dreamhaunter, Coldheart, Sacred Sanctuary, Xillanail, Wilter Conscript, Tazerious, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (53.206% win, 0.154% stall) 57.557: Constantine, Stoneheart, Obsidian, Bolt Crag, Auger Ream, Sacred Sanctuary, Smite Forger, Bolt Crag, Samurai
+Optimized Deck: (39.185% win, 0.846% stall) 45.1302: Arkadios, The Adversary, Xillanail, Obsidian, Arch Nova Alpha, Sacred Sanctuary, Abhorrent Recluse, Xanadu Ultra, Noble Defiance
+Optimized Deck: (91.703% win, 0.1% stall) 92.6791: Arkadios, Dreamhaunter, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Stoneheart
+Optimized Deck: (59.584% win, 0.147% stall) 63.2281: Constantine, Obsidian, Bolt Crag, Dreamhaunter, Erebus City Sector, Grand Templar, Sacred Sanctuary, Ezamit Serene, Bolt Crag
+Optimized Deck: (44.284% win, 0.204% stall) 49.7572: Kylen, Stoneheart, Dreamhaunter, Demi Constrictor, The Adversary, Ezamit Serene, Arch Nova Alpha, Tazerecca, Auger Bore
+Optimized Deck: (80.307% win, 0.028% stall) 82.2281: Lord Silus, Shock Disruptor #2, Stoneheart, Obsidian, Dreamhaunter, Judgment Nova, Sacred Sanctuary, Trench Hurler, Tazerious
+Optimized Deck: (62.6% win, 0.286% stall) 66.7031: Nexor, Dreamhaunter, The Adversary, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Tazerious
+Optimized Deck: (78.93% win, 0.475% stall) 81.2219: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Ardenmass, Jilted Baughe, Erebus City Sector, Galvanic Commando
+Optimized Deck: (57.721% win, 0.188% stall) 62.0381: Nexor, The Adversary, Obsidian, Dreamhaunter, Sacred Sanctuary, Arch Nova Alpha, Auger Ream, Deserted Baughe, Tazerecca, Croc Oppressor
+Optimized Deck: (97.136% win, 0.022% stall) 97.4497: Arkadios, Ezamit Tranq, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed #2, Erebus City Sector
+Optimized Deck: (63.374% win, 0.276% stall) 67.2365: Arkadios, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Abhorrent Recluse, Aggeroth Chaos, Tazerecca
+Optimized Deck: (69.825% win, 0.172% stall) 73.1216: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream
+Optimized Deck: (12.509% win, 0.145% stall) 21.0717: Arkadios, The Adversary, Auger Ream, Dune Runner, Inferno Demon, Abhorrent Recluse #2, Honorable Samurai, Inferno Demon, Steadfast Assailant
+Optimized Deck: (69.365% win, 0.072% stall) 72.23: Halcyon, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Guardian Gamut, Hephatat Stoic, Myriad Beleaguer
+Optimized Deck: (84.45% win, 0.052% stall) 86.1198: Constantine, Dreamhaunter, Gehenna Cursed, Stoneheart, Erebus City Sector, Grand Templar, Arch Nova Alpha, Bolt Crag
+Optimized Deck: (53.468% win, 0.141% stall) 58.5075: Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sculpted Aegis, Tazerecca, Aggeroth Chaos
+Optimized Deck: (35.81% win, 0.114% stall) 42.1565: Constantine, Obsidian, Smite Forger #2, Grand Templar, Dawn's Virtue, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (31.56% win, 0.192% stall) 39.0414: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Revolt Ranger, Tazerious, Withersnare, Elite Squadron
+Optimized Deck: (76.279% win, 0.209% stall) 78.5375: Tabitha, Stoneheart, Octane's Bulwark, Obsidian, Dreamhaunter, Sacred Sanctuary, Auger Ream, Abhorrent Recluse
+Optimized Deck: (56.611% win, 0.167% stall) 60.8939: Malort, Obsidian, Dreamhaunter, Sacred Sanctuary, Arch Nova Alpha, Auger Ream, Deserted Baughe, Tazerious, Sacred Sanctuary
+Optimized Deck: (0% win, 0% stall) 6.00003: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (59.179% win, 0.159% stall) 63.0301: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Auger Ream, Tazerecca, Honorable Samurai
+Optimized Deck: (97.16% win, 0.01% stall) 97.4909: Arkadios, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Cyclops Raged, Gehenna Cursed, Scorched Hellwing, Erebus City Sector
+Optimized Deck: (96.501% win, 0.009% stall) 96.9316: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Gehenna Cursed, Scorched Hellwing, Repulse Ghoul
+Optimized Deck: (72.01% win, 0.099% stall) 74.8345: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Portal Noctil, Auger Ream
+Optimized Deck: (71.239% win, 0.157% stall) 74.2431: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca, Serak United
+Optimized Deck: (72.09% win, 0.063% stall) 74.6964: Arkadios, Shock Disruptor, Ezamit Tranq, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Tazerious, Fenlord, Jilted Baughe
+Optimized Deck: (70.19% win, 0.155% stall) 73.1469: Kylen, The Adversary, Ezamit Tranq, Obsidian, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Tazerious, Jilted Baughe #2
+Optimized Deck: (95.675% win, 0.013% stall) 96.1533: Arkadios, Ezamit Tranq, Rox Exterminator, Gehenna Cursed, Erebus City Sector, Dirge, Scorched Hellwing, Machina Awoken
+Optimized Deck: (67.525% win, 0.109% stall) 70.7963: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Portal Noctil, Deserted Baughe, Auger Ream
+Optimized Deck: (70.624% win, 0.203% stall) 73.384: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Obsidian, Aggeroth Chaos, Tazerecca, Sacred Sanctuary
+Optimized Deck: (72.528% win, 0.127% stall) 75.2077: Lord Silus, Shock Disruptor, Dreamhaunter, Stoneheart, Erebus City Sector, Arch Nova Alpha, Inferno Demon, Crude Surgeon
+Optimized Deck: (93.623% win, 0.125% stall) 94.3559: Arkadios, Ezamit Tranq, Gehenna Cursed, Stoneheart, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (68.795% win, 0.171% stall) 71.8342: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Ezamit Tranq, Tazerecca, Jilted Baughe
+Optimized Deck: (64.001% win, 0.355% stall) 67.2947: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth, Blackrock Cleaver
+Optimized Deck: (67.504% win, 0.096% stall) 70.79: Empress, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (65.278% win, 0.125% stall) 68.6404: Kylen, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Xillanail, Portal Noctil, Tazerecca
+Optimized Deck: (59.308% win, 0.111% stall) 63.0254: Halcyon, Octane's Bulwark, Obsidian, Coldheart, Hephatat Stoic, Auger Ream, Dune Runner, Bane of Truth, Decorated Marshall
+Optimized Deck: (46.916% win, 0.336% stall) 52.7995: Barracus, Dreamhaunter, Stoneheart, Obsidian, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos
+Optimized Deck: (46.322% win, 0.32% stall) 51.5215: Kylen, Dreamhaunter, Stoneheart, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (34.934% win, 0.124% stall) 39.9864: Constantine, Flank, Bolt Crag, Blink Providence, Ezamit Serene, Grand Templar, Dawn's Virtue, Zodiac Harbinger #3, Response Fleet
+Optimized Deck: (30.068% win, 0.367% stall) 37.0917: Nexor, Xanadu Ultra, Dreamhaunter, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Auger Bore, Tazerecca, Bane of Truth, Dune Runner
+Optimized Deck: (41.458% win, 0.587% stall) 47.3093: Barracus, Obsidian, Dreamhaunter, Bolt Crag, Erebus Outpost, Jilted Baughe, Bane of Truth, Revolt Ranger
+Optimized Deck: (71.289% win, 0.237% stall) 74.2917: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Obsidian, Abhorrent Recluse, Bane of Truth, Honorable Samurai
+Optimized Deck: (66.602% win, 0.172% stall) 69.9263: Empress, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Honorable Samurai, Longshot Deadeye
+Optimized Deck: (63.903% win, 0.341% stall) 67.088: Nexor, Obsidian, Dreamhaunter, Stoneheart, Arch Nova Alpha, Sacred Sanctuary, Abhorrent Recluse, Sacred Sanctuary, Xanadu Ultra, Steadfast Assailant
+Optimized Deck: (75.194% win, 0.071% stall) 77.2974: Lord Silus, Shock Disruptor, Serrated Grater, Dreamhaunter, Stoneheart, Judgment Nova, Sacred Sanctuary, Judgment Nova, Crude Surgeon, Inferno Demon
+Optimized Deck: (61.021% win, 0.167% stall) 65.5192: Krellus, Dreamhaunter, Stoneheart, Obsidian, Portal Noctil, Serak United, Honorable Samurai, Jilted Baughe
+Optimized Deck: (64.531% win, 0.152% stall) 67.9261: Constantine, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Honorable Samurai, Bolt Crag
+Optimized Deck: (38.316% win, 0.412% stall) 44.1566: Kylen, Demi Constrictor, Dreamhaunter, Coldheart, Sacred Sanctuary, Xillanail, Wilter Conscript, Tazerious, Jilted Baughe, Demi Constrictor, Lurker Behemoth
+Optimized Deck: (56.144% win, 0.128% stall) 60.0136: Constantine, Obsidian, Stoneheart, Smite Forger, Sacred Sanctuary, Bolt Crag, Auger Ream, Samurai, Bolt Crag
+Optimized Deck: (47.756% win, 0.929% stall) 52.6623: Arkadios, The Adversary, Xillanail, Sacred Sanctuary, Obsidian, Arch Nova Alpha, Abhorrent Recluse, Xanadu Ultra, Noble Defiance
+Optimized Deck: (93.665% win, 0.118% stall) 94.3925: Arkadios, Ezamit Tranq, Gehenna Cursed, Stoneheart, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (60.68% win, 0.11% stall) 63.9522: Constantine, Obsidian, Bolt Crag, Dreamhaunter, Erebus City Sector, Ezamit Serene, Grand Templar, Sacred Sanctuary, Bolt Crag
+Optimized Deck: (46.11% win, 0.647% stall) 51.9356: Kylen, The Adversary, Demi Constrictor, Stoneheart, Arch Nova Alpha, Dreamhaunter, Tazerecca, Auger Bore, Demi Constrictor
+Optimized Deck: (78.63% win, 0.039% stall) 80.6704: Lord Silus, Shock Disruptor, Dreamhaunter, Shock Disruptor, Stoneheart, Sacred Sanctuary, Obsidian, Trench Hurler, Judgment Nova
+Optimized Deck: (67.874% win, 0.322% stall) 71.2466: Nexor, The Adversary, Sacred Sanctuary, Ezamit Tranq, Dreamhaunter, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Tazerious
+Optimized Deck: (78.607% win, 0.129% stall) 80.816: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Croc Oppressor, Jilted Baughe, Ardenmass, Erebus City Sector
+Optimized Deck: (60.146% win, 0.115% stall) 64.0709: Nexor, The Adversary, Dreamhaunter, Sacred Sanctuary, Obsidian, Arch Nova Alpha, Croc Oppressor, Deserted Baughe, Tazerecca, Auger Ream
+Optimized Deck: (97.822% win, 0.015% stall) 98.0544: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Gehenna Cursed, Scorched Hellwing, Gehenna Cursed, Erebus City Sector, Abhorrent Recluse
+Optimized Deck: (67.699% win, 0.323% stall) 70.9704: Arkadios, Xillanail, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Aggeroth Chaos, Tazerecca
+Optimized Deck: (69.78% win, 0.165% stall) 72.8957: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Tazerious, Aggeroth Chaos, Auger Ream
+Optimized Deck: (21.016% win, 0.137% stall) 28.7019: Arkadios, The Adversary, Steadfast Assailant, Auger Ream, Inferno Demon, Abhorrent Recluse #2, Honorable Samurai, Inferno Demon, Dune Runner, Infantry
+Optimized Deck: (71.481% win, 0.07% stall) 74.2806: Halcyon, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Guardian Gamut, Hephatat Stoic, Bane of Truth
+Optimized Deck: (85.427% win, 0.05% stall) 86.9112: Constantine, Dreamhaunter, Gehenna Cursed, Stoneheart, Erebus City Sector, Grand Templar, Arch Nova Alpha, Bolt Crag
+Optimized Deck: (54.947% win, 0.137% stall) 59.6085: Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sculpted Aegis, Tazerecca, Aggeroth Chaos
+Optimized Deck: (39.817% win, 0.13% stall) 45.683: Constantine, Grand Templar, Obsidian, Smite Forger #2, Dawn's Virtue, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (32.537% win, 0.236% stall) 39.413: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Withersnare, Tazerious, Revolt Ranger, Elite Squadron
+Optimized Deck: (75.636% win, 0.114% stall) 77.8117: Tabitha, Octane's Bulwark, Stoneheart, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Abhorrent Recluse, Steadfast Assailant
+Optimized Deck: (59.428% win, 0.255% stall) 63.2013: Malort, Dreamhaunter, Sacred Sanctuary, Obsidian, Arch Nova Alpha, Auger Ream, Tazerious, Deserted Baughe, Sacred Sanctuary
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+
+level 21
+"Lightning Cannon(2)"
+Optimized Deck: (22.001% win, 0.163% stall) 29.0281: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Auger Ream, Honorable Samurai, Tazerecca
+Optimized Deck: (86.122% win, 0.019% stall) 87.6294: Arkadios, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Savant Ascendant, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (85.845% win, 0.037% stall) 87.6208: Nexor, Dreamhaunter, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Repulse Ghoul
+Optimized Deck: (36.629% win, 0.068% stall) 42.7292: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Portal Noctil, Tazerious, Auger Ream
+Optimized Deck: (38.706% win, 0.122% stall) 44.315: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Neo Dredge, Portal Noctil, Tazerecca
+Optimized Deck: (36.431% win, 0.034% stall) 41.8902: Arkadios, Shock Disruptor, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Tazerious, Auger Ream
+Optimized Deck: (34.566% win, 0.293% stall) 41.4532: Nexor, Demi Constrictor, Obsidian, Ezamit Tranq, Arch Nova Alpha, Jilted Baughe #2, Tazerious, Dreamhaunter, Demi Constrictor
+Optimized Deck: (79.871% win, 0.017% stall) 81.7415: Arkadios, Razor Pinion, Rox Exterminator, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Odynn the Godsteel, Machina Awoken
+Optimized Deck: (31.767% win, 0.116% stall) 38.4289: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Auger Ream, Portal Noctil, Deserted Baughe
+Optimized Deck: (37.051% win, 0.136% stall) 42.5366: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Sacred Sanctuary, Arch Nova Alpha, Tazerecca
+Optimized Deck: (38.368% win, 0.237% stall) 44.1546: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Erebus City Sector, Arch Nova Alpha, Oreworks, Crude Surgeon
+Optimized Deck: (72.315% win, 0.178% stall) 75.4081: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Stoneheart
+Optimized Deck: (33.76% win, 0.176% stall) 40.0829: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Jilted Baughe, Tazerecca
+Optimized Deck: (30.61% win, 0.24% stall) 37.2947: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth
+Optimized Deck: (30.333% win, 0.069% stall) 37.1722: Empress, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (27.366% win, 0.134% stall) 34.2341: Kylen, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Xillanail, Portal Noctil, Tazerecca
+Optimized Deck: (21.741% win, 0.217% stall) 28.2167: Tabitha, Octane's Bulwark, Obsidian, Dune Runner, Auger Ream, Hephatat Stoic, Sacred Sanctuary, Bane of Truth, Decorated Marshall
+Optimized Deck: (17.949% win, 0.126% stall) 26.2633: Barracus, Obsidian, Stoneheart, Dreamhaunter, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos, Noxious Tank
+Optimized Deck: (12.737% win, 0.265% stall) 20.4872: Kylen, Stoneheart, Dreamhaunter, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (10.763% win, 0.02% stall) 17.117: Constantine, Bolt Crag, Blink Providence, Flank, Ezamit Serene, Grand Templar, Zodiac Harbinger #4, Response Fleet
+Optimized Deck: (5.013% win, 0.006% stall) 13.8231: Barracus, Arch Nova Alpha, Dreamhaunter, Auger Bore, Dune Runner, Jilted Baughe, Tazerecca, Aggeroth Chaos, Lurker Behemoth
+Optimized Deck: (25.317% win, 0.149% stall) 32.0225: Barracus, Obsidian, Dreamhaunter, Demi Constrictor, Erebus Outpost, Arch Nova Elite, Oreworks, Jilted Baughe, Bane of Truth, Bolt Crag
+Optimized Deck: (34.015% win, 0.08% stall) 40.1098: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Honorable Samurai, Auger Ream
+Optimized Deck: (32.247% win, 0.119% stall) 38.2415: Empress, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Flash Deity, Trishot Trike, Honorable Samurai
+Optimized Deck: (28.994% win, 0.082% stall) 35.3369: Nexor, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary #2, Abhorrent Recluse, Arch Nova Alpha, Steadfast Assailant
+Optimized Deck: (42.11% win, 0.041% stall) 47.1769: Lord Silus, Shock Disruptor, Serrated Grater, Stoneheart, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Inferno Demon, Charincinerator
+Optimized Deck: (25.993% win, 0.012% stall) 33.6771: Nexor, Obsidian, Stoneheart, Dreamhaunter, Arch Nova Alpha, Portal Noctil, Jilted Baughe, Honorable Samurai, Serak United
+Optimized Deck: (28.199% win, 0.049% stall) 34.5401: Constantine, Obsidian, Stoneheart, Bolt Crag, Sacred Sanctuary, Dreamhaunter, Grand Templar, Honorable Samurai, Bolt Crag
+Optimized Deck: (5.442% win, 0.133% stall) 13.1822: Kylen, Demi Constrictor #2, Dreamhaunter, Sacred Sanctuary, Xillanail, Tazerious, Jilted Baughe, Wilter Conscript, Lurker Behemoth
+Optimized Deck: (23.171% win, 0.017% stall) 28.8932: Constantine, Obsidian, Stoneheart, Bolt Crag, Sacred Sanctuary, Grand Templar, Ezamit Serene, Flank, Zodiac Harbinger #2, Bolt Crag
+Optimized Deck: (7.799% win, 0.286% stall) 15.5619: Arkadios, Obsidian, Xillanail, The Adversary, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Xanadu Ultra, Noble Defiance
+Optimized Deck: (73.688% win, 0.158% stall) 76.4747: Barracus, Dreamhaunter, Razor Pinion, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Stoneheart
+Optimized Deck: (28.563% win, 0.186% stall) 35.0126: Constantine, Obsidian, Bolt Crag, Dreamhaunter, Erebus City Sector, Grand Templar, Sacred Sanctuary, Bolt Crag
+Optimized Deck: (12.855% win, 0.081% stall) 20.8271: Nexor, Stoneheart, Dreamhaunter, Demi Constrictor, The Adversary, Arch Nova Alpha, Auger Bore, Tazerecca, Animus Geist, Aggeroth Chaos
+Optimized Deck: (51.995% win, 0.019% stall) 56.1921: Lord Silus, Shock Disruptor, Stoneheart, Shock Disruptor, Serrated Grater, Obsidian, Dreamhaunter, Judgment Nova, Crude Surgeon, Trench Hurler, Charincinerator
+Optimized Deck: (26.929% win, 0.205% stall) 34.1916: Nexor, Demi Constrictor, The Adversary, Ezamit Tranq, Arch Nova Alpha, Tazerious, Jilted Baughe, Auger Ream, Dreamhaunter
+Optimized Deck: (64.42% win, 0.517% stall) 67.9582: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Arch Nova Elite, Erebus City Sector, Jilted Baughe, Ardenmass
+Optimized Deck: (27.478% win, 0.145% stall) 34.2962: Barracus, Obsidian, Dreamhaunter, Arch Nova Alpha, Auger Ream, Oreworks, Sacred Sanctuary, Deserted Baughe, Tazerecca, Croc Oppressor
+Optimized Deck: (90.3% win, 0.033% stall) 91.3193: Nexor, Dreamhaunter, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Gehenna Cursed #2, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (24.797% win, 0.129% stall) 32.0742: Arkadios, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (33.065% win, 0.158% stall) 39.6268: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream, Aggeroth Chaos
+Optimized Deck: (0.932% win, 0.008% stall) 9.28364: Barracus, Auger Ream, Inferno Demon, Abhorrent Recluse #2, Honorable Samurai, Dune Runner, Steadfast Assailant, Inferno Demon
+Optimized Deck: (36.166% win, 0.066% stall) 41.795: Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Hephatat Stoic, Guardian Gamut, Myriad Beleaguer
+Optimized Deck: (67.118% win, 0.474% stall) 70.0851: Barracus, Gehenna Cursed, Arch Nova Alpha, Oreworks, Erebus City Sector, Oreworks, Baughe, Dreamhaunter
+Optimized Deck: (21.697% win, 0.046% stall) 29.2382: Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sculpted Aegis, Arch Nova Alpha, Tazerecca, Aggeroth Chaos
+Optimized Deck: (10.166% win, 0.007% stall) 17.7795: Constantine, Obsidian, Smite Forger, Grand Templar, Smite Forger, Dawn's Virtue, Zodiac Harbinger, Noble Defiance, Longshot Deadeye
+Optimized Deck: (10.128% win, 0.056% stall) 19.048: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Revolt Ranger, Tazerious, Withersnare, Elite Squadron
+Optimized Deck: (44.171% win, 0.127% stall) 49.2369: Tabitha, Stoneheart, Octane's Bulwark, Obsidian, Dreamhaunter, Sacred Sanctuary, Auger Ream, Steadfast Assailant
+Optimized Deck: (26.124% win, 0.049% stall) 33.1775: Malort, Obsidian, Dreamhaunter, Arch Nova Alpha, Auger Ream, Sacred Sanctuary, Tazerious, Deserted Baughe, Sacred Sanctuary, Aggeroth Enraged
+Optimized Deck: (0% win, 0% stall) 6.00147: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (27.656% win, 0.149% stall) 34.1364: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Auger Ream, Honorable Samurai, Tazerecca
+Optimized Deck: (88.838% win, 0.011% stall) 89.91: Arkadios, Razor Pinion, Gehenna Cursed, Erebus City Sector, Machina Awoken, Scorched Hellwing, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Razor Pinion
+Optimized Deck: (85.098% win, 0.047% stall) 86.8309: Arkadios, Hyrael the Other, Gehenna Cursed, Erebus City Sector, Gehenna Cursed, Dreamhaunter, Scorched Hellwing, Repulse Ghoul
+Optimized Deck: (40.82% win, 0.072% stall) 46.4002: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Portal Noctil, Tazerious, Auger Ream
+Optimized Deck: (39.964% win, 0.105% stall) 45.7532: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca, Auger Ream
+Optimized Deck: (38.645% win, 0.043% stall) 43.7388: Arkadios, Shock Disruptor, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Tazerious, Auger Ream
+Optimized Deck: (32.712% win, 0.034% stall) 39.7459: Nexor, Obsidian, Ezamit Tranq, Arch Nova Alpha, Jilted Baughe #2, Tazerious, Dreamhaunter
+Optimized Deck: (81.692% win, 0.135% stall) 83.5502: Arkadios, Rox Exterminator, Gehenna Cursed, Erebus City Sector, Machina Awoken, Ezamit Tranq, Scorched Hellwing, Oreworks
+Optimized Deck: (35.278% win, 0.097% stall) 41.4599: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Auger Ream, Portal Noctil, Deserted Baughe
+Optimized Deck: (39.24% win, 0.199% stall) 44.3723: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Sacred Sanctuary, Aggeroth Chaos, Tazerecca
+Optimized Deck: (41.669% win, 0.182% stall) 47.081: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Erebus City Sector, Arch Nova Alpha, Inferno Demon, Crude Surgeon
+Optimized Deck: (75.571% win, 0.176% stall) 78.2364: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Stoneheart
+Optimized Deck: (37.174% win, 0.162% stall) 43.0551: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Tazerecca, Jilted Baughe
+Optimized Deck: (35.182% win, 0.24% stall) 41.1988: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth
+Optimized Deck: (35.942% win, 0.057% stall) 41.9981: Empress, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (33.052% win, 0.11% stall) 39.2767: Kylen, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Portal Noctil, Tazerecca
+Optimized Deck: (26.681% win, 0.126% stall) 33.3748: Tabitha, Octane's Bulwark, Obsidian, Auger Ream, Hephatat Stoic, Dune Runner, Decorated Marshall, Bane of Truth
+Optimized Deck: (17.924% win, 0.159% stall) 26.0138: Barracus, Obsidian, Dreamhaunter, Stoneheart, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos, Noxious Tank
+Optimized Deck: (16.344% win, 0.238% stall) 23.8409: Kylen, Stoneheart, Dreamhaunter, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (10.04% win, 0.021% stall) 16.4564: Constantine, Bolt Crag, Flank, Grand Templar, Blink Providence, Dawn's Virtue, Zodiac Harbinger #4, Response Fleet
+Optimized Deck: (6.432% win, 0.001% stall) 14.9141: Nexor, Arch Nova Alpha, Dreamhaunter, Auger Bore, Dune Runner, Tazerecca, Jilted Baughe, Bane of Truth, Lurker Behemoth
+Optimized Deck: (19.37% win, 0.488% stall) 26.3831: Barracus, Obsidian, Dreamhaunter, Bolt Crag, Arch Nova Elite, Erebus Outpost, Oreworks, Jilted Baughe, Revolt Ranger, Bane of Truth
+Optimized Deck: (37.373% win, 0.132% stall) 43.4104: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Abhorrent Recluse, Honorable Samurai, Bane of Truth
+Optimized Deck: (34.964% win, 0.12% stall) 40.7246: Empress, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Honorable Samurai, Flash Deity
+Optimized Deck: (31.848% win, 0.089% stall) 37.7573: Nexor, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Sacred Sanctuary, Arch Nova Alpha, Steadfast Assailant
+Optimized Deck: (44.904% win, 0.046% stall) 49.644: Lord Silus, Shock Disruptor, Serrated Grater, Stoneheart, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Inferno Demon, Charincinerator
+Optimized Deck: (26.183% win, 0.094% stall) 34.0526: Krellus, Obsidian, Stoneheart, Dreamhaunter, Portal Noctil, Honorable Samurai, Serak United
+Optimized Deck: (30.963% win, 0.105% stall) 37.2865: Constantine, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Bolt Crag, Honorable Samurai, Bolt Crag
+Optimized Deck: (7.381% win, 0.059% stall) 14.9646: Kylen, Dreamhaunter, Coldheart, Sacred Sanctuary, Xillanail, Wilter Conscript, Tazerious, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (23.888% win, 0.027% stall) 29.8326: Constantine, Stoneheart, Obsidian, Bolt Crag, Sacred Sanctuary, Auger Ream, Ezamit Serene, Grand Templar, Samurai, Bolt Crag
+Optimized Deck: (11.663% win, 0.378% stall) 19.1227: Arkadios, The Adversary, Obsidian, Xillanail, Sacred Sanctuary, Arch Nova Alpha, Abhorrent Recluse, Xanadu Ultra, Noble Defiance
+Optimized Deck: (75.288% win, 0.15% stall) 77.7107: Constantine, Stoneheart, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Razor Pinion
+Optimized Deck: (30.485% win, 0.142% stall) 36.4421: Constantine, Obsidian, Bolt Crag, Dreamhaunter, Erebus City Sector, Grand Templar, Sacred Sanctuary, Bolt Crag
+Optimized Deck: (15.939% win, 0.064% stall) 23.1075: Kylen, Stoneheart, Dreamhaunter, Demi Constrictor, The Adversary, Arch Nova Alpha, Ezamit Serene, Tazerecca, Auger Bore
+Optimized Deck: (51.765% win, 0.044% stall) 56.0865: Lord Silus, Shock Disruptor #2, Stoneheart, Obsidian, Dreamhaunter, Judgment Nova, Sacred Sanctuary, Trench Hurler, Tazerious
+Optimized Deck: (28.604% win, 0.216% stall) 35.5345: Nexor, Dreamhaunter, The Adversary, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, Tazerious
+Optimized Deck: (57.699% win, 0.219% stall) 61.9429: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Croc Oppressor, Jilted Baughe, Erebus City Sector, Ardenmass
+Optimized Deck: (26.509% win, 0.092% stall) 33.9968: Nexor, Obsidian, Dreamhaunter, Arch Nova Alpha, Auger Ream, Oreworks, Deserted Baughe, Tazerecca, Croc Oppressor
+Optimized Deck: (89.941% win, 0.066% stall) 90.9844: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Gehenna Cursed #2, Erebus City Sector
+Optimized Deck: (31.65% win, 0.181% stall) 38.1292: Arkadios, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (37.371% win, 0.16% stall) 43.3698: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream, Aggeroth Chaos
+Optimized Deck: (1.722% win, 0.018% stall) 9.79447: Arkadios, The Adversary, Auger Ream, Dune Runner, Abhorrent Recluse #2, Inferno Demon, Honorable Samurai, Inferno Demon, Steadfast Assailant
+Optimized Deck: (40.911% win, 0.046% stall) 46.0187: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Guardian Gamut, Hephatat Stoic, Myriad Beleaguer
+Optimized Deck: (61.064% win, 1.001% stall) 64.8171: Barracus, Dreamhaunter, Gehenna Cursed, Oreworks, Erebus City Sector, Arch Nova Alpha, Oreworks, Baughe
+Optimized Deck: (24.69% win, 0.049% stall) 32.1085: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Sculpted Aegis, Arch Nova Alpha, Tazerecca, Incog Niaq
+Optimized Deck: (10.962% win, 0.04% stall) 18.4635: Constantine, Obsidian, Grand Templar, Smite Forger #2, Dawn's Virtue, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (10.839% win, 0.048% stall) 19.3234: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Revolt Ranger, Tazerious, Withersnare, Elite Squadron
+Optimized Deck: (46.577% win, 0.163% stall) 51.3852: Tabitha, Octane's Bulwark, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Auger Ream
+Optimized Deck: (28.017% win, 0.09% stall) 34.1533: Malort, Obsidian, Dreamhaunter, Sacred Sanctuary, Arch Nova Alpha, Tazerious, Sacred Sanctuary, Deserted Baughe, Auger Ream
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (31.875% win, 0.097% stall) 37.7644: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Auger Ream, Honorable Samurai, Tazerecca
+Optimized Deck: (90.441% win, 0.008% stall) 91.4189: Arkadios, Gehenna Cursed, Erebus City Sector, Machina Awoken, Scorched Hellwing, Gehenna Cursed, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (87.376% win, 0.019% stall) 88.8056: Arkadios, Ezamit Tranq, Gehenna Cursed #2, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Repulse Ghoul
+Optimized Deck: (41.64% win, 0.061% stall) 46.8285: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Portal Noctil, Tazerious, Auger Ream
+Optimized Deck: (39.95% win, 0.191% stall) 45.606: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca, Jilted Baughe
+Optimized Deck: (40.334% win, 0.078% stall) 45.3016: Arkadios, Shock Disruptor, Stoneheart, Ezamit Tranq, Obsidian, Dreamhaunter, Sacred Sanctuary, Tazerious, Auger Ream, Aggeroth Chaos
+Optimized Deck: (35.406% win, 0.173% stall) 41.1491: Nexor, The Adversary, Sacred Sanctuary, Ezamit Tranq, Obsidian, Arch Nova Alpha, Dreamhaunter, Tazerious, Jilted Baughe #2
+Optimized Deck: (84.702% win, 0.042% stall) 86.2616: Arkadios, Rox Exterminator, Gehenna Cursed, Erebus City Sector, Machina Awoken, Scorched Hellwing, Flourish Turbine
+Optimized Deck: (36.354% win, 0.059% stall) 42.1095: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Portal Noctil, Deserted Baughe, Auger Ream
+Optimized Deck: (38.638% win, 0.12% stall) 43.7894: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Obsidian, Aggeroth Chaos, Tazerecca, Sacred Sanctuary
+Optimized Deck: (44.16% win, 0.119% stall) 49.0363: Lord Silus, Shock Disruptor, Stoneheart, Erebus City Sector, Dreamhaunter, Arch Nova Alpha, Inferno Demon, Crude Surgeon
+Optimized Deck: (79.89% win, 0.112% stall) 82.0321: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Stoneheart
+Optimized Deck: (37.666% win, 0.097% stall) 43.1445: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Ezamit Tranq, Tazerecca, Jilted Baughe
+Optimized Deck: (34.966% win, 0.334% stall) 40.4732: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth, Blackrock Cleaver
+Optimized Deck: (38.129% win, 0.097% stall) 43.7486: Empress, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Bane of Truth, Tazerecca
+Optimized Deck: (36.347% win, 0.096% stall) 41.859: Kylen, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Portal Noctil, Tazerecca
+Optimized Deck: (31.785% win, 0.124% stall) 37.8148: Tabitha, Octane's Bulwark, Obsidian, Auger Ream, Hephatat Stoic, Dune Runner, Bane of Truth, Decorated Marshall
+Optimized Deck: (17.146% win, 0.243% stall) 24.9105: Barracus, Obsidian, Dreamhaunter, Stoneheart, Arch Nova Alpha, Auger Ream, Tazerecca, Aggeroth Chaos, Noxious Tank
+Optimized Deck: (18.393% win, 0.177% stall) 25.3606: Kylen, Stoneheart, Sacred Sanctuary, Dreamhaunter, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (8.106% win, 0.001% stall) 15.3122: Constantine, Bolt Crag, Jet #2, Blink Providence, Zodiac Harbinger, Honorable Samurai, Response Fleet, Zodiac Harbinger
+Optimized Deck: (7.971% win, 0.055% stall) 16.0564: Nexor, Dreamhaunter, Xanadu Ultra, Arch Nova Alpha, Auger Bore, Tazerecca, Dune Runner, Bane of Truth, Trench Hurler
+Optimized Deck: (16.137% win, 0.195% stall) 23.2889: Barracus, Obsidian, Bolt Crag, Dreamhaunter, Erebus Outpost, Jilted Baughe, Revolt Ranger, Bane of Truth
+Optimized Deck: (39.105% win, 0.119% stall) 44.7076: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Ezamit Tranq, Abhorrent Recluse, Honorable Samurai, Bane of Truth
+Optimized Deck: (37.633% win, 0.131% stall) 43.2321: Empress, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Honorable Samurai, Longshot Deadeye
+Optimized Deck: (32.382% win, 0.091% stall) 37.8074: Nexor, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Sacred Sanctuary, Arch Nova Alpha, Steadfast Assailant
+Optimized Deck: (46.935% win, 0.043% stall) 51.1847: Lord Silus, Shock Disruptor, Serrated Grater, Stoneheart, Dreamhaunter, Judgment Nova #2, Sacred Sanctuary, Inferno Demon, Crude Surgeon
+Optimized Deck: (30.927% win, 0.092% stall) 38.0892: Krellus, Obsidian, Dreamhaunter, Stoneheart, Portal Noctil, Serak United, Honorable Samurai, Jilted Baughe
+Optimized Deck: (35.183% win, 0.094% stall) 40.9846: Constantine, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Honorable Samurai, Bolt Crag
+Optimized Deck: (9.802% win, 0.068% stall) 17.0684: Kylen, Dreamhaunter, Coldheart, Sacred Sanctuary, Xillanail, Wilter Conscript, Tazerious, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (26.532% win, 0.038% stall) 32.533: Constantine, Stoneheart, Obsidian, Bolt Crag, Sacred Sanctuary, Auger Ream, Bolt Crag, Samurai, Zodiac Harbinger
+Optimized Deck: (18.4% win, 0.303% stall) 24.9716: Arkadios, The Adversary, Xanadu Ultra, Obsidian, Arch Nova Alpha, Sacred Sanctuary, Abhorrent Recluse, Xillanail, Noble Defiance
+Optimized Deck: (78.724% win, 0.231% stall) 80.9438: Constantine, Ezamit Tranq, Gehenna Cursed, Stoneheart, Erebus City Sector, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (32.504% win, 0.135% stall) 37.8128: Constantine, Obsidian, Bolt Crag, Erebus City Sector, Dreamhaunter, Grand Templar, Sacred Sanctuary, Bolt Crag
+Optimized Deck: (17.995% win, 0.055% stall) 25.0847: Kylen, Stoneheart, Dreamhaunter, The Adversary, Ezamit Serene, Arch Nova Alpha, Tazerecca, Auger Bore
+Optimized Deck: (52.301% win, 0.036% stall) 56.3595: Lord Silus, Shock Disruptor, Stoneheart, Shock Disruptor, Dreamhaunter, Obsidian, Judgment Nova, Sacred Sanctuary, Trench Hurler, Tazerious
+Optimized Deck: (34.954% win, 0.207% stall) 40.9757: Nexor, The Adversary, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Jilted Baughe, Tazerious
+Optimized Deck: (56.188% win, 0.143% stall) 60.4158: Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Croc Oppressor, Jilted Baughe, Ardenmass, Erebus City Sector
+Optimized Deck: (26.775% win, 0.074% stall) 33.1936: Nexor, The Adversary, Obsidian, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Croc Oppressor, Deserted Baughe, Tazerecca, Auger Ream
+Optimized Deck: (91.949% win, 0.051% stall) 92.7573: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Gehenna Cursed #2, Erebus City Sector
+Optimized Deck: (36.342% win, 0.223% stall) 42.1691: Arkadios, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (37.454% win, 0.132% stall) 43.2588: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Tazerious, Aggeroth Chaos, Auger Ream
+Optimized Deck: (3.802% win, 0.063% stall) 11.7111: Arkadios, The Adversary, Auger Ream, Steadfast Assailant, Abhorrent Recluse #2, Dune Runner, Honorable Samurai, Inferno Demon #2
+Optimized Deck: (42.909% win, 0.048% stall) 48.0144: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Guardian Gamut, Hephatat Stoic, Bane of Truth
+Optimized Deck: (64.717% win, 0.191% stall) 68.0603: Constantine, Gehenna Cursed, Stoneheart, Erebus City Sector, Dreamhaunter, Arch Nova Alpha, Grand Templar
+Optimized Deck: (28.588% win, 0.078% stall) 35.3389: Halcyon, Stoneheart, Sculpted Aegis, Obsidian, Dreamhaunter, Aggeroth Chaos, Tazerecca, Incog Niaq
+Optimized Deck: (13.131% win, 0.043% stall) 20.234: Constantine, Grand Templar, Obsidian, Smite Forger #2, Dawn's Virtue, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (10.17% win, 0.07% stall) 18.0561: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Withersnare, Tazerious, Revolt Ranger, Elite Squadron
+Optimized Deck: (46.553% win, 0.134% stall) 51.0868: Tabitha, Octane's Bulwark, Stoneheart, Obsidian, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Auger Ream
+Optimized Deck: (28.707% win, 0.17% stall) 34.7765: Malort, Dreamhaunter, Obsidian, Sacred Sanctuary, Arch Nova Alpha, Auger Ream, Tazerious, Deserted Baughe, Sacred Sanctuary
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+
+level 23
+"Lightning Cannon(2)"
+Optimized Deck: (5.179% win, 0.069% stall) 12.4999: Lord Silus, Shock Disruptor, Stoneheart, Dreamhaunter, Sacred Sanctuary, Auger Ream, Honorable Samurai, Tazerecca
+Optimized Deck: (70.463% win, 0.005% stall) 73.2911: Arkadios, Gehenna Cursed, Savant Ascendant, Erebus City Sector, Machina Awoken, Gehenna Cursed, Erebus City Sector, Scorched Hellwing #2
+Optimized Deck: (64.63% win, 0.245% stall) 68.2762: Nexor, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Gehenna Cursed, Hyrael the Other, Scorched Hellwing, Oreworks
+Optimized Deck: (10.516% win, 0.015% stall) 17.9954: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Portal Noctil, Tazerious, Auger Ream
+Optimized Deck: (10.977% win, 0.04% stall) 17.9354: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Neo Dredge, Portal Noctil, Tazerecca, Jilted Baughe
+Optimized Deck: (11.053% win, 0.011% stall) 18.1873: Arkadios, Stoneheart, Shock Disruptor, Obsidian, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Tazerious, Auger Ream #2
+Optimized Deck: (13.972% win, 0.001% stall) 22.206: Nexor, Obsidian, Ezamit Tranq, Arch Nova Alpha, Jilted Baughe #2, Tazerious, Dreamhaunter
+Optimized Deck: (59.264% win, 0.177% stall) 63.223: Arkadios, Rox Exterminator, Machina Awoken, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Oreworks
+Optimized Deck: (7.716% win, 0.014% stall) 15.185: Nexor, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Deserted Baughe, Portal Noctil, Auger Ream
+Optimized Deck: (10.454% win, 0.037% stall) 17.1993: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Ezamit Tranq, Tazerecca, Auger Ream
+Optimized Deck: (13.173% win, 0.089% stall) 20.2118: Lord Silus, Shock Disruptor, Stoneheart, Erebus City Sector, Dreamhaunter, Arch Nova Alpha, Oreworks, Crude Surgeon
+Optimized Deck: (44.122% win, 0.174% stall) 49.8729: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Stoneheart
+Optimized Deck: (8.771% win, 0.035% stall) 15.9618: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Tazerecca, Jilted Baughe, Auger Bore
+Optimized Deck: (9.524% win, 0.115% stall) 17.2693: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth
+Optimized Deck: (6.629% win, 0% stall) 14.9288: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Auger Bore, Tazerecca, Dreamhaunter, Bane of Truth
+Optimized Deck: (5.813% win, 0.056% stall) 13.3997: Kylen, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Portal Noctil, Tazerecca
+Optimized Deck: (5.815% win, 0.018% stall) 13.4054: Tabitha, Octane's Bulwark, Obsidian, Auger Ream, Dune Runner, Hephatat Stoic, Decorated Marshall, Bane of Truth
+Optimized Deck: (4.031% win, 0% stall) 12.599: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Tazerecca, Dreamhaunter, Aggeroth Chaos
+Optimized Deck: (1.583% win, 0.057% stall) 8.80429: Kylen, Stoneheart, Sacred Sanctuary, Dreamhaunter, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (1.848% win, 0.001% stall) 8.11263: Constantine, Bolt Crag, Blink Providence, Flank, Jet, Grand Templar, Zodiac Harbinger #4, Response Fleet
+Optimized Deck: (0.633% win, 0% stall) 8.72334: Barracus, Arch Nova Alpha, Dreamhaunter, Auger Bore, Dune Runner, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (6.731% win, 0.048% stall) 14.0655: Barracus, Obsidian, Dreamhaunter, Demi Constrictor, Erebus Outpost, Arch Nova Elite, Oreworks, Jilted Baughe, Bane of Truth, Bolt Crag
+Optimized Deck: (8.962% win, 0.041% stall) 16.3001: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Auger Ream, Honorable Samurai, Bane of Truth
+Optimized Deck: (9.155% win, 0.017% stall) 16.1401: Empress, Obsidian, Bolt Crag, Dreamhaunter, Stoneheart, Sacred Sanctuary, Flash Deity, Honorable Samurai, Trishot Trike, Bolt Crag
+Optimized Deck: (7.622% win, 0.062% stall) 14.6443: Nexor, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Steadfast Assailant
+Optimized Deck: (16.012% win, 0.01% stall) 22.4946: Lord Silus, Shock Disruptor, Serrated Grater, Stoneheart, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Inferno Demon, Charincinerator
+Optimized Deck: (7.717% win, 0.005% stall) 16.0248: Nexor, Stoneheart, Obsidian, Arch Nova Alpha, Dreamhaunter, Portal Noctil, Jilted Baughe, Honorable Samurai, Lurker Behemoth
+Optimized Deck: (6.542% win, 0.008% stall) 13.876: Constantine, Obsidian, Stoneheart, Bolt Crag, Dreamhaunter, Sacred Sanctuary, Grand Templar, Honorable Samurai, Bolt Crag
+Optimized Deck: (0.012% win, 0% stall) 7.65396: Kylen, Demi Constrictor #2, Dreamhaunter, Tazerious, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (4.551% win, 0% stall) 11.7338: Constantine, Stoneheart, Obsidian, Bolt Crag, Smite Forger, Grand Templar, Zodiac Harbinger #2, Samurai, Bolt Crag
+Optimized Deck: (1.03% win, 0.057% stall) 7.94167: Arkadios, Obsidian, Abhorrent Recluse, Sacred Sanctuary, The Adversary, Xillanail, Arch Nova Alpha, Xanadu Ultra, Noble Defiance
+Optimized Deck: (46.122% win, 0.163% stall) 51.7426: Barracus, Razor Pinion, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Stoneheart
+Optimized Deck: (7.302% win, 0.075% stall) 14.6706: Constantine, Obsidian, Bolt Crag, Dreamhaunter, Erebus City Sector, Grand Templar, Sacred Sanctuary, Bolt Crag
+Optimized Deck: (2.626% win, 0.001% stall) 10.3738: Nexor, Stoneheart, Arch Nova Alpha, Dreamhaunter, Auger Bore, Animus Geist, Tazerecca, Zodiac Harbinger, Aggeroth Chaos
+Optimized Deck: (21.622% win, 0.013% stall) 28.0366: Lord Silus, Shock Disruptor, Stoneheart, Shock Disruptor, Obsidian, Dreamhaunter, Judgment Nova, Crude Surgeon, Trench Hurler, Charincinerator
+Optimized Deck: (8.357% win, 0.003% stall) 16.3171: Nexor, Demi Constrictor, Ezamit Tranq, Arch Nova Alpha, Jilted Baughe, Tazerious, Auger Ream, Dreamhaunter
+Optimized Deck: (37.923% win, 0.407% stall) 43.7047: Barracus, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Arch Nova Elite, Erebus City Sector, Jilted Baughe, Ardenmass
+Optimized Deck: (8.875% win, 0.006% stall) 17.0606: Nexor, Obsidian, Dreamhaunter, Arch Nova Alpha, Auger Ream, Oreworks, Deserted Baughe, Tazerecca, Croc Oppressor, Aggeroth Chaos
+Optimized Deck: (75.089% win, 0.055% stall) 77.4865: Nexor, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Gehenna Cursed #2, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (5.673% win, 0.032% stall) 13.329: Arkadios, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (8.751% win, 0.039% stall) 16.3296: Typhon Vex, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Tazerious, Auger Ream, Jilted Baughe
+Optimized Deck: (0.012% win, 0% stall) 7.44795: Barracus, Auger Ream, Inferno Demon, Abhorrent Recluse #2, Dune Runner, Inferno Demon, Honorable Samurai
+Optimized Deck: (14.26% win, 0.002% stall) 20.8949: Halcyon, Obsidian, Stoneheart, Dreamhaunter, Guardian Gamut, Hephatat Stoic, Glimmer Shine, Myriad Beleaguer, Auger Bore, Bane of Truth
+Optimized Deck: (42.937% win, 0.46% stall) 47.855: Barracus, Gehenna Cursed, Arch Nova Alpha, Oreworks, Erebus City Sector, Oreworks, Baughe, Dreamhaunter
+Optimized Deck: (5.499% win, 0.006% stall) 13.2845: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Sculpted Aegis, Arch Nova Alpha, Tazerecca, Incog Niaq, Aggeroth Chaos
+Optimized Deck: (1.408% win, 0% stall) 8.37567: Constantine, Grand Templar, Obsidian, Smite Forger, Dawn's Virtue, Smite Forger, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (1.965% win, 0.007% stall) 10.1942: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Tazerious, Revolt Ranger, Withersnare, Elite Squadron
+Optimized Deck: (15.003% win, 0.154% stall) 22.0396: Tabitha, Stoneheart, Octane's Bulwark, Obsidian, Dreamhaunter, Sacred Sanctuary, Auger Ream, Abhorrent Recluse
+Optimized Deck: (7.947% win, 0.002% stall) 16.7639: Malort, Obsidian, Dreamhaunter, Arch Nova Alpha, Auger Ream, Tazerious, Deserted Baughe, Aggeroth Enraged
+Optimized Deck: (0% win, 0% stall) 6.00024: Cyrus, Infantry
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (7.328% win, 0.062% stall) 14.4661: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Auger Ream, Honorable Samurai, Tazerecca
+Optimized Deck: (71.875% win, 0.038% stall) 74.4421: Arkadios, Gehenna Cursed, Erebus City Sector, Machina Awoken, Scorched Hellwing, Gehenna Cursed, Erebus City Sector, Mutilator, Scorched Hellwing
+Optimized Deck: (64.076% win, 0.039% stall) 68.1018: Arkadios, Gehenna Cursed #2, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Repulse Ghoul
+Optimized Deck: (12.245% win, 0.011% stall) 19.1283: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Portal Noctil, Tazerious, Jilted Baughe, Auger Ream
+Optimized Deck: (10.987% win, 0.068% stall) 18.4542: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca, Jilted Baughe
+Optimized Deck: (11.269% win, 0.014% stall) 18.4856: Arkadios, Shock Disruptor, Stoneheart, Obsidian, Dreamhaunter, Ezamit Tranq, Tazerious, Jilted Baughe, Fenlord
+Optimized Deck: (13.357% win, 0.005% stall) 21.0826: Nexor, Obsidian, Ezamit Tranq, Arch Nova Alpha, Jilted Baughe #2, Tazerious, Dreamhaunter
+Optimized Deck: (59.201% win, 0.072% stall) 62.8792: Arkadios, Rox Exterminator, Gehenna Cursed, Machina Awoken, Erebus City Sector, Scorched Hellwing, Flourish Turbine, Odynn the Godsteel
+Optimized Deck: (9.188% win, 0.014% stall) 16.3063: Typhon Vex, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Portal Noctil, Deserted Baughe, Auger Ream
+Optimized Deck: (10.875% win, 0.035% stall) 17.4139: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary #2, Ezamit Tranq, Tazerecca, Auger Ream
+Optimized Deck: (14.342% win, 0.093% stall) 21.1934: Lord Silus, Shock Disruptor, Stoneheart, Erebus City Sector, Dreamhaunter, Arch Nova Alpha, Inferno Demon, Crude Surgeon
+Optimized Deck: (48.19% win, 0.187% stall) 53.4438: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Stoneheart
+Optimized Deck: (9.361% win, 0.073% stall) 16.5525: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Tazerecca, Jilted Baughe
+Optimized Deck: (12.235% win, 0.13% stall) 19.4981: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth
+Optimized Deck: (10.491% win, 0.023% stall) 17.8149: Empress, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (8.186% win, 0.033% stall) 15.4564: Kylen, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Portal Noctil, Tazerecca
+Optimized Deck: (8.252% win, 0.055% stall) 15.4412: Tabitha, Octane's Bulwark, Obsidian, Auger Ream, Dune Runner, Hephatat Stoic, Decorated Marshall, Bane of Truth
+Optimized Deck: (3.495% win, 0.006% stall) 11.8168: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Dreamhaunter, Tazerecca, Aggeroth Chaos, Noxious Tank
+Optimized Deck: (2.16% win, 0.062% stall) 9.46591: Kylen, Stoneheart, Sacred Sanctuary, Dreamhaunter, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (0.003% win, 0.001% stall) 7.27297: Constantine, Bolt Crag, Jet #2, Honorable Samurai, Response Fleet
+Optimized Deck: (1.018% win, 0% stall) 8.7726: Barracus, Arch Nova Alpha, Dreamhaunter, Auger Bore, Dune Runner, Tazerecca, Aggeroth Chaos, Bane of Truth
+Optimized Deck: (3.648% win, 0.108% stall) 11.3509: Barracus, Obsidian, Bolt Crag, Dreamhaunter, Erebus Outpost, Jilted Baughe, Revolt Ranger, Bane of Truth
+Optimized Deck: (9.388% win, 0.041% stall) 16.7953: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Abhorrent Recluse, Honorable Samurai, Bane of Truth
+Optimized Deck: (10.597% win, 0.054% stall) 17.419: Empress, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Flash Deity, Trishot Trike, Honorable Samurai
+Optimized Deck: (8.362% win, 0.033% stall) 15.1443: Nexor, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Arch Nova Alpha, Steadfast Assailant
+Optimized Deck: (17.277% win, 0.02% stall) 23.5576: Lord Silus, Shock Disruptor, Serrated Grater, Stoneheart, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Inferno Demon, Charincinerator
+Optimized Deck: (7.09% win, 0.003% stall) 15.4809: Krellus, Obsidian, Serak United, Dreamhaunter, Portal Noctil, Jilted Baughe, Honorable Samurai, Lurker Behemoth
+Optimized Deck: (7.663% win, 0.011% stall) 14.9765: Constantine, Stoneheart, Obsidian, Bolt Crag, Dreamhaunter, Sacred Sanctuary, Honorable Samurai, Grand Templar, Bolt Crag
+Optimized Deck: (0.052% win, 0.002% stall) 7.68465: Kylen, Demi Constrictor #2, Dreamhaunter, Tazerious, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (5.032% win, 0% stall) 12.0443: Constantine, Stoneheart, Obsidian, Bolt Crag, Auger Ream, Grand Templar, Zodiac Harbinger, Samurai, Zodiac Harbinger, Bolt Crag
+Optimized Deck: (1.864% win, 0.059% stall) 8.33764: Arkadios, Obsidian, Xanadu Ultra, Sacred Sanctuary, Abhorrent Recluse, The Adversary, Arch Nova Alpha, Xillanail, Noble Defiance
+Optimized Deck: (47.686% win, 0.271% stall) 52.6889: Constantine, Gehenna Cursed, Stoneheart, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (7.668% win, 0.051% stall) 14.5218: Constantine, Obsidian, Bolt Crag, Erebus City Sector, Dreamhaunter, Grand Templar, Sacred Sanctuary, Bolt Crag
+Optimized Deck: (2.421% win, 0.005% stall) 10.1995: Nexor, Stoneheart, Arch Nova Alpha, Dreamhaunter, Auger Bore, Tazerecca, Zodiac Harbinger, Aggeroth Chaos
+Optimized Deck: (22.254% win, 0.018% stall) 28.3997: Lord Silus, Shock Disruptor #2, Stoneheart, Obsidian, Dreamhaunter, Judgment Nova, Crude Surgeon, Tazerious, Trench Hurler
+Optimized Deck: (6.385% win, 0.034% stall) 13.7143: Nexor, Dreamhaunter, The Adversary, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Abhorrent Recluse, Tazerious, Jilted Baughe, Auger Ream
+Optimized Deck: (34.359% win, 0.129% stall) 40.3268: Barracus, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Croc Oppressor, Jilted Baughe, Erebus City Sector, Ardenmass
+Optimized Deck: (7.582% win, 0.018% stall) 15.6317: Nexor, Obsidian, Dreamhaunter, Arch Nova Alpha, Auger Ream, Oreworks, Deserted Baughe, Tazerecca, Croc Oppressor
+Optimized Deck: (74.3% win, 0.164% stall) 76.8272: Nexor, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed #2, Erebus City Sector, Dreamhaunter
+Optimized Deck: (7.945% win, 0.062% stall) 15.4427: Arkadios, Obsidian, Stoneheart, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (9.801% win, 0.029% stall) 17.2565: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Sacred Sanctuary, Tazerious, Auger Ream, Jilted Baughe
+Optimized Deck: (0.001% win, 0% stall) 7.28718: Arkadios, Abhorrent Recluse, Auger Ream, Abhorrent Recluse, Dune Runner, Infantry, Inferno Demon
+Optimized Deck: (14.617% win, 0.006% stall) 21.6359: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Hephatat Stoic, Guardian Gamut, Myriad Beleaguer, Auger Bore, Bane of Truth
+Optimized Deck: (33.672% win, 0.359% stall) 39.2054: Barracus, Arch Nova Alpha, Gehenna Cursed, Oreworks, Erebus City Sector, Oreworks, Dreamhaunter, Baughe
+Optimized Deck: (5.801% win, 0.018% stall) 13.5471: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Sculpted Aegis, Tazerecca, Aggeroth Chaos, Incog Niaq
+Optimized Deck: (1.573% win, 0.004% stall) 8.28621: Constantine, Grand Templar, Obsidian, Smite Forger #2, Dawn's Virtue, Zodiac Harbinger, Longshot Deadeye, Noble Defiance
+Optimized Deck: (2.021% win, 0.005% stall) 9.86281: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Revolt Ranger, Tazerious, Withersnare, Elite Squadron
+Optimized Deck: (16.468% win, 0.242% stall) 23.306: Tabitha, Stoneheart, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Abhorrent Recluse
+Optimized Deck: (7.397% win, 0.006% stall) 15.9993: Malort, Obsidian, Arch Nova Alpha, Dreamhaunter, Auger Ream, Tazerious, Deserted Baughe, Aggeroth Enraged
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+"Inspiring Altar(2)"
+Optimized Deck: (9.743% win, 0.048% stall) 16.5856: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Auger Ream, Tazerecca, Honorable Samurai
+Optimized Deck: (73.38% win, 0.012% stall) 75.9976: Arkadios, Gehenna Cursed, Erebus City Sector, Machina Awoken, Scorched Hellwing, Gehenna Cursed, Erebus City Sector, Scorched Hellwing
+Optimized Deck: (65.83% win, 0.067% stall) 69.5136: Arkadios, Gehenna Cursed #2, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Repulse Ghoul
+Optimized Deck: (13.048% win, 0.021% stall) 19.803: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Portal Noctil, Tazerious, Auger Ream
+Optimized Deck: (11.335% win, 0.079% stall) 18.5117: Typhon Vex, Obsidian, Dreamhaunter, Stoneheart, Neo Dredge, Portal Noctil, Tazerecca, Jilted Baughe
+Optimized Deck: (13.218% win, 0.039% stall) 20.3771: Arkadios, Shock Disruptor, Stoneheart, Ezamit Tranq, Obsidian, Dreamhaunter, Tazerious, Jilted Baughe
+Optimized Deck: (9.014% win, 0.016% stall) 16.4375: Nexor, Obsidian, Ezamit Tranq, Arch Nova Alpha, Jilted Baughe #2, Tazerious, Dreamhaunter
+Optimized Deck: (62.499% win, 0.071% stall) 65.732: Arkadios, Rox Exterminator, Gehenna Cursed, Erebus City Sector, Machina Awoken, Scorched Hellwing, Flourish Turbine, Odynn the Godsteel
+Optimized Deck: (9.938% win, 0.012% stall) 16.808: Kylen, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Portal Noctil, Deserted Baughe, Auger Ream
+Optimized Deck: (12.989% win, 0.037% stall) 19.0282: Arkadios, Stoneheart, The Adversary, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Dreamhaunter, Sacred Sanctuary, Obsidian, Auger Ream
+Optimized Deck: (15.624% win, 0.114% stall) 22.0772: Lord Silus, Shock Disruptor, Stoneheart, Erebus City Sector, Dreamhaunter, Inferno Demon, Arch Nova Alpha
+Optimized Deck: (53.73% win, 0.169% stall) 58.1987: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Stoneheart
+Optimized Deck: (10.454% win, 0.043% stall) 17.2161: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Ezamit Tranq, Tazerecca, Jilted Baughe
+Optimized Deck: (11.771% win, 0.119% stall) 18.7741: Tabitha, Octane's Bulwark, Obsidian, Dreamhaunter, Auger Ream, Sacred Sanctuary, Bane of Truth
+Optimized Deck: (12.788% win, 0.032% stall) 19.6751: Empress, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: (10.659% win, 0.037% stall) 17.6316: Kylen, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Portal Noctil, Tazerecca
+Optimized Deck: (9.912% win, 0.064% stall) 16.917: Tabitha, Octane's Bulwark, Obsidian, Auger Ream, Hephatat Stoic, Dune Runner, Bane of Truth, Decorated Marshall
+Optimized Deck: (2.309% win, 0.011% stall) 10.1524: Barracus, Obsidian, Arch Nova Alpha, Dreamhaunter, Auger Ream, Tazerecca, Aggeroth Chaos, Noxious Tank
+Optimized Deck: (2.611% win, 0.042% stall) 9.82641: Kylen, Stoneheart, Sacred Sanctuary, Dreamhaunter, Xillanail, Arch Nova Alpha, Sculpted Aegis
+Optimized Deck: (1.17% win, 0% stall) 7.42339: Constantine, Grand Templar, Bolt Crag, Jet, Blink Providence, Dawn's Virtue, Honorable Samurai, Zodiac Harbinger #2, Response Fleet, Jet
+Optimized Deck: (0.85% win, 0% stall) 8.49205: Nexor, Arch Nova Alpha, Dreamhaunter, Auger Bore, Tazerecca, Dune Runner, Bane of Truth, Trench Hurler
+Optimized Deck: (2.858% win, 0.074% stall) 10.0216: Barracus, Bolt Crag, Obsidian, Dreamhaunter, Erebus Outpost, Jilted Baughe, Bane of Truth, Revolt Ranger
+Optimized Deck: (10.989% win, 0.041% stall) 17.9856: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Obsidian, Abhorrent Recluse, Honorable Samurai, Bane of Truth
+Optimized Deck: (12.111% win, 0.037% stall) 18.6723: Empress, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Flash Deity, Honorable Samurai, Longshot Deadeye
+Optimized Deck: (10.068% win, 0.038% stall) 16.2917: Nexor, Stoneheart, Sacred Sanctuary, Xanadu Ultra, Obsidian, Dreamhaunter, Abhorrent Recluse, Sacred Sanctuary, Arch Nova Alpha, Steadfast Assailant
+Optimized Deck: (18.237% win, 0.047% stall) 24.4691: Lord Silus, Shock Disruptor, Serrated Grater, Stoneheart, Dreamhaunter, Judgment Nova #2, Crude Surgeon, Inferno Demon
+Optimized Deck: (7.59% win, 0.023% stall) 15.6025: Krellus, Stoneheart, Obsidian, Dreamhaunter, Portal Noctil, Serak United, Honorable Samurai, Jilted Baughe
+Optimized Deck: (9.965% win, 0.018% stall) 16.6791: Constantine, Bolt Crag, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Honorable Samurai, Grand Templar, Bolt Crag
+Optimized Deck: (0.68% win, 0.002% stall) 7.1996: Kylen, Dreamhaunter, Coldheart, Sacred Sanctuary, Xillanail, Tazerious, Wilter Conscript, Jilted Baughe, Lurker Behemoth
+Optimized Deck: (6.286% win, 0.008% stall) 12.9201: Constantine, Stoneheart, Obsidian, Bolt Crag, Sacred Sanctuary, Auger Ream, Smite Forger, Samurai, Zodiac Harbinger, Bolt Crag
+Optimized Deck: (3.246% win, 0.09% stall) 9.69187: Arkadios, The Adversary, Sacred Sanctuary, Obsidian, Xanadu Ultra, Arch Nova Alpha, Abhorrent Recluse, Xillanail, Noble Defiance
+Optimized Deck: (49.289% win, 0.295% stall) 53.906: Constantine, Gehenna Cursed, Stoneheart, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Dreamhaunter
+Optimized Deck: (6.811% win, 0.053% stall) 13.6094: Constantine, Grand Templar, Obsidian, Erebus City Sector, Dreamhaunter, Bolt Crag #2, Sacred Sanctuary
+Optimized Deck: (2.193% win, 0.009% stall) 9.45737: Constantine, Stoneheart, Demi Constrictor, Dreamhaunter, Arch Nova Alpha, Ezamit Serene, Tazerecca, Auger Bore
+Optimized Deck: (22.841% win, 0.017% stall) 29.2595: Lord Silus, Shock Disruptor, Stoneheart, Shock Disruptor, Obsidian, Dreamhaunter, Judgment Nova, Trench Hurler, Tazerious
+Optimized Deck: (8.539% win, 0.07% stall) 15.5451: Nexor, The Adversary, Sacred Sanctuary, Ezamit Tranq, Arch Nova Alpha, Dreamhaunter, Abhorrent Recluse, Jilted Baughe, Tazerious
+Optimized Deck: (32.488% win, 0.125% stall) 38.2676: Barracus, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Croc Oppressor, Jilted Baughe, Ardenmass, Erebus City Sector
+Optimized Deck: (5.487% win, 0.004% stall) 13.5346: Nexor, Obsidian, Dreamhaunter, Auger Ream, Croc Oppressor, Tazerecca, Deserted Baughe, Shapesavant
+Optimized Deck: (75.707% win, 0.13% stall) 78.114: Arkadios, Gehenna Cursed #2, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Gehenna Cursed, Erebus City Sector
+Optimized Deck: (11.081% win, 0.07% stall) 18.2139: Arkadios, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter, Abhorrent Recluse, Tazerecca, Aggeroth Chaos
+Optimized Deck: (11.145% win, 0.034% stall) 17.6237: Kylen, Stoneheart, Sacred Sanctuary, Xanadu Ultra, Obsidian, Dreamhaunter, Tazerious, Auger Ream
+Optimized Deck: (0.001% win, 0% stall) 7.5883: Arkadios, The Adversary, Abhorrent Recluse, Auger Ream, Abhorrent Recluse, Infantry, Dune Runner
+Optimized Deck: (16.563% win, 0.001% stall) 23.7276: Halcyon, Stoneheart, Obsidian, Dreamhaunter, Guardian Gamut, Hephatat Stoic, Auger Bore, Bane of Truth
+Optimized Deck: (29.943% win, 0.073% stall) 36.0511: Barracus, Arch Nova Alpha, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Stoneheart, Auger Ream
+Optimized Deck: (7.997% win, 0.03% stall) 15.4581: Halcyon, Stoneheart, Sculpted Aegis, Obsidian, Dreamhaunter, Aggeroth Chaos, Tazerecca, Incog Niaq
+Optimized Deck: (2.102% win, 0% stall) 8.61877: Constantine, Grand Templar, Obsidian, Smite Forger #2, Dawn's Virtue, Longshot Deadeye, Zodiac Harbinger, Noble Defiance
+Optimized Deck: (1.499% win, 0.002% stall) 8.82048: Barracus, Obsidian, Arch Nova Alpha, Auger Ream, Tazerious, Revolt Ranger, Withersnare, Elite Squadron
+Optimized Deck: (17.789% win, 0.088% stall) 24.0184: Tabitha, Octane's Bulwark, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Abhorrent Recluse, Auger Ream
+Optimized Deck: (6.285% win, 0.011% stall) 14.4801: Malort, Obsidian, Dreamhaunter, Arch Nova Alpha, Auger Ream, Tazerious, Deserted Baughe, Aggeroth Enraged
+Optimized Deck: (0% win, 0% stall) 6: Cyrus, Infantry
+ 0:59:44.72
