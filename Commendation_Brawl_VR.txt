@@ -1,0 +1,152 @@
+ 0:57:39.28 
+"Rally all 1"
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 7.82027: Barracus, Dreamhaunter, Arch Nova Alpha, Steadfast Assailant, Tazerecca, Jilted Baughe, Baughe, Bane of Truth
+Optimized Deck: 5.99946: Barracus, Xanadu Ultra, Sacred Sanctuary, Croc Oppressor, Aggeroth Chaos, Arch Nova Alpha, Withersnare, Dreamreaper, Serraco Lord
+Optimized Deck: 7.45432: Constantine, Bolt Crag, Dignified Vigil, Sacred Sanctuary, Aasi Revealed, Zodiac Harbinger, Samurai, Revolt Ranger
+Optimized Deck: 5.75135: Kylen, Demi Constrictor, Xillanail, Sacred Sanctuary, Halerift, Arch Nova Alpha, Tazerecca, Dreamreaper
+Optimized Deck: 4.67486: Barracus, Xillanail, Allogarb, Arch Nova Alpha, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: 0.94: Barracus, Demi Constrictor, Xillanail, Arch Nova Alpha, Bane of Truth, Tazerecca, Xeno Suzerain, Sculpted Aegis
+Optimized Deck: 3.39676: Barracus, Abhorrent Recluse, Xillanail, Arch Nova Alpha, Tazerious, Noble Defiance, Spiteful Raptor
+Optimized Deck: 5.23459: Halcyon, Stinger Battalion, Steel Ram, Sculpted Aegis, Sacred Sanctuary, Halerift, Guardian Gamut, Abhorrent Recluse, Deserted Baughe, Deranged Fanatic
+Optimized Deck: 21.3384: Kylen, Demi Constrictor, Xanadu Ultra, Sacred Sanctuary, Dreamhaunter, Coldheart, Xillanail, Arch Nova Alpha, Tazerecca, Jilted Baughe
+Optimized Deck: 9.53135: Constantine, Coldheart, Smite Forger, Sacred Sanctuary, Zodiac Harbinger #3, Dreamreaper
+Optimized Deck: 14.7532: Barracus, Dreamhaunter, Inferno Demon, Jet, Bane of Truth, Jilted Baughe #2, Tazerecca
+Optimized Deck: 5.05243: Constantine, Smite Forger, Zodiac Harbinger, Noble Defiance #2, Honorable Samurai, Zodiac Harbinger, Deranged Fanatic
+Optimized Deck: 9.77676: Barracus, Dreamhaunter, Xillanail, Inferno Demon, Arch Nova Alpha, Bane of Truth, Baughe #2
+Optimized Deck: 17.7438: Nexor, Dreamhaunter, Xillanail, Sacred Sanctuary, Abhorrent Recluse, Auger Ream, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: 12.3484: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Tazerious, Auger Ream, Baughe, Ayrkrane Syn
+Optimized Deck: 9.37946: Constantine, Smite Forger, Zodiac Harbinger #3, Contaminant Purifier, Dreamreaper
+Optimized Deck: 2.66514: Barracus, Demi Constrictor, Xillanail, Arch Nova Alpha, Tazerecca, Jilted Baughe, Auger Bore, Steadfast Assailant, Bane of Truth
+Optimized Deck: 15.817: Kylen, Demi Constrictor, Dreamhaunter, Sacred Sanctuary, Xillanail, Lurker Behemoth, Fenlord, Jilted Baughe, Decorated Marshall
+Optimized Deck: 7.33459: Barracus, Abhorrent Recluse, Xillanail, Auger Ream, Arch Nova Alpha, Jilted Baughe #2, Dreamreaper, Bane of Truth
+Optimized Deck: 10.397: Halcyon, Stinger Battalion, Octane's Bulwark, Sculpted Aegis, Hephatat Stoic, Galereaver, Bane of Truth, Dreamreaper, Auger Bore
+Optimized Deck: 9.14162: Constantine, Coldheart, Zodiac Harbinger #4, Honorable Samurai, Dreamreaper, Contaminant Purifier
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 3.03189: Barracus, Arch Nova Alpha, Bane of Truth, Jilted Baughe, Tazerecca, Dreamreaper #2
+Optimized Deck: 67.8132: Arkadios, Razor Pinion, Dreamhaunter, Erebus City Sector, Gehenna Cursed, Erebus City Sector, Avian Baron, Abhorrent Recluse
+Optimized Deck: 27.0016: Barracus, Stoneheart, Dreamhaunter, Sacred Sanctuary, Abhorrent Recluse, Honorable Samurai, Tazerecca
+Optimized Deck: 1.71108: Barracus, Demi Constrictor, Arch Nova Alpha, Jet, Baughe #2, Zodiac Harbinger #2
+Optimized Deck: 0.965676: Barracus, Xillanail, Demi Constrictor, Tumblox, Arch Nova Alpha, Bane of Truth, Nefarious Hellspont, Guardian Gamut
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 5.51324: Halcyon, Blackrock Cleaver, Sculpted Aegis, Octane's Bastion, Halerift, Guardian Gamut, Sculpted Aegis, Galereaver, Steadfast Assailant, Cadmus the Dragon
+Optimized Deck: 9.62892: Alaric, Dreamhaunter, Xillanail, Jet, Steadfast Assailant, Tazerecca, Samurai, Tiamat Destructor
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 1.10676: Kylen, Demi Constrictor, Ezamit Serene, Judgment Nova, Revolt Ranger, Baughe, Dreamreaper
+Optimized Deck: 4.30405: Barracus, Xillanail, Inferno Demon, Arch Nova Alpha, Jilted Baughe, Auger Bore, Dreamreaper
+Optimized Deck: 4.24514: Barracus, Trench Hurler, Xillanail, Noble Defiance, Arch Nova Alpha, Jilted Baughe, Tazerecca, Auger Bore, Bane of Truth
+Optimized Deck: 5.95676: Nexor, Xillanail, Abhorrent Recluse, Dune Runner, Jilted Baughe-4, Baughe, Dreamreaper
+Optimized Deck: 4.7127: Barracus, Xillanail, Arch Nova Alpha, Auger Ream, Jilted Baughe #2, Dreamreaper, Bane of Truth
+Optimized Deck: 2.86568: Barracus, Trench Hurler, Xillanail, Arch Nova Alpha, Tazerecca, Auger Bore, Bane of Truth
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 15.3295: Halcyon, Garrison Fortifier, Sculpted Aegis, Octane's Bastion, Guardian Gamut #2, Hephatat Stoic, Sacred Sanctuary, Auger Ream, Indestructible Troop, Dreamreaper
+Optimized Deck: 2.39459: Halcyon, Halerift, Auger Ream, Trench Hurler, Steadfast Assailant, Bane of Truth, Arch Nova Alpha
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 6.09405: Barracus, Dune Runner, Deserted Baughe, Baughe, Tazerecca, Dreamreaper, Lurker Behemoth
+Optimized Deck: 3.50622: Nexor, Demi Constrictor, Xanadu Ultra, Xillanail, Arch Nova Alpha, Fenlord, Jilted Baughe, Samurai, Lurker Behemoth
+Optimized Deck: 13.1562: Barracus, Dreamhaunter, Xillanail, Auger Ream, Incog Niaq, Bane of Truth, Arch Nova Alpha, Tazerecca, Lurker Behemoth
+Optimized Deck: 17.3186: Barracus, Dreamhaunter, Dune Runner, Inferno Demon, Deserted Baughe, Fenlord, Inferno Demon, Gorrus Rav
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 0: Cyrus, Infantry
+"Rally all 2"
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 12.0243: Barracus, Dreamhaunter, Arch Nova Alpha, Bane of Truth, Jilted Baughe, Tazerecca, Baughe
+Optimized Deck: 7.18676: Barracus, Xanadu Ultra, Croc Oppressor, Sacred Sanctuary, Aggeroth Chaos, Arch Nova Alpha, Withersnare, Dreamreaper, Serraco Lord
+Optimized Deck: 6.06108: Constantine, Bolt Crag, Sacred Sanctuary, Aasi Revealed, Precursor Idealist, Samurai, Revolt Ranger
+Optimized Deck: 4.46811: Kylen, Demi Constrictor, Xillanail, Sacred Sanctuary, Halerift, Arch Nova Alpha, Tazerecca, Dreamreaper
+Optimized Deck: 8.73838: Barracus, Xillanail, Allogarb, Arch Nova Alpha, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: 1.50297: Barracus, Demi Constrictor, Xillanail, Arch Nova Alpha, Bane of Truth, Tazerecca, Xeno Suzerain, Sculpted Aegis
+Optimized Deck: 6.9927: Barracus, Abhorrent Recluse, Xillanail, Arch Nova Alpha, Tazerious, Noble Defiance, Spiteful Raptor
+Optimized Deck: 4.84568: Halcyon, Stinger Battalion, Sculpted Aegis, Steel Ram, Sacred Sanctuary, Halerift, Guardian Gamut, Abhorrent Recluse, Deserted Baughe, Deranged Fanatic
+Optimized Deck: 21.8497: Kylen, Xanadu Ultra, Dreamhaunter, Xillanail, Sacred Sanctuary, Demi Constrictor, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: 9.95622: Constantine, Coldheart, Smite Forger, Zodiac Harbinger #3, Dreamreaper
+Optimized Deck: 19.8605: Barracus, Dreamhaunter, Inferno Demon, Jet, Bane of Truth, Jilted Baughe #2, Tazerecca
+Optimized Deck: 6.16649: Constantine, Smite Forger, Zodiac Harbinger, Noble Defiance #2, Honorable Samurai, Zodiac Harbinger, Deranged Fanatic
+Optimized Deck: 15.3911: Barracus, Dreamhaunter, Inferno Demon, Xillanail, Arch Nova Alpha, Bane of Truth, Baughe #2
+Optimized Deck: 23.6189: Nexor, Dreamhaunter, Xillanail, Abhorrent Recluse, Auger Ream, Sacred Sanctuary, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: 17.1889: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Tazerious, Auger Ream, Baughe, Ayrkrane Syn
+Optimized Deck: 10.3676: Constantine, Smite Forger, Zodiac Harbinger #3, Dreamreaper, Contaminant Purifier
+Optimized Deck: 4.09784: Barracus, Xillanail, Steadfast Assailant, Arch Nova Alpha, Jilted Baughe, Tazerecca, Auger Bore, Bane of Truth
+Optimized Deck: 19.1681: Kylen, Lurker Behemoth, Dreamhaunter, Xillanail, Fenlord, Decorated Marshall, Inferno Demon, Jilted Baughe
+Optimized Deck: 11.7581: Barracus, Abhorrent Recluse, Xillanail, Arch Nova Alpha, Auger Ream, Jilted Baughe #2, Dreamreaper, Bane of Truth
+Optimized Deck: 8.54162: Halcyon, Stinger Battalion, Octane's Bulwark, Sculpted Aegis, Hephatat Stoic, Bane of Truth, Dreamreaper, Auger Bore
+Optimized Deck: 9.10541: Constantine, Coldheart, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger #3, Dreamreaper, Contaminant Purifier
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 4.99486: Barracus, Arch Nova Alpha, Bane of Truth, Jilted Baughe, Tazerecca, Dreamreaper #2
+Optimized Deck: 64.5159: Arkadios, Avian Baron, Dreamhaunter, Razor Pinion, Gehenna Cursed, Erebus City Sector, Abhorrent Recluse, Belfryze, Hellwing, Erebus City Sector
+Optimized Deck: 27.7481: Barracus, Dreamhaunter, Stoneheart, Abhorrent Recluse, Sacred Sanctuary, Honorable Samurai, Bane of Truth, Tazerecca
+Optimized Deck: 2.27892: Barracus, Demi Constrictor, Arch Nova Alpha, Auger Bore, Jet, Baughe #2, Zodiac Harbinger #2
+Optimized Deck: 1.29243: Barracus, Xillanail, Arch Nova Alpha, Bane of Truth, Nefarious Hellspont, Guardian Gamut, Sculpted Aegis, Tempest Keep
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 4.13757: Halcyon, Blackrock Cleaver, Sculpted Aegis, Octane's Bastion, Guardian Gamut, Sculpted Aegis, Halerift, Steadfast Assailant, Cadmus the Dragon
+Optimized Deck: 12.7857: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Jet, Tazerecca, Samurai, Tiamat Destructor
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 1.16081: Kylen, Demi Constrictor, Judgment Nova, Revolt Ranger, Baughe, Dreamreaper
+Optimized Deck: 6.85243: Barracus, Inferno Demon, Xillanail, Arch Nova Alpha, Jilted Baughe, Auger Bore, Dreamreaper, Charincinerator
+Optimized Deck: 8.12297: Barracus, Trench Hurler, Xillanail, Arch Nova Alpha, Jilted Baughe, Tazerecca, Auger Bore, Bane of Truth
+Optimized Deck: 10.5243: Nexor, Xillanail, Abhorrent Recluse, Dune Runner, Jilted Baughe-4, Baughe, Dreamreaper
+Optimized Deck: 7.07811: Barracus, Xillanail, Arch Nova Alpha, Auger Ream, Jilted Baughe #2, Dreamreaper, Bane of Truth
+Optimized Deck: 6.77865: Barracus, Trench Hurler, Xillanail, Arch Nova Alpha, Tazerecca, Auger Bore, Bane of Truth
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 12.1562: Halcyon, Garrison Fortifier, Octane's Bastion, Sculpted Aegis, Guardian Gamut #2, Hephatat Stoic, Sacred Sanctuary, Auger Ream, Indestructible Troop, Dreamreaper
+Optimized Deck: 4.63054: Halcyon, Trench Hurler, Halerift, Auger Ream, Steadfast Assailant, Bane of Truth, Arch Nova Alpha
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 9.62838: Barracus, Dune Runner, Deserted Baughe, Baughe, Tazerecca, Dreamreaper, Lurker Behemoth
+Optimized Deck: 4.76243: Nexor, Xanadu Ultra, Xillanail, Demi Constrictor, Arch Nova Alpha, Fenlord, Jilted Baughe, Samurai, Lurker Behemoth
+Optimized Deck: 17.6365: Barracus, Dreamhaunter, Xillanail, Bane of Truth, Incog Niaq, Auger Ream, Arch Nova Alpha, Tazerecca, Lurker Behemoth
+Optimized Deck: 25.2557: Barracus, Dreamhaunter, Dune Runner, Inferno Demon, Deserted Baughe, Fenlord, Inferno Demon, Gorrus Rav
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 0: Cyrus, Infantry
+"Rally all 3"
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 19.3259: Barracus, Dreamhaunter, Arch Nova Alpha, Bane of Truth, Jilted Baughe, Tazerecca, Baughe
+Optimized Deck: 9.3427: Barracus, Croc Oppressor, Aggeroth Chaos, Arch Nova Alpha, Withersnare, Dreamreaper, Serraco Lord
+Optimized Deck: 5.55541: Constantine, Bolt Crag, Sacred Sanctuary, Aasi Revealed, Revolt Ranger, Samurai, Rising Virtue
+Optimized Deck: 4.95784: Kylen, Demi Constrictor, Xillanail, Halerift, Arch Nova Alpha, Tazerecca, Dreamreaper
+Optimized Deck: 14.3497: Nexor, Xillanail, Allogarb, Arch Nova Alpha, Auger Ream, Tazerecca, Bane of Truth
+Optimized Deck: 2.90568: Barracus, Xillanail, Arch Nova Alpha, Bane of Truth, Tazerecca, Sculpted Aegis, Xeno Suzerain
+Optimized Deck: 11.3908: Barracus, Abhorrent Recluse, Xillanail, Arch Nova Alpha, Tazerious, Noble Defiance, Spiteful Raptor
+Optimized Deck: 6.23: Halcyon, Abhorrent Recluse, Halerift, Guardian Gamut, Deserted Baughe, Deranged Fanatic
+Optimized Deck: 21.4932: Kylen, Xanadu Ultra, Dreamhaunter, Xillanail, Sacred Sanctuary, Demi Constrictor, Arch Nova Alpha, Tazerecca, Jilted Baughe
+Optimized Deck: 10.7251: Constantine, Coldheart, Smite Forger, Zodiac Harbinger #3, Dreamreaper
+Optimized Deck: 27.5335: Barracus, Dreamhaunter, Inferno Demon, Jet, Bane of Truth, Jilted Baughe #2, Tazerecca
+Optimized Deck: 7.70054: Constantine, Smite Forger, Zodiac Harbinger #2, Honorable Samurai, Noble Defiance #2, Deranged Fanatic
+Optimized Deck: 23.4041: Barracus, Dreamhaunter, Inferno Demon, Xillanail, Arch Nova Alpha, Bane of Truth, Baughe #2
+Optimized Deck: 32.8784: Nexor, Dreamhaunter, Xillanail, Abhorrent Recluse, Auger Ream, Arch Nova Alpha, Jilted Baughe, Tazerecca
+Optimized Deck: 23.4919: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Tazerious, Auger Ream, Baughe, Ayrkrane Syn
+Optimized Deck: 11.6416: Constantine, Smite Forger, Zodiac Harbinger #3, Contaminant Purifier, Dreamreaper
+Optimized Deck: 7.2427: Barracus, Xillanail, Arch Nova Alpha, Bane of Truth, Tazerecca, Jilted Baughe, Auger Bore, Steadfast Assailant
+Optimized Deck: 24.5916: Kylen, Dreamhaunter, Xillanail, Lurker Behemoth, Fenlord, Inferno Demon, Jilted Baughe, Decorated Marshall
+Optimized Deck: 16.3138: Barracus, Abhorrent Recluse, Xillanail, Arch Nova Alpha, Auger Ream, Jilted Baughe, Dreamreaper, Bane of Truth
+Optimized Deck: 7.24784: Halcyon, Stinger Battalion, Octane's Bulwark, Sculpted Aegis, Hephatat Stoic, Bane of Truth, Dreamreaper, Auger Bore
+Optimized Deck: 9.32189: Constantine, Coldheart, Zodiac Harbinger, Honorable Samurai, Zodiac Harbinger #3, Dreamreaper, Contaminant Purifier
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 8.75919: Barracus, Arch Nova Alpha, Bane of Truth, Jilted Baughe, Tazerecca, Dreamreaper #2
+Optimized Deck: 64.0249: Arkadios, Avian Baron, Belfryze, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Abhorrent Recluse, Razor Pinion
+Optimized Deck: 33.3603: Barracus, Dreamhaunter, Stoneheart, Abhorrent Recluse, Xillanail, Honorable Samurai, Tazerecca, Bane of Truth
+Optimized Deck: 3.85946: Barracus, Arch Nova Alpha, Jet, Auger Bore, Baughe #2, Zodiac Harbinger #2
+Optimized Deck: 3.03324: Barracus, Bane of Truth, Xillanail, Arch Nova Alpha, Guardian Gamut, Nefarious Hellspont, Tumblox, Sculpted Aegis
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 3.34541: Halcyon, Cadmus the Dragon, Halerift, Guardian Gamut, Steadfast Assailant, Octane's Bastion, Blackrock Cleaver
+Optimized Deck: 18.2514: Barracus, Dreamhaunter, Xillanail, Arch Nova Alpha, Jet, Tazerecca, Samurai, Tiamat Destructor
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 2.21081: Kylen, Demi Constrictor, Dreamreaper, Judgment Nova, Revolt Ranger, Baughe, Arch Nova Elite
+Optimized Deck: 10.5246: Barracus, Inferno Demon, Xillanail, Arch Nova Alpha, Jilted Baughe, Auger Bore, Dreamreaper, Charincinerator
+Optimized Deck: 14.7616: Barracus, Trench Hurler, Xillanail, Arch Nova Alpha, Bane of Truth, Jilted Baughe, Tazerecca, Foul Recluse
+Optimized Deck: 16.11: Nexor, Xillanail, Abhorrent Recluse, Dune Runner, Jilted Baughe-4, Baughe, Dreamreaper
+Optimized Deck: 10.3692: Barracus, Bane of Truth, Xillanail, Arch Nova Alpha, Auger Ream, Jilted Baughe #2, Dreamreaper, Elite Squadron
+Optimized Deck: 12.9197: Barracus, Trench Hurler, Xillanail, Arch Nova Alpha, Tazerecca, Auger Bore, Bane of Truth
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 10.3286: Halcyon, Octane's Bastion, Guardian Gamut #2, Hephatat Stoic, Auger Ream, Sacred Sanctuary, Dreamreaper, Auger
+Optimized Deck: 7.86946: Halcyon, Trench Hurler, Halerift, Auger Ream, Steadfast Assailant, Bane of Truth, Arch Nova Alpha
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 14.9935: Barracus, Dune Runner, Deserted Baughe, Lurker Behemoth, Tazerecca, Dreamreaper, Bane of Triumph
+Optimized Deck: 7.13811: Nexor, Xanadu Ultra, Xillanail, Arch Nova Alpha, Fenlord, Jilted Baughe, Samurai, Lurker Behemoth
+Optimized Deck: 24.7514: Barracus, Dreamhaunter, Xillanail, Bane of Truth, Incog Niaq, Auger Ream, Arch Nova Alpha, Tazerecca, Lurker Behemoth
+Optimized Deck: 34.8057: Barracus, Dreamhaunter, Inferno Demon, Dune Runner, Deserted Baughe, Inferno Demon, Gorrus Rav, Fenlord
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 0: Cyrus, Infantry
+Optimized Deck: 0: Cyrus, Infantry
+ 9:32:55.69
