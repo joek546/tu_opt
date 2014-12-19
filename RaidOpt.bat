@@ -24,7 +24,7 @@ for /L %%j in (23,1,26) do (
 for /F "tokens=2 delims==" %%a in ('set fort[') do (
 	echo %%a>>%file%
 	for /L %%i in (1,1,%memSize%) do (
-		tuo "RW%%i" "Carnifex" raid ordered yf %%a -t 8 -o=raid\raid%%i.txt climb %iter% | find %find% >> %file% 
+		tuo "RW%%i" "Carnifex-%%j" raid ordered yf %%a -t 8 -o=raid\raid%%i.txt climb %iter% | find %find% >> %file% 
 	
 	)
 )
