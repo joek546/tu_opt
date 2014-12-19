@@ -1,5 +1,4 @@
 Galvanic Commando
- Jilted Baughe
  Inferno Demon
  Noxious Tank
  Tiamat the Destroyer
@@ -8,7 +7,8 @@ Galvanic Commando
  Xillanail
  Cadmus the Dragon
  Arch Nova Elite
-
+ Croc Oppressor
+ Ardenmass
 
 
 

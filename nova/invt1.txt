@@ -1,4 +1,11 @@
-Constantine
+Lord Silus
+ Shock Disruptor
+ Stoneheart
+ Sacred Sanctuary
+ Dreamhaunter
+ Aggeroth Chaos
+ Tazerecca
+ Constantine
  Barracus
  Nexor
  Demi Constrictor
@@ -8,10 +15,3 @@ Constantine
  Contaminant Purifier
  Honorable Samurai
  Jilted Baughe (2)
- Auger Ream
-
-
-
-
-
-
