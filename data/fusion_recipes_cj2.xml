@@ -1,6 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Comrade Box -->
+
+	<fusion_recipe>
+		<card_id>13380</card_id>
+		<resource card_id='13379' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13386</card_id>
+		<resource card_id='13385' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13326</card_id>
+		<resource card_id='13325' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13332</card_id>
+		<resource card_id='13331' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13344</card_id>
+		<resource card_id='13343' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13350</card_id>
+		<resource card_id='13349' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8263</card_id>
+		<resource card_id='8262' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8269</card_id>
+		<resource card_id='8268' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13362</card_id>
+		<resource card_id='13361' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13368</card_id>
+		<resource card_id='13367' number='2' />
+	</fusion_recipe>
+
+<!-- December Week 3 Reward -->
+
+	<fusion_recipe>
+		<card_id>13314</card_id>
+		<resource card_id='13295' number='2' />
+	</fusion_recipe>
+
+<!-- Force Pack -->
+	
+	<fusion_recipe>
+		<card_id>13434</card_id>
+		<resource card_id='13433' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13440</card_id>
+		<resource card_id='13439' number='2' />
+	</fusion_recipe>
+
+<!-- December Base Set Fusions -->
+
+	<fusion_recipe>
+		<card_id>13392</card_id>
+		<resource card_id='479' number='1' />
+		<resource card_id='684' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13398</card_id>
+		<resource card_id='461' number='1' />
+		<resource card_id='690' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13404</card_id>
+		<resource card_id='696' number='1' />
+		<resource card_id='6003' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13410</card_id>
+		<resource card_id='702' number='1' />
+		<resource card_id='6027' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13416</card_id>
+		<resource card_id='485' number='1' />
+		<resource card_id='708' number='1' />
+	</fusion_recipe>
+
+<!-- Accolade Cache -->
+
+	<fusion_recipe>
+		<card_id>13302</card_id>
+		<resource card_id='13301' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13308</card_id>
+		<resource card_id='13307' number='2' />
+	</fusion_recipe>
+
 <!-- Carnifex Fusions -->
 
 	<fusion_recipe>

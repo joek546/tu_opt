@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 SET mydeck="nkorboy"
-SET iter=10000
+SET iter=100000
 
 
 SET find="Optimized"

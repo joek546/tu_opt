@@ -5,26 +5,27 @@ Nexor
 Lord Silus
 
 
-//Sacred Sanctuary
+Sacred Sanctuary
 Ayrkrane Syn
-//Aggeroth Chaos
+Aggeroth Chaos
 Demi Constrictor
 Arch Nova Alpha
-//Tazerecca
-//Dreamhaunter
-//Stoneheart
+Tazerecca
+Dreamhaunter
+Stoneheart
 Zodiac Harbinger (2)
 Contaminant Purifier
 Deranged Fanatic
-Baughe (2)
-//Shock Disruptor
+Jilted Baughe (2)
+Shock Disruptor
 Messale
 Valiant Knight
 Honorable Samurai
+Auger Ream
+Astral Strider
 
 
 
 
 
-
-Jet
+Elite Brigade

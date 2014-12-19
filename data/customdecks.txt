@@ -22,7 +22,7 @@ NKtyr: Barracus, Demi Constrictor, Arch Nova Alpha, Arch Nova Elite, Baughe #2, 
 
 shinigami: Barracus, Gorrus Carn #2, Xillafang, Lurker Horror,Jilted Baughe, Baughe, Auger Bore
 
-eatme546: Barracus, Xillafang-5, Jilted Baughe, Brood Minion, Gorrus Carn-4, Xeno Overlord, Blitz Plate, Auger Bore
+eatme: Barracus, Xillafang-5, Jilted Baughe, Gorrus Carn-4, Xeno Overlord, Auger Bore, Assailant
 
 
 
@@ -52,7 +52,7 @@ NS6:Arkadios, Sacred Sanctuary(2), Xillanail, Arch Nova Alpha, Aggeroth Chaos, E
 NS7:Kylen, Sacred Sanctuary, Dreamhaunter, Tazerious, Demi Constrictor, Arch Nova Alpha, Demi Constrictor, The Adversary, Obsidian, Xillanail, Ezamit Tranq
 NS8:Arkadios, Razor Pinion, Erebus City Sector, Gehenna Cursed, Scorched Hellwing, Flourish Turbine
 NS9:Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Portal Noctil, Sacred Sanctuary
-NS10:Typhon Vex, Stoneheart, Sacred Sanctuary(2), Dreamhaunter, Obsidian, Aggeroth Chaos, Ezamit Tranq , The Adversary 
+NS10:Typhon Vex, Stoneheart, Sacred Sanctuary(2), Dreamhaunter, Obsidian,Ezamit Tranq , Coldheart 
 NS11:Lord Silus,  Stoneheart, Dreamhaunter, Arch Nova Alpha, Crude Surgeon, Inferno Demon, Sacred Sanctuary, Oreworks, Shock Disruptor, Erebus City Sector
 NS12:Arkadios, Gehenna Cursed, Stoneheart, The Adversary, Erebus City Sector, Razor Pinion (2), Scorched Hellwing, Tempest Citadel, Dreamhaunter, Ezamit Tranq
 NS13:Typhon Vex, Stoneheart, Dreamhaunter, Obsidian, Ezamit Tranq, Arch Nova Alpha, Sacred Sanctuary, Aggeroth Chaos, The Adversary, Demi Constrictor
@@ -63,36 +63,36 @@ NS17:Tabitha, Decorated Marshall, Coldheart, Octane's Bulwark, Obsidian, Dune Ru
 NS18:Barracus, Stoneheart, Dreamhaunter, Obsidian, Aggeroth Chaos, Tazerecca, Arch Nova Alpha, Auger Ream, Xillanail, Noxious Tank, Demi Constrictor
 NS19:Kylen, Stoneheart, Arch Nova Alpha, Xillanail, Demi Constrictor (2), Sculpted Aegis, Sacred Sanctuary, Dreamhaunter
 NS20:Constantine, Sacred Sanctuary, Bolt Crag, Dawn's Virtue, Flank, Grand Templar, Blink Providence, Ezamit Serene, Coldheart, Jet(2)
-NS21:Barracus, Dreamhaunter, Xillanail, Aggeroth Chaos, Dune Runner, Arch Nova Alpha, Trench Hurler, Jilted Baughe, Bane of Truth, Lurker Behemoth, Xanadu Ultra
-NS22:Barracus, Dreamhaunter, Xillanail, Jilted Baughe, Bane of Truth, Demi Constrictor, Obsidian, Oreworks, Erebus Outpost, Bolt Crag, Inferno Demon
+NS21:Nexor, Dreamhaunter, Xillanail, Aggeroth Chaos, Dune Runner, Arch Nova Alpha, Deserted Baughe, Lurker Behemoth, Decorated Marshall
+NS22:Barracus, Jilted Baughe, Xillanail, Demi Constrictor, Obsidian, Oreworks, Erebus Outpost, Inferno Demon, Dreamhaunter, Auger Ream,
 NS23:Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Abhorrent Recluse, Bane of Truth, Honorable Samurai, Auger Ream, Ezamit Tranq 
 NS24:Constantine, Sacred Sanctuary, Bolt Crag(2), Grand Templar, Flash Deity, Noble Defiance, Honorable Samurai, Dreamhaunter, Stoneheart, Obsidian
 NS25:Nexor, Stoneheart, Dreamhaunter, Obsidian, Xillanail, Arch Nova Alpha, Sacred Sanctuary (2), Abhorrent Recluse, Xanadu Ultra 
 NS26:Lord Silus, Dreamhaunter, Stoneheart, Shock Disruptor, Judgment Nova(2), Serrated Grater, Sacred Sanctuary, Crude Surgeon
-NS27:Krellus, Stoneheart, Dreamhaunter, Obsidian, Xillanail, Arch Nova Alpha, Lurker Behemoth, Serak United, Portal Noctil, Sculpted Aegis
-NS28:Constantine, Sacred Sanctuary, Dreamhaunter, Grand Templar, Bolt Crag(2) Longshot Deadeye, Honorable Samurai, Ayrkrane Syn, Stoneheart, Obsidian
+NS27:Krellus, Stoneheart, Dreamhaunter, Obsidian,Irrian grafter, sacred sanctuary, deserted baughe, Serak United, Portal Noctil, Lurker Behemoth,
+NS28:Constantine, Sacred Sanctuary, Dreamhaunter, Grand Templar, Bolt Crag, Stoneheart, Obsidian, Irrian Grafter, Octane's Bulwark
 NS29:Kylen, Coldheart, Jilted Baughe, Wilter Conscript, Xillanail, Lurker Behemoth, Demi Constrictor (2), Tazerious, Sacred Sanctuary, Dreamhaunter
-NS30:Constantine, Obsidian, Stoneheart, Sacred Sanctuary, Smite Forger, Bolt Crag, Grand Templar, Bolt Crag, Noble Defiance
+NS30:Constantine, Obsidian, Stoneheart, Sacred Sanctuary, Smite Forger, Bolt Crag, Honorable  Samurai, Bolt Crag 
 NS31:Arkadios, Sacred Sanctuary, Obsidian, The Adversary, Xanadu Ultra, Abhorrent Recluse, Xillanail, Arch Nova Alpha, Noble Defiance
 NS32:Arkadios, Stoneheart, Dreamhaunter, Erebus City Sector, Scorched Hellwing, Razor Pinion, Ezamit Tranq, Tempest Citadel, Gehenna Cursed
 NS33:Constantine, Ezamit Serene, dreamhaunter, Obsidian, Erebus city sector, Sacred Sanctuary, Bolt Crag , Bolt Crag , Grand Templar, drudge scimitar 
-NS34:Kylen, Stoneheart, Dreamhaunter, Demi Constrictor (2), Arch Nova Alpha, The Adversary, Gorrus Rav, Aggeroth Chaos
+NS34:Typhon Vex, Stoneheart, Dreamhaunter, Arch Nova Alpha, Aggeroth Chaos, Obsidian, Irrian Grafter, Ezamit Tranq
 NS35:Lord Silus, Shock Disruptor (2), Crude Surgeon, Judgment Nova, Stoneheart, Sacred Sanctuary, Obsidian, Dreamhaunter
 NS36:Kylen, Dreamhaunter, Demi Constrictor, The Adversary, Arch Nova Alpha, Xillanail, Ezamit Tranq, Coldheart, Sacred Sanctuary, Abhorrent Recluse
-NS37:Barracus, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Croc Oppressor, Ardenmass, Erebus City Sector, Galvanic Commando
+NS37:Arkadios, Dreamhaunter, Gehenna Cursed, Gehenna Cursed, Erebus City Sector, Erebus City Sector, Galvanic Commando, Jilted Baughe
 NS38:Arkadios, Withersnare, Demi Constrictor, Arch Nova Alpha, The Adversary, Coldheart, Obsidian, Sacred Sanctuary, Tempest Citadel, Dreamhaunter, Xanadu Ultra
 NS39:Arkadios, Dreamhaunter, Scorched Hellwing, Razor Pinion, Erebus City Sector (2), Ezamit Tranq, Gehenna Cursed (3) Rox Annihilator 
 NS40:Arkadios, Obsidian, Stoneheart, Aggeroth Chaos, Abhorrent Recluse, Arch Nova Alpha, Xillanail, Demi Constrictor, Tazerecca, Sacred Sanctuary, Dreamhaunter
 NS41:Typhon Vex, Dreamhaunter, Tazerious, Stoneheart, Obsidian, Ezamit Serene, Arch Nova Alpha, Sacred Sanctuary
-NS42:Cyrus, Infantry
-NS43:Halcyon, Obsidian, Stoneheart, Dreamhaunter, Sacred Sanctuary, Hephatat Stoic, Sculpted Aegis, Ezamit Serene, Triad Cannon
+NS42:Daedalus, Belfryze (2), Irrian Grafter, Deserted Baughe, Arch Nova Alpha, Ezamit Tranq, Erebus City Sector, Dreamhaunter
+NS43:Halcyon, Obsidian, Stoneheart, Dreamhaunter, Guardian Gamut, Irrian Grafter
 NS44:Barracus, Stoneheart, Dreamhaunter, Erebus City Sector, Oreworks, Oreworks, Grand Templar, Ayrkrane Syn, Arch Nova Alpha
-NS45:Halcyon, Stoneheart, Obsidian, Dreamhaunter, Incog Niaq, Tazerecca, Xillanail, Aggeroth Chaos
+NS45:Typhon Vex, Stoneheart, Obsidian, Dreamhaunter, Incog Niaq, Trench Hurler, Irrian Grafter, Deserted Baughe
 NS46:Constantine, Obsidian, Grand Templar, Smite Forger (2), Dawn's Virtue, Longshot Deadeye, Zodiac Harbinger, Noble Defiance
 NS47:Barracus, Obsidian, Ezamit Serene, Revolt Ranger, Arch Nova Alpha, Xillanail, Elite Squadron, Auger Ream, Withersnare, Tazerious, Tempest Keep
 NS48:Tabitha, Stoneheart, Octane's Bulwark, Dreamhaunter, Sacred Sanctuary, Obsidian, Auger Ream, Abhorrent Recluse
 NS49:Malort, Obsidian, Arch Nova Alpha, Sacred Sanctuary(2), Dreamhaunter, Auger Ream, Tazerious, Deserted Baughe
-NS50:Cyrus, Infantry
+NS50:Nexor, The Adversary, Dreamhaunter, Savant Ascendant, Ezamit Tranq, Demi Constrictor, Arch Nova Alpha, Deserted Baughe, Tazerious, Sacred Sanctuary
 
 
 
@@ -100,7 +100,7 @@ nova: /^NS.*$/
 
 
 
-WH1:Lord Silus, Arch Nova Alpha, Ezamit Serene, Abhorrent Recluse, Shock Disruptor (2), Inferno Demon, Dreamhaunter, Tumblox
+WH1:Lord Silus, Ezamit Serene, Abhorrent Recluse, Shock Disruptor (2), Inferno Demon, Dreamhaunter, Tumblox, Coldheart
 WH2:Lord Silus, Shock Disruptor(2), Primus Ultima, Sacred Sanctuary, Serrated Grater, Dreamhaunter, Coldheart, Judgment Nova
 WH3:Nexor, Dreamhaunter, Xeno Suzerain, Auger Bore, Tazerious, Xillanail, Arch Nova Alpha, Jilted Baughe, Ezamit Serene
 WH4:Barracus, Dreamhaunter, Tazerecca, Inferno Demon, Bane of Truth, Xillanail, Arch Nova Alpha, Aggeroth Chaos, Auger Ream, Xanadu Ultra
@@ -108,8 +108,8 @@ WH5:Barracus, Spiteful Raptor, Tazerecca, Steadfast Assailant, Demi Constrictor,
 WH6:Nexor, Dreamhaunter, Steadfast Assailant, Demi Constrictor, Tumblox, Inferno Demon, Xillanail, Baughe, Gorrus Rav, Ezamit Serene
 WH7:Lord Silus, Shock Disruptor, Shock Disruptor, Crude Surgeon, Dreamhaunter, Judgment Nova, Judgment Nova, Inferno Demon, Guillotine Grinder
 WH8:Barracus, Tazerecca, Demi Constrictor, Arch Nova Alpha, Dreamhaunter, Sculpted Aegis, Bane of Truth, Xillanail, Jilted Baughe(2), Xanadu Ultra
-WH9:Nexor, Dreamhaunter, Xanadu Ultra, Sculpted Aegis, Xillanail, The Adversary, Jet, Bane of Truth, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe
-WH10:Barracus, Trench Hurler, Bane of Truth, Xillanail, Tazerecca, Jet, Coldheart, Sacred Sanctuary, Arch Nova Alpha, Ezamit Serene
+WH9:Krellus, Dreamhaunter, Xanadu Ultra, Irrian Grafter, Sculpted Aegis, Xillanail, The Adversary, Jet, Bane of Truth, Arch Nova Alpha, Abhorrent Recluse
+WH10:Typhon Vex, Irrian Grafter, Bane of Truth, Dreamhaunter, Stoneheart, Sacred Sanctuary, Inferno Demon, Abhorrent Recluse, Arch Nova Elite
 WH11:Malort, Ravenous Terrorsaur, Dreamhaunter, Croc Oppressor, Aggeroth Chaos, Croc Oppressor(2), Withersnare, Veiled Defiler
 WH12:Tabitha, Steel Ram, Octane's Bulwark, Sculpted Aegis, Hephatat Stoic, Jet, Auger Ream, Coldheart, Bane of Truth
 WH13:Barracus, Demi constrictor (2), Xillanail, Arch nova alpha, Noble defiance, Dreamreaper, Jilted baughe, Sacred Sanctuary, Steadfast assailant, Withersnare
@@ -117,16 +117,16 @@ WH14:Halcyon, Blast Lancer, Hoard Arsenal, Ezamit Serene, Sculpted Aegis, Cruise
 WH15:Arkadios, Dreamhaunter, Xillanail, Arch Nova Alpha, Sculpted aegis, Abhorrent Recluse, Decorated Marshall, Bane of truth, Lurker Behemoth, Noble defiance
 WH16:Arkadios, Stoneheart, Dreamhaunter, Ezamit Serene, Xanadu Ultra, Xillanail, Arch Nova Alpha, Demi Constrictor, Bane of Truth, Sacred Sanctuary, Steadfast Assailant
 WH17:Constantine, Bolt Crag, Sacred Sanctuary, Flash Deity, Coldheart, Zodiac Harbinger, Smite Forger, Ezamit Serene, Zodiac Harbinger, Honorable Samurai, Deranged Fanatic
-WH18:Lord Silus, Shock Disruptor, Coldheart, Demi Constrictor, Dreamhaunter, Tumblox, Jet, Inferno Demon, Revolt Ranger
+WH18:Lord Silus, Shock Disruptor, Coldheart, Dreamhaunter, Tumblox, Jet, Inferno Demon, Revolt Ranger
 WH19:Barracus, Dreamhaunter, Sacred Sanctuary, Sculpted Aegis, Bolt Crag, Honorable Samurai, Bane of Truth, Xillanail, Wilter Conscript, Arch Nova Alpha, Ezamit Serene
 WH20:Arkadios, Dreamhaunter, Sacred Sanctuary, Inferno Demon, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Jilted Baughe, The Adversary
 WH21:Constantine,Coldheart, Sacred Sanctuary,Grand Templar, Smite Forger, Zodiac Harbinger, Blink Providence, Longshot Deadeye, Dreamreaper,Auger Bore
-WH22:Barracus, Sacred Sanctuary, Noble Defiance, Tazerecca, Bane of Truth, Jilted Baughe, The Adversary, Ezamit Serene, Baughe, Baughe, Auger Bore
+WH22:Barracus, Sacred Sanctuary, Noble Defiance, Tazerecca, Bane of Truth, Jilted Baughe, The Adversary, Ezamit Serene, Baughe, Auger Bore, Dreamhaunter
 WH23:Kylen, Sacred Sanctuary, Tazerecca, Demi Constrictor (2), Xillanail, Arch Nova Alpha, Jilted Baughe, Coldheart
 WH24:Constantine, Coldheart, Dreamhaunter, Sacred Sanctuary, Smite Forger, Zodiac Harbinger(2), Noble Defiance
 WH25:Alaric, Dreamreaper,Tartarus Brood, Nexusis, Zodiac Harbinger (2), Animus Geist, Halerift, Jilted Baughe
 WH26:Constantine, zodiac harbinger (3), smite forger (2), Sacred Sanctuary, coldheart, dreamreaper, ayrkrane syn 
-WH27:Barracus, Dreamhaunter, Sculpted Aegis, Tazerecca, Demi Constrictor, Inferno Demon, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Coldheart
+WH27:Barracus, Dreamhaunter, Sculpted Aegis, Tazerecca, Demi Constrictor, Inferno Demon, Xillanail, Arch Nova Alpha, Abhorrent Recl use, Coldheart
 WH28:Kylen, Xanadu Ultra, Arch Nova Alpha, Xillanail, Nexusis, Demi Constrictor, Tazerecca, Sacred Sanctuary, Dreamhaunter
 WH29:Halcyon, Decorated Marshall, Bane of Truth, Hephatat Stoic, Coldheart, Octane's Bastion, Auger Bore, Sculpted Aegis, Ezamit Serene, Steel Ram
 WH30:Arkadios, Scorched Hellwing (2), Erebus City Sector (2), Abhorrent Recluse, Ezamit Tranq, Cyclops Raged, Gehenna Cursed
@@ -134,7 +134,7 @@ WH31:Nexor, Dreamhaunter, Sacred Sanctuary, Tazerecca, Auger Bore, Xillanail, Ar
 WH32:Arkadios,  Demi Constrictor,  The Adversary,  Arch Nova Elite,  Sacred Sanctuary, Abhorrent Recluse,  Jilted Baughe,  Auger Ream, Bane of Truth
 WH33:Arkadios, Dreamhaunter, The Adversary, Xanadu Ultra, Arch Nova Alpha, Abhorrent Recluse, Tazerecca, Jilted Baughe, Auger Bore
 WH34:Barracus, Arch Nova Alpha, Jilted Baughe, Coldheart, Xillanail, Decorated Marshall, Tazerecca, Demi Constrictor
-WH35:Cyrus, Infantry
+WH35:Arkadios, Dreamhaunter, Inferno Demon, Xillanail, Abhorrent Recluse, Decorated Marshall, Dune Runner, Deserted Baughe
 WH36:Arkadios, Dreamhaunter, Sacred Sanctuary, Demi Constrictor, Withersnare, Arch Nova Alpha, Aggeroth Chaos, Coldheart, Tazerious, Lucifire
 WH37:Constantine, Sacred Sanctuary, Zodiac Harbinger, Smite Forger, Dreamhaunter, Coldheart, Ayrkrane Syn, Ezamit Serene
 WH38:Barracus, Baughe, Baughe, Arch Nova Elite, Demi Constrictor, Portal Noctil, Coldheart, Tumblox, Sacred Sanctuary, Serak United, Pherous Astute
@@ -142,12 +142,12 @@ WH39:Nexor, Jilted Baughe, Demi Constrictor, Xanadu Tetra, Xillanail, Lurker Beh
 WH40:Constantine, Sacred Sanctuary, Zodiac Harbinger (2), Smite Forger (2), bolt crag, Blink Providence, Noble Defiance
 WH41:Halcyon, Coldheart, Octane's Bastion, Hoard Arsenal, Dune Runner, Auger Ream, Guardian Gamut, Hephatat Stoic, Sculpted Aegis, Steadfast Assailant
 WH42:Cyrus, Infantry
-WH43:Constantine, Sacred Sanctuary, Bolt Crag(2), Flash Deity, Xillanail, Deft Reclaimer, Dreamreaper, Ezamit Serene, Heart Devourer, Smite Forger
+WH43:Constantine, Sacred Sanctuary, Bolt Crag(2), Noble Defiance, Xillanail, Deft Reclaimer, Dreamreaper, Ezamit Serene, Heart Devourer, Smite Forger
 WH44:Barracus, Demi Constrictor, Arch Nova Alpha, The Adversary, Dreamhaunter, Trampling Anvil, Sacred Sanctuary, Jilted Baughe, Xillanail, Xanadu Ultra
 WH45:Halcyon, Octane's Bastion, Sculpted Aegis, Indestructible Troop, Hephatat Stoic, Cruise Launcher, Auger Ream, Guardian Gamut, Ezamit Serene, Coldheart
-WH46:Barracus, Demi Constrictor, Arch Nova Alpha, Revolt Ranger, Xillanail, Steadfast Assailant, Aggeroth Chaos, Tazerecca, Bane of Truth
+WH46:Barracus, Dreamhaunter, Demi Constrictor, Arch Nova Alpha, Revolt Ranger, Xillanail, Steadfast Assailant, Aggeroth Chaos, Bane of Truth, Jet, Auger Bore
 WH47:Cyrus, Infantry
-WH48:Lord Silus, Shock Disruptor, Inferno Demon, Dreamhaunter, Judgment Nova, Jet, Bane of Truth, Jilted Baughe
+WH48:Lord Silus, Shock Disruptor, Inferno Demon, Dreamhaunter, Judgment Nova, Jet, Bane of Truth, Deserted Baughe, Trench Hurler
 WH49:Constantine, Dreamhaunter, Ezamit Serene, Coldheart, Jet, Sacred Sanctuary, Zodiac Harbinger, Deranged Fanatic, Smite Forger, Blink Providence
 WH50:Cyrus, Infantry
 
@@ -155,57 +155,56 @@ WH50:Cyrus, Infantry
 warp: /^WH.*$/
 
 
-
-VR1:Barracus, Deserted Baughe, Tazerecca, Arch Nova Elite, Dreamreaper, Spiteful Raptor, Dune Runner, Lurker Behemoth, Serak Unbound, Baughe
+VR1:Cyrus, Infantry
 VR2:barracus, Tazerecca, Dreamhaunter, steadfast assailant, Arch Nova Alpha, judgment nova, baughe, jilted baughe, Bane of Truth
-VR3:barracus, Sacred Sanctuary, withersnare, dreamreaper, croc oppressor, Arch Nova Alpha, aggeroth choas, serraco lord,  xanadu ultra
+VR3:barracus, Sacred Sanctuary, withersnare, dreamreaper, croc oppressor, Arch Nova Alpha, Aggeroth Chaos, serraco lord,  xanadu ultra
 VR4:Constantine, Sacred Sanctuary, Bolt Crag, Zodiac Harbinger, Sultan, Deathsteel Falcion, Samurai, Aasi Revealed, Rising Virtue, Precursor Idealist, Dignified Vigil
 VR5:kylen, Sacred Sanctuary, Tazerecca, demi constrictor, dreamreaper, Xillanail, Arch Nova Alpha, halerift
-VR6:Barracus, auger ream, Xillanail, Tazerecca, Bane of Truth, baughe x2, Tumblox, ezamit  serene, Arch Nova Alpha 
-VR7:barracus, Xillanail, Aggeroth chaos, jet, ezamit serene, dreamreaper, auger bore, ayrkrane syn, tazerious, Arch Nova alpha, stealthy niaq, 
-VR8:barracus, Sculpted Aegis, Tazerecca, xeno suzerin, demi constrictor, Bane of Truth, Xillanail, Arch Nova Alpha
-VR9:Nexor, Sage Ascendant, Xillanail, Ezamit Serene, Xeno Suzerain, Dreamhaunter, Arch Nova Elite, Demi Constrictor, Deserted Baughe 
-VR10:Barracus, Demi Constrictor, Tazerious, Arch Nova Alpha, Xillanail, Abhorrent Recluse, Noble Defiance, Ez Serene
-VR11:Halcyon, Halerift, Guardian Gamut, Demi Constrictor, Sculpted Aegis, Steel Ram, Stinger Battalion, Sacred Sanctuary, Abhorrent Recluse, Deserted Baughe
-VR12:Constantine, Smite Forger, Zodiac Harbinger (2), lightning crag, noble defiance, containment purifier, Heroic Knight, Dreamreaper, Deranged Fanatic, Animus Geist
-VR13:Kylen, Demi Constrictor, Arch Nova Alpha, Dreamhaunter, Xillanail, Nexusis, Xanadu Ultra, Tazerecca, Sacred Sanctuary, Coldheart
-VR14:Constantine, Smite Forger, Zodiac Harbinger, Sacred Sanctuary, Coldheart, Ezamit Serene, Heroic Knight, Zodiac Harbinger #2, Dreamreaper, Deranged Fanatic
-VR15:Barracus, Xillanail, Inferno Demon, Tazerecca, Jet, Arch Nova Alpha, Dreamhaunter, Jilted Baughe, Bane of Truth, Jilted Baughe
-VR16:constantine, Sacred Sanctuary, noble defiance (2), zodiac harbinger (2), deranged fanatic, Honorable Samurai, heroic knight, smite forger, 
-VR17:barracus, baughe (2), Arch Nova Alpha, Xillanail, Bane of Truth, Inferno Demon, tumblox, Dreamhaunter
-VR18:Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Sacred Sanctuary, Noble Defiance, Tazerecca, Ezamit Serene
-VR19:Barracus, Xillanail, Tartarus Graft, Arch Nova Alpha, Ayrkrane Syn, Dream Haunter, Tazerious, Auger Ream, Trampling Anvil, Sacred Sanctuary
-VR20:constantine, zodiac harbinger (3), dreamreaper, containment purifier, deathsteel falcion, heroic knight, smite forger, ezamit serene, jet    
-VR21:barracus, Tazerecca, xeno suzerin, auger bore, steadfast assailant, Arch Nova Alpha, demi constrictor, Xillanail, jilted baughe, Bane of Truth
-VR22:Kylen, Xillanail, Inferno Demon, Lurker Behemoth, Fenlord, Demi Constrictor, Decorated Marshall, Arch Nova Elite, Sacred Sanctuary, Jilted Baughe, Dreamhaunter
-VR23:Barracus, Xillanail, Jilted Baughe, Jilted Baughe, Bane of Truth, Xanadu Ultra, Abhorrent Recluse, Steadfast Assailant, Arch Nova Alpha, Coldheart, Auger Ream
-VR24:Halcyon, Sculpted Aegis, galereaver, auger bore, dreamreaper, hephatat stoic, Bane of Truth, octane's bulwark, stinger battalion, ezamit serene
-VR25:Constantine, Zodiac Harbinger (4), Contaminant Purifier, Xillanail, Honorable Samurai, Dreamreaper, Ezamit Serene, Coldheart
-VR26:Arkadios,  Demi Constrictor,  The Adversary,  Arch Nova Elite,  Sacred Sanctuary, Abhorrent Recluse,  Jilted Baughe,  Auger Ream, Bane of Truth
-VR27:Barracus, Arch Nova Alpha, Steadfast Assailant, Sculpted Aegis, Dreamreaper, Tazerecca, Bane of Truth, Tumblox, Demon of Flame, Jilted Baughe, Dreamreaper
-VR28:Arkadios, Gehenna Cursed(1), Hellwing(2), Erebus City Sector(2), Dreamhaunter, Abhorrent Recluse, Razor Pinion, Belfryze
-VR29:barracus, Dreamhaunter, Sacred Sanctuary, Tazerecca, demi constrictor, Bane of Truth, Xillanail, Arch Nova Alpha, Honorable Samurai, Abhorrent Recluse, Stoneheart
-VR30:barracus, zodiac harbinger (2), baughe (2), demi constrictor, auger bore, deranged fanatic, Arch Nova Alpha, jet, greatheart
-VR31:barracus, tempest keep, Sculpted Aegis, tumblox, demi constrictor, Bane of Truth, Xillanail, Arch Nova Alpha, nefarious hellspont, guardian gamut, Shock Disruptor
+VR6:Barracus, auger ream, Xillanail, Tazerecca, Bane of Truth, baughe x2, Tumblox, ezamit  serene, Arch Nova Alpha, allogarb
+VR7:barracus, Sculpted Aegis, Tazerecca, Xeno Suzerain, demi constrictor, Bane of Truth, Xillanail, Arch Nova Alpha
+VR8:Barracus, Demi Constrictor, Tazerious, Arch Nova Alpha, Xillanail, Abhorrent Recluse, Noble Defiance, Ezamit Serene
+VR9:Halcyon, Halerift, Guardian Gamut, Demi Constrictor, Sculpted Aegis, Steel Ram, Stinger Battalion, Sacred Sanctuary, Abhorrent Recluse, Deserted Baughe
+VR10:Kylen, Demi Constrictor, Arch Nova Alpha, Dreamhaunter, Xillanail, Nexusis, Xanadu Ultra, Tazerecca, Sacred Sanctuary, Coldheart
+VR11:Constantine, Smite Forger, Zodiac Harbinger, Sacred Sanctuary, Coldheart, Ezamit Serene, Heroic Knight, Zodiac Harbinger #2, Dreamreaper, Deranged Fanatic
+VR12:Barracus, Xillanail, Inferno Demon, Tazerecca, Jet, Arch Nova Alpha, Dreamhaunter, Jilted Baughe, Bane of Truth, Jilted Baughe
+VR13:constantine, Sacred Sanctuary, noble defiance (2), zodiac harbinger (2), deranged fanatic, Honorable Samurai, heroic knight, smite forger
+VR14:barracus, baughe (2), Arch Nova Alpha, Xillanail, Bane of Truth, Inferno Demon, tumblox, Dreamhaunter
+VR15:Nexor, Dreamhaunter, Xillanail, Arch Nova Alpha, Abhorrent Recluse, Sacred Sanctuary, Noble Defiance, Tazerecca, Ezamit Serene
+VR16:Barracus, Xillanail, Tartarus Graft, Arch Nova Alpha, Ayrkrane Syn, Dream Haunter, Tazerious, Auger Ream, Trampling Anvil, Sacred Sanctuary
+VR17:constantine, zodiac harbinger (3), dreamreaper, Contaminant Purifier, deathsteel falcion, heroic knight, smite forger, ezamit serene, jet    
+VR18:barracus, Tazerecca, Xeno Suzerain, auger bore, steadfast assailant, Arch Nova Alpha, demi constrictor, Xillanail, jilted baughe, Bane of Truth
+VR19:Kylen, Xillanail, Inferno Demon, Lurker Behemoth, Fenlord, Demi Constrictor, Decorated Marshall, Arch Nova Elite, Sacred Sanctuary, Jilted Baughe, Dreamhaunter
+VR20:Barracus, Xillanail, Jilted Baughe, Jilted Baughe, Bane of Truth, Xanadu Ultra, Abhorrent Recluse, Steadfast Assailant, Arch Nova Alpha, Coldheart, Auger Ream
+VR21:Halcyon, Sculpted Aegis, galereaver, auger bore, dreamreaper, hephatat stoic, Bane of Truth, octane's bulwark, stinger battalion, ezamit serene
+VR22:Constantine, Zodiac Harbinger (4), Contaminant Purifier, Xillanail, Honorable Samurai, Dreamreaper, Ezamit Serene, Coldheart
+VR23:Cyrus, Infantry
+VR24:Barracus, Arch Nova Alpha, Steadfast Assailant, Sculpted Aegis, Dreamreaper, Tazerecca, Bane of Truth, Tumblox, Demon of Flame, Jilted Baughe, Dreamreaper
+VR25:Arkadios, Gehenna Cursed(1), Hellwing(2), Erebus City Sector(2), Dreamhaunter, Abhorrent Recluse, Razor Pinion, Belfryze
+VR26:barracus, Dreamhaunter, Sacred Sanctuary, Tazerecca, demi constrictor, Bane of Truth, Xillanail, Arch Nova Alpha, Honorable Samurai, Abhorrent Recluse, Stoneheart
+VR27:barracus, zodiac harbinger (2), baughe (2), demi constrictor, auger bore, deranged fanatic, Arch Nova Alpha, jet, greatheart
+VR28:barracus, tempest keep, Sculpted Aegis, tumblox, demi constrictor, Bane of Truth, Xillanail, Arch Nova Alpha, nefarious hellspont, guardian gamut, Shock Disruptor
+VR29:Cyrus, Infantry
+VR30:Halcyon, Octane's Bastion, Phase Lancer, Steadfast Assailant, Cadmus the Dragon, Guardian Gamut, Sculpted Aegis (2), Galereaver, Blackrock Cleaver, Halerift
+VR31:Barracus, Dreamhaunter, Arch Nova Alpha, Xillanail, Tazerecca, Elite Squadron, Steadfast Assailant
 VR32:Cyrus, Infantry
-VR33:Halcyon, Octane's Bastion, Phase Lancer, Steadfast Assailant, Cadmus the Dragon, Guardian Gamut, Sculpted Aegis (2), Galereaver, Blackrock Cleaver, Halerift
-VR34:Barracus, Dreamhaunter, Arch Nova Alpha, Xillanail, Tazerecca, Elite Squadron, Steadfsat Assailant
-VR35:Cyrus, Infantry
-VR36:kylen, arch nova elite (2), judgment nova, dreamreaper, demi constrictor, revolt ranger, baughe, ezamit serene
-VR37:barracus, jilted baughe, Arch Nova Alpha, Xillanail, Inferno Demon, dreamreaper, demi constrictor, Sculpted Aegis, auger bore,  charincinerator
-VR38:barracus, Sacred Sanctuary, Tazerecca, Bane of Truth, Xillanail, Arch Nova Alpha, jilted baughe, trench hurler, ezamit serene
-VR39:Nexor,Abhorrent Recluse, Dreamreaper, Xillanail, Dune Runner, Constrictor, Baughe, Baughe, Sacred Sanctuary, Tumblox, Ezamit Serene
-VR40:Barracus, Auger Ream, Arch Nova Alpha, Nexusis, Bane of Truth, Deathsteel Falchion, Xillanail, Jilted Baughe, Dreamreaper, Ezamit Serene, Jilted Baughe
-VR41:barracus, demi constrictor, Tazerecca, auger bore, Bane of Truth, arch nova, alpha,Xillanail, trench hurler
+VR33:kylen, arch nova elite (2), judgment nova, dreamreaper, demi constrictor, revolt ranger, baughe, ezamit serene
+VR34:barracus, jilted baughe, Arch Nova Alpha, Xillanail, Inferno Demon, dreamreaper, demi constrictor, Sculpted Aegis, auger bore,  charincinerator
+VR35:barracus, Sacred Sanctuary, Tazerecca, Bane of Truth, Xillanail, Arch Nova Alpha, jilted baughe, trench hurler, ezamit serene
+VR36:Nexor, Abhorrent Recluse, Dreamreaper, Xillanail, Dune Runner, Constrictor, Jilted Baughe-4, Baughe, Sacred Sanctuary, Arch Nova Elite, Ezamit Serene
+VR37:Barracus, Auger Ream, Arch Nova Alpha, Nexusis, Bane of Truth, Deathsteel Falcion, Xillanail, Jilted Baughe, Dreamreaper, Ezamit Serene, Jilted Baughe
+VR38:barracus, demi constrictor, Tazerecca, auger bore, Bane of Truth, arch nova alpha, Xillanail, trench hurler
+VR39:Cyrus, Infantry
+VR40:Halcyon, Guardian Gamut (2), Galereaver, Garrison Fortifier, Indestructible Troop, Auger Ream, Hephatat Stoic, Sculpted Aegis, Sacred Sanctuary
+VR41:Halcyon, Halerift, Ezamit Serene, Trench Hurler, Heroic Knight, Arch Nova Alpha, Bane of Truth, Auger Ream, Steadfast Assailant, Sculpted Aegis, Shining Sanctuary
 VR42:Cyrus, Infantry
-VR43:Halcyon, Guardian Gamut (2), Galereaver, Garrison Fortifier, Indestructible Troop, Auger Ream, Hepathat Stoic, Sculpted Aegis, Sacred Sanctuary
-VR44:Halcyon, Halerift, Ezamit Serene, Trench Hurler, Heroic Knight, Arch Nova Alpha, Bane of Truth, Auger Ream, Steadfast Assailant, Sculpted Aegis, Shining Sanctuary
-VR45:Cyrus, Infantry
-VR46:Cyrus, Infantry
-VR47:nexor, xeno suzerain, demi constrictor, samurai, Lurker Behemoth, Xillanail, Arch Nova Alpha, fenlord, jilted baughe, ezamit serene, xanadu ultra
-VR48:barracus, Arch Nova Alpha, demi constrictor, auger ream, Tazerecca, Dreamhaunter, Sacred Sanctuary, Lurker Behemoth, Incog Niaq, Xillanail
+VR43:Barracus, Deserted Baughe, Tazerecca, Arch Nova Elite, Dreamreaper, Spiteful Raptor, Dune Runner, Lurker Behemoth, Serak Unbound, Baughe
+VR44:nexor, xeno suzerain, demi constrictor, samurai, Lurker Behemoth, Xillanail, Arch Nova Alpha, fenlord, jilted baughe, ezamit serene, xanadu ultra
+VR45:barracus, Arch Nova Alpha, demi constrictor, auger ream, Tazerecca, Dreamhaunter, Sacred Sanctuary, Lurker Behemoth, Incog Niaq, Xillanail
+VR46:Barracus, Dune Runner, Xillanail, Inferno Demon, Inferno Demon, Dreamhaunter, Fenlord, Deserted Baughe, Gorrus Rav, Arch Nova Alpha
+VR47:Cyrus, Infantry
+VR48:Cyrus, Infantry
 VR49:Cyrus, Infantry
-VR50:barracus, Sacred Sanctuary, Sculpted Aegis, xeno suzerain, demi constrictor (2), Arch Nova Alpha, jilted baughe, ezamit serene
+VR50:Cyrus, Infantry
 
 void: /^VR.*$/
 
