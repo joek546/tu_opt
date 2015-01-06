@@ -1,6 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Brawl of Ancients -->
+	<fusion_recipe>
+		<card_id>13722</card_id>
+		<resource card_id='13721' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13728</card_id>
+		<resource card_id='13727' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>12566</card_id>
+		<resource card_id='12565' number='2' />
+	</fusion_recipe>
+
+<!-- Infernal Cache -->
+
+	<fusion_recipe>
+		<card_id>13704</card_id>
+		<resource card_id='13703' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13710</card_id>
+		<resource card_id='13709' number='2' />
+	</fusion_recipe>
+
+<!-- Dutiful Box -->
+
+	<fusion_recipe>
+		<card_id>13650</card_id>
+		<resource card_id='13649' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13656</card_id>
+		<resource card_id='13655' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13632</card_id>
+		<resource card_id='13631' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13638</card_id>
+		<resource card_id='13637' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13668</card_id>
+		<resource card_id='13667' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13674</card_id>
+		<resource card_id='13673' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13596</card_id>
+		<resource card_id='13595' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13602</card_id>
+		<resource card_id='13601' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13614</card_id>
+		<resource card_id='13613' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13620</card_id>
+		<resource card_id='13619' number='2' />
+	</fusion_recipe>
+
+<!-- January Week 1 Reward -->
+
+	<fusion_recipe>
+		<card_id>13686</card_id>
+		<resource card_id='13685' number='2' />
+	</fusion_recipe>
+
+<!-- Veiled Cache -->
+	<fusion_recipe>
+		<card_id>13470</card_id>
+		<resource card_id='13469' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13476</card_id>
+		<resource card_id='13475' number='2' />
+	</fusion_recipe>
+	
+	<!-- Immortal Box -->
+	
+	<fusion_recipe>
+		<card_id>13542</card_id>
+		<resource card_id='13541' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13548</card_id>
+		<resource card_id='13547' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13560</card_id>
+		<resource card_id='13559' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13566</card_id>
+		<resource card_id='13565' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13506</card_id>
+		<resource card_id='13505' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13512</card_id>
+		<resource card_id='13511' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13524</card_id>
+		<resource card_id='13523' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13530</card_id>
+		<resource card_id='13529' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13578</card_id>
+		<resource card_id='13577' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13584</card_id>
+		<resource card_id='13583' number='2' />
+	</fusion_recipe>
+
+<!-- Plunder Cache -->
+	<fusion_recipe>
+		<card_id>13452</card_id>
+		<resource card_id='13451' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13458</card_id>
+		<resource card_id='13457' number='2' />
+	</fusion_recipe>
+
+<!-- Commendation Brawl -->
+	
+	<fusion_recipe>
+		<card_id>13488</card_id>
+		<resource card_id='13487' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13494</card_id>
+		<resource card_id='13493' number='2' />
+	</fusion_recipe>
+
+<!-- Fortify Pack -->
+
+	<fusion_recipe>
+		<card_id>8281</card_id>
+		<resource card_id='8280' number='2' />
+	</fusion_recipe>
+		<fusion_recipe>
+		<card_id>8287</card_id>
+		<resource card_id='8286' number='2' />
+	</fusion_recipe>
+
 <!-- Comrade Box -->
 
 	<fusion_recipe>
@@ -262,10 +422,6 @@
 		<card_id>12560</card_id>
 		<resource card_id='12559' number='2' />
 	</fusion_recipe>
-	<!-- <fusion_recipe>
-		<card_id>12566</card_id>
-		<resource card_id='12565' number='2' />
-	</fusion_recipe> -->
 	<fusion_recipe>
 		<card_id>12572</card_id>
 		<resource card_id='11149' number='2' />

@@ -1,5 +1,5 @@
-Emp
-Const
+Empress
+Constantine
 Barracus
 Nexor
 Lord Silus
@@ -23,7 +23,8 @@ Valiant Knight
 Honorable Samurai
 Auger Ream
 Astral Strider
-
+Chainslicer
+Trench Hurler
 
 
 

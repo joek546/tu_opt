@@ -42,6 +42,111 @@ RF5: Arkadios, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunt
 RF6: Arkadios, Gehenna Cursed, Erebus City Sector, Abhorrent Recluse, Dreamhaunter, Erebus City Sector, Cyclops Raged, Hellwing, Avian Baron
 
 
+Bairs011501: Arkadios, Sacred Sanctuary, Stoneheart, Arch Nova Alpha, Jilted Baughe, Demi Constrictor, Dreamhaunter, Tazerious
+Bairs011502: Barracus, Jilted Baughe, Abhorrent Recluse,  xillanail, Dreamhaunter, Tartarus Graft, Steadfast Assailant
+Bairs011503: Constantine, Stoneheart, Tempest Citadel, Scorched Hellwing, Savant Ascendant, Serraco Sire, Gehenna Cursed, Razor Pinion, Erebus City Sector, Dreamhaunter
+Bairs011504: Nexor, Ezamit Serene, Bane of Truth,  Deserted Baughe, Sacred Sanctuary, Dreamhaunter, Revolt Ranger, Baughe
+Bairs011505: Lord Silus, Ezamit Tranq, Shock Disruptor,  Obsidian, Grizrael the Damned, Omega Nexus, Stoneheart, Chainslicer, Dreamhaunter
+Bairs011506: Kylen, Dune Runner, Ezamit Serene,  Arch Nova Alpha,  Xillanail, Dreamhaunter, Lurker Behemoth, Jilted Baughe
+Bairs011507: Lord Silus, Trench Hurler, Shock Disruptor (2), Sacred Sanctuary,  Dreamhaunter, Ezamit Serene
+Bairs011508: Barracus, Tumblox, Cryptic Niaq, Gorrus Rav, Jilted Baughe, Demon of Flame, Arch Nova Alpha, Demi Constrictor, Aggeroth Chaos
+Bairs011509: Lord Silus, Chainslicer, Crucible Jager, Shock Disruptor (2), Dartron, Steel Plant, Crude Surgeon (2), Loaded Warehouse, Sacred Sanctuary
+Bairs011510: Krellus, Deserted Baughe, Obsidian, Stoneheart, Ezamit Tranq, Portal Noctil, Dreamhaunter, Sacred Sanctuary
+Bairs011511: Barracus, Revolt Ranger, Bane of Truth, Xillanail, Arch Nova Alpha,  Demi Constrictor, Sacred Sanctuary, Dreamhaunter, Steadfast Assailant, Aggeroth Chaos, Tazerious
+Bairs011512: Typhon Vex, Bane of Truth, Steadfast Assailant, Chainslicer, Shock Disruptor (2), Dreamhaunter, Sacred Sanctuary, Stoneheart
+Bairs011513: Constantine, Irrian Grafter, Obsidian, Gehenna Cursed, Erebus City Sector, Stoneheart, Octane s Bulwark, Grand Templar, Dreamhaunter
+Bairs011514: Typhon Vex, Stoneheart, Greatheart, Obsidian, Sacred Sanctuary (2), Ezamit Tranq, Dreamhaunter, Aggeroth Chaos, Tazerecca, Aggeroth Chaos
+Bairs011515: Lord Silus, Obsidian, Omega Nexus, Rampage Boomer, Shock Disruptor (2), Stoneheart, Chainslicer, Sacred Sanctuary
+Bairs011516: Nexor, Arch Nova Alpha, Dreamhaunter, Baughe, Demi Constrictor, Blaze Nado
+Bairs011517: Tabitha, Dune Runner (2), Tempest Citadel, Stoneheart, Irrian Grafter, Obsidian, Guardian Gamut
+Bairs011518: Kylen, Erebus City Sector, Arch Nova Alpha, Gehenna Cursed, Demi Constrictor (2), Ezamit Tranq, Deserted Baughe, Dreamhaunter
+Bairs011519: Tabitha, Dune Runner, Octane s Bulwark, Guardian Gamut, Obsidian, Bane of Truth, Stoneheart
+Bairs011520: Daedalus, Bane of Truth, Jilted Baughe, Ezamit Serene, Octane s Bulwark, Dune Runner (2)
+Bairs011521: Lord Silus, Scorched Hellwing, Panomen, Dreamhaunter, Stoneheart, Grizrael the Damned, Tempest Citadel, Jyack, Shock Disruptor, Obsidian
+Bairs011522: Barracus, Xanadu Ultra, Arch Nova Alpha, Deserted Baughe, Xillanail (2), Sculpted Aegis, The Adversary, Dreamhaunter
+Bairs011523: Nexor, Demi Constrictor, Deserted Baughe, Dreamhaunter, Xillanail (2), Arch Nova Alpha (2), Sacred Sanctuary, Portal Noctil
+Bairs011524: Lord Silus, Shock Disruptor (3), Sacred Sanctuary, Chainslicer, Trench Hurler, Erebus City Sector, Oreworks
+Bairs011525: Constantine, Zodiac Harbinger (3), Contaminant Purifier, Obsidian, Stoneheart, Sacred Sanctuary, Smite Forger, Dreamhaunter
+Bairs011526: Typhon Vex, Sacred Sanctuary, Stoneheart, Shock Disruptor (2), Ezamit Serene, Dreamhaunter, Revolt Ranger, Chainslicer
+Bairs011527: Constantine, Stoneheart, Irrian Grafter, Jilted Baughe, Obsidian, Tazerious, Bolt Crag, Sacred Sanctuary, Dreamhaunter
+Bairs011528: Constantine, Dire Retriever, Jet, Halerift, Blink Providence, Equalizer, Sacred Sanctuary, Dreamhaunter, Zodiac Harbinger
+Bairs011529: Lord Silus, Shock Disruptor, Obsidian, Aggeroth Chaos, Dreamhaunter, Judgment Nova, Stoneheart, Ezamit Tranq, Octane s Bulwark
+Bairs011530: Arkadios, Erebus City Sector (2), Gehenna Cursed (3), Dreamhaunter, Scorched Hellwing (2)
+Bairs011531: Arkadios, Dreamhaunter, Abhorrent Recluse,  Deserted Baughe, Gehenna Cursed, Arch Nova Alpha, Erebus City Sector, Ezamit Tranq
+Bairs011532: Lord Silus, Dreamhaunter, Tempest Citadel, Shock Disruptor, Trench Hurler, Trampling Anvil, Deserted Baughe, Arch Nova Alpha
+Bairs011533: Tabitha, Octane s Bulwark (2), Ezamit Tranq, Guardian Gamut, Dune Runner (2), Bane of Truth, Obsidian, Stoneheart
+Bairs011534: Malort, Baughe, Allogarb, Aggeroth Chaos, Ezamit Tranq, Obsidian, Jilted Baughe, Chainslicer
+Bairs011535: Daedalus, Trench Hurler, Xillanail, Stoneheart, Sacred Sanctuary (2), High Constable, Dreamhaunter, Deserted Baughe, Abhorrent Recluse
+Bairs011536: Tabitha, Hephatat Stoic, Octane s Bulwark (2), Ezamit Tranq, Stoneheart, Obsidian, Serraco Sire, Dreamhaunter
+Bairs011537: Daedalus, Dreamhaunter, Nubassage, Demi Constrictor, Jilted Baughe, Erebus City Sector, Serak United, Arch Nova Alpha, Stoneheart
+Bairs011538: Lord Silus, Shock Disruptor (4), Extinguisher of Hope, Chainslicer, Dreamhaunter, Ezamit Tranq
+Bairs011539: Barracus, Dreamhaunter, Stoneheart, Bane of Truth, Irrian Grafter, Obsidian, Sacred Sanctuary, Deserted Baughe, Abhorrent Recluse
+Bairs011540: Typhon Vex, Sacred Sanctuary, Shock Disruptor, Trench Hurler, Dreamhaunter, Octane s Bulwark, Bane of Truth, Abhorrent Recluse, Greatheart, Jet
+Bairs011541: Barracus, Elite Brigade, Irrian Grafter, High Constable, Deserted Baughe, Dreamhaunter, Inferno Demon, Arch Nova Alpha, Bolt Crag, Abhorrent Recluse, Sacred Sanctuary
+Bairs011542: Constantine, Zodiac Harbinger (3), Sacred Sanctuary, Honorable Samurai, Smite Forger (2), Roving Pariah
+Bairs011543: Halcyon, Stoneheart, Ezamit Serene, Guardian Gamut, Jyack, bane of Truth, Hephatat Stoic, Steadfast Assailant, General Dovan, Sculpted Aegis, Dreamhaunter
+Bairs011544: Daedalus, Decorated Marshall, Auger Ream, Ayrkrane Syn, Bane of Truth,  Trampling Anvil, Halerift, Trench Hurler, Sacred Sanctuary, Incog Niaq, Elite Brigade
+Bairs011545: Halcyon, Guardian Gamut, Dreamhaunter, Justice Victorious (2), Nebucadnezzar, Obsidian, Serraco Sire, Stalwart Disposer, Dune Runner, Stoneheart
+Bairs011546: Barracus, Tazerecca, Sacred Sanctuary, Xillanail, Arch Nova Alpha, Auger Ream, Greatheart, Jet, Deserted Baughe
+Bairs011547: Constantine, Razor Pinion, Council s Hubris, Grand Templar, Smite Forger, Roving Pariah (2), Erebus City Sector (2), Dreamhaunter
+Bairs011548: Typhon Vex, Stoneheart, Dreamhaunter, Auger Ream, Obsidian, Chainslicer, Guardian Gamut, Octane s Bulwark
+Bairs011549: Constantine, Erebus City Sector, Obsidian, Ezamit Tranq, Arch Nova Alpha, Dreamhaunter, Tempest Citadel, Stoneheart, Grand Templar, Bolt Crag (2)
+Bairs011550: Barracus, Arch Nova Alpha, Ezamit Serene, Deserted Baughe, Greatheart, Fenlord, Jet, Xillanail, Elite Brigade, Dreamhaunter, Tazerious
+Bairs011551: Malort, Stoneheart, Obsidian, Erebus City Sector (2), Gehenna Cursed (2), Dreamhaunter, Scorched Hellwing (3)
+Bairs011552: Barracus, Irrian Grafter, Fenlord, Dune Runner, Jet, Ezamit Tranq, Trench Hurler, Inferno Demon, Jilted Baughe (2), Dreamhaunter
+Bairs011553: Arkadios, Dune Runner, Chainslicer, Deserted Baughe, Abhorrent Recluse, Steadfast Assailant, Arch Nova Alpha, Honorable Samurai, Tazerious, Sacred Sanctuary
+Bairs011554: Malort, Baughe, Seize, Jilted Baughe, Inviolable Bema, Dreamhaunter, Obsidian, Stoneheart, Irrian Grafter
+Bairs011555: Constantine, Sacred Sanctuary, Bolt Crag (2), Response Fleet, Stoneheart, Grand Templar, Force Meld, Tempest Citadel, Flash Deity, Sacred Equalizer
+Bairs011556: Barracus, Arch Nova Alpha, Jilted Baughe, Ezamit Serene, Dreamhaunter, Fenlord, Jilted Baughe (3)
+Bairs011557: Typhon Vex, Auger Ream, Deserted Baughe, Arch Nova Alpha, Trench Hurler, Judgment Nova, Greatheart, Jilted Baughe, Jet, Dreamhaunter, Bane of Truth
+Bairs011558: Typhon Vex, Bolt Crag (2), Serraco Sire, Dreamhaunter, Obsidian,  Sacred Sanctuary, Stoneheart, Ezamit Tranq
+Bairs011559: Nexor, Jilted Baughe (2), Astral Strider, Fenlord, Sacred Sanctuary, The Adversary
+Bairs011560: Nexor, Elite Brigade, Deserted Baughe, Bane of Truth, Arch Nova Alpha, Dreamhaunter, Auger Ream, Abhorrent Recluse, Xillanail
+Bairs011561: Malort, Withersnare, Mongarus, Ravenous Terrorsaur, Shapesavant, Repulse Ghoul, Abhorrent Recluse, Razarp Shank, Veiled Defiler
+Bairs011562: Tabitha, Octane s Bulwark, Dune Runner (2), Dreamhaunter, Obsidian, Bane of Truth, Stoneheart, Irrian Grafter
+Bairs011563: Typhon Vex, Guardian Gamut, Dune Runner, Stoneheart, Dreamhaunter, Sacred Sanctuary, Auger Ream, Obsidian, Bane of Truth
+Bairs011564: Lord Silus, Shock Disruptor(2), Trench Hurler, Ezamit Tranq, Dreamhaunter, Trampling Anvil, Chainslicer, Sacred Sanctuary
+Bairs011565: Constantine, Razor Pinion (2), Dreamhaunter, Fate Empyral, Obsidian, Sacred Sanctuary, Stoneheart, Arindite, Tempest Citadel
+Bairs011566: Arkadios, Gorrus Rav, Sacred Sanctuary, Dreamhaunter, Chainslicer, Auger Ream, Stoneheart, Abhorrent Recluse, Arch Nova Alpha, Tazerious, Aggeroth Chaos
+Bairs011567: Barracus, Shock Disruptor, Octane s Bulwark (2), Stoneheart, Obsidian, Chainslicer, Dreamhaunter
+Bairs011568: Typhon Vex, Dune Runner, Chainslicer, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Octane s Bulwark, Obsidian, Stoneheart, Bane of Truth
+Bairs011569: Arkadios, Savant Ascendant, Ezamit Tranq, Abhorrent Recluse, The Adversary, Demi Constrictor, Dreamhaunter, Scorched Hellwing, Deserted Baughe, Sacred Sanctuary, Arch Nova Alpha
+Bairs011570: Typhon Vex, Stoneheart, Obsidian, Sacred Sanctuary (2), Dreamhaunter, Abhorrent Recluse, Bane of Truth, Auger Ream, Jilted Baughe
+Bairs011571: Malort, Erebus City Sector (2), Scorched Hellwing (2), Jyack, Stoneheart, Gehenna Cursed, Chainslicer, Vegnascourge, Ezamit Tranq
+Bairs011572: Lord Silus, Stoneheart, Obsidian, Bane of Truth, Serraco Lord, Sacred Sanctuary, Tempest Citadel, Dreamhaunter, Divine Equalizer, Shock Disruptor
+Bairs011573: Lord Silus, Razor Pinion, Chainslicer, Stoneheart, Obsidian, Deserted Baughe, Nebucadnezzar, Erebus City Sector, Ezamit Tranq, Savant Ascendant
+Bairs011574: Nexor, Deserted Baughe, Stoneheart, Obsidian, Serak United, Xillanail, Neo Dredge, Dreamhaunter
+Bairs011575: Malort, Irrian Grafter, Aggeroth Chaos, Ravenous Terrorsaur, Croc Oppressor (2), Veiled Defiler, Nerve Database, Dreamhaunter
+Bairs011576: Lord Silus, Portal Noctil, Oreworks, Stoneheart, Obsidian, Deserted Baughe, Savant Ascendant, The Adversary, Ezamit Tranq
+Bairs011577: Malort, Sacred Sanctuary (2), Abhorrent Recluse (2), Demi Constrictor, Obsidian, Arch Nova Alpha, Auger Ream, Withersnare, Dreamhaunter
+Bairs011578: Constantine, Chainslicer, Trishot Trike, Obsidian, Stoneheart, Blink Providence, Steel Plant, Shock Disruptor, Sacred Sanctuary, Dreamhaunter
+Bairs011579: Tabitha, Sacred Sanctuary, Dreamhaunter, Obsidian, Bane of Truth, Guardian Gamut, Dune Runner, Cruise Launcher, Octane s Bulwark, Nebucadnezzar, Chainslicer
+Bairs011580: Lord Silus, Shock Disruptor (2), Jilted Baughe (2), Sacred Sanctuary, Obsidian, Stoneheart, Ezamit Tranq, Dreamhaunter
+Bairs011581: Malort, Erebus City Sector, Gehenna Cursed, Irrian Grafter, Ezamit Tranq, Dreamhaunter, Jilted Baughe, Arch Nova Alpha
+Bairs011582: Nexor, Tazerious, Chainslicer, Dreamhaunter, Xillanail, Aggeroth Chaos, Arch Nova Alpha, Greatheart, Sacred Sanctuary
+Bairs011583: Lord Silus, Judgment Nova (2), Shock Disruptor, Dreamhaunter, Serraco Lord, Sacred Sanctuary, Serrated Grater, Chainslicer
+Bairs011584: Barracus, Veiled Defiler, Zodiac Harbinger (2), Xillanail, Steel Ram, Warp Alchemist
+Bairs011585: Arkadios, Ezamit Tranq, Sacred Sanctuary, Deserted Baughe, Savant Ascendant, Demi Constrictor, Dreamhaunter, Arch Nova Alpha, The Adversary, Scorched Hellwing
+Bairs011586: Lord Silus, Shock Disruptor (3), Dreamhaunter, Chainslicer, Obsidian, Ezamit Tranq, Stoneheart
+Bairs011587: Constantine, Dreamhaunter, Stoneheart, Sacred Sanctuary (2), Chainslicer, Obsidian, Smite Forger
+Bairs011588: Barracus, Artemis Arc Core, Jet, Dreamhaunter, Abhorrent Recluse, Deserted Baughe, Xeno Suzerain, Bane of Truth, Arch Nova Alpha
+Bairs011589: Daedalus, Demi Constrictor, Dreamhaunter, Arch Nova Alpha, Stoneheart, Irrian Grafter, Obsidian, Tazerious, Serraco Sire, Jilted Baughe, Ezamit Tranq
+Bairs011590: Typhon Vex, Sacred Sanctuary (2), Shock Disruptor, Incog Niaq, Portal Noctil, Dreamhaunter, Stoneheart, Xanadu Ultra, Obsidian
+Bairs011591: Lord Silus, Shock Disruptor (2), Obsidian, Sacred Sanctuary, Chainslicer, Omega Nexus, Stoneheart, Rampage Boomer
+Bairs011592: Constantine, Dreamhaunter, Xanadu Ultra, Obsidian, Stoneheart, Sacred Sanctuary (2), Neo Dredge,  Irrian Grafter
+Bairs011593: Krellus, Elite Brigade, Dreamhaunter, Lurker Behemoth, Tazerious, Neo Dredge, Xillanail, Arch Nova Alpha (2), Jet, Sacred Sanctuary
+Bairs011594: Barracus, Scorched Hellwing, Sacred Sanctuary, Withersnare (2), Spiteful Raptor, Nerve Database, Shapesavant, Stoneheart, Obsidian
+Bairs011595: Arkadios, Dreamhaunter, Scorched Hellwing, Erebus City Sector (2), Ezamit Tranq, Stoneheart, Gehenna Cursed (3)
+Bairs011596: Typhon Vex, Stoneheart, Sacred Sanctuary, Trench Hurler, Dune Runner, Obsidian, Serraco Sire, Dreamhaunter, Ezamit Tranq
+Bairs011596: Tabitha, Tempest Citadel, Obsidian, Trinity Railshot, Stoneheart, Dreamhaunter, Nebucadnezzar, Guardian Gamut, Octane s Bulwark, Justice Victorious, Ezamit Tranq
+Bairs011597: Arkadios, Aggeroth Chaos, Abhorrent Recluse, Obsidian, Sacred Sanctuary, Irrian Grafter, Xillanail, Stoneheart, Auger Ream, Arch Nova Alpha, Dreamhaunter
+Bairs011598: Typhon Vex,  Obsidian, Dreamhaunter, Erebus City Sector, Irrian Grafter, Deserted Baughe, Scorched Hellwing, Stoneheart, Serraco Sire
+Bairs011599: Nexor, Ezamit Tranq, Savant Ascendant, Obsidian, Scorched Hellwing, Gehenna Cursed (2), Erebus City Sector (2), Grand Templar, Stoneheart
+Bairs0115100: Petrisis, Bane of Truth, Highstorm Bastille, Trinity Railshot (2), Grizrael the Damned, Dreamhaunter, Trigger Mark
+Bairs0115101: Lord Silus, Shock Disruptor (3), Chainslicer, Obsidian, Stoneheart, Ezamit Tranq, Dreamhaunter
+
+Bairs: /^Bairs0115.*$/
+
 
 NS1:Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
 NS2:Arkadios, Dreamhaunter, Scorched Hellwing (2), Erebus City Sector (2), Abhorrent Recluse, Gehenna Cursed (2), Obsidian, Tarantachnid
