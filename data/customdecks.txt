@@ -148,6 +148,58 @@ Bairs0115101: Lord Silus, Shock Disruptor (3), Chainslicer, Obsidian, Stoneheart
 Bairs: /^Bairs0115.*$/
 
 
+NBDef01: Typhon Vex, Dreamhaunter, Chainslicer, Sacred Sanctuary, Obsidian, Aggeroth Chaos, Abhorrent Recluse, Bane of Truth, Auger Ream
+NBDef02: Typhon Vex, Dreamhaunter, Stoneheart, Tempest Citadel, Jyack, Obsidian, Serraco Sire, Portal Noctil
+NBDef03: Arkadios, Obsidian, Stoneheart, Sacred Sanctuary, Tazerious, Dreamhaunter, Abhorrent Recluse, Deserted Baughe, Auger Ream
+NBDef04: Malort, Ravenous Terrorsaur, Dreamhaunter, Croc Oppressor, Croc Oppressor, Aggeroth Chaos, Aggeroth Chaos, Aggeroth Chaos, Coldheart
+NBDef05: Kylen, Chainslicer, Demi Constrictor, Sacred Sanctuary, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, The Adversary, Savant Ascendant, Deserted Baughe
+NBDef06: Lord Silus, Chainslicer, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Ezamit Tranq, Obsidian, Serraco Lord, Serraco Lord
+NBDef07: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Chainslicer, Obsidian, Ezamit Tranq, Abhorrent Recluse, Ezamit Tranq, Stoneheart, Sacred Sanctuary
+NBDef08: Krellus, Demi Constrictor, Stoneheart, Obsidian, Arch Nova Alpha, Ezamit Tranq, Portal Noctil, Ezamit Tranq, Deserted Baughe, Deserted Baughe, Portal Noctil
+NBDef09: Arkadios, Ravenous Terrorsaur, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Sacred Sanctuary, Abhorrent Recluse, Abhorrent Recluse, Crypt Burrower
+NBDef10: Nexor, Xillanail, Deserted Baughe, Dreamhaunter, Neo Dredge, Tazerious, Demi Constrictor, Arch Nova Alpha, Stoneheart, Obsidian, Sacred Sanctuary
+NBDef11: Typhon Vex, Stoneheart, Obsidian, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Honorable Samurai, Auger Ream, Arch Nova Alpha, Honorable Samurai, Auger Ream
+NBDef12: Lord Silus, Shock Disruptor, Sacred Sanctuary, Obsidian, Dreamhaunter, Chainslicer, Shock Disruptor, Shock Disruptor, Abhorrent Recluse
+NBDef13: Constantine, Steel Plant, Sacred Sanctuary, Bolt Crag, Chainslicer, Honorable Samurai, DreamHaunter, Stoneheart, Obsidian, Irrian Grafter, Irrian Grafter
+NBDef14: Barracus, Obsidian, Xanadu Ultra, Abhorrent Recluse, Xillanail, Arch Nova Alpha, Sacred Sanctuary, Sacred Sanctuary, Dreamhaunter, Dreamhaunter
+NBDef15: Lord Silus, Shock Disruptor, Shock Disruptor, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Judgment Nova, Trench Hurler, Crude Surgeon, Guillotine Grinder
+NBDef16: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Portal Noctil, Arch Nova Alpha
+NBDef17: Typhon Vex, Dreamhaunter, Stoneheart, Gehenna Cursed, Erebus City Sector,  Obsidian, Ezamit Tranq, Grand Templar 
+NBDef18: Tabitha, Nebucadnezzar, Octane's Bastion, Obsidian, Cruise Launcher, Sacred Sanctuary, Guardian Gamut, Chainslicer, Dune Runner, Auger Ream, Dreamhaunter
+NBDef19: Kylen, Demi Constrictor, Dreamhaunter, Stoneheart, Pherous Astute, The Adversary, Ezamit Tranq, Arch Nova Alpha, Portal Noctil, Deserted Baughe, Tazerecca
+NBDef20: Lord Silus, Shock Disruptor, Stoneheart, Artemis Arc Core, Chainslicer, Ezamit Tranq, Dreamhaunter, Sacred Sanctuary, Obsidian, Trench Hurler
+NBDef21: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Trench Hurler, Aggeroth Chaos, Aggeroth Chaos
+NBDef22: Constantine, Chainslicer, Octane's Bulwark, Stoneheart, Obsidian, Dreamhaunter, Guardian Gamut, Auger Ream, Bane of Truth
+NBDef23: Lord Silus, Shock Disruptor, Shock Disruptor, Shock Disruptor, Stoneheart, Sacred Sanctuary , Ezamit Tranq , Chainslicer, Obsidian, Dreamhaunter, Coldheart
+NBDef24: Arkadios , Xanadu Ultra , Arch Nova Alpha , Xillanail , Obsidian , Abhorrent Recluse, The Adversary, Sacred Sanctuary, Sacred Sanctuary, Deserted Baughe
+NBDef25: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Chainslicer, Obsidian, Sacred Sanctuary, Bane of Truth, Trench Hurler
+NBDef26: Constantine, Razor Pinion, Dreamhaunter, Obsidian, Erebus City Sector, Razor Pinion, Scorched Hellwing, Scorched Hellwing
+NBDef27: Constantine, Dreamhaunter, Scorched Hellwing, Razor Pinion, Erebus City Sector, Tempest Citadel, Ezamit Tranq, Stoneheart, Savant Ascendant, Gehenna Cursed
+NBDef28: Lord Silus, Dreamhaunter, Shock Disruptor, Stoneheart, Sacred Sanctuary, Obsidian, Ezamit Tranq, Bane of Truth, Chainslicer
+NBDef29: Typhon Vex, Dreamhaunter, Demi Constrictor, Obsidian, Stoneheart, Shining Sanctuary, Demi Constrictor, Abhorrent Recluse, Ezamit Tranq, Ezamit Tranq
+NBDef20: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Portal Noctil, Tazerious
+NBDef31: Lord Silus, Shock Disruptor, Shock Disruptor, Sacred Sanctuary, Obsidian, Trench Hurler, Dreamhaunter
+NBDef32: Krellus, Dreamhaunter, Sacred Sanctuary, Demi Constrictor, Auger Ream, Arch Nova Alpha, Abhorrent Recluse, The Adversary, Ezamit Tranq, Chainslicer
+NBDef33: Arkadios, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Aggeroth Chaos, Abhorrent Recluse, Arch Nova Alpha, Auger Ream
+NBDef34: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Ezamit Tranq, Tazerious, Aggeroth Chaos, Sacred Sanctuary, Inferno Demon
+NBDef35: Typhon Vex, dreamhaunter, shock disruptor, shock disruptor, stoneheart, tempest citadel, erebus city sector, ezamit tranq, deserted baughe
+NBDef36: Tabitha, Stoneheart, Octanes Bulwark, Sacred Sanctuary, Dreamhaunter, Obsidian, Smite Forger
+NBDef37: Typhon Vex , Dreamhaunter , Stoneheart , Sacred Sanctuary, Chainslicer, Obsidian, Ezamit Tranq , Arch Nova Alpha, Aggeroth Chaos 
+NBDef38: Nexor, Razor Pinion, Nebucadnezzar, Erebus City Sector, Scorched Hellwing, Scorched Hellwing, Gehenna Cursed, Erebus City Sector
+NBDef39: Typhon Vex, Dreamhaunter, Erebus City Sector, Ezamit Tranq, Stoneheart, Gehenna Cursed, Gehenna Cursed, Obsidian, Obsidian
+NBDef40: Typhon Vex, Dreamhaunter, Obsidian, Stoneheart, Sacred Sanctuary, Chainslicer, Shock Disruptor, Ezamit Tranq
+NBDef41: Tabitha, Octane's Bulwark, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Dune Runner
+NBDef42: Typhon Vex, Stoneheart, Sacred Sanctuary, Obsidian, Ezamit Tranq, Deserted Baughe, Tazerecca
+NBDef43: Typhon Vex, Dreamhaunter, Stoneheart, Sacred Sanctuary, Obsidian, Aggeroth Chaos, Bane of Truth, Serraco Lord
+NBDef44: Malort, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Arch Nova Alpha, Jilted Baughe, Irrian Grafter, Ezamit Tranq
+NBDef45: Lord Silus, Shock Disruptor, Stoneheart, Shock Disruptor, Crucible Jager, Dartron, Dreamhaunter, Flourish Turbine, Obsidian, Judgment Nova
+NBDef46: Arkadios, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Arch Nova Alpha, Deserted Baughe, Dreamhaunter
+NBDef47: Typhon Vex, Dreamhaunter, Chainslicer, Shock Disruptor, Sacred Sanctuary, Obsidian, Trench Hurler, Bane of Truth, Coldheart
+NBDef48: Constantine, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Ezamit Tranq, Gehenna Cursed, Irrian Grafter, Deserted Baughe
+NBDef49: Halcyon, Nebucadnezzar, Octane's Bulwark, Stoneheart, Obsidian, Guardian Gamut, Guardian Gamut, Dreamhaunter, Dreamhaunter, Obsidian
+NBDef50: Lord Silus, Dreamhaunter, Stoneheart, Chainslicer, Obsidian, Ezamit Tranq, Deserted Baughe, Portal Noctil, Portal Noctil, Dreamhaunter, Serak United
+NBDef: /^NBDef\d\d$/
+
 NS1:Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
 NS2:Arkadios, Dreamhaunter, Scorched Hellwing (2), Erebus City Sector (2), Abhorrent Recluse, Gehenna Cursed (2), Obsidian, Tarantachnid
 NS3:Arkadios, Dreamhaunter, Gehenna Cursed (2), Scorched Hellwing, Erebus City Sector, Hyrael the other, Tempest Citadel, Ravenous Terrorsaur (2), Tarantachnid
