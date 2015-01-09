@@ -2,9 +2,9 @@
 <root>
 
 <!-- Lowest ID available 
-	Assault 13734 ends at 7999 continues at 10000 
+	Assault 13969 ends at 7999 continues at 10000 
 	Commander 1614
-	Structures 8293 (end at 2699) Fortress 2701 -->
+	Structures 8311 (end at 2699) Fortress 2701 -->
 
 <!-- SET 1000 - Standard -->
 
@@ -70797,7 +70797,7 @@
 
 	<unit>
 		<id>12428</id>
-		<name>Whipstatic</name>
+		<name>Whipstatic</name> <!-- Whipsear -->
 		<picture>xenomaster_lv6</picture>
 		<asset_bundle>114</asset_bundle>
 		<fusion_level>2</fusion_level>
@@ -73997,7 +73997,7 @@
 		<cost>1</cost>
 		<rarity>3</rarity>
 		<type>4</type>
-		<set>3001</set>
+		<set>3000</set>
 		<skill id='valor' x='1' />
 		<upgrade>
 			<level>2</level>
@@ -74140,7 +74140,7 @@
 		<cost>4</cost>
 		<rarity>3</rarity>
 		<type>1</type>
-		<set>3001</set>
+		<set>3000</set>
 		<skill id='evade' x='1' />
 		<skill id='valor' x='4' />
 		<skill id='heal' x='1' y='1' all='1' />
@@ -76013,7 +76013,7 @@
 		<cost>1</cost>
 		<rarity>3</rarity>
 		<type>1</type>
-		<set>3001</set>
+		<set>3000</set>
 		<skill id='overload' n='1' />
 		<upgrade>
 			<level>2</level>
@@ -76142,7 +76142,7 @@
 		<cost>4</cost>
 		<rarity>4</rarity>
 		<type>2</type>
-		<set>3001</set>
+		<set>3000</set>
 		<skill id='rally' x='1' y='2' all='1' />
 		<skill id='siege' x='2' all='1' />
 		<skill id='legion' x='3' />
@@ -76289,7 +76289,7 @@
 		<cost>1</cost>
 		<rarity>4</rarity>
 		<type>3</type>
-		<set>3001</set>
+		<set>3000</set>
 		<skill id='pierce' x='1' />
 		<skill id='leech' x='1' />
 		<skill id='berserk' x='1' />
@@ -76431,7 +76431,7 @@
 		<cost>3</cost>
 		<rarity>3</rarity>
 		<type>4</type>
-		<set>3001</set>
+		<set>3000</set>
 		<skill id='legion' x='1' />
 		<upgrade>
 			<level>2</level>
@@ -76716,7 +76716,7 @@
 		<cost>4</cost>
 		<rarity>3</rarity>
 		<type>2</type>
-		<set>3001</set>
+		<set>3000</set>
 		<skill id='armored' x='2' />
 		<skill id='legion' x='2' />
 		<skill id='pierce' x='2' />
@@ -77192,7 +77192,7 @@
 		<cost>3</cost>
 		<rarity>3</rarity>
 		<type>1</type>
-		<set>7000</set>
+		<set>6000</set>
 		<skill id='armored' x='2' />
 		<skill id='legion' x='1' />
 		<upgrade>
@@ -78868,6 +78868,720 @@
 	<!--  START January 2015 Box Cards -->
 	
 	<unit>
+		<id>13854</id>
+		<name>Dynamancer</name>
+		<picture>shockman</picture>
+		<asset_bundle>122</asset_bundle>
+		<attack>4</attack>
+		<health>15</health>
+		<cost>2</cost>
+		<rarity>5</rarity>
+		<type>5</type>
+		<set>3001</set>
+		<skill id='overload' n='1' />
+		<skill id='jam' c='8' />
+		<skill id='pierce' x='1' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13855</card_id>
+			<health>17</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13856</card_id>
+			<skill id='overload' n='1' />
+			<skill id='jam' c='8' />
+			<skill id='pierce' x='2' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13857</card_id>
+			<attack>5</attack>
+			<health>18</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13858</card_id>
+			<skill id='overload' n='1' />
+			<skill id='jam' c='7' />
+			<skill id='pierce' x='2' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13859</card_id>
+			<health>19</health>
+			<skill id='overload' n='1' />
+			<skill id='jam' c='6' />
+			<skill id='pierce' x='3' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13860</id>
+		<name>Voltamancer</name> <!-- Dynamancer -->
+		<picture>shockman_lv3</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>1</fusion_level>
+		<attack>6</attack>
+		<health>19</health>
+		<cost>2</cost>
+		<rarity>5</rarity>
+		<type>5</type>
+		<set>2000</set>
+		<skill id='overload' n='1' />
+		<skill id='jam' c='6' />
+		<skill id='pierce' x='3' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13861</card_id>
+			<skill id='overload' n='1' />
+			<skill id='jam' c='5' />
+			<skill id='pierce' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13862</card_id>
+			<health>21</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13863</card_id>
+			<skill id='overload' n='1' />
+			<skill id='jam' c='4' />
+			<skill id='pierce' x='4' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13864</card_id>
+			<attack>7</attack>
+			<health>22</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13865</card_id>
+			<health>23</health>
+			<skill id='overload' n='1' />
+			<skill id='jam' c='3' />
+			<skill id='pierce' x='5' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13866</id>
+		<name>Electrimancer</name> <!-- Voltamancer -->
+		<picture>shockman_lv6</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>2</fusion_level>
+		<attack>8</attack>
+		<health>23</health>
+		<cost>2</cost>
+		<rarity>5</rarity>
+		<type>5</type>
+		<set>2000</set>
+		<skill id='overload' n='1' />
+		<skill id='jam' c='3' />
+		<skill id='pierce' x='5' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13867</card_id>
+			<skill id='overload' n='2' />
+			<skill id='jam' c='3' />
+			<skill id='pierce' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13868</card_id>
+			<health>25</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13869</card_id>
+			<skill id='overload' n='2' />
+			<skill id='jam' c='3' />
+			<skill id='pierce' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13870</card_id>
+			<health>27</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13871</card_id>
+			<skill id='overload' n='2' />
+			<skill id='jam' c='2' />
+			<skill id='pierce' x='7' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13872</id>
+		<name>Kherper</name>
+		<picture>karkinos_joseph</picture>
+		<asset_bundle>122</asset_bundle>
+		<attack>3</attack>
+		<health>24</health>
+		<cost>4</cost>
+		<rarity>4</rarity>
+		<type>1</type>
+		<set>3001</set>
+		<skill id='weaken' x='1' all='1' />
+		<skill id='berserk' x='3' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13873</card_id>
+			<attack>4</attack>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13874</card_id>
+			<skill id='evade' x='1' />
+			<skill id='weaken' x='1' all='1' />
+			<skill id='berserk' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13875</card_id>
+			<health>26</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13876</card_id>
+			<health>27</health>
+			<skill id='evade' x='1' />
+			<skill id='weaken' x='2' all='1' />
+			<skill id='berserk' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13877</card_id>
+			<health>28</health>
+			<skill id='evade' x='2' />
+			<skill id='weaken' x='2' all='1' />
+			<skill id='berserk' x='4' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13878</id>
+		<name>Kherpera</name> <!-- Kherper -->
+		<picture>karkinosjoseph_lv3</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>1</fusion_level>
+		<attack>4</attack>
+		<health>28</health>
+		<cost>4</cost>
+		<rarity>4</rarity>
+		<type>1</type>
+		<set>2000</set>
+		<skill id='evade' x='2' />
+		<skill id='weaken' x='3' all='1' />
+		<skill id='berserk' x='4' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13879</card_id>
+			<health>30</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13880</card_id>
+			<skill id='evade' x='2' />
+			<skill id='weaken' x='3' all='1' />
+			<skill id='berserk' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13881</card_id>
+			<attack>5</attack>
+			<health>31</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13882</card_id>
+			<skill id='evade' x='3' />
+			<skill id='weaken' x='3' all='1' />
+			<skill id='berserk' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13883</card_id>
+			<health>32</health>
+			<skill id='evade' x='3' />
+			<skill id='weaken' x='4' all='1' />
+			<skill id='berserk' x='5' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13884</id>
+		<name>Kherpri</name> <!-- Kherpera -->
+		<picture>karkinosjoseph_lv6</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>2</fusion_level>
+		<attack>6</attack>
+		<health>32</health>
+		<cost>4</cost>
+		<rarity>4</rarity>
+		<type>1</type>
+		<set>2000</set>
+		<skill id='evade' x='3' />
+		<skill id='weaken' x='4' all='1' />
+		<skill id='berserk' x='5' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13885</card_id>
+			<skill id='evade' x='3' />
+			<skill id='weaken' x='5' all='1' />
+			<skill id='berserk' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13886</card_id>
+			<health>34</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13887</card_id>
+			<skill id='evade' x='3' />
+			<skill id='weaken' x='5' all='1' />
+			<skill id='berserk' x='6' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13888</card_id>
+			<health>36</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13889</card_id>
+			<skill id='evade' x='4' />
+			<skill id='weaken' x='5' all='1' />
+			<skill id='berserk' x='7' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>8293</id>
+		<name>Arleigh Invaded</name>
+		<picture>cthulustructure</picture>
+		<asset_bundle>122</asset_bundle>
+		<health>10</health>
+		<cost>3</cost>
+		<rarity>4</rarity>
+		<type>3</type>
+		<set>3001</set>
+		<skill id='enhance' s='leech' x='1' />
+		<skill id='rally' x='1' />
+		<upgrade>
+			<level>2</level>
+			<card_id>8294</card_id>
+			<health>11</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>8295</card_id>
+			<skill id='evade' x='1' />
+			<skill id='enhance' s='leech' x='1' />
+			<skill id='rally' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>8296</card_id>
+			<health>12</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>8297</card_id>
+			<health>13</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>8298</card_id>
+			<health>14</health>
+			<skill id='evade' x='1' />
+			<skill id='enhance' s='leech' x='1' all='1' />
+			<skill id='rally' x='1' all='1' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>8299</id>
+		<name>Arleigh Conquered</name> <!-- Arleigh Invaded -->
+		<picture>cthulustructure_lv3</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>1</fusion_level>
+		<health>14</health>
+		<cost>3</cost>
+		<rarity>4</rarity>
+		<type>3</type>
+		<set>2000</set>
+		<skill id='evade' x='1' />
+		<skill id='enhance' s='leech' x='1' all='1' />
+		<skill id='rally' x='2' all='1' />
+		<upgrade>
+			<level>2</level>
+			<card_id>8300</card_id>
+			<health>15</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>8301</card_id>
+			<skill id='evade' x='1' />
+			<skill id='enhance' s='leech' x='1' all='1' />
+			<skill id='rally' x='3' all='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>8302</card_id>
+			<health>16</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>8303</card_id>
+			<health>17</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>8304</card_id>
+			<health>18</health>
+			<skill id='evade' x='2' />
+			<skill id='enhance' s='leech' x='2' all='1' />
+			<skill id='rally' x='3' all='1' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>8305</id>
+		<name>Arleigh Consumed</name> <!-- Arleigh Consumed -->
+		<picture>cthulustructure_lv6</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>2</fusion_level>
+		<health>19</health>
+		<cost>3</cost>
+		<rarity>4</rarity>
+		<type>3</type>
+		<set>2000</set>
+		<skill id='evade' x='2' />
+		<skill id='enhance' s='leech' x='2' all='1' />
+		<skill id='rally' x='3' all='1' />
+		<upgrade>
+			<level>2</level>
+			<card_id>8306</card_id>
+			<skill id='evade' x='2' />
+			<skill id='enhance' s='leech' x='3' all='1' />
+			<skill id='rally' x='3' all='1' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>8307</card_id>
+			<health>20</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>8308</card_id>
+			<skill id='evade' x='2' />
+			<skill id='enhance' s='leech' x='4' all='1' />
+			<skill id='rally' x='3' all='1' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>8309</card_id>
+			<health>22</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>8310</card_id>
+			<skill id='evade' x='2' />
+			<skill id='enhance' s='leech' x='5' all='1' />
+			<skill id='rally' x='4' all='1' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13908</id>
+		<name>Saw Blaster</name>
+		<picture>dunecrawler</picture>
+		<asset_bundle>122</asset_bundle>
+		<attack>4</attack>
+		<health>8</health>
+		<cost>1</cost>
+		<rarity>3</rarity>
+		<type>2</type>
+		<set>3001</set>
+		<skill id='counter' x='2' />
+		<skill id='siege' x='2' />
+		<skill id='pierce' x='2' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13909</card_id>
+			<health>9</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13910</card_id>
+			<skill id='counter' x='2' />
+			<skill id='siege' x='3' />
+			<skill id='pierce' x='2' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13911</card_id>
+			<attack>5</attack>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13912</card_id>
+			<skill id='counter' x='3' />
+			<skill id='siege' x='3' />
+			<skill id='pierce' x='2' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13913</card_id>
+			<health>10</health>
+			<skill id='counter' x='4' />
+			<skill id='siege' x='3' />
+			<skill id='pierce' x='3' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13914</id>
+		<name>Saw Burster</name> <!-- Saw Blaster -->
+		<picture>dunecrawler_lv3</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>1</fusion_level>
+		<attack>5</attack>
+		<health>10</health>
+		<cost>1</cost>
+		<rarity>3</rarity>
+		<type>2</type>
+		<set>2000</set>
+		<skill id='counter' x='4' />
+		<skill id='siege' x='3' />
+		<skill id='pierce' x='4' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13915</card_id>
+			<health>11</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13916</card_id>
+			<skill id='counter' x='4' />
+			<skill id='siege' x='4' />
+			<skill id='pierce' x='4' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13917</card_id>
+			<health>12</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13918</card_id>
+			<attack>6</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13919</card_id>
+			<skill id='counter' x='5' />
+			<skill id='siege' x='4' />
+			<skill id='pierce' x='5' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13920</id>
+		<name>Saw Boomer</name> <!-- Saw Burster -->
+		<picture>dunecrawler_lv6</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>2</fusion_level>
+		<attack>6</attack>
+		<health>12</health>
+		<cost>1</cost>
+		<rarity>3</rarity>
+		<type>2</type>
+		<set>2000</set>
+		<skill id='counter' x='5' />
+		<skill id='siege' x='5' />
+		<skill id='pierce' x='5' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13921</card_id>
+			<health>13</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13922</card_id>
+			<attack>7</attack>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13923</card_id>
+			<skill id='counter' x='5' />
+			<skill id='siege' x='6' />
+			<skill id='pierce' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13924</card_id>
+			<health>14</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13925</card_id>
+			<skill id='counter' x='6' />
+			<skill id='siege' x='6' />
+			<skill id='pierce' x='6' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13926</id>
+		<name>Gadosu</name>
+		<picture>xenobabypod</picture>
+		<asset_bundle>122</asset_bundle>
+		<attack>2</attack>
+		<health>15</health>
+		<cost>3</cost>
+		<rarity>3</rarity>
+		<type>4</type>
+		<set>3001</set>
+		<skill id='corrosive' x='1' />
+		<skill id='protect' x='1' y='4' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13927</card_id>
+			<skill id='evade' x='1' />
+			<skill id='corrosive' x='1' />
+			<skill id='protect' x='1' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13928</card_id>
+			<health>17</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13929</card_id>
+			<skill id='evade' x='1' />
+			<skill id='corrosive' x='1' />
+			<skill id='protect' x='2' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13930</card_id>
+			<attack>3</attack>
+			<health>18</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13931</card_id>
+			<health>19</health>
+			<skill id='evade' x='1' />
+			<skill id='corrosive' x='2' />
+			<skill id='protect' x='3' y='4' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13932</id>
+		<name>Gadosuko</name> <!-- Gadosu -->
+		<picture>xenobabypod_lv3</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>1</fusion_level>
+		<attack>4</attack>
+		<health>19</health>
+		<cost>3</cost>
+		<rarity>3</rarity>
+		<type>4</type>
+		<set>2000</set>
+		<skill id='evade' x='1' />
+		<skill id='corrosive' x='2' />
+		<skill id='protect' x='3' y='4' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13933</card_id>
+			<health>21</health>
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13934</card_id>
+			<skill id='evade' x='1' />
+			<skill id='corrosive' x='3' />
+			<skill id='protect' x='3' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13935</card_id>
+			<health>23</health>
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13936</card_id>
+			<skill id='evade' x='2' />
+			<skill id='corrosive' x='3' />
+			<skill id='protect' x='3' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13937</card_id>
+			<skill id='evade' x='2' />
+			<skill id='corrosive' x='4' />
+			<skill id='protect' x='4' y='4' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13938</id>
+		<name>Gadosukopion</name> <!-- Gadosuko -->
+		<picture>xenobabypod_lv6</picture>
+		<asset_bundle>122</asset_bundle>
+		<fusion_level>2</fusion_level>
+		<attack>4</attack>
+		<health>25</health>
+		<cost>3</cost>
+		<rarity>3</rarity>
+		<type>4</type>
+		<set>2000</set>
+		<skill id='evade' x='2' />
+		<skill id='corrosive' x='4' />
+		<skill id='protect' x='4' y='4' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13939</card_id>
+			<skill id='evade' x='2' />
+			<skill id='corrosive' x='4' />
+			<skill id='protect' x='5' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13940</card_id>
+			<health>27</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13941</card_id>
+			<skill id='evade' x='3' />
+			<skill id='corrosive' x='4' />
+			<skill id='protect' x='5' y='4' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13942</card_id>
+			<attack>5</attack>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13943</card_id>
+			<skill id='evade' x='3' />
+			<skill id='corrosive' x='5' />
+			<skill id='protect' x='6' y='4' />
+		</upgrade>
+	</unit>
+	
+	<unit>
 		<id>13698</id>
 		<name>Mhro</name>
 		<picture>mouthmaster2</picture>
@@ -79440,7 +80154,7 @@
 		<cost>3</cost>
 		<rarity>5</rarity>
 		<type>4</type>
-		<set>3000</set>
+		<set>3001</set>
 		<skill id='corrosive' x='2' />
 		<skill id='protect' x='1' y='4' />
 		<skill id='poison' x='4' />
@@ -79722,6 +80436,58 @@
 	
 	<!--  START January 2015 Mission Reward Cards -->
 	
+	<!-- <unit>
+		<id>13890</id>
+		<name>Divinity</name>
+		<picture>rightbaristabeat</picture>
+		<asset_bundle>123</asset_bundle>
+		<attack>1</attack>
+		<health>14</health>
+		<cost>2</cost>
+		<rarity>4</rarity>
+		<type>5</type>
+		<set>4000</set>
+		<skill id='heal' x='1' y='5' />
+		<skill id='rally' x='1' y='5' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13891</card_id>
+			<skill id='evade' x='1' />
+			<skill id='heal' x='1' y='5' />
+			<skill id='rally' x='1' y='5' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13892</card_id>
+			<attack>2</attack>
+			<health>15</health>
+		</upgrade>
+		<upgrade>
+			<picture>rightbarista_lv3</picture>
+			<level>4</level>
+			<card_id>13893</card_id>
+			<health>17</health>
+			<skill id='evade' x='1' />
+			<skill id='heal' x='1' y='5' all='1' />
+			<skill id='rally' x='1' y='5' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13894</card_id>
+			<health>18</health>
+			<skill id='evade' x='1' />
+			<skill id='heal' x='1' y='5' all='1' />
+			<skill id='rally' x='1' y='5' all='1' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13895</card_id>
+			<skill id='evade' x='1' />
+			<skill id='heal' x='2' y='5' all='1' />
+			<skill id='rally' x='2' y='5' all='1' />
+		</upgrade>
+	</unit> -->
+	
 	<unit>
 		<id>13680</id>
 		<name>Chronoshift</name>
@@ -79806,6 +80572,53 @@
 			<card_id>13691</card_id>
 			<skill id='armored' x='4' />
 			<skill id='flurry' c='4' />
+		</upgrade>
+	</unit>
+	
+	<unit>
+		<id>13848</id>
+		<name>Messiah</name> <!-- Messale -->
+		<picture>rightgrounder_lv6</picture>
+		<fusion_level>2</fusion_level>
+		<attack>7</attack>
+		<health>17</health>
+		<cost>3</cost>
+		<rarity>4</rarity>
+		<type>5</type>
+		<set>2000</set>
+		<skill id='armored' x='5' />
+		<skill id='siege' x='6' />
+		<skill id='berserk' x='2' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13849</card_id>
+			<skill id='armored' x='5' />
+			<skill id='siege' x='6' />
+			<skill id='berserk' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13850</card_id>
+			<health>19</health>
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13851</card_id>
+			<skill id='armored' x='6' />
+			<skill id='siege' x='7' />
+			<skill id='berserk' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13852</card_id>
+			<health>21</health>
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13853</card_id>
+			<skill id='armored' x='6' />
+			<skill id='siege' x='8' />
+			<skill id='berserk' x='4' />
 		</upgrade>
 	</unit>
 	
@@ -79917,7 +80730,7 @@
 		<type>5</type>
 		<set>6000</set>
 		<skill id='protect' x='1' all='1' y='5' />
-		<skill id='rally' x='1' y='1' />
+		<skill id='rally' x='1' y='5' />
 		<upgrade>
 			<level>2</level>
 			<card_id>1603</card_id>
@@ -79957,6 +80770,121 @@
 			<skill id='protect' x='2' all='1' y='5' />
 			<skill id='rally' x='4' y='5' />
 			<skill id='siege' x='8' />
+		</upgrade>
+	</unit>
+	
+<!-- Week 2 Default Card -->
+
+	<unit>
+		<id>13824</id>
+		<name>Sterling Eagle</name>
+		<picture>rightevac</picture>
+		<attack>2</attack>
+		<health>4</health>
+		<cost>1</cost>
+		<rarity>3</rarity>
+		<type>5</type>
+		<set>6000</set>
+		<skill id='evade' x='2' />
+		<skill id='pierce' x='2' />
+		<upgrade>
+			<level>2</level>
+			<card_id>13825</card_id>
+			<health>7</health>
+			<skill id='evade' x='2' />
+			<skill id='weaken' x='1' all='1' />
+			<skill id='pierce' x='2' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>13826</card_id>
+			<attack>3</attack>
+			<health>8</health>
+			<skill id='evade' x='2' />
+			<skill id='weaken' x='1' all='1' />
+			<skill id='pierce' x='3' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>13827</card_id>
+			<attack>4</attack>
+			<health>9</health>
+			<skill id='evade' x='3' />
+			<skill id='weaken' x='1' all='1' />
+			<skill id='pierce' x='4' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>13828</card_id>
+			<attack>5</attack>
+			<health>11</health>
+			<skill id='evade' x='3' />
+			<skill id='weaken' x='2' all='1' />
+			<skill id='pierce' x='5' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>13829</card_id>
+			<attack>6</attack>
+			<health>13</health>
+			<skill id='evade' x='3' />
+			<skill id='weaken' x='2' all='1' />
+			<skill id='pierce' x='6' />
+		</upgrade>
+	</unit>
+
+	<!-- Week 2 Boss Commander -->
+
+	<unit>
+		<id>1614</id>
+		<name>Dactyl</name>
+		<picture>rightbird</picture>
+		<asset_bundle>122</asset_bundle>
+		<health>25</health>
+		<rarity>3</rarity>
+		<type>5</type>
+		<set>6000</set>
+		<skill id='enhance' s='evade' x='1' />
+		<skill id='heal' x='1' y='5' />
+		<upgrade>
+			<level>2</level>
+			<card_id>1615</card_id>
+			<health>32</health>
+			<skill id='enhance' s='evade' x='1' />
+			<skill id='heal' x='1' y='5' />
+			<skill id='weaken' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>3</level>
+			<card_id>1616</card_id>
+			<health>39</health>
+			<skill id='enhance' s='evade' x='1' />
+			<skill id='heal' x='2' y='5' />
+			<skill id='weaken' x='1' />
+		</upgrade>
+		<upgrade>
+			<level>4</level>
+			<card_id>1617</card_id>
+			<health>46</health>
+			<skill id='enhance' s='evade' x='1' all='1' />
+			<skill id='heal' x='2' y='5' />
+			<skill id='weaken' x='1' all='1' />
+		</upgrade>
+		<upgrade>
+			<level>5</level>
+			<card_id>1618</card_id>
+			<health>50</health>
+			<skill id='enhance' s='evade' x='1' all='1' />
+			<skill id='heal' x='3' y='5' />
+			<skill id='weaken' x='1' all='1' />
+		</upgrade>
+		<upgrade>
+			<level>6</level>
+			<card_id>1619</card_id>
+			<health>55</health>
+			<skill id='enhance' s='evade' x='1' all='1' />
+			<skill id='heal' x='4' y='5' />
+			<skill id='weaken' x='2' all='1' />
 		</upgrade>
 	</unit>
 	
@@ -80664,8 +81592,8 @@
 	<unit> <!-- enhance test -->
 		<id>1087</id>
 		<name>Test Oracle C</name>
-		<picture>karkinos_joseph.jpg</picture>
-		<asset_bundle>110</asset_bundle>
+		<picture>chongla_lv3.jpg</picture>
+		<asset_bundle>123</asset_bundle>
 		<attack>0</attack>
 		<health>16</health>
 		<rarity>5</rarity>
@@ -80675,51 +81603,51 @@
 		<upgrade>
 			<level>2</level>
 			<card_id>1088</card_id>
-			<picture>imperialhelidrone_lv3.jpg</picture>
+			<picture>right30infantry_lv6.jpg</picture>
 			<health>22</health>
 		</upgrade>
 		<upgrade>
 			<level>3</level>
-			<picture>vulcantrooper_lv6.jpg</picture>
+			<picture>rightstructure_lv6.jpg</picture>
 			<card_id>1089</card_id>
 			<health>28</health>
 		</upgrade>
 		<upgrade>
 			<level>4</level>
-			<picture>mouthmaster2_lv3.jpg</picture>
+			<picture>molgator_lv3.jpg</picture>
 			<card_id>1090</card_id>
 			<health>37</health>
 		</upgrade>
 		<upgrade>
 			<level>5</level>
 			<card_id>1091</card_id>
-			<picture>cthulustructure_lv6.jpg</picture>
+			<picture>tasermech_lv3.jpg</picture>
 			<health>44</health>
 		</upgrade>
 		<upgrade>
 			<level>6</level>
 			<card_id>1593</card_id>
-			<picture>xenobabypod_lv3.jpg</picture>
+			<picture>rightbarista_lv6.jpg</picture>
 		</upgrade>
 		<upgrade>
 			<level>7</level>
 			<card_id>1594</card_id>
-			<picture>xenoassault_lv6.jpg</picture>
+			<picture>prog_gerald_lv3.jpg</picture>
 		</upgrade>
 		<upgrade>
 			<level>8</level>
 			<card_id>1595</card_id>
-			<picture>rightmover_lv3.jpg</picture>
+			<picture>tentontank_lv6.jpg</picture>
 		</upgrade>
 		<upgrade>
 			<level>9</level>
 			<card_id>1596</card_id>
-			<picture>shockman_lv6.jpg</picture>
+			<picture>calypso_lv3.jpg</picture>
 		</upgrade>
 		<upgrade>
 			<level>10</level>
 			<card_id>1597</card_id>
-			<picture>ghostcommander.jpg</picture>
+			<picture>btcrowley_lv6.jpg</picture>
 		</upgrade>
 	</unit>
 	
@@ -80789,7 +81717,7 @@
 		<health>90</health>
 		<cost>0</cost>
 		<rarity>5</rarity>
-		<skill id='armored' x='2' />
+		<skill id='payback' x='2' />
 		<type>2</type>
 		<set>9999</set>
 		<upgrade>

@@ -8,19 +8,23 @@ Halcyon-1
 Tabitha-1
 Brood Mother-1
 Petrisis-1
-Lord Silus-1
+Lord Silus
 Kylen-1
 Malort-1
 Daedalus-1
 Arkadios-1
 
-
-//Sacred Sanctuary
+//current deck
+Sacred Sanctuary
 Ayrkrane Syn
-//Aggeroth Chaos
+Aggeroth Chaos
 Demi Constrictor
 Arch Nova Alpha
 Tazerecca
+Shock Disruptor
+
+
+
 
 //Basic epic
 Draconian Queen-1 (4)
@@ -53,51 +57,58 @@ Lurker Beast-1 (4)
 //Reward epic
 Subterran Horror-1 (2)
 Bane-1 (4)
-Shock Disruptor-5
-Razor Maiden
+Vigilant Racer-1 (2)
+Chronoshift-1 (2)
 Demon of Embers-4 (2)
+Extinguisher-1 (4)
 Zodiac Harbinger (2)
 Contaminant Purifier
 Deranged Fanatic
 Geist-1 (2)
+Retriever-1 (2)
+Dire Retriever-1
 Stealthy Niaq-1
 Stealthy Niaq-4
-Xillafang-1 (2)
+Xillafang-2 (2)
 Xillaclaw-5
 Xanadu-1 (2)
 Xanadu Tetra-1
-Sporadic Nado-1 (2)
-Baughe (2)
+Sporadic Nado-1 (4)
+Jilted Baughe (2)
 
 //Legendary
 Malgoth-1 (4)
 Tartarus Scion-1 (3)
-Nimbus-1 (2)
-Auger-1 (3)
-Auger-3 
-Auger Bore-1 
-Elite Soldier-1 (3)
-Marshall-1 (2)
-Omega-1 (7)
+Gluttonous Fiend-1 (2)
+Burrower-1 (4)
+Nimbus-1 (3)
+Octane's Base-1
+Elite Soldier-1 (5)
+Marshall-1 (3)
+Emeraid Rider-1 (2)
+Omega-1 (4)
 Trench-1 (4)
-Wraith-1 (2)
-Benediction-1
+Wraith-1 (3)
+Benediction-1 (2)
 Messale
 Valiant Knight
 Apex-1 (2)
-Neo Excavator-1 (2)
+Neo Excavator-1 (3)
 Tazerok-1 
 Arch Nova-1 (2)
-Astral Strafer-1 (2)
+Skulker-1 (2)
+Astral Strider
 Lucidier-1 (2)
 Lucidous-1
 Ascendant-1 (2)
-Ezamit-1 (2)
+Ezamit-1 (3)
 
 //Vindicator
+Jyackavor-1
 Serraco-1 (3)
 Onyx (2)
-
+irrian-1 (2)
+Irrian Trickster-1
 
 
 
