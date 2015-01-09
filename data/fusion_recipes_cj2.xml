@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Doctrine Box -->
+
+	<fusion_recipe>
+		<card_id>13860</card_id>
+		<resource card_id='13859' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13866</card_id>
+		<resource card_id='13865' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13878</card_id>
+		<resource card_id='13877' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13884</card_id>
+		<resource card_id='13883' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8299</card_id>
+		<resource card_id='8298' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8305</card_id>
+		<resource card_id='8304' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13914</card_id>
+		<resource card_id='13913' number='2' />
+	</fusion_recipe>
+		<fusion_recipe>
+		<card_id>13920</card_id>
+		<resource card_id='13919' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13932</card_id>
+		<resource card_id='13931' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>13938</card_id>
+		<resource card_id='13937' number='2' />
+	</fusion_recipe>
+
+<!-- Sins of the Divine Week 2 -->
+
+	<fusion_recipe>
+		<card_id>13848</card_id>
+		<resource card_id='5493' number='2' />
+	</fusion_recipe>
+
 <!-- Brawl of Ancients -->
 	<fusion_recipe>
 		<card_id>13722</card_id>

@@ -1,53 +1,50 @@
 start time
- 4:19:30.55
+16:41:40.61
 
 Current Best Deck:
-Optimized Deck: 51.9962: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 57.4405: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 with Xanadu Ultra:
-Optimized Deck: 51.9771: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 57.4337: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 with Sage Ascendant:
-Optimized Deck: 52.2882: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Sage Ascendant, Aggeroth Chaos
+Optimized Deck: 57.4412: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
-with Ezamit Serene:
-Optimized Deck: 52.9287: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Ezamit Serene, Aggeroth Chaos
+with Ezamit Tranq:
+Optimized Deck: 62.7925: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Ezamit Tranq, Sacred Sanctuary, Trench Hurler, Dreamhaunter
 
 with The Adversary:
-Optimized Deck: 51.9533: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
-
-with Trench Hurler:
-Optimized Deck: 56.9332: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
-
-with Auger Ream:
-Optimized Deck: 51.9946: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 57.4459: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 with Serrated Grater:
-Optimized Deck: 58.0005: Lord Silus, Shock Disruptor, Stoneheart, Serrated Grater, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 58.3091: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Serrated Grater, Dreamhaunter, Trench Hurler, Tazerecca
 
 with Judgment Nova:
-Optimized Deck: 55.6606: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Judgment Nova, Aggeroth Chaos
+Optimized Deck: 58.3578: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Judgment Nova
 
 with Abhorrent Recluse:
-Optimized Deck: 51.9956: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 57.4435: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
+
+with Bane of Truth:
+Optimized Deck: 57.4471: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 with Jet:
-Optimized Deck: 52.4607: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Jet, Aggeroth Chaos
+Optimized Deck: 57.4637: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 with Irrian Grafter:
-Optimized Deck: 55.6551: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Irrian Grafter, Jilted Baughe
+Optimized Deck: 57.4423: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 with Pulerizer:
-Optimized Deck: 51.9755: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
-
-with Chainslicer:
-Optimized Deck: 64.0213: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 57.4451: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 with Hellgazer:
-Optimized Deck: 51.9902: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Tazerecca
+Optimized Deck: 57.4209: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 with Elite Brigade:
-Optimized Deck: 52.2025: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Aggeroth Chaos, Elite Brigade
+Optimized Deck: 57.432: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
+
+with Crypt Burrower:
+Optimized Deck: 57.4396: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Aggeroth Chaos
 
 stop time
- 5:09:23.60
+18:48:00.43

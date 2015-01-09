@@ -13,14 +13,14 @@ echo %time%>>%file%
 echo.>>%file%
 
 echo Current Best Deck:>>%file%
-tuo %mydeck% "nova" gw ordered -o=invent.txt -t 6 climb %iter% | find %find% >> %file% 
+tuo %mydeck% "Bairs" gw ordered -o=invent.txt -t 6 climb %iter% | find %find% >> %file% 
 echo.>>%file%
 
 for /F "tokens=*" %%i in (nextcard.txt) do (
-	type invent.txt > thiscard.txt
-	echo %%i>>thiscard.txt
+	type invent.txt > thisdeck.txt
+	echo %%i>>thisdeck.txt
 	echo with %%i:>>%file%
-	tuo %mydeck% "nova" gw ordered -o=thiscard.txt -t 6 climb %iter% | find %find% >> %file% 
+	tuo %mydeck% "Bairs" gw ordered -o=thisdeck.txt -t 6 climb %iter% | find %find% >> %file% 
 	echo.>>%file%
 )
 

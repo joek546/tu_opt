@@ -1,31 +1,14 @@
-Emp
-Const
-Barracus
-Nexor
-Lord Silus
-
-
-Sacred Sanctuary
-Ayrkrane Syn
-Aggeroth Chaos
-Demi Constrictor
-Arch Nova Alpha
-Tazerecca
-Dreamhaunter
-Stoneheart
-Zodiac Harbinger (2)
-Contaminant Purifier
-Deranged Fanatic
-Jilted Baughe (2)
-Shock Disruptor
-Messale
-Valiant Knight
-Honorable Samurai
-Auger Ream
-Astral Strider
-
-
-
-
-
+Xanadu Ultra
+Sage Ascendant
+Ezamit Tranq
+The Adversary
+Serrated Grater
+Judgment Nova
+Abhorrent Recluse
+Bane of Truth
+Jet
+Irrian Grafter
+Pulerizer
+Hellgazer
 Elite Brigade
+Crypt Burrower
