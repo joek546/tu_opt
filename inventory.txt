@@ -1,103 +1,115 @@
-Emp
-Const
-Alaric-4
-Barracus
-Typhon Vex-1
-Nexor
-Halcyon-1
-Tabitha-1
-Brood Mother-1
-Petrisis-1
-Lord Silus
-Kylen-1
-Malort-1
-Daedalus-1
-Arkadios-1
+//Extra Basic Set for fusion
+//Draconian Queen-1 (4)
+//Smog Tank-1 (4)
+//Blood Pool-1 (4)
+//Blight Crusher-1 (4)
+//Sinew Feeder-1 (4)
+//Tiamat-1 (4)
+//Aegis-1 (4)
+//Windreaver-1 (4)
+//Absorption Shield-1 (4)
+//Blackrock-1 (4)
+//Havoc-1 (4)
+//Missile Silo-1 (4)
+//Bulldozer-1 (4)
+//Iron Maiden-1 (4)
+//Demon of Embers-1 (4)
+//Vigil-1 (4)
+//Contaminant Scour-1 (4)
+//Sanctuary-1 (4)
+//Equalizer-1 (4)
+//Falcion-1 (4)
+//Dreadship-1 (4)
+//Genetics Pit-1 (4)
+//Daemon-1 (4)
+//Xeno Mothership-1 (4)
+//Lurker Beast-1 (4)
 
-//current deck
-Sacred Sanctuary
-Ayrkrane Syn
-Aggeroth Chaos
-Demi Constrictor
-Arch Nova Alpha
-Tazerecca
-Shock Disruptor
 
-
-
-
-//Basic epic
-Draconian Queen-1 (4)
-Smog Tank-1 (4)
-Blood Pool-1 (4)
-Blight Crusher-1 (4)
-Sinew Feeder-1 (4)
-Tiamat-1 (4)
+//current inventory
+Smog Tank-4
+Blood Pool-1 (2)
+Sinew Feeder-1 (2)
+Sinew Feeder-4
+Subterran Horror-1 (2)
 Aegis-1 (4)
 Windreaver-1 (4)
-Absorption Shield-1 (4)
-Blackrock-1 (4)
-Havoc-1 (4)
-Missile Silo-1 (4)
-Bulldozer-1 (4)
-Iron Maiden-1 (4)
-Demon of Embers-1 (4)
-Vigil-1 (4)
-Contaminant Scour-1 (4)
-Sanctuary-1 (4)
-Equalizer-1 (4)
-Falcion-1 (4)
-Dreadship-1 (4)
-Genetics Pit-1 (4)
-Daemon-1 (4)
-Xeno Mothership-1 (4)
-Lurker Beast-1 (4)
-
-
-//Reward epic
-Subterran Horror-1 (2)
+Absorption Shield-1 (2)
+Blackrock-1
+Blackrock-4
 Bane-1 (4)
-Vigilant Racer-1 (2)
+Vigilant Racer-1 (3)
 Chronoshift-1 (2)
+Missile Silo-1 (3)
+Demon of Embers-1 (2)
 Demon of Embers-4 (2)
-Extinguisher-1 (4)
+Dhock Disruptor
+Extinguisher-1 (5)
+Lowbrow-1 (2)
+Vigil-1 (2)
+Vigil-5
+Contaminant Scour-5
+Equalizer-2
+Equalizer-4
+Sanctuary-1 (3)
+Sanctuary-5
+Sacred Sanctuary
 Zodiac Harbinger (2)
 Contaminant Purifier
 Deranged Fanatic
+Falcion-4
+Falcion-5
 Geist-1 (2)
 Retriever-1 (2)
 Dire Retriever-1
+Dreadship-1
+Daemon-1 (2)
 Stealthy Niaq-1
 Stealthy Niaq-4
+Genetics Pit-1 (2)
 Xillafang-2 (2)
 Xillaclaw-5
 Xanadu-1 (2)
 Xanadu Tetra-1
+Lurker Beast-1 (4)
+Lurker Beast-4
 Sporadic Nado-1 (4)
 Jilted Baughe (2)
 
 //Legendary
 Malgoth-1 (4)
 Tartarus Scion-1 (3)
+Aggeroth Chaos
 Gluttonous Fiend-1 (2)
 Burrower-1 (4)
 Nimbus-1 (3)
 Octane's Base-1
+Auger Ream
 Elite Soldier-1 (5)
-Marshall-1 (3)
+Marshall-1 (5)
 Emeraid Rider-1 (2)
 Omega-1 (4)
 Trench-1 (4)
+Quake-1 (2)
 Wraith-1 (3)
+Trench Hurler
+Chainslicer
 Benediction-1 (2)
-Messale
 Valiant Knight
+Messiar-1 (3)
+Messale
+Honorable Samurai
+Ayrkrane Syn
 Apex-1 (2)
 Neo Excavator-1 (3)
 Tazerok-1 
+Tazerecca
 Arch Nova-1 (2)
-Skulker-1 (2)
+Demi Constrictor
+Arch Nova Alpha
 Astral Strider
+Skulker-1 (2)
+DreamHaunter
 Lucidier-1 (2)
 Lucidous-1
 Ascendant-1 (2)
@@ -106,11 +118,30 @@ Ezamit-1 (3)
 //Vindicator
 Jyackavor-1
 Serraco-1 (3)
+Stoneheart
 Onyx (2)
 irrian-1 (2)
 Irrian Trickster-1
 
 
-
-
-
+//Commander
+Brood Mother-1
+Octane-1
+Yurich-1
+Empress
+Vyander-1
+Dracorex-1
+Petrisis-1
+Malort-1
+Halcyon-1
+Tabitha-1
+Daedalus-1
+Typhon Vex-1
+Barracus
+Lord Silus
+Alaric-4
+Constantine
+Arkadios-1
+Krellus-1
+Nexor
+Kylen-1

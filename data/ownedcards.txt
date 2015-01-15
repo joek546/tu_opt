@@ -1,19 +1,100 @@
-Barracus
-Kylen
-Halcyon
-
-Xanadu  Ultra
-Xillanail 
-Deserted Baughe
-Sacred sanctuary 
-Inferno Demon 
+Absorption Shield-1
+Aegis-1 (2)
+Aegis-2
+Aggeroth-1 (4)
+Alaric-1
+Apex-1 (2)
+Arch Nova-1 (6)
+Arkadios
+Ascaris-1
+Ascendant-1 (2)
+Auger Bore-1
+Auger-1
+Ayrkrane Syn
+Bane-1
+Barracus-1
+Baughe
+Baughe-1 (2)
+Benediction-1 (2)
+Blackrock-1 (2)
+Blight Crusher-1
+Bolt Crag (3)
+Brood Mother-1
+Bulldozer-1 (5)
+Constantine
+Contaminant Scour-1 (2)
+Cyrus-1
+Daedalus-1
+Daemon-1 (2)
+Demon of Embers-1
+Dracorex-1
+Dreadship-1
+Dreamhaunter
+Dune Runner
+Emerald Rider-1 (2)
+Empress
+Equalizer-1 (2)
+Erebus City Sector
+Ezamit Tranq
+Falcion-1 (4)
+Geist-1 (2)
+Gehenna Cursed
+Grand Templar
+Halcyon-1
+Hellwing-1
+Hephatat Fury-1
+Hephatat-1
+Honorable Samurai
+Iron Maiden-1 (3)
 Irrian Grafter
-Coldheart 
-Dreamhaunter 
-Arch Nova Alpha
-Abhorrent Recluse 
-Sculpted Aegis 
-Bane of Trouth 
-Auger Bore
-Tazerecca 
-Demi Constrictor 
+Jyackavor-1
+Krellus-1
+Kylen-1
+Launcher-1 (4)
+Longshot Deadeye
+Lord Silus-1
+Lurker Beast-1 (2)
+Maion
+Malika-1
+Malort-1
+Messale
+Neo Excavator-1 (2)
+Nexor-1
+Nimbus-1
+Noble Defiance
+Obsidian
+Octane-1
+Octane's Bullwark
+Omega-1
+Oreworks 
+Petrisis-1
+Roving Pariah
+Sacntuary-1 (4)
+Sacred Sanctuary
+Serraco Lord
+Serraco-1
+Sinew Feeder-1
+Skulker-1
+Slug Borg-1 (4)
+Smog Tank-1
+Smog Tank-1
+Sporadic Nado-1 (4)
+Stoneheart
+Tabitha-1
+Talendath-1 (2)
+Tazerok-1 (2)
+Terrogor-1
+Trench Lobber-1
+Trench-1 (2)
+Tygarm Resolute
+Typhon Vex-1
+Typhon Vex-1
+Vigil-1 (2)
+Vyander-1
+Wilter-1 (4)
+Windreaver-1 (3)
+Xanadu Tetra-1
+Xanadu-1 (2)
+Xeno Mothership-1
+Yurich-1
+Zodiac Harbinger (4)

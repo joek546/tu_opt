@@ -177,7 +177,7 @@ NBDef26: Constantine, Razor Pinion, Dreamhaunter, Obsidian, Erebus City Sector, 
 NBDef27: Constantine, Dreamhaunter, Scorched Hellwing, Razor Pinion, Erebus City Sector, Tempest Citadel, Ezamit Tranq, Stoneheart, Savant Ascendant, Gehenna Cursed
 NBDef28: Lord Silus, Dreamhaunter, Shock Disruptor, Stoneheart, Sacred Sanctuary, Obsidian, Ezamit Tranq, Bane of Truth, Chainslicer
 NBDef29: Typhon Vex, Dreamhaunter, Demi Constrictor, Obsidian, Stoneheart, Shining Sanctuary, Demi Constrictor, Abhorrent Recluse, Ezamit Tranq, Ezamit Tranq
-NBDef20: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Portal Noctil, Tazerious
+NBDef30: Typhon Vex, Dreamhaunter, Stoneheart, Neo Dredge, Obsidian, Portal Noctil, Tazerious
 NBDef31: Lord Silus, Shock Disruptor, Shock Disruptor, Sacred Sanctuary, Obsidian, Trench Hurler, Dreamhaunter
 NBDef32: Krellus, Dreamhaunter, Sacred Sanctuary, Demi Constrictor, Auger Ream, Arch Nova Alpha, Abhorrent Recluse, The Adversary, Ezamit Tranq, Chainslicer
 NBDef33: Arkadios, Stoneheart, Sacred Sanctuary, Dreamhaunter, Obsidian, Aggeroth Chaos, Abhorrent Recluse, Arch Nova Alpha, Auger Ream
@@ -424,109 +424,57 @@ novaGT: /^top_.*$/
 
 NewGT: /^PW_.*$/
 PW_F2P1: alaric-6, Oreworks-6, Tazerious-6, Demi Constrictor-6, Xillanail-6, Bolt Crag-6, Lurker Behemoth-6, Ayrkrane Syn-6, Auger Ream-6, Sculpted Aegis-6, Sacred Sanctuary-6
-
 PW_F2P2: alaric-6, Incog Niaq-6, Trampling Anvil-6, Ayrkrane Syn-6, Xillanail-6, Tartarus Graft-6, Tazerious-6, Tumblox-6, Auger Ream-6, Sacred Sanctuary #2, Arch Nova Alpha-6
-
 PW_F2P3: alaric-6, Auger Ream-6, Judgment Nova-6, Tumblox-6, Judgment Nova-6, Tumblox-6, Ayrkrane Syn-6, Judgment Nova-6, Arch Nova Alpha-6, Sacred Sanctuary
-
 PW_F2P4: alaric-6, Auger Ream-6, Ayrkrane Syn-6, Xillanail-6, Arch Nova Alpha-6, Demi Constrictor-6, Sacred Sanctuary-6, Dreamreaper-6, Sculpted Aegis-6, Noble Defiance-6, Incog Niaq-6
-
 PW_F2P5: Halcyon-6, Bolt Crag-6, Indestructible Troop-6, Galereaver-6, Sculpted Aegis-6, Bolt Crag-6, Galereaver-6, Auger Ream-6, Tempest Citadel-6, Grizrael the Damned-6, Sculpted Aegis-6
-
 PW_F2P6: alaric-6, Steadfast Assailant-6, Arch Nova Alpha-6, Demi Constrictor-6, Sacred Sanctuary-6, Zephyr Superior-6, Sculpted Aegis-6, Aggeroth Enraged-6, Xeno Suzerain-6, Tazerious-6
-
 PW_F2P7: Brood Mother-6, Tempest Citadel-6, Deranged Malgoth-6, Noxious Tank-6, Withersnare-6, Withersnare-6, Withersnare-6, Withersnare-6, Withersnare-6, Tygarm Resolute-6, Aggeroth Enraged-6
-
 PW_F2P8: Dracorex-6, Nerve Database-6, Lord Hades-6, Deranged Malgoth-6, Narscious the Eerie-6, Narscious the Eerie-6, Withersnare-5, Withersnare-6, Mongarus-6, Aggeroth Enraged-6
-
 PW_F2P9: Tabitha-6, Sacred Sanctuary-6, Sacred Sanctuary-6, Noble Defiance-6, Styxasis-6, Tazerious-6, Arch Nova Alpha-6, Withersnare-6, Dreamreaper-6, Auger Ream-6, Dreamreaper
-
 PW_F2P10: Barracus-6, Noxious Tank-6, Noble Defiance-6, Spiteful Raptor-6, Trampling Anvil-6, Tazerious-6, Honorable Samurai-6, Kezerus Loaded-6, Auger Ream-6, Croc Oppressor-6, Ayrkrane Syn-6
-
 PW_F2P11: Nexor-6, Sacred Sanctuary-6, Tempest Hold-6, Sculpted Aegis-6, Noble Defiance-6, Xeno Suzerain-6, Styxasis-6, Tazerious-6, Arch Nova Elite-6, Demi Constrictor-6, Demi Constrictor-6
-
 PW_F2P12: Tabitha-6, Sacred Sanctuary-6, Octane's Bastion-6, Garrison Fortifier-6, Drake Scouter-6, Sculpted Aegis-6, Zealous Pursuer-6, Galereaver-6, Hephatat Stoic-6, Auger Ream-6, Bane of Truth-6
-
 PW_F2P13: Constantine-6, Sacred Sanctuary-6, Noble Defiance-6, Noble Defiance-6, Noble Defiance-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Honorable Samurai-6, Ayrkrane Syn-6
-
 PW_F2P14: Constantine-6, Sacred Sanctuary-6, Bolt Crag-6, Bolt Crag-6, Noble Defiance-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Sultan-6, Honorable Samurai-6, Ayrkrane Syn-6, Aggeroth Enraged-6
-
 PW_F2P15: Constantine-6, Sacred Sanctuary-6, Noble Defiance-6, Noble Defiance-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Styxasis-6, Honorable Samurai-6, Ayrkrane Syn-6
-
 PW_F2P16: Nexor, Dreamhaunter, Tempest Citadel, Styxasis, Arch Nova Alpha, Sacred Sanctuary, Abhorrent Recluse #2, Auger Ream, Xillanail, Sacred Sanctuary
-
 PW_TOP_Xeno_OP_Cyclops_87=NoCD=: Nexor, Invoskeleton, Tygarm Adamant, Cockatrice Baxis, Grizrael the Damned, Oreworks, Scorched Hellwing, Tazerious, Scorched Hellwing, Mutant Borg (2)
-
 PW_TOP_Xeno_P_HIT_POINT=NoCD=: Nexor, Demi Constrictor, Tempest Citadel, Demi Constrictor, Sacred Sanctuary, Arch Nova Alpha, Sculpted Aegis, Tazerious, Xeno Suzerain, Auger Ream
-
 PW_TOP_Xeno_P_Xhelro=NoCD=: Nexor, Demi Constrictor, Lord Hades, Sacred Sanctuary, Demi Constrictor, Sacred Sanctuary, Steadfast Assailant, Veiled Defiler, Bolt Crag, Mutant Borg, Auger Bore
-
 PW_TOP_RA_OP_Mattstanley83: Typhon Vex, Loaded Warehouse, Dreamhaunter, Wurz the Brazen, Heart Devourer, Crude Surgeon, Remote Rig, Tempest Citadel, Guillotine Grinder (2), Judgment Nova
-
 PW_TOP_RT_OP_LadyTyrant=NoCD=: Constantine, Dreamhaunter, Council's Hubris, Razor Pinion, Tempest Citadel, Jyack, Razor Pinion, Conquest Mason, Grizrael the Damned, Tempest Citadel, Noble Defiance
-
 PW_TOP_RT_OP_Axisbogner=CD=: Constantine, Dreamhaunter, Razor Pinion, Tempest Citadel, Razor Pinion, Demi Constrictor, Tempest Citadel, Jyack, Dignified Vigil, Bolt Crag (2)
-
 PW_TOP_RT_OP_blikemike2013=NoCD=: Constantine, Razor Pinion, Demi Constrictor, Tempest Citadel, Tygarm Adamant, Grizrael the Damned, Ion Converter, Tazerious, Scorched Hellwing, Xeno Suzerain, Bolt Crag
-
 PW_TOP_RT_P_RogerC59=CD=: Constantine, Dreamhaunter, Sacred Sanctuary, Tempest Citadel, Bolt Crag (2), Grand Templar, Zodiac Harbinger, Noble Defiance (2), Bolt Crag
-
 PW_TOP_RT_P_Terrence=CD=: Constantine, Demi Constrictor, Dreamhaunter, Tempest Citadel, Dignified Vigil, Grand Templar, Dignified Vigil, Bolt Crag, Grand Templar, Bolt Crag, Noble Defiance
-
 PW_TOP_BT_OP_--bigC--=CD=: Brood Mother, Cleave Ripper, Ravenous Terrorsaur, Dreamhaunter, Ravenous Terrorsaur, Shapesavant (2), Withersnare (2), Cleave Ripper, Razarp Hatchet, Withersnare
-
 PW_TOP_IMP_OP_DJB=NoCD=: Halcyon, Dreamhaunter, Jyack, Tempest Citadel, Haven-bearer, Sculpted Aegis, Grizrael the Damned, Sculpted Aegis, Steadfast Assailant (2), Auger Ream
-
 PW_TOP_BT_OP_JAPuckettB=NoCD=: Dracorex, Mephalus Gorge, Ravenous Terrorsaur, Dreamhaunter, Razarp Hatchet, Withersnare (2), Mongarus, Mephalus Gorge, Demi Constrictor, Withersnare
-
 PW_TOP_IMP_OP_Phoenixineohp=CD=: Halcyon, Dreamhaunter, Haven-bearer, Jyack, Haven-bearer, Justice Victorious (2), Sculpted Aegis, Hylas Adroit, Sculpted Aegis, Auger Ream, Sphinxite Liberated
-
 PW_TOP_IMP_OP_OJB=CD=: Halcyon, Tempest Citadel, Dreamhaunter, Galereaver, Jyack, Justice Victorious, Sculpted Aegis, Hephatat Stoic, Galereaver, Steadfast Assailant (2), Auger Ream
-
 PW_TOP_Xeno_OP_Elgenitalo=NoCD=: Nexor, Demi Constrictor, Cockatrice Baxis, Scorched Hellwing, Oreworks (3), Scorched Hellwing, Tazerious, Portal Noctil, Tygarm Adamant
-
 PW_TOP_Xeno_OP_GoiL1=NoCD=: Nexor, Demi Constrictor, Vicerolos, Cockatrice Baxis, Scorched Hellwing, Oreworks, Scorched Hellwing, Oreworks (2), Portal Noctil, Tygarm Adamant
 PW_TOP_RA_OP_Mattstanley83a: Typhon Vex, Loaded Warehouse, Dreamhaunter, Wurz the Brazen, Crude Surgeon, Remote Rig, Tempest Citadel, Heart Devourer, Guillotine Grinder (2), Judgment Nova
-
 PW_TOP_RA_OP_Mattstanley83b: Typhon Vex, Wurz the Brazen, Dreamhaunter, Razor Pinion, Tempest Citadel, Crude Surgeon, Razor Pinion, Remote Rig, Guillotine Grinder (2), Judgment Nova, Heart Devourer
-
 PW_TOP_RT_OP_nipsicle=CD=: Constantine, Dreamhaunter, Tempest Citadel, Council's Hubris (2), Razor Pinion (4), Vicerolos, Ion Converter
-
 PW_TOP_RT_OP_Dappo=CD=: Constantine, Council's Hubris, Dreamhaunter, Razor Pinion, Sacred Sanctuary, Razor Pinion (2), Tempest Citadel, Razor Pinion, Council's Hubris, Jyack
-
 PW_TOP_RAIN_OP_Amaleika=CD=: Nexor, cockatrice baxis, Razor Pinion (2), scorched hellwing (2), Oreworks (4), Dreamhaunter
-
-
 PW_TOP_BRAWL_BLevelR:Nexor-6, Scorched Hellwing-6, Oreworks-6, Razor Pinion-6, Oreworks-6, Oreworks-6, Oreworks-6, Razor Pinion-6, Scorched Hellwing-6, Dreamhaunter-6, Cockatrice Baxis-6
-
 PW_TOP_BRAWL_N0rthernM0nkey: Barracus-6, Bolt Crag-6, Sculpted Aegis-6, Dawn's Virtue-6, Sacred Sanctuary-6, Xillanail-6, Bolt Crag-6, Auger Ream-6, Dignified Vigil-6
-
 PW_TOP_BRAWL_Jayclay04: Constantine-6, Razor Pinion-6, Dreamhaunter-6, Sacred Sanctuary-6, Council's Hubris-6, Sacred Sanctuary-6, Bolt Crag-6, Razor Pinion-6, Noble Defiance-6
-
 PW_TOP_BRAWL_zachanassian: Barracus-6, Noble Defiance-6, Auger Ream-6, Tazerious-6, Xillanail-6, Ayrkrane Syn-6, Grizrael the Damned-6, Dreamhaunter-6, Bane of Truth-6
-
 PW_TOP_BRAWL_sweetkiller21700: Constantine-6, Scorched Hellwing-6, Bolt Crag-6, Bolt Crag-6, Sacred Sanctuary-6, Tygarm Adamant-6, Razor Pinion-6, Dreamhaunter-6, Demi Constrictor-6, Tempest Citadel-6, Demi Constrictor-6
-
 PW_TOP_BRAWL_chazzymoto: Tabitha-6, Tazerious-6, Noble Defiance-6, Sacred Sanctuary-6, Dreamreaper-6, Styxile-6, Auger Ream-6, Withersnare-6, Sacred Sanctuary-6, Arch Nova Alpha-6
-
 PW_TOP_BRAWL_Dbcooper5: Barracus-6, Judgment Nova-6, Narscious the Eerie-6, Auger Ream-6, Arch Nova Elite-6, Oreworks-6, Narscious the Eerie-6, Crude Surgeon-6, Tazerious-6, Warp Alchemist-6, Grizrael the Reaper-6
-
 PW_TOP_BRAWL_surfferbird: Constantine-6, Zodiac Harbinger-6, Zodiac Harbinger-6, Auger Ream-6, Contaminant Purifier-6, Sacred Sanctuary-6, Ayrkrane Syn-6, Zodiac Harbinger-6, Dreamhaunter-6, Zodiac Harbinger-6, Noble Defiance-6
-
 PW_TOP_BRAWL_KustmBilt: Nexor-6, Demi Constrictor-6, Ayrkrane Syn-6, Demi Constrictor-6, Arch Nova Alpha-6, Sacred Sanctuary-6, Auger Ream-6, Tazerious-6, Grizrael the Damned-6
-
 PW_TOP_BRAWL_LukikiLuke: Nexor-6, Demi Constrictor-6, Nubassage-6, Styxile-6, Demi Constrictor-6, Neo Dredge-6, Sacred Sanctuary-6, Xeno Suzerain-6, Demi Constrictor-6, Arch Nova Alpha-6, Tempest Citadel-6
-
 PW_TOP_BRAWL_/1/1: Brood Mother-6, Croc Oppressor-6, Shapesavant-6, Razarp Shank-6, Ravenous Terrorsaur-6, Shapesavant-6, Croc Oppressor-6, Croc Oppressor-6, Ravenous Terrorsaur-6, Shapesavant-6, Withersnare-6
-
 PW_TOP_BRAWL_FC_Time: Halcyon-6, Octane's Bulwark-6, Galereaver-6, Steel Ram-6, Bane of Truth-6, Sacred Sanctuary-6, Hephatat Stoic-6, Tazerious-6, Xillanail-6, Sculpted Aegis-6, Auger Ream-6
-
 PW_TOP_BRAWL_phoenixineohp: Halcyon-6, Myriad Beleaguer-6, Haven-bearer-6, Justice Victorious-6, Myriad Beleaguer-6, Haven-bearer-6, Sculpted Aegis-6, Sculpted Aegis-6, Justice Victorious-6, Sphinxite Liberated-6
-
 PW_TOP_BRAWL_daemon2012: Halcyon-6, Cruise Launcher-6, Blast Lancer-6, Sculpted Aegis-6, Sculpted Aegis-6, Indestructible Troop-6, Neocyte Resonator-6, Galereaver-6, Tundra MK3-6, Steel Ram-6, Auger Ream-6
-
 PW_TOP_BRAWL_DBRCottonballs: Constantine-6, Tempest Citadel-6, Zodiac Harbinger-6, Dreamreaper-6, Sacred Sanctuary-6, Grand Templar-6, Bolt Crag-6, Zodiac Harbinger-6, Ayrkrane Syn-6, Bolt Crag-6
-
 PW_TOP_BRAWL_SimeonH: Barracus-6, Steadfast Assailant-6, Tazerecca-6, Arch Nova Elite-6, Noxious Tank-6, Auger Ream-6, Honorable Samurai-6, Tumblox-6, Zodiac Harbinger-6, Ayrkrane Syn-6, Demi Constrictor-6
 PW_TOP_BRAWL_giants756: Krellus-6, Sacred Sanctuary-6, Dreamhaunter-6, Ardengraul-6, Arch Nova Elite-6, Invoskeleton-6, Demi Constrictor-6, Invoskeleton-6, Portal Noctil-6, Demi Constrictor-6, Talendath Reborn-6
 PW_TOP_BRAWL_Fransbcn: Barracus-6, Trampling Anvil-6, Steadfast Assailant-6, Honorable Samurai-6, Arch Nova Alpha-6, Tazerecca-6, Sacred Sanctuary-6, Sculpted Aegis-6, Ayrkrane Syn-6, Auger Ream-6
@@ -640,88 +588,87 @@ GT151k98: Halcyon, Indestructible Troop, Auger Bore, Cadmus the Dragon, Sculpted
 GT151k99: Constantine, Tartarus Brood, Deranged Fanatic, Zodiac Harbinger (3), Animus Geist, Defiance, Smite Forger, Noble Defiance
 GT151k: /^GT151k\d\d$/
 
-GT200k01: Constantine, Artemis Arc Core, Smite Forger (2), Ayrkrane Syn, Honorable Samurai, Tempest Citadel, Dreamhaunter, Blink Providence, Flash Deity, Roving Pariah
-GT200k02: Constantine, Smite Forger (4), Bolt Crag, Ayrkrane Syn, Dreamhaunter, Voltaic Beacon, Tempest Citadel, Roving Pariah
-GT200k03: Constantine, Smite Forger, Bolt Crag (2), Grand Templar, Longshot Deadeye, Honorable Samurai, Sacred Sanctuary, Dreamhaunter, Obsidian
-GT200k04: Constantine, Bolt Crag (2), Inviolable Bema, Grand Templar, Sacred Sanctuary, Stoneheart, Dreamhaunter, Longshot Deadeye, Smite Forger, Aasi Revealed
-GT200k05: Constantine, Ayrkrane Syn, Tempest Citadel, Bolt Crag, Sacred Sanctuary, Obsidian, Flash Deity, Grand Templar, Dreamhaunter, Voltaic Beacon
-GT200k06: Constantine, Flash Deity, Deathsteel Falcion, Inviolable Bema, Longshot Deadeye, Grand Templar, Blink Providence (2), Tempest Citadel, Roving Pariah, Smite Forger
-GT200k07: Constantine, Sacred Sanctuary, Blink Providence, Bolt Crag, Dreamhaunter, Smite Forger (2), Deathsteel Falcion, Aasi Revealed, Flash Deity, Tempest Citadel
-GT200k08: Constantine, Blink Providence, Aasi Revealed, Smite Forger (2), Obsidian, SnowDrift, Dreamhaunter, Flash Deity, Sacred Sanctuary, Voltaic Beacon
-GT200k09: Halcyon, Sculpted Aegis, Auger Ream, Hephatat Stoic, Neocyte Resonator, Octane's Bulwark, Guardian Gamut, Cadmus the Dragon, Justice Victorious, Pulverizer, Dreamhaunter
-GT200k10: Halcyon, Sculpted Aegis, Octane's Bulwark, Stalwart Disposer, Neocyte Cultivator, Blast Lancer, Auger Ream, Dune Runner, Guardian Gamut, Dreamhaunter, Pulverizer
-GT200k11: Halcyon, Auger Ream, Cruise Launcher, Tundra MK3, Neocyte Resonator, Octane's Bulwark, Hephatat Stoic, Dreamhaunter, Cadmus the Dragon, Pulverizer, Dune Runner
-GT200k12: Halcyon, Hoard Arsenal, Pulverizer, Auger Ream, Halting Corpsman, Cruise Launcher, Blast Lancer, Hephatat Stoic, Glimmer Shine, Octane's Bulwark, Tempest Citadel
-GT200k13: Tabitha, Tundra MK3, Sphinxite Liberated, Stalwart Disposer, Justice Victorious, Neocyte Resonator, Tygarm Resolute, Ardengraul, Halting Corpsman, Dreamhaunter, Guardian Gamut
-GT200k14: Lord Silus, Charincinerator, Heart Devourer, Shock Disruptor, Sphinxite Liberated, Crude Surgeon, Judgment Nova, Wurz the Brazen, Sacred Sanctuary, Dreamhaunter, Chainslicer
-GT200k15: Lord Silus, Sacred Sanctuary, Scorched Hellwing, Serraco Sire, Dreamhaunter, Erebus City Sector, Shock Disruptor (2), Chainslicer, Serrated Grater
-GT200k16: Lord Silus, Shock Disruptor (2), Crude Surgeon, Dreamhaunter, Rampage Boomer, Judgment Nova, Obsidian, Sacred Sanctuary, Mobile Encampment, Chainslicer
-GT200k17: Dracorex, Erebus City Sector, Oreworks, Croc Oppressor, Scorched Hellwing (2), Abhorrent Recluse, Shapesavant, Wurmsleth Infested, Entrails Bog, Dreamhaunter
-GT200k18: Malort, Croc Oppressor, Shapesavant, Vicerolos, Arch Nova Alpha, Abhorrent Recluse, Erebus City Sector (2), Hellgazer, Ezamit Tranq, Flesh Butcher
-GT200k19: Daedalus, Lurker Behemoth, Auger Ream, Charincinerator, Tazerious, Ayrkrane Syn, Bolt Crag, Dune Runner, Arch Nova Alpha, Dreamhaunter, Chainslicer
-GT200k20: Barracus, Demi Constrictor, Sacred Sanctuary (2), Arch Nova Alpha, Dune Runner, Tazerious, Steadfast Assailant, Auger Ream, Dreamhaunter, Obsidian
-GT200k21: Barracus, Tazerious, Auger Ream, Lord Hades, Tempest Citadel, Veiled Defiler, Dreamhaunter, Bolt Crag, Demi Constrictor, Oreworks, Ezamit Tranq
-GT200k22: Barracus, Executioner Hiborn, Deft reclaimer, Portal Noctil, Sphinxite Liberated (2) Scorched Hellwing, Cockatrice Baxis, Havenguard, Ardengraul, Dreamhaunter
-GT200k23: Barracus, Demi Constrictor, Sacred Sanctuary, Oreworks, Arch Nova Alpha, Xillanail, Tazerious, Auger Ream, Ayrkrane Syn, Dreamhaunter, Obsidian
-GT200k24: Barracus, Hardened Palisade, Dreamhaunter, Vicerolos, Tazerious, Scorched Hellwing (2), Cockatrice Baxis, Erebus City Sector, Arch Nova Alpha, Obsidian
-GT200k25: Daedalus, Magistrate, Erebus City Sector, Razor Pinion (2), Ardengraul, Dreamhaunter, Grand Templar, Ayrkrane Syn, Arindite, Flash Deity 
-GT200k26: Nexor, Oreworks (2), Dreamhaunter, Tygarm Adamant, Ion Converter, Tempest Citadel, Scorched Hellwing, Obsidian, Arch Nova Alpha, Wilter Conscript
-GT200k27: Nexor, Narscious the Eerie, Styxasis, Warp Alchemist, Oreworks, Arch Nova Alpha, Tempest Citadel, Scorched Hellwing, Cockatrice Baxis, Demi Constrictor, Dreamhaunter
-GT200k28: Nexor, Tazerious, Demi Constrictor, The Adversary, Xillanail, Neo Dredge, Arch Nova Alpha, Tempest Citadel, Portal Noctil, Dreamhaunter, Allogarb
-GT200k29: Kylen, Scorched Hellwing, Demi Constrictor, The Adversary, Dreamhaunter, Tempest Citadel, Erebus City Sector, Arch Nova Alpha, Tygarm Adamant, Sacred Sanctuary
-GT200k30: Kylen, Demi Constrictor, The Adversary, Neo Dredge, Arch Nova Alpha, Dreamhaunter, Cockatrice Baxis, Tazerious, Portal Noctil, Allogarb, Erebus City Sector
-GT200k31: Kylen, Deserted Baughe, Xillanail, Wilter Conscript, Dreamhaunter, The Adversary, Obsidian, Pherous Astute, Lurker Behemoth, Shrewd Fabricator, Ezamit Tranq 
-GT200k32: Nexor, Demi Constrictor, Grizrael the Damned, Tazerious, Razor Pinion, Ion Converter, Scorched Hellwing, Warp Alchemist, Oreworks, Dreamhaunter, Allogarb
-GT200k33: Nexor, The Adversary, Arch Nova Alpha, Vicious Borg (2), Tazerious, Sacred Sanctuary, Talendath Reborn, Auger Ream, Dreamhaunter, Fenlord
-GT200k34: Kylen, Dusk Shade, Azure Reveler, Sacred Sanctuary, Demi Constrictor (2), Neo Dredge, Invoskeleton, Arch Nova Alpha, Dreamhaunter, Allogarb
-GT200k35: Krellus, Serak United, Invoskeleton, Dreamhaunter, Arch Nova Alpha, Oreworks, Portal Noctil, Sacred Sanctuary, Demi Constrictor, Pherous Astute, Tempest Citadel
-GT200k36: Kylen, Demi Constrictor, Portal Noctil, Arch Nova Alpha, Dreamhaunter, Erebus City Sector, Tempest Citadel, Ezamit Tranq, Xillanail, Jilted Baughe, Pherous Astute
+
+GT200k01: Constantine, Dreamhaunter, Tempest Citadel, Smite Forger, Artemis Arc Core, Roving Pariah, Smite Forger, Ayrkrane Syn, Flash Deity, Blink Providence, Honorable Samurai
+GT200k02: Constantine, Inviolable Bema, Bolt Crag, Dreamhaunter, Sacred Sanctuary, Smite Forger, Roving Pariah, Smite Forger, Grand Templar, Blink Providence, Aasi Revealed
+GT200k03: Constantine, Bolt Crag, Tempest Citadel, Obsidian, Dreamhaunter, Voltaic Beacon, Flash Deity, GRand Templar, Ayrkrane Syn, Sacred Sanctuary
+GT200k04: Constantine, Messiah, Grand Templar, Tempest Citadel, Smite Forger, Artemis Arc Core, Roving Pariah, Flash Deity, Smite Forger, Blink Providence, Longshot Deadeye
+GT200k05: Constantine, Bolt Crag, Messiah, Tempest Citadel, Sacred Sanctuary, Dreamhaunter, Flash Deity, Aasi Revealed, Smite Forger, Blink Providence, Smite Forger
+GT200k06: Constantine, Messiah, Sacred Sanctuary, Obsidian, Dreamhaunter, Flash Deity, Voltaic Beacon, Smite Forger (2), Aasi Revealed, Blink Providence
+GT200k07: Halcyon, Octane's Bulwark, High Constable, Dreamhaunter, Hephatat Stoic, Pulverizer, Guardian Gamut, Auger Ream, Cadmus the Dragon, Neocyte Resonator, Sculpted Aegis
+GT200k08: Halcyon, Octane's Bulwark, Dreamhaunter, High Constable, Pulverizer, Guardian Gamut, Stalwart Disposer, Dune Runner, Auger Ream, Neocyte Cultivator, Blast Lancer
+GT200k09: Halcyon, Tundra MK3, Octane's Bulwark, High Constable, Dreamhaunter, Sacred Sanctuary, Pulverizer, Hephatat Stoic, Auger Ream, Dune Runner, Cadmus the Dragon
+GT200k10: Halcyon, Octane's Bulwark, Tempest Citadel, Dreamhaunter, Cruise Launcher, High Constable, Dune Runner (2), Auger Ream, Halting Corpsman
+GT200k11: Lord Silus, Primus Ultima, Shock Disruptor (2), Chainslicer, Shock Disruptor, Sacred Sanctuary, Serrated Grater, Dreamhaunter, Coldheart, Inferno Demon
+GT200k12: Lord Silus, Chainslicer, Primus Ultima, Shock Disruptor (2), Sacred Sanctuary, Serrated Grater, Dreamhaunter, Judgment Nova, Extinguisher of Hope
+GT200k13: Lord Silus, Shock Disruptor (2), Chainslicer, Sacred Sanctuary, Shock Disruptor, Serrated Grater, Dreamhaunter, Judgment Nova (2), Revolt Ranger
+GT200k14: Lord Silus, Primus Ultima, Chainslicer, Tempest Citadel, Shock Disruptor (2), Serrated Grater, Dreamhaunter, Coldheart, Crude Surgeon, Judgment Nova
+GT200k15: Lord Silus, Shock Disruptor (2), Chainslicer, Loaded Warehouse, Serrated Grater, Dreamhaunter, Crude Surgeon, Judgment Nova, Revolt Ranger, Oreworks
+GT200k16: Lord Silus, Shock Disruptor (2), Chainslicer, Shock Disruptor, Serrated Grater, Sacred Sanctuary, Dreamhaunter, Crude Surgeon, Revolt Ranger, Oreworks
+GT200k17: Lord Silus, Shock Disruptor (2), Chainslicer, Serrated Grater, Sacred Sanctuary, Mobile Encampment, Dreamhaunter, Judgment Nova (2), Revolt Ranger
+GT200k18: Malort, Dreamhaunter, Crypt Burrower, Nerve Database, Obsidian, Sacred Sanctuary, Croc Oppressor, Abhorrent Recluse, Shapesavant, Hellgazer, Wurmsleth Infested
+GT200k19: Malort, Croc Oppressor, Shapesavant, Vicerolos, Arch Nova Alpha, Abhorrent Recluse, Erebus City Sector (2), Hellgazer, Ezamit Tranq, Flesh Butcher
+GT200k20: Malort, Dreamhaunter, Crypt Burrower, Sacred Sanctuary, Nerve Database, Aggeroth Chaos, Obsidian, Croc Oppressor, Ezamit Tranq, Abhorrent Recluse, Shapesavant
+GT200k21: Barracus, Stoneheart, Tempest Citadel, Sacred Sanctuary, Ezamit Tranq, Dreamhaunter, Obsidian, The Adversary, Bolt Crag, Dune Runner 
+GT200k22: Nexor, Dreamhaunter, Chainslicer, The Adversary, Sacred Sanctuary, Neo Dredge, Arch Nova Alpha, Allogarb, Deserted Baughe, Portal Noctil, Lurker Behemoth
+GT200k23: Nexor, Tempest Citadel, Obsidian, Dreamhaunter, Tygarm Adamant, Oreworks, Scorched Hellwing, Oreworks, Arch Nova Alpha, Ion Converter, Wilter Conscript
+GT200k24: Nexor, Dreamhaunter, Tempest Citadel, Demi Constrictor, Styxasis, Cockatrice Baxis, Scorched Hellwing, Oreworks, Arch Nova Alpha, Warp Alchemist, Narscious the Eerie
+GT200k25: Nexor, Dreamhaunter, Tempest Citadel, The Adversary, Demi Constrictor, Neo Dredge, Arch Nova Alpha, Portal Noctil, Deserted Baughe, Allogarb, Tazerious
+GT200k26: Nexor, Dreamhaunter, Razor Pinion, Demi Constrictor, Grizrael the Damned, Scorched Hellwing, Oreworks, Allogarb, Tazerious, Ion Converter, Warp Alchemist
+GT200k27: Nexor, Stoneheart, Neo Dredge, Dreamhaunter, Obsidian, Ardengraul, Invoskeleton (2), Sphinxite Liberated, Ion Converter
+GT200k28: Kylen, Tempest Citadel, The Adversary, Demi Constrictor, Sacred Sanctuary, Dreamhaunter, Arch Nova Alpha, Neo Dredge, Allogarb, Deserted Baughe
+GT200k29: Kylen, Sacred Sanctuary, Demi Constrictor, The Adversary, Dreamhaunter, Neo Dredge, Cockatrice Baxis, Deserted Baughe, Allogarb, Portal Noctil, Arch Nova Alpha
+GT200k30: Kylen, Xillanail, Pherous Astute, The Adversary, Ezamit Tranq, Obsidian, Dreamhaunter, Deserted Baughe, Lurker Behemoth, Wilter Conscript 
+GT200k31: Kylen, The Adversary, Sacred Sanctuary, Ezamit Tranq, Dreamhaunter, Arch Nova Alpha, Neo Dredge, Allogarb, Deserted Baughe, Savant Ascendant, Invoskeleton
+GT200k32: Kylen, Pherous Astute, Tempest Citadel, Demi Constrictor, Ezamit Tranq, Neo Dredge, Dreamhaunter, Portal Noctil, Arch Nova Alpha, Deserted Baughe, Xillanail
+GT200k33: Arkadios, Smite Forger (5), Flash Deity, Tempest Citadel (2), Dreamhaunter, Stoneheart
+GT200k34: Daedalus, Chainslicer, Nebucadnezzar, Razor Pinion, Odynn the Godsteel, Sacred Sanctuary, Dreamhaunter, Flourish Turbine, Ezamit Tranq, Execration
 GT200k: /^GT200k\d\d$/
 
-GT250k01: Lord Silus, Shock Disruptor (2), Crude Surgeon, Judgment Nova, Erebus City Sector, Mobile Encampment, Stoneheart, Den Usurper, Ezamit Tranq, Chainslicer
-GT250k02: Lord Silus, Shock Disruptor (2), Judgment Nova, Den Usurper, Dartron, Barrel Zulficar, Crude Surgeon, Erebus City Sector, Stoneheart, Chainslicer
-GT250k03: Lord Silus, Grizrael the Damned, Styxasis, Jyack, Cleave Ripper, Stoneheart, Shock Disruptor, Tempest Citadel, Dreamhaunter, Tempest Citadel, Ezamit Tranq
-GT250k04: Constantine, Council's Hubris (2), Sacred Sanctuary (2), Razor Pinion (4), Dreamhaunter, Stoneheart
-GT250k05: Constantine, Tempest Citadel, Razor Pinion (5), Cockatrice Baxis, Ion Converter, Vicerolos, Sacred Sanctuary
-GT250k06: Constantine, Arindite, Tygarm Adamant, Grizrael the Damned, Tempest Citadel, Council's Hubris, Razor Pinion, Sacred Sanctuary, Jyack, Stoneheart, Ezamit Tranq
-GT250k07: Lord Silus, Obsidian, Grizrael the Damned, Dreamhaunter, Stoneheart, Shock Disruptor (2), Ezamit Tranq, Trench Hurler, Sacred Sanctuary, Erebus City Sector
-GT250k08: Constantine, Aasi Revealed, Erebus City Sector, Tempest Citadel (2), Bolt Crag, Razor Pinion (2), Dreamhaunter, Stoneheart, Ezamit Tranq
-GT250k09: Constantine, Tempest Citadel, Sacred Sanctuary, Havenguard, Razor Pinion (2), Grand Templar, Ezamit Tranq, Council's Hubris, Dreamhaunter, Stoneheart
-GT250k10: Constantine, Grand Templar, Sacred Sanctuary (2), Styxasis, Razor Pinion, Savant Ascendant, Jyack, Stoneheart, Ezamit Tranq, Dreamhaunter
-GT250k11: Constantine, Razor Pinion (4), Tempest Citadel, Sacred Sanctuary, Dreamhaunter, Dartron, Avian Baron, Arindite
-GT250k12: Daedalus, Scorched Hellwing (4), Dreamhaunter, Cleave Ripper, Erebus City Sector (2), Gehenna Cursed, Obsidian
-GT250k13: Arkadios, Razor Pinion (2), Council's Hubris, Scorched Hellwing, Gehenna Cursed, Erebus City Sector (2), Cockatrice Baxis, Stoneheart, Ezamit Tranq
-GT250k14: Arkadios, Dreamhaunter, Arch Nova Alpha, Ezamit Tranq, Erebus City Sector, Stoneheart, Obsidian, Gehenna Cursed, Sacred Sanctuary, Deserted Baughe
-GT250k15: Arkadios, Smite Forger (5), Flash Deity, Tempest Citadel (2), Dreamhaunter, Stoneheart
-GT250k16: Lord Silus, Shock Disruptor (4), Crude Surgeon, Judgment Nova, Erebus City Sector, Mobile Encampment, Stoneheart, Chainslicer
-GT250k17: Lord Silus, Shock Disruptor (2), Judgment Nova, Den Usurper, Dartron, Barrel Zulficar, Crude Surgeon, Erebus City Sector, Stoneheart, Ezamit Tranq
-GT250k18: Lord Silus, Grizrael the Damned, Styxasis, Jyack, Cleave Ripper, Stoneheart, Shock Disruptor, Tempest Citadel, Dreamhaunter, Tempest Citadel, Ezamit Tranq
-GT250k19: Malort, Razarp Shank, Sacred Sanctuary, Shapesavant (2), Abhorrent Recluse, Hellgazer, Repulse Ghoul, Dreamhaunter, Stoneheart, Ravenous Terrorsaur
-GT250k20: Malort, Veiled Defiler, Aggeroth Chaos, Withersnare, Stoneheart, Croc Oppressor, Ravenous Terrorsaur, Dreamhaunter, Sacred Sanctuary, Shapesavant, Gehenna Cursed 
-GT250k21: Malort, Razarp Shank, Dreamhaunter, Ezamit Tranq, Ravenous Terrorsaur, Shapesavant, Aggeroth Chaos, Shapesavant, Ravenous Terrorsaur, Gehenna Cursed (2)
-GT250k22: Malort, Scorched Hellwing (2), Vicerolos, Gehenna Cursed (2), Erebus City Sector (2), Hellgazer, Ezamit Tranq, Flesh Butcher
-GT250k23: Malort, Gehenna Cursed (3), Erebus City Sector (3), Dreamhaunter, Scorched Hellwing (2), Stoneheart
-GT250k24: Halcyon, Hoard Arsenal, Stoneheart, Nebucadnezzar, Auger Ream, Haven-bearer, Sculpted Aegis, Octane's Bulwark, Tempest Citadel, Pulverizer, Dreamhaunter
-GT250k25: Halcyon, Justice Victorious (4), Ezamit Tranq, Octane's Bulwark, Tempest Citadel, Dreamhaunter, Pulverizer, Guardian Gamut
-GT250k26: Halcyon, Sculpted Aegis, Pulverizer, Guardian Gamut (2), Stoneheart, Justice Victorious (2), Tempest Citadel, Haven-Bearer, Octane's Bulwark
-GT250k27: Daedalus, Nebucadnezzar, Bolt Crag, Odynn the Godsteel, Razor Pinion, Ezamit Tranq, Dreamhaunter, Chainslicer, Flourish Turbine, Execration
-GT250k28: Typhon Vex, Judgment Nova (2), Mobile Encampment, Heart Devourer (2), Tempest Citadel, Crude Surgeon, Dreamhaunter, Stoneheart, Shock Disruptor
-GT250k29: Kylen, Ardengraul, Portal Noctil, The Adversary, Sphinxite Liberated, Tempest Citadel, Neo Dredge, Sacred Sanctuary, Ezamit Tranq, Dreamhaunter, Stoneheart
-GT250k30: Nexor, The Adversary, Arch Nova Alpha, Dreamhaunter, Styxasis, Erebus City Sector (2), Scorched Hellwing, Ezamit Tranq, Stoneheart, Gehenna Cursed
-GT250k31: Arkadios, Gehenna Cursed (2), Scorched Hellwing (2), Razor Pinion, Dreamhaunter, Stoneheart, Erebus City Sector (2), Ezamit Tranq
-GT250k32: Nexor, Erebus City Sector, Neo Dredge, Portal Noctil, Invoskeleton (2), Sphinxite Liberated, Ion Converter, Ardengraul, Dreamhaunter, Stoneheart 
-GT250k33: Arkadios, Cockatrice Baxis, Ezamit Tranq, Scorched Hellwing, Gehenna Cursed (2), Dreamhaunter, Stoneheart, Erebus City Sector (2), Allogarb
-GT250k34: Nexor, Ezamit Tranq, Chainslicer, Dreamhaunter, Flourish Turbine, Scorched Hellwing, Erebus City Sector (2), Lionheart, Valence Eros, Stoneheart
-GT250k35: Arkadios, Erebus City Sector, Scorched Hellwing (2), Perzix World Eater, Dreamhaunter, Stoneheart, Ezamit Tranq, Gehenna Cursed, Tempest Citadel, Savant Ascendant
-GT250k36: Barracus, Wurz the Brazen, Scorched Hellwing (2), Erebus City Sector (2), Gehenna Cursed (2), Cockatrice Baxis, Dreamhaunter, Chainslicer
-GT250k37: Lord Silus, Razor Pinion (2), Scorched Hellwing (2), Stoneheart, Ezamit Tranq, Erebus City Sector (2), Gehenna Cursed, Chainslicer
-GT250k38: Tabitha, Octane's Bulwark, Dune Runner, High Constable, Dreamhaunter, Sacred Sanctuary, Stoneheart, Obsidian, Guardian Gamut (2), Nebucadnezzar
-GT250k39: Lord Silus, Ophiuchus Rex, Ezamit Tranq, Artemis Arc Core, Guillotine Grinder, Dreamhaunter, Erebus City Sector, Savant Ascendant, Stoneheart, Scorched Hellwing, Chainslicer
-GT250k40: Arkadios, Dreamhaunter, Chainslicer, Tempest Citadel, Ezamit Tranq, Scorched Hellwing, Erebus City Sector (2), Gehenna Cursed, Arch Nova Alpha, Deserted Baughe
+
+GT250k01: Lord Silus, Primus Ultima, Shock Disruptor (2), Stoneheart, Ezamit Tranq, Erebus City Sector, Shock Disruptor, Den Usurper, Mobile Encampment, Chainslicer
+GT250k02: Lord Silus, Primus Ultima, Shock Disruptor (3), Stoneheart, Erebus City Sector, Chainslicer, Barrel Zulficar, Dartron, Den Usurper
+GT250k03: Lord Silus, Tempest Citadel, Shock Disruptor, Cleave Ripper, Ezamit Tranq, Stoneheart, Jyack, Sacred Sanctuary, Dreamhaunter, Styxasis, Grizrael the Damned
+GT250k04: Lord Silus, Shock Disruptor (2), Ezamit Tranq, Stoneheart, Shock Disruptor (2), Erebus City Sector, Mobile Encampment, Judgment Nova, Chainslicer
+GT250k05: Lord Silus, Primus Ultima, Shock Disruptor, Stoneheart, Shock Disruptor, Erebus City Sector, Ezamit Tranq, Savant Ascendant, Dartron, Barrel Zulficar, Judgment Nova
+GT250k06: Lord Silus, Chainslicer, Tempest Citadel, Shock Disruptor, Stoneheart, Shock Disruptor, Jyack, Ezamit Tranq, Obsidian, Dreamhaunter, Grizrael the Damned
+GT250k07: Lord Silus, Shock Disruptor, Stoneheart, Shock Disruptor, Erebus City Sector, Ezamit Tranq, Grizrael the Damned, Dreamhaunter, Gehenna Cursed, Sacred Sanctuary, Obsidian
+GT250k08: Lord Silus, Chainslicer, Razor Pinion, Stoneheart, Erebus City Sector, Ezamit Tranq, Scorched Hellwing (2), Erebus City Sector, Razor Pinion, Gehenna Cursed
+GT250k09: Lord Silus, Stoneheart, Savant Ascendant, Erebus City Sector, Ezamit Tranq, Ophiuchus, Artemis Arc Core, Dreamhaunter, Scorched Hellwing, Chainslicer, Guillotine Grinder
+GT250k10: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Erebus City Sector, Dreamhaunter, Obsidian, Scorched Hellwing, Serraco Sire, Erebus City Sector, Serrated Grater
+GT250k11: Constantine, Razor Pinion (2), Stoneheart, Sacred Sanctuary (2), Razor Pinion, Council's Hubris, Razor Pinion, Council's Hubris, Dreamhaunter
+GT250k12: Constantine, Razor Pinion (2), Tempest Citadel, Razor Pinion, Sacred Sanctuary, Vicerolos, Razor Pinion (2), Cockatrice Baxis, Ion Converter
+GT250k13: Constantine, Razor Pinion, Stoneheart, Tempest Citadel, Sacred Sanctuary, Razor Pinion (3), Vicerolos, Razor Pinion, Ezamit Tranq
+GT250k14: Constantine, Blizzard, Razor Pinion, Stoneheart, Tempest Citadel, Erebus City Sector, Razor Pinion, Ezamit Tranq, Savant Ascendant, Roving Pariah, Dreamhaunter
+GT250k15: Constantine, Razor Pinion, Stoneheart, Razor Pinion, Tempest Citadel, Sacred Sanctuary, Jyack, Council's Hubris, Ezamit Tranq, Havenguard, Dreamhaunter
+GT250k16: Constantine, Razor Pinion (2), Stoneheart, Sacred Sanctuary, Dreamhaunter, Ezamit Tranq, Jyack, Styxasis, Savant Ascendant
+GT250k17: Constantine, Razor Pinion, Dartron, Tempest Citadel, Razor Pinion, Sacred Sanctuary, Razor Pinion (2), Avian Baron, Arindite, Dreamhaunter
+GT250k18: Daedalus, Cleave Ripper, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing (4), Erebus City Sector, Obsidian
+GT250k19: Malort, Ezamit Tranq, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Gehenna Cursed, Obsidian, Croc Oppressor, Crypt Burrower, Nerve Database
+GT250k20: Malort, Ravenous Terrorsaur, Dreamhaunter, Stoneheart, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Aggeroth Chaos, Erebus City Sector, Gehenna Cursed, Croc Oppressor, Sacred Sanctuary
+GT250k21: Malort, Ezamit Tranq, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Aggeroth Chaos, Gehenna Cursed, Razarp Shank, Shapesavant, Erebus City Sector, Ravenous Terrorsaur
+GT250k22: Malort, Vicerolos, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Gehenna Cursed, Scorched Hellwing, Erebus City Sector, Flesh Butcher, Hellgazer
+GT250k23: Malort, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Scorched Hellwing (2), Gehenna Cursed (2), Erebus City Sector, Stoneheart, Erebus City Sector
+GT250k24: Halcyon, Nebucadnezzar, Octane's Bulwark, Stoneheart, Haven-bearer, Dreamhaunter, Octane's Bulwark, Hoard Arsenal, Guardian Gamut, Pulverizer, High Constable
+GT250k25: Halcyon, Tempest Citadel, Ezamit Tranq, Justice Victorious (3), Dreamhaunter, Justice Victorious, Pulverizer, Guardian Gamut, Octane's Bulwark
+GT250k26: Halcyon, Stoneheart, Tempest Citadel, Haven-bearer, Octane's Bulwark, Justice Victorious (2), High Constable, Guardian Gamut, Pulverizer, Guardian Gamut 
+GT250k27: Typhon Vex, Dreamhaunter, Stoneheart, Tempest Citadel, Shock Disruptor (2), Mobile Encampment, Crude Surgeon, Judgment Nova, Heart Devourer (2)
+GT250k28: Typhon Vex, Dreamhaunter,Stoneheart, Obsidian, Tempest Citadel, Neo Dredge, Ezamit Tranq, Cockatrice Baxis, Ardengraul, Sphinxite Liberated, The Adversary 
+GT250k29: Nexor, Dreamhaunter, Styxasis, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Arch Nova Alpha, Erebus City Sector, Stoneheart, The Adversary
+GT250k30: Barracus, Chainslicer, Dreamhaunter, Gehenna Cursed, Erebus City Sector, SCorched Hellwing, Gehenna Cursed, Scorched Hellwing, Erebus City Sector, Wurz the Brazen, Cockatrice Baxis
+GT250k31: Tabitha, Nebucadnezzar, Octane's Bulwark, Stoneheart, High Constable, Sacred Sanctuary, Dreamhaunter, Obsidian, Guardian Gamut (2), Dune Runner
+GT250k32: Tabitha, High Constable, Octane's Bulwark, Obsidian, Dreamhaunter, Artemis Arc Core, Ezamit Tranq, Guardian Gamut, Auger Ream, Ardengraul
+GT250k33: Tabitha, Octane's Bulwark, Stoneheart, Obsidian, Dreamhaunter, Octane's Bulwark, Guardian Gamut, High Constable (2)
+GT250k34: Arkadios, Razor Pinion, Stoneheart, Erebus City Sector, Ezamit Tranq, Gehenna Cursed, Scorched Hellwing, Erebus City Sector, Cockatrice Baxis, Razor Pinion, Council's Hubris
+GT250k35: Arkadios, Stoneheart, Sacred Sanctuary, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Scorched Hellwing, Dreamhaunter, Arch Nova Alpha, Obsidian
+GT250k36: Daedalus, Cockatrice Baxis, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Vicerolos, Scorched Hellwing (2), Arch Nova Alpha, Stoneheart, Hardened Palisade
+GT250k37: Arkadios, Chainslicer, Stoneheart, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Dreamhaunter, Erebus City Sector, Lionheart, Valence Eros
+GT250k38: Arkadios, Tempest Citadel, Stoneheart, Gehenna Cursed, Erebus City Sector, Dreamhaunter, Scorched Hellwing, Savant Ascendant, Perzix World Eater, Obsidian
+GT250k39: Arkadios, Stoneheart, Ezamit Tranq, Gehenna Cursed, Erebus City Sector, Dreamhaunter, SCorched Hellwing, Gehenna Cursed, Erebus City Sector, Obsidian, Allogarb
+GT250k40: Arkadios, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing (2), Gehenna Cursed, Erebus City Sector, Razor Pinion, Stoneheart
+GT250k41: Arkadios, Dreamhaunter, Gehenna Cursed, Erebus City Sector, Ezamit Tranq, Scorched Hellwing, Erebus City Sector, Arch Nova Alpha, Chainslicer
 GT250k: /^GT250k\d\d$/
 GTD: /^(GT200k|GT250k)\d\d$/
-
-
 
 ST1:Nexor-6,Arch Nova Alpha-6,Tazerecca-6,Lurker Behemoth-6,Incog Niaq-6,Xillanail-6,Jilted Baughe-6,Tazerecca-6,Arch Nova Elite-6,Dusk Shade-6,Illustrious Helmcraft-6 
 ST2:Nexor-6,Sacred Sanctuary-6,Arch Nova Alpha-6,Tazerecca-6,Sculpted Aegis-6,Fatal Salient-6,Fenlord-6,Lurker Behemoth-6,Tremor Wyvern-6,Slug Borg-6,Demi Constrictor-6 
