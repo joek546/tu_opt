@@ -1,32 +1,42 @@
-Sinew Feeder-1
+Brood Minion
+Blitz Plate
+Smog Tank-1 (2)
+Blight Crusher-1 (2)
+Blood Pool-1 (2)
+Sinew Feeder-1 (2)
 Subterran horror-1 (2)
-Aegis-1 (4)
-Windreaver-1
-Absorption Shield-1
+Tiamat-1
+Aegis-1 
+Aegis-4
 Blackrock-1
-Havoc-4
-Bulldozer-1
-Iron Maiden-1 (3)
-Missile Silo-1
+Blackrock-5 (2)
+Bane-1 
+Chronoshift-1
+Havoc-1
+Bulldozer-1 (2)
+Iron Maiden-1 (2)
 Demon of Embers-1
-Demon of Embers-5
-Equalizer-1 (2)
+Extinguisher-1
+Lowbrow-1 (2)
+Vigil-1 (2)
+Contaminant Scour-1
+Falcion-1 (3)
 Geist-1 (2)
-Retriever-1
+Retriever-1 (3)
 Xeno Mothership-1
-Daemon-1
-Stealthy Niaq-1
-Genetics Pit-1 (2)
+Daemon-1 (2)
+Genetics Pit-1 
+Xillafang-1
 Xanadu-1 (2)
-Lurker Beast-1
-Sporadic nado-1
-Halesurge-1 (2)
+Sporadic nado-1 (3)
+Baughe-1
+Baughe-5
 Malgoth-1
 Tartarus Scion-1
 Nimbus-1
-Nimbus-5
-Elite Soldier-1
-Trench-1 (2)
+Omega-1
+Messiar-1
+Apex-1
+Dreamweaver-5
 Lucidier-1 (2)
-Serraco-1
-Onyx-1
+Ascendant-1
