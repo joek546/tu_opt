@@ -1,0 +1,90 @@
+22:27:55.43 
+
+level 15
+"Lightning Cannon(2)"
+Optimized Deck: (51.3023% win, 0.380667% stall) 56.7046: Nexor, Shock Disruptor, Stoneheart, Dreamhaunter, Auger Ream, Sacred Sanctuary, Trench Hurler, Tazerecca
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (51.8287% win, 0.165667% stall) 57.6165: Lord Silus, Chainslicer, Stoneheart, Shock Disruptor, Tazerecca, Dreamhaunter, Trench Hurler
+"Inspiring Altar(2)"
+Optimized Deck: (59.3513% win, 0.140333% stall) 64.3596: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Dreamhaunter, Tazerecca, Trench Hurler
+
+level 16
+"Lightning Cannon(2)"
+Optimized Deck: (39.8047% win, 0.0903333% stall) 46.3684: Barracus, Shock Disruptor, Stoneheart, Arch Nova Alpha, Auger Ream, Tazerecca, Dreamhaunter, Trench Hurler
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (42.1287% win, 0.146667% stall) 48.8885: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Auger Ream, Dreamhaunter, Trench Hurler
+"Inspiring Altar(2)"
+Optimized Deck: (48.8323% win, 0.113% stall) 54.898: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Dreamhaunter, Tazerecca, Trench Hurler
+
+level 17
+"Lightning Cannon(2)"
+Optimized Deck: (28.6693% win, 0.063% stall) 36.0525: Barracus, Chainslicer, Stoneheart, Shock Disruptor, Auger Ream, Tazerecca, Dreamhaunter, Trench Hurler
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (30.2697% win, 0.1% stall) 37.991: Lord Silus, Chainslicer, Stoneheart, Shock Disruptor, Tazerecca, Dreamhaunter, Trench Hurler
+"Inspiring Altar(2)"
+Optimized Deck: (38.3173% win, 0.0836667% stall) 45.3614: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Dreamhaunter, Tazerecca, Trench Hurler
+
+level 18
+"Lightning Cannon(2)"
+Optimized Deck: (19.462% win, 0.0663333% stall) 27.3504: Nexor, Chainslicer, Stoneheart, Shock Disruptor, Tazerecca, Auger Ream, Dreamhaunter, Trench Hurler
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (23.0197% win, 0.0263333% stall) 30.9571: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Auger Ream, Dreamhaunter, Trench Hurler, Irrian Grafter
+"Inspiring Altar(2)"
+Optimized Deck: (29.9337% win, 0.0683333% stall) 37.3627: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Auger Ream, Dreamhaunter, Trench Hurler
+
+level 19
+"Lightning Cannon(2)"
+Optimized Deck: (12.385% win, 0.0276667% stall) 20.5341: Nexor, Shock Disruptor, Stoneheart, Chainslicer, Tazerecca, Auger Ream, Dreamhaunter, Trench Hurler
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (16.2177% win, 0.00966667% stall) 24.5122: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Auger Ream, Dreamhaunter, Trench Hurler, Irrian Grafter
+"Inspiring Altar(2)"
+Optimized Deck: (22.5763% win, 0.037% stall) 30.4947: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Auger Ream, Dreamhaunter, Trench Hurler
+
+level 20
+"Lightning Cannon(2)"
+Optimized Deck: (7.555% win, 0.00633333% stall) 15.6749: Barracus, Shock Disruptor, Stoneheart, Chainslicer, Tazerecca, Auger Ream, Dreamhaunter, Trench Hurler
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (13.9573% win, 0.002% stall) 21.821: Empress, Stoneheart, Zodiac Harbinger #2, Dreamhaunter, Honorable Samurai, Contaminant Purifier, Ayrkrane Syn
+"Inspiring Altar(2)"
+Optimized Deck: (16.5597% win, 0.016% stall) 24.812: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Auger Ream, Dreamhaunter, Trench Hurler
+
+level 21
+"Lightning Cannon(2)"
+Optimized Deck: (7.32267% win, 0% stall) 15.6639: Empress, Stoneheart, Zodiac Harbinger #2, Dreamhaunter, Contaminant Purifier, Honorable Samurai, Ayrkrane Syn
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (10.516% win, 0.000333333% stall) 18.5191: Empress, Stoneheart, Zodiac Harbinger #2, Dreamhaunter, Honorable Samurai, Contaminant Purifier, Ayrkrane Syn
+"Inspiring Altar(2)"
+Optimized Deck: (12.377% win, 0.000333333% stall) 20.1651: Empress, Stoneheart, Shock Disruptor, Zodiac Harbinger, Dreamhaunter, Zodiac Harbinger, Trench Hurler, Contaminant Purifier
+
+level 22
+"Lightning Cannon(2)"
+Optimized Deck: (5.07967% win, 0.000666667% stall) 13.3523: Empress, Stoneheart, Zodiac Harbinger #2, Contaminant Purifier, Dreamhaunter, Honorable Samurai, Ayrkrane Syn
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (6.09867% win, 0.001% stall) 14.2353: Empress, Shock Disruptor, Stoneheart, Zodiac Harbinger, Contaminant Purifier, Dreamhaunter, Trench Hurler, Zodiac Harbinger
+"Inspiring Altar(2)"
+Optimized Deck: (8.741% win, 0.00133333% stall) 16.8746: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Zodiac Harbinger, Dreamhaunter, Trench Hurler, Zodiac Harbinger
+
+level 23
+"Lightning Cannon(2)"
+Optimized Deck: (3.90267% win, 0% stall) 12.0291: Empress, Zodiac Harbinger #2, Contaminant Purifier, Dreamhaunter, Honorable Samurai, Ayrkrane Syn
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (6.53867% win, 0% stall) 14.2972: Empress, Zodiac Harbinger #2, Dreamhaunter, Contaminant Purifier, Honorable Samurai, Ayrkrane Syn, Irrian Grafter
+"Inspiring Altar(2)"
+Optimized Deck: (6.80567% win, 0% stall) 15.043: Empress, Shock Disruptor, Stoneheart, Chainslicer, Contaminant Purifier, Dreamhaunter, Trench Hurler
+
+level 24
+"Lightning Cannon(2)"
+Optimized Deck: (2.859% win, 0% stall) 10.9402: Empress, Zodiac Harbinger #2, Contaminant Purifier, Dreamhaunter, Honorable Samurai, Ayrkrane Syn
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (5.387% win, 0% stall) 13.1752: Empress, Zodiac Harbinger #2, Contaminant Purifier, Dreamhaunter, Honorable Samurai, Ayrkrane Syn
+"Inspiring Altar(2)"
+Optimized Deck: (5.60033% win, 0% stall) 13.5497: Constantine, Shock Disruptor, Zodiac Harbinger, Contaminant Purifier, Dreamhaunter, Trench Hurler, Zodiac Harbinger
+
+level 25
+"Lightning Cannon(2)"
+Optimized Deck: (2.17033% win, 0% stall) 10.1552: Empress, Zodiac Harbinger #2, Contaminant Purifier, Dreamhaunter, Honorable Samurai, Ayrkrane Syn
+"Lightning Cannon,Inspiring Altar"
+Optimized Deck: (4.556% win, 0% stall) 12.2824: Empress, Zodiac Harbinger #2, Contaminant Purifier, Dreamhaunter, Honorable Samurai, Ayrkrane Syn
+"Inspiring Altar(2)"
+Optimized Deck: (4.718% win, 0% stall) 12.6966: Lord Silus, Chainslicer, Shock Disruptor, Aggeroth Chaos, Dreamhaunter, Trench Hurler, Irrian Grafter
+23:28:26.10

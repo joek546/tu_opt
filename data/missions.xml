@@ -21062,6 +21062,334 @@
 		<req>2354</req>
 	</mission>
 	
+	<mission>
+		<id>2356</id>
+		<name>Marching On</name>
+		<location_id>116</location_id>
+		<event_req>28</event_req>
+		<combatBG>combatbg_prologue</combatBG>
+		<energy>75</energy>
+		<x>160</x>
+		<y>465</y>
+		<commander>1601</commander>
+		<speech>
+			<line commander='1186'>We've slain the Dactyl, but I fear we may be too late to stop them.</line>
+			<line commander='1003'>Nonsense, we keep marching!</line>
+		</speech>
+		<deck>
+			<card>8311</card>
+			<card>7905</card>
+			<card>666</card>
+			<card>5090</card>
+			<card>328</card>
+			<card>149</card>
+			<card>6730</card>
+			<card>135</card>
+			<card>142</card>
+			<card>142</card>
+		</deck>
+		<rewards>
+			<gold>82</gold>
+			<card>142</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2355</req>
+	</mission>
+	
+	<mission>
+		<id>2357</id>
+		<name>Promised Land</name>
+		<location_id>116</location_id>
+		<event_req>28</event_req>
+		<combatBG>combatbg_prologue</combatBG>
+		<energy>80</energy>
+		<x>240</x>
+		<y>465</y>
+		<commander>1601</commander>
+		<speech>
+			<line commander='1608'>All forces, stop the Imperials in their tracks. The Olympus Fragment has activated and we're almost to the promised land.</line>
+		</speech>
+		<deck>
+			<card>8311</card>
+			<card>140</card>
+			<card>140</card>
+			<card>145</card>
+			<card>626</card>
+			<card>518</card>
+			<card>4415</card>
+			<card>6346</card>
+			<card>11319</card>
+			<card>13956</card>
+		</deck>
+		<rewards>
+			<gold>88</gold>
+			<card>139</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2356</req>
+	</mission>
+
+	<mission>
+		<id>2358</id>
+		<name>Order in Chaos</name>
+		<location_id>116</location_id>
+		<event_req>28</event_req>
+		<combatBG>combatbg_prologue</combatBG>
+		<energy>85</energy>
+		<x>280</x>
+		<y>360</y>
+		<commander>1601</commander>
+		<speech>
+			<line commander='1598'>We're doing our best to resist them sir, but they are breaking through our ranks.</line>
+			<line commander='1003'>And we're not going to stop!</line>
+		</speech>
+		<deck>
+			<card>8311</card>
+			<card>6915</card>
+			<card>6915</card>
+			<card>627</card>
+			<card>627</card>
+			<card>4963</card>
+			<card>5090</card>
+			<card>374</card>
+			<card>201</card>
+			<card>200</card>
+		</deck>
+		<rewards>
+			<gold>93</gold>
+			<card>200</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2357</req>
+	</mission>
+
+	<mission>
+		<id>2359</id>
+		<name>Fight for the Finish</name>
+		<location_id>116</location_id>
+		<event_req>28</event_req>
+		<combatBG>combatbg_prologue</combatBG>
+		<energy>85</energy>
+		<x>350</x>
+		<y>410</y>
+		<commander>1601</commander>
+		<speech>
+			<line commander='1186'>We've got them against the ropes.</line>
+			<line commander='1003'>No foe is a match for me... least of all you Righteous fools!</line>
+		</speech>
+		<deck>
+			<card>8311</card>
+			<card>2024</card>
+			<card>378</card>
+			<card>201</card>
+			<card>4065</card>
+			<card>4963</card>
+			<card>4963</card>
+			<card>6730</card>
+			<card>4257</card>
+			<card>13260</card>
+		</deck>
+		<rewards>
+			<gold>93</gold>
+			<card>2024</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2358</req>
+	</mission>
+	
+	<mission>
+		<id>2360</id>
+		<name>Cardinal Sin</name>
+		<location_id>116</location_id>
+		<event_req>28</event_req>
+		<combatBG>combatbg_prologue</combatBG>
+		<energy>90</energy>
+		<x>410</x>
+		<y>495</y>
+		<commander>1601</commander>
+		<speech>
+			<line commander='1608'>No, no, no. Kill them! We just need to make some final adjustments to slay the Bloodthirsty. We can end all of our enemies. Perfect order must be achieved!</line>
+		</speech>
+		<deck>
+			<card>8311</card>
+			<card>2288</card>
+			<card>10475</card>
+			<card>628</card>
+			<card>627</card>
+			<card>4414</card>
+			<card>5329</card>
+			<card>374</card>
+			<card>133</card>
+			<card>145</card>
+		</deck>
+		<rewards>
+			<gold>99</gold>
+			<card>133</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2359</req>
+	</mission>
+	
+	<mission>
+		<id>2361</id>
+		<name>Phalanx</name>
+		<location_id>116</location_id>
+		<event_req>28</event_req>
+		<combatBG>combatbg_prologue</combatBG>
+		<energy>90</energy>
+		<x>490</x>
+		<y>490</y>
+		<commander>1601</commander>
+		<speech>
+			<line commander='1598'>All Righteous form on the Olympus Fragment. We are the last line of defense to ensure our goals are met.</line>
+		</speech>
+		<deck>
+			<card>8311</card>
+			<card>139</card>
+			<card>140</card>
+			<card>378</card>
+			<card>518</card>
+			<card>518</card>
+			<card>6088</card>
+			<card>4964</card>
+			<card>10241</card>
+			<card>13171</card>
+		</deck>
+		<rewards>
+			<gold>99</gold>
+			<card>139</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2360</req>
+	</mission>
+
+	<mission>
+		<id>2362</id>
+		<name>Zealots Pursued</name>
+		<location_id>116</location_id>
+		<event_req>28</event_req>
+		<combatBG>combatbg_prologue</combatBG>
+		<energy>95</energy>
+		<x>560</x>
+		<y>490</y>
+		<commander>1601</commander>
+		<speech>
+			<line commander='1608'>Fellow Righteous, your sacrifices will not be in vain, for in the new order you will be kings and our enemies will have never existed.</line>
+			<line commander='1598'>Protect the Olympus Fragment, it is our salvation!</line>
+			<line commander='1003'>More zealots to slay.</line>
+		</speech>
+		<deck>
+			<card>8311</card>
+			<card>145</card>
+			<card>146</card>
+			<card>374</card>
+			<card>5329</card>
+			<card>4963</card>
+			<card>628</card>
+			<card>4469</card>
+			<card>10085</card>
+			<card>12803</card>
+		</deck>
+		<rewards>
+			<gold>104</gold>
+			<card>145</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2361</req>
+	</mission>
+	
+	<mission>
+		<id>2363</id>
+		<name>Patriarch</name>
+		<location_id>116</location_id>
+		<mission_type>2</mission_type>
+		<event_req>28</event_req>
+		<combatBG>combatbg_prologue</combatBG>
+		<energy>100</energy>
+		<x>640</x>
+		<y>540</y>
+		<commander>1608</commander>
+		<speech>
+			<line commander='1608'>You are too late! Witness the divine power of order and stay your feet.</line>
+			<line commander='1186'>Ugh! This power is overflowing from the island... we have to stop it.</line>
+			<line commander='1003'>Full force. Destroy the Progenitor structure and end this madness!</line>
+		</speech>
+		<deck>
+			<card>8311</card>
+			<card>8311</card>
+			<card>13692</card>
+			<card>13824</card>
+			<card>7539</card>
+			<card>4262</card>
+			<card>12808</card>
+			<card>13854</card>
+			<card>11331</card>
+			<card>13956</card>
+		</deck>
+		<rewards>
+			<gold>120</gold>
+			<card>328</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2362</req>
+	</mission>
+	
 	<!-- END Janurary 2015 Missions -->
 
 	<location>
@@ -21258,9 +21586,9 @@
 	
 	<location>
 		<id>116</id>
-		<name>Alpha Revisted</name>
+		<name>Alpha Revisited</name>
 		<event_req>28</event_req>
-		<mapBG>prog_island_return_2</mapBG>
+		<mapBG>prog_island_return_3</mapBG>
 		<asset_bundle>22</asset_bundle>
 		<!-- <map bg='prog_island_return_1' asset_bundle='22' />
 		<map bg='prog_island_return_2' asset_bundle='22' phase_id='2' /> -->
