@@ -49,13 +49,9 @@ SET file="JudgmentWarFort.txt"
 echo %time%>%file% 
 
 for /F "tokens=2 delims==" %%a in ('set fort[') do (
-	echo %efort%>>%file%
 	echo %%a>>%file%
 	for /L %%i in (1,1,%memSize%) do (
-		echo NS%%i>> %file% 
 		tuo "FT0%%i" "GTD" gw ordered yf %%a ef %efort% -e %BGE% -t 6 reorder %iter% | find %find% >> %file% 
-		echo.>>%file% 
-	
 	)
 )
 echo %time%>>%file%

@@ -2,3 +2,613 @@
 "Foreboding Archway"
 "Mortar Tower(2)"
 NS1 
+Optimized Deck: 17.0976: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 11.0188: Arkadios, Chainslicer, Dreamhaunter, The Adversary, Ezamit Tranq, Savant Ascendant, Arch Nova Alpha, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail
+ 
+NS3 
+Optimized Deck: 7.15341: Halcyon, Dreamhaunter, Nebucadnezzar, Tundra MK3, Hulking Iron, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 21.3014: Constantine, Grand Templar, Obsidian, Erebus City Sector, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Arch Nova Elite, Bolt Crag, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 15.6626: Lord Silus, Shock Disruptor, Chainslicer, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Mortar Tower,Lightning Cannon"
+NS1 
+Optimized Deck: 24.2287: Lord Silus, Chainslicer, Shock Disruptor #3, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 16.9064: Arkadios, Chainslicer, Dreamhaunter, The Adversary, Ezamit Tranq, Savant Ascendant, Arch Nova Alpha, Deserted Baughe, Bane of Truth, Gorrus Rav, Xillanail
+ 
+NS3 
+Optimized Deck: 11.8922: Halcyon, Dreamhaunter, Nebucadnezzar, Hulking Iron, Tundra MK3, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 30.3285: Constantine, Obsidian, Dreamhaunter, Erebus City Sector, Grand Templar, Sacred Sanctuary, Bolt Crag #2, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 23.504: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Mortar Tower,Corrosive Spore"
+NS1 
+Optimized Deck: 18.1339: Lord Silus, Shock Disruptor #2, Chainslicer, Shock Disruptor, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 17.8096: Arkadios, Chainslicer, The Adversary, Ezamit Tranq, Dreamhaunter, Savant Ascendant, Arch Nova Alpha, Deserted Baughe, Bane of Truth, Gorrus Rav, Xillanail
+ 
+NS3 
+Optimized Deck: 6.85106: Halcyon, Nebucadnezzar, Dreamhaunter, Hulking Iron, Tundra MK3, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 30.4833: Constantine, Erebus City Sector, Grand Templar, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Arch Nova Elite, Bolt Crag, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 17.8016: Lord Silus, Shock Disruptor, Chainslicer, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Mortar Tower,Sky Fortress"
+NS1 
+Optimized Deck: 34.3711: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 19.6974: Arkadios, Chainslicer, Dreamhaunter, Xillanail, The Adversary, Ezamit Tranq, Arch Nova Alpha, Bane of Truth, Deserted Baughe, Savant Ascendant, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 12.8809: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 36.004: Constantine, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 25.624: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Mortar Tower,Death Factory"
+NS1 
+Optimized Deck: 22.6976: Lord Silus, Chainslicer, Shock Disruptor #3, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 14.7699: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Gorrus Rav, Bane of Truth
+ 
+NS3 
+Optimized Deck: 10.0873: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 32.9889: Constantine, Obsidian, Bolt Crag, Sacred Sanctuary, Dreamhaunter, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 25.788: Lord Silus, Stoneheart, Shock Disruptor, Chainslicer, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Mortar Tower,Inspiring Altar"
+NS1 
+Optimized Deck: 25.6831: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 15.4591: Arkadios, Chainslicer, Dreamhaunter, The Adversary, Ezamit Tranq, Savant Ascendant, Arch Nova Alpha, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail
+ 
+NS3 
+Optimized Deck: 12.524: Halcyon, Nebucadnezzar, Tundra MK3, Hulking Iron, Dreamhaunter, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 30.1344: Constantine, Grand Templar, Erebus City Sector, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag #2, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 26.4718: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Lightning Cannon,Mortar Tower"
+NS1 
+Optimized Deck: 24.0388: Lord Silus, Chainslicer, Shock Disruptor #3, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 16.7638: Arkadios, Chainslicer, Dreamhaunter, The Adversary, Ezamit Tranq, Savant Ascendant, Arch Nova Alpha, Deserted Baughe, Bane of Truth, Xillanail, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 11.7678: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 30.172: Constantine, Obsidian, Dreamhaunter, Bolt Crag, Sacred Sanctuary, Erebus City Sector, Grand Templar, Bolt Crag, Lucifire, Irrian Grafter, Arch Nova Elite
+ 
+NS5 
+Optimized Deck: 23.2085: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Lightning Cannon(2)"
+NS1 
+Optimized Deck: 33.1555: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 25.1922: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Savant Ascendant, Ezamit Tranq, Arch Nova Alpha, Deserted Baughe, Gorrus Rav, Bane of Truth
+ 
+NS3 
+Optimized Deck: 19.1327: Halcyon, Dreamhaunter, Tundra MK3, Nebucadnezzar, Hulking Iron, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 39.8452: Constantine, Obsidian, Dreamhaunter, Bolt Crag, Sacred Sanctuary, Erebus City Sector, Grand Templar, Bolt Crag, Lucifire, Irrian Grafter, Arch Nova Elite
+ 
+NS5 
+Optimized Deck: 32.7141: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Lightning Cannon,Corrosive Spore"
+NS1 
+Optimized Deck: 25.8645: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 26.2849: Arkadios, The Adversary, Savant Ascendant, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Deserted Baughe, Bane of Truth, Gorrus Rav, Xillanail, Chainslicer
+ 
+NS3 
+Optimized Deck: 12.3094: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Hoard Arsenal, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 40.0664: Constantine, Sacred Sanctuary, Obsidian, Dreamhaunter, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Bolt Crag, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 26.4482: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Lightning Cannon,Sky Fortress"
+NS1 
+Optimized Deck: 44.9576: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 29.4885: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Bane of Truth, Deserted Baughe, Savant Ascendant, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 21.5386: Halcyon, Dreamhaunter, Tundra MK3, Nebucadnezzar, Hulking Iron, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Hoard Arsenal, Coldheart
+ 
+NS4 
+Optimized Deck: 47.2445: Constantine, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Lucifire, Irrian Grafter, Arch Nova Elite
+ 
+NS5 
+Optimized Deck: 36.2861: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Lightning Cannon,Death Factory"
+NS1 
+Optimized Deck: 31.0821: Lord Silus, Chainslicer, Shock Disruptor #3, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 22.6744: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Bane of Truth, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 16.6809: Halcyon, Tundra MK3, Nebucadnezzar, Dreamhaunter, Hulking Iron, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Hoard Arsenal, Coldheart
+ 
+NS4 
+Optimized Deck: 42.7289: Constantine, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 35.1868: Lord Silus, Stoneheart, Chainslicer, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Lightning Cannon,Inspiring Altar"
+NS1 
+Optimized Deck: 35.5685: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 23.7318: Arkadios, Chainslicer, Dreamhaunter, Xillanail, The Adversary, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Gorrus Rav, Bane of Truth
+ 
+NS3 
+Optimized Deck: 21.4214: Halcyon, Tundra MK3, Nebucadnezzar, Hulking Iron, Dreamhaunter, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 41.1433: Constantine, Erebus City Sector, Grand Templar, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag #2, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 37.7842: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Corrosive Spore,Mortar Tower"
+NS1 
+Optimized Deck: 21.8445: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 21.8932: Arkadios, Chainslicer, The Adversary, Ezamit Tranq, Savant Ascendant, Arch Nova Alpha, Dreamhaunter, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail
+ 
+NS3 
+Optimized Deck: 10.4358: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 33.8214: Constantine, Erebus City Sector, Grand Templar, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Arch Nova Elite, Bolt Crag, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 21.6294: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Corrosive Spore,Lightning Cannon"
+NS1 
+Optimized Deck: 28.7856: Lord Silus, Chainslicer, Shock Disruptor #3, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 28.6195: Arkadios, Chainslicer, The Adversary, Savant Ascendant, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail
+ 
+NS3 
+Optimized Deck: 15.0426: Halcyon, Dreamhaunter, Tundra MK3, Nebucadnezzar, Hulking Iron, Pulverizer, Hoard Arsenal, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 42.0861: Constantine, Erebus City Sector, Obsidian, Dreamhaunter, Grand Templar, Sacred Sanctuary, Bolt Crag, Arch Nova Elite, Bolt Crag, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 29.2499: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Corrosive Spore(2)"
+NS1 
+Optimized Deck: 24.2372: Lord Silus, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Irrian Grafter, Deserted Baughe, Bane of Truth, Jet, Shock Disruptor, Chainslicer
+ 
+NS2 
+Optimized Deck: 28.2045: Arkadios, The Adversary, Savant Ascendant, Ezamit Tranq, Arch Nova Alpha, Dreamhaunter, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail, Chainslicer
+ 
+NS3 
+Optimized Deck: 8.084: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Hoard Arsenal, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 37.8734: Constantine, Erebus City Sector, Grand Templar, Obsidian, Sacred Sanctuary, Dreamhaunter, Bolt Crag, Arch Nova Elite, Bolt Crag, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 21.1259: Lord Silus, Shock Disruptor, Stoneheart, Chainslicer, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Corrosive Spore,Sky Fortress"
+NS1 
+Optimized Deck: 37.7339: Lord Silus, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Chainslicer, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 29.2638: Arkadios, Chainslicer, The Adversary, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Bane of Truth, Deserted Baughe, Savant Ascendant, Gorrus Rav, Xillanail
+ 
+NS3 
+Optimized Deck: 14.4946: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Hoard Arsenal, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 47.8028: Constantine, Sacred Sanctuary, Dreamhaunter, Obsidian, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Bolt Crag, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 30.4346: Lord Silus, Shock Disruptor, Chainslicer, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Corrosive Spore,Death Factory"
+NS1 
+Optimized Deck: 26.2791: Lord Silus, Shock Disruptor #3, Chainslicer, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 24.8998: Arkadios, The Adversary, Xillanail, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Bane of Truth, Gorrus Rav, Chainslicer
+ 
+NS3 
+Optimized Deck: 12.1896: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 44.7068: Constantine, Sacred Sanctuary, Obsidian, Dreamhaunter, Bolt Crag, Erebus City Sector, Grand Templar, Arch Nova Elite, Bolt Crag, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 31.9732: Lord Silus, Stoneheart, Shock Disruptor, Chainslicer, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Corrosive Spore,Inspiring Altar"
+NS1 
+Optimized Deck: 28.2442: Lord Silus, Chainslicer, Shock Disruptor #3, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 24.6871: Arkadios, Chainslicer, The Adversary, Ezamit Tranq, Savant Ascendant, Arch Nova Alpha, Dreamhaunter, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail
+ 
+NS3 
+Optimized Deck: 14.0614: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 41.7078: Constantine, Sacred Sanctuary, Erebus City Sector, Grand Templar, Obsidian, Dreamhaunter, Bolt Crag #2, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 31.1904: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Sky Fortress,Mortar Tower"
+NS1 
+Optimized Deck: 34.3864: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 19.7073: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Bane of Truth, Deserted Baughe, Savant Ascendant, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 12.8856: Halcyon, Nebucadnezzar, Dreamhaunter, Hulking Iron, Tundra MK3, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 36.0694: Constantine, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 25.6035: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Sky Fortress,Lightning Cannon"
+NS1 
+Optimized Deck: 44.8061: Lord Silus, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Shock Disruptor, Bane of Truth, Chainslicer, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 29.1061: Arkadios, Chainslicer, Xillanail, Dreamhaunter, Ezamit Tranq, Bane of Truth, The Adversary, Savant Ascendant, Deserted Baughe, Arch Nova Alpha, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 21.5009: Halcyon, Dreamhaunter, Nebucadnezzar, Tundra MK3, Hulking Iron, Pulverizer, Hoard Arsenal, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 47.2106: Constantine, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Lucifire, Irrian Grafter, Arch Nova Elite
+ 
+NS5 
+Optimized Deck: 36.3746: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Sky Fortress,Corrosive Spore"
+NS1 
+Optimized Deck: 37.8158: Lord Silus, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Chainslicer, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 28.2468: Arkadios, The Adversary, Xillanail, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Deserted Baughe, Bane of Truth, Savant Ascendant, Gorrus Rav, Chainslicer
+ 
+NS3 
+Optimized Deck: 14.5231: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 47.8433: Constantine, Sacred Sanctuary, Dreamhaunter, Obsidian, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Bolt Crag, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 30.3666: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Sky Fortress(2)"
+NS1 
+Optimized Deck: 56.0499: Lord Silus, Shock Disruptor, Ezamit Tranq, Shock Disruptor, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Chainslicer, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 42.4758: Arkadios, Chainslicer, Xillanail, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Bane of Truth, The Adversary, Savant Ascendant, Deserted Baughe, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 38.5861: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 57.6376: Constantine, Dreamhaunter, Obsidian, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Lucifire, Arch Nova Elite, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 52.8866: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Sky Fortress,Death Factory"
+NS1 
+Optimized Deck: 44.1139: Lord Silus, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Chainslicer, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 29.6979: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Bane of Truth, Deserted Baughe, Savant Ascendant, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 21.024: Halcyon, Nebucadnezzar, Hulking Iron, Dreamhaunter, Tundra MK3, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 51.2482: Constantine, Dreamhaunter, Obsidian, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Bolt Crag, Grand Templar, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 39.5459: Lord Silus, Stoneheart, Chainslicer, Sacred Sanctuary, Dreamhaunter, Shock Disruptor, Aggeroth Chaos, Trench Hurler, Tazerious
+ 
+"Foreboding Archway"
+"Sky Fortress,Inspiring Altar"
+NS1 
+Optimized Deck: 46.3539: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 29.0412: Arkadios, Chainslicer, The Adversary, Xillanail, Ezamit Tranq, Dreamhaunter, Arch Nova Alpha, Bane of Truth, Deserted Baughe, Savant Ascendant, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 24.7713: Halcyon, Nebucadnezzar, Tundra MK3, Hulking Iron, Dreamhaunter, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Hoard Arsenal, Coldheart
+ 
+NS4 
+Optimized Deck: 47.7878: Constantine, Dreamhaunter, Erebus City Sector, Grand Templar, Obsidian, Sacred Sanctuary, Bolt Crag #2, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 40.4391: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Death Factory(2)"
+NS1 
+Optimized Deck: 30.6546: Lord Silus, Shock Disruptor, Chainslicer, Ezamit Tranq, Dreamhaunter, Shock Disruptor #2, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 21.5529: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Bane of Truth, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 16.2896: Halcyon, Coldheart, Nebucadnezzar, Dreamhaunter, Hulking Iron, Tundra MK3, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Hoard Arsenal
+ 
+NS4 
+Optimized Deck: 46.2254: Constantine, Sacred Sanctuary, Obsidian, Dreamhaunter, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 40.2261: Lord Silus, Stoneheart, Chainslicer, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Death Factory,Mortar Tower"
+NS1 
+Optimized Deck: 22.6193: Lord Silus, Shock Disruptor #2, Chainslicer, Ezamit Tranq, Shock Disruptor, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 14.7454: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Bane of Truth, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 10.0645: Halcyon, Nebucadnezzar, Dreamhaunter, Hulking Iron, Tundra MK3, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 32.9515: Constantine, Obsidian, Bolt Crag, Sacred Sanctuary, Dreamhaunter, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 25.8784: Lord Silus, Stoneheart, Chainslicer, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Death Factory,Lightning Cannon"
+NS1 
+Optimized Deck: 31.108: Lord Silus, Chainslicer, Shock Disruptor #3, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 22.7553: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Gorrus Rav, Bane of Truth
+ 
+NS3 
+Optimized Deck: 16.8748: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 42.7861: Constantine, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 35.3654: Lord Silus, Stoneheart, Chainslicer, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Death Factory,Corrosive Spore"
+NS1 
+Optimized Deck: 24.7402: Lord Silus, Shock Disruptor #3, Ezamit Tranq, Dreamhaunter, Chainslicer, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 23.4301: Arkadios, The Adversary, Savant Ascendant, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Deserted Baughe, Bane of Truth, Gorrus Rav, Xillanail, Chainslicer
+ 
+NS3 
+Optimized Deck: 10.8652: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Hoard Arsenal, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 43.1: Constantine, Sacred Sanctuary, Obsidian, Dreamhaunter, Bolt Crag, Erebus City Sector, Grand Templar, Arch Nova Elite, Bolt Crag, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 30.2005: Lord Silus, Stoneheart, Chainslicer, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Death Factory,Sky Fortress"
+NS1 
+Optimized Deck: 44.1374: Lord Silus, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Chainslicer, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 29.9127: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Bane of Truth, Deserted Baughe, Savant Ascendant, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 21.2308: Halcyon, Nebucadnezzar, Dreamhaunter, Tundra MK3, Hulking Iron, Pulverizer, Hoard Arsenal, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 51.4454: Constantine, Sacred Sanctuary, Obsidian, Dreamhaunter, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 40.0746: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Death Factory,Inspiring Altar"
+NS1 
+Optimized Deck: 34.3405: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 22.6035: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Bane of Truth, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 20.1158: Halcyon, Nebucadnezzar, Hulking Iron, Dreamhaunter, Tundra MK3, Pulverizer, Hoard Arsenal, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 45.2513: Constantine, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag, Erebus City Sector, Bolt Crag, Grand Templar, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 40.7504: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Inspiring Altar,Mortar Tower"
+NS1 
+Optimized Deck: 25.7078: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 15.4405: Arkadios, Chainslicer, Dreamhaunter, The Adversary, Ezamit Tranq, Savant Ascendant, Arch Nova Alpha, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail
+ 
+NS3 
+Optimized Deck: 12.5169: Halcyon, Nebucadnezzar, Tundra MK3, Hulking Iron, Dreamhaunter, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 30.0047: Constantine, Grand Templar, Obsidian, Erebus City Sector, Dreamhaunter, Sacred Sanctuary, Bolt Crag #2, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 26.5624: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Inspiring Altar,Lightning Cannon" 
+NS1 
+Optimized Deck: 35.4635: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 23.7492: Arkadios, Chainslicer, Dreamhaunter, The Adversary, Savant Ascendant, Ezamit Tranq, Arch Nova Alpha, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail
+ 
+NS3 
+Optimized Deck: 21.4972: Halcyon, Tundra MK3, Nebucadnezzar, Hulking Iron, Pulverizer, Dreamhaunter, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 41.2042: Constantine, Grand Templar, Obsidian, Erebus City Sector, Dreamhaunter, Sacred Sanctuary, Bolt Crag #2, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 37.7736: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Inspiring Altar,Corrosive Spore"
+NS1 
+Optimized Deck: 28.2308: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 24.7609: Arkadios, The Adversary, Savant Ascendant, Ezamit Tranq, Dreamhaunter, Arch Nova Alpha, Deserted Baughe, Gorrus Rav, Bane of Truth, Xillanail, Chainslicer
+ 
+NS3 
+Optimized Deck: 14.0936: Halcyon, Nebucadnezzar, Tundra MK3, Hulking Iron, Dreamhaunter, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 41.62: Constantine, Sacred Sanctuary, Grand Templar, Erebus City Sector, Obsidian, Dreamhaunter, Bolt Crag #2, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 31.1391: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Inspiring Altar,Sky Fortress"
+NS1 
+Optimized Deck: 46.3856: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Bane of Truth, Shock Disruptor, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 29.1925: Arkadios, Chainslicer, The Adversary, Xillanail, Dreamhaunter, Ezamit Tranq, Arch Nova Alpha, Bane of Truth, Deserted Baughe, Savant Ascendant, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 25.0167: Halcyon, Tundra MK3, Nebucadnezzar, Hulking Iron, Dreamhaunter, Pulverizer, Dune Runner, Trigger Mark, Hoard Arsenal, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 47.8268: Constantine, Obsidian, Grand Templar, Erebus City Sector, Dreamhaunter, Sacred Sanctuary, Bolt Crag #2, Arch Nova Elite, Lucifire, Irrian Grafter
+ 
+NS5 
+Optimized Deck: 40.6824: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Inspiring Altar,Death Factory"
+NS1 
+Optimized Deck: 34.4381: Lord Silus, Chainslicer, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Shock Disruptor, Jet, Bane of Truth, Irrian Grafter, Deserted Baughe
+ 
+NS2 
+Optimized Deck: 22.6106: Arkadios, Chainslicer, Xillanail, Dreamhaunter, The Adversary, Ezamit Tranq, Arch Nova Alpha, Savant Ascendant, Deserted Baughe, Bane of Truth, Gorrus Rav
+ 
+NS3 
+Optimized Deck: 20.0751: Halcyon, Nebucadnezzar, Hulking Iron, Dreamhaunter, Tundra MK3, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 45.2339: Constantine, Sacred Sanctuary, Obsidian, Dreamhaunter, Bolt Crag, Erebus City Sector, Grand Templar, Bolt Crag, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 40.7788: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+"Foreboding Archway"
+"Inspiring Altar(2)"
+NS1 
+Optimized Deck: 40.2442: Lord Silus, Shock Disruptor #2, Ezamit Tranq, Dreamhaunter, Jet, Irrian Grafter, Deserted Baughe, Bane of Truth, Shock Disruptor, Chainslicer
+ 
+NS2 
+Optimized Deck: 24.4221: Arkadios, Chainslicer, The Adversary, Ezamit Tranq, Xillanail, Dreamhaunter, Arch Nova Alpha, Deserted Baughe, Gorrus Rav, Bane of Truth, Savant Ascendant
+ 
+NS3 
+Optimized Deck: 25.7675: Halcyon, Nebucadnezzar, Tundra MK3, Hulking Iron, Dreamhaunter, Hoard Arsenal, Pulverizer, Dune Runner, Trigger Mark, Blast Lancer, Coldheart
+ 
+NS4 
+Optimized Deck: 43.7332: Constantine, Erebus City Sector, Grand Templar, Obsidian, Dreamhaunter, Sacred Sanctuary, Bolt Crag #2, Arch Nova Elite, Irrian Grafter, Lucifire
+ 
+NS5 
+Optimized Deck: 41.7539: Lord Silus, Chainslicer, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious, Aggeroth Chaos
+ 
+ 9:49:30.23
