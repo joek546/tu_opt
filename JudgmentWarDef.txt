@@ -1,0 +1,8 @@
+16:55:13.87 
+"Sky Fortress(2)"
+Optimized Deck: (0.0233647% stall) 63.2998: Barracus, Dreamhaunter, Tazerious, Ayrkrane Syn, Aggeroth Chaos, Jilted Baughe #2, Stoneheart, Irrian Grafter
+"Sky Fortress,Death Factory"
+Optimized Deck: (0.0372% stall) 54.5721: Barracus, Dreamhaunter, Tazerious, Ayrkrane Syn, Aggeroth Chaos, Jilted Baughe #2, Stoneheart, Irrian Grafter
+"Death Factory(2)"
+Optimized Deck: (0.152518% stall) 35.4986: Lord Silus, Dreamhaunter, Sacred Sanctuary, Tazerious, Aggeroth Chaos, Trench Hurler, Shock Disruptor, Stoneheart, Chainslicer
+17:15:11.58
