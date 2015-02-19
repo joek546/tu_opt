@@ -1,6 +1,284 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Vicious Cache -->
+
+	<fusion_recipe>
+		<card_id>14876</card_id>
+		<resource card_id='14875' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14882</card_id>
+		<resource card_id='14881' number='2' />
+	</fusion_recipe>
+
+<!-- Accursed Brawl -->
+	
+	<fusion_recipe>
+		<card_id>14666</card_id>
+		<resource card_id='14665' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14672</card_id>
+		<resource card_id='14671' number='2' />
+	</fusion_recipe>
+
+<!-- Corrosion Cache -->
+	
+	<fusion_recipe>
+		<card_id>8457</card_id>
+		<resource card_id='8456' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8463</card_id>
+		<resource card_id='8462' number='2' />
+	</fusion_recipe>
+
+<!-- Rex Box -->
+
+	<fusion_recipe>
+		<card_id>14576</card_id>
+		<resource card_id='14575' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14582</card_id>
+		<resource card_id='14581' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14594</card_id>
+		<resource card_id='14593' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14600</card_id>
+		<resource card_id='14599' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14612</card_id>
+		<resource card_id='14611' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14618</card_id>
+		<resource card_id='14617' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8397</card_id>
+		<resource card_id='8396' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8403</card_id>
+		<resource card_id='8402' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14630</card_id>
+		<resource card_id='14629' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14636</card_id>
+		<resource card_id='14635' number='2' />
+	</fusion_recipe>
+
+<!-- Progenitor's Continuum Week 3 -->
+
+	<fusion_recipe>
+		<card_id>14804</card_id>
+		<resource card_id='14803' number='2' />
+	</fusion_recipe>
+
+<!-- Feb Fusions -->
+
+	<fusion_recipe>
+		<card_id>8421</card_id>
+		<resource card_id='2154' number='1' />
+		<resource card_id='4482' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8427</card_id>
+		<resource card_id='2160' number='1' />
+		<resource card_id='720' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8433</card_id>
+		<resource card_id='2166' number='1' />
+		<resource card_id='726' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8439</card_id>
+		<resource card_id='2172' number='1' />
+		<resource card_id='4518' number='1' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8445</card_id>
+		<resource card_id='2178' number='1' />
+		<resource card_id='5067' number='1' />
+	</fusion_recipe>
+
+<!-- Swarm Cache -->
+
+	<fusion_recipe>
+		<card_id>14696</card_id>
+		<resource card_id='14695' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14702</card_id>
+		<resource card_id='14701' number='2' />
+	</fusion_recipe>
+
+<!-- Judgment War -->
+
+	<fusion_recipe>
+		<card_id>14684</card_id>
+		<resource card_id='14683' number='2' />
+	</fusion_recipe>
+
+<!-- Encompass Box -->
+
+	<fusion_recipe>
+		<card_id>14354</card_id>
+		<resource card_id='14353' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14360</card_id>
+		<resource card_id='14359' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14372</card_id>
+		<resource card_id='14371' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14378</card_id>
+		<resource card_id='14377' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14390</card_id>
+		<resource card_id='14389' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14396</card_id>
+		<resource card_id='14395' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14408</card_id>
+		<resource card_id='14407' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14414</card_id>
+		<resource card_id='14413' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14426</card_id>
+		<resource card_id='14425' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14432</card_id>
+		<resource card_id='14431' number='2' />
+	</fusion_recipe>
+
+<!-- Guerrilla Pack -->
+
+	<fusion_recipe>
+		<card_id>14648</card_id>
+		<resource card_id='14647' number='2' />
+	</fusion_recipe>	
+	<fusion_recipe>
+		<card_id>14654</card_id>
+		<resource card_id='14653' number='2' />
+	</fusion_recipe>
+
+<!-- Brawl of Deities -->
+	
+	<fusion_recipe>
+		<card_id>14540</card_id>
+		<resource card_id='14539' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14546</card_id>
+		<resource card_id='14545' number='2' />
+	</fusion_recipe>
+	
+<!-- Angelic Cache -->
+
+	<fusion_recipe>
+		<card_id>14558</card_id>
+		<resource card_id='14557' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14564</card_id>
+		<resource card_id='14563' number='2' />
+	</fusion_recipe>
+
+<!-- Kismet Box -->
+
+	<fusion_recipe>
+		<card_id>14264</card_id>
+		<resource card_id='14263' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14270</card_id>
+		<resource card_id='14269' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8379</card_id>
+		<resource card_id='8378' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8385</card_id>
+		<resource card_id='8384' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14276</card_id>
+		<resource card_id='14329' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14282</card_id>
+		<resource card_id='14281' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14294</card_id>
+		<resource card_id='14293' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14300</card_id>
+		<resource card_id='14299' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14312</card_id>
+		<resource card_id='14311' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14318</card_id>
+		<resource card_id='14317' number='2' />
+	</fusion_recipe>
+	
+<!-- Progenitor Continuum Event Week 1 -->
+
+	<fusion_recipe>
+		<card_id>14438</card_id>
+		<resource card_id='11281' number='2' />
+	</fusion_recipe>
+
+	
+<!-- Fierce Cache -->
+
+	<fusion_recipe>
+		<card_id>14336</card_id>
+		<resource card_id='14335' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14342</card_id>
+		<resource card_id='14341' number='2' />
+	</fusion_recipe>
+
+<!-- Karkinos Raid -->
+
+	<fusion_recipe>
+		<card_id>14246</card_id>
+		<resource card_id='14245' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14252</card_id>
+		<resource card_id='14251' number='2' />
+	</fusion_recipe>
+
 <!-- Prism Box -->
 
 	<fusion_recipe>

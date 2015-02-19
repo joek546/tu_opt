@@ -3,14 +3,14 @@ Constantine
 Barracus
 Nexor
 Lord Silus
-
+Typhon Vex
 
 Sacred Sanctuary
 Ayrkrane Syn
 Aggeroth Chaos
 Demi Constrictor
 Arch Nova Alpha
-Tazerecca
+Tazerious
 Dreamhaunter
 Stoneheart
 Zodiac Harbinger (2)
@@ -25,8 +25,9 @@ Auger Ream
 Astral Strider
 Chainslicer
 Trench Hurler
+Irrian Grafter
+Ezamit Serene
 
 
 
-
-Crypt Burrower
+Aasi Revealed

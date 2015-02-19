@@ -3,7 +3,7 @@ Constantine
 Barracus
 Nexor
 Lord Silus
-
+Typhon Vex
 
 Sacred Sanctuary
 Ayrkrane Syn
@@ -20,6 +20,7 @@ Jilted Baughe (2)
 Shock Disruptor
 Messale
 Valiant Knight
+Bridge of Destiny
 Honorable Samurai
 Auger Ream
 Astral Strider

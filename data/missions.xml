@@ -12649,7 +12649,7 @@
         <location_id>108</location_id>
         <event_req>13</event_req>
         <mission_type>2</mission_type>
-        <monster asset_bundle='14'>kraken</monster>
+        <monster asset_bundle='12'>kraken</monster>
 		<combatBG asset_bundle='4'>CombatBG_Kor</combatBG>
         <energy>50</energy>
         <x>400</x>
@@ -13333,7 +13333,7 @@
         <picture>mission2171.jpg</picture>
         <location_id>108</location_id>
         <event_req>13</event_req>
-        <monster asset_bundle='13'>infested_rastax</monster>
+        <monster asset_bundle='12'>infested_rastax</monster>
         <combatBG asset_bundle='4'>combatbg_space</combatBG>
 		<mission_type>2</mission_type>
         <energy>100</energy>
@@ -21391,12 +21391,756 @@
 	</mission>
 	
 	<!-- END Janurary 2015 Missions -->
+	
+	<!-- START February 2015 Missions -->
+	
+	<mission>
+		<id>2364</id>
+		<name>Distant Memories </name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>40</energy>
+		<x>520</x>
+		<y>260</y>
+		<commander>1007</commander>
+		<speech>
+			<line commander='1186'>Where... Where are we? We were trying to destroy that Progenitor structure then...</line>
+			<line commander='1003'>Everything got blindingly bright. Blew out the sensor in my eye.</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>314</card>
+			<card>70</card>
+			<card>106</card>
+			<card>133</card>
+			<card>133</card>
+			<card>501</card>
+			<card>314</card>
+			<card>68</card>
+			<card>502</card>
+		</deck>
+		<rewards>
+			<gold>44</gold>
+			<card>314</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>10</req>
+	</mission>
+	
+	<mission>
+		<id>2365</id>
+		<name>Bloodlines</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>45</energy>
+		<x>590</x>
+		<y>220</y>
+		<commander>1011</commander>
+		<speech>
+			<line commander='1003'>This looks like Ashrock... but that spire in the distance is not the spire I remember.</line>
+			<line commander='1186'>We're being attacked by Bloodthirsty!</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>135</card>
+			<card>135</card>
+			<card>352</card>
+			<card>179</card>
+			<card>104</card>
+			<card>104</card>
+			<card>2015</card>
+			<card>200</card>
+			<card>145</card>
+		</deck>
+		<rewards>
+			<gold>50</gold>
+			<card>104</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2364</req>
+	</mission>
+
+	<mission>
+		<id>2366</id>
+		<name>Emerald Enemies</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>50</energy>
+		<x>660</x>
+		<y>195</y>
+		<commander>1020</commander>
+		<speech>
+			<line commander='1003'>It seems its more than Bloodthirsty. We're also surrounded by Xeno! And Raiders! And Righteous... and Imperials... Something is very off.</line>
+			<line commander='1186'>They're all emitting a strange green glow.</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>139</card>
+			<card>166</card>
+			<card>100</card>
+			<card>2003</card>
+			<card>73</card>
+			<card>170</card>
+			<card>356</card>
+			<card>508</card>
+			<card>6689</card>
+		</deck>
+		<rewards>
+			<gold>55</gold>
+			<card>100</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2365</req>
+	</mission>
+
+	<mission>
+		<id>2367</id>
+		<name>Mind Ablaze</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>50</energy>
+		<x>730</x>
+		<y>195</y>
+		<commander>1260</commander>
+		<speech>
+			<line commander='1186'>Arghhh!</line>
+			<line commander='1003'>What's wrong?</line>
+			<line commander='1186'>My ears are ringing. Ugh... it stopped. We need to get out of here.</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>4410</card>
+			<card>169</card>
+			<card>169</card>
+			<card>109</card>
+			<card>7</card>
+			<card>79</card>
+			<card>374</card>
+			<card>505</card>
+			<card>143</card>
+		</deck>
+		<rewards>
+			<gold>55</gold>
+			<card>169</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2366</req>
+	</mission>
+
+	<mission>
+		<id>2368</id>
+		<name>Familiar Foes</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>50</energy>
+		<x>800</x>
+		<y>175</y>
+		<commander>1016</commander>
+		<speech>
+			<line commander='1003'>Large Bloodthirsty incoming!</line>
+			<line commander='1186'>It looks oddly familiar...</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>6730</card>
+			<card>13</card>
+			<card>176</card>
+			<card>360</card>
+			<card>315</card>
+			<card>81</card>
+			<card>501</card>
+			<card>172</card>
+			<card>172</card>
+		</deck>
+		<rewards>
+			<gold>60</gold>
+			<card>172</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2367</req>
+	</mission>
+
+	<mission>
+		<id>2369</id>
+		<name>Mammon Sire</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<mission_type>2</mission_type>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>50</energy>
+        <x>875</x>
+        <y>180</y>
+		<commander>1630</commander>
+		<speech>
+			<line commander='1186'>Didn't we kill this thing when we escaped from the Cavern of Blood?</line>
+			<line commander='1003'>If we killed it once, we can kill it again!</line>
+		</speech>
+		<deck>
+			<card>11126</card>
+			<card>11126</card>
+			<card>6553</card>
+			<card>7797</card>
+			<card>14149</card>
+			<card>11871</card>
+			<card>13770</card>
+			<card>7563</card>
+			<card>927</card>
+			<card>5326</card>
+		</deck>
+		<rewards>
+			<gold>60</gold>
+			<card>49</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2368</req>
+	</mission>
+	
+	<mission>
+		<id>2370</id>
+		<name>Repeat Offender</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>80</energy>
+		<x>445</x>
+		<y>270</y>
+		<commander>1261</commander>
+		<speech>
+			<line commander='1003'>That kill felt more satisfying the second time around... hope we can fight it again some day.</line>
+			<line commander='1186'>I would rather not fight that thing again.</line>
+		</speech>
+		<deck>
+			<card>10415</card>
+			<card>14642</card>
+			<card>4791</card>
+			<card>5399</card>
+			<card>6729</card>
+			<card>354</card>
+			<card>354</card>
+			<card>70</card>
+			<card>358</card>
+			<card>372</card>
+		</deck>
+		<rewards>
+			<gold>88</gold>
+			<card>15</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2369</req>
+	</mission>
+
+	<mission>
+		<id>2371</id>
+		<name>Mysterious Glow</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>85</energy>
+		<x>400</x>
+		<y>175</y>
+		<commander>1149</commander>
+		<speech>
+			<line commander='1186'>It looks like the glow is emitting from the Spire as well. Maybe we can stop these attackers if we shut the Spire down?</line>
+		</speech>
+		<deck>
+			<card>10415</card>
+			<card>13698</card>
+			<card>6690</card>
+			<card>5845</card>
+			<card>6109</card>
+			<card>135</card>
+			<card>68</card>
+			<card>68</card>
+			<card>5</card>
+			<card>169</card>
+		</deck>
+		<rewards>
+			<gold>93</gold>
+			<card>67</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2370</req>
+	</mission>
+
+	<mission>
+		<id>2372</id>
+		<name>Foehammer</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>90</energy>
+		<x>260</x>
+		<y>175</y>
+		<commander>1021</commander>
+		<speech>
+			<line commander='1003'>You want to ruin all the fun of crushing all these foes?</line>
+			<line commander='1186'>There's plenty of foes to crush on the way there. We can't fight forever.</line>
+		</speech>
+		<deck>
+			<card>10415</card>
+			<card>14552</card>
+			<card>6730</card>
+			<card>558</card>
+			<card>4330</card>
+			<card>5621</card>
+			<card>200</card>
+			<card>201</card>
+			<card>508</card>
+			<card>315</card>
+		</deck>
+		<rewards>
+			<gold>99</gold>
+			<card>200</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2371</req>
+	</mission>
+
+	<mission>
+		<id>2373</id>
+		<name>Aspire to Leave</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>95</energy>
+		<x>190</x>
+		<y>190</y>
+		<commander>1017</commander>
+		<speech>
+			<line commander='1186'>This headache is killing me... What the heck is this thing in the way of the Spire?</line>
+			<line commander='1003'>More foes to crush. I could fight forever!</line>
+		</speech>
+		<deck>
+			<card>10415</card>
+			<card>14095</card>
+			<card>6110</card>
+			<card>6110</card>
+			<card>5845</card>
+			<card>626</card>
+			<card>175</card>
+			<card>176</card>
+			<card>502</card>
+			<card>68</card>
+		</deck>
+		<rewards>
+			<gold>104</gold>
+			<card>175</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2372</req>
+	</mission>
+
+	<mission>
+		<id>2374</id>
+		<name>Master Manipulator</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>95</energy>
+		<x>200</x>
+		<y>275</y>
+		<commander>1009</commander>
+		<speech>
+			<line commander='1186'>I think it's Imperial technology, but what is it doing here?</line>
+			<line commander='1003'>I suspect there is something bigger going on here than we realize.</line>
+		</speech>
+		<deck>
+			<card>10415</card>
+			<card>12458</card>
+			<card>929</card>
+			<card>6266</card>
+			<card>5091</card>
+			<card>5325</card>
+			<card>434</card>
+			<card>170</card>
+			<card>170</card>
+			<card>372</card>
+		</deck>
+		<rewards>
+			<gold>104</gold>
+			<card>169</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2373</req>
+	</mission>
+
+	<mission>
+		<id>2375</id>
+		<name>GDR-SIRE</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<mission_type>2</mission_type>
+		<energy>75</energy>
+		<x>330</x>
+		<y>195</y>
+		<commander>1636</commander>
+		<speech>
+			<line commander='1186'>It looks like a GDR-5000... but its different. Same green glow as the others.</line>
+			<line commander='1003'>It looks like scrap metal to me!</line>
+		</speech>
+		<deck>
+			<card>10415</card>
+			<card>10415</card>
+			<card>11126</card>
+			<card>12638</card>
+			<card>13752</card>
+			<card>12766</card>
+			<card>11234</card>
+			<card>12464</card>
+			<card>6553</card>
+			<card>611</card>
+		</deck>
+		<rewards>
+			<gold>90</gold>
+			<card>194</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2374</req>
+	</mission>
+	
+	<mission>
+		<id>2376</id>
+		<name>Mind Control</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>105</energy>
+		<x>570</x>
+		<y>350</y>
+		<commander>1651</commander>
+		<speech>
+			<line commander='1186'>Alright we beat... it... now... ugh... I...</line>
+			<line commander='1003'>Tabitha? What's wrong?</line>
+		</speech>
+		<deck>
+			<card>32</card>
+			<card>14288</card>
+			<card>14690</card>
+			<card>515</card>
+			<card>846</card>
+			<card>5621</card>
+			<card>5086</card>
+			<card>109</card>
+			<card>109</card>
+			<card>508</card>
+		</deck>
+		<rewards>
+			<gold>115</gold>
+			<card>109</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2375</req>
+	</mission>
+	
+	<mission>
+		<id>2377</id>
+		<name>Mercy Killing</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>110</energy>
+		<x>660</x>
+		<y>390</y>
+		<commander>1651</commander>
+		<speech>
+			<line commander='1186'>Octane... kill... me...</line>
+		</speech>
+		<deck>
+			<card>32</card>
+			<card>372</card>
+			<card>170</card>
+			<card>169</card>
+			<card>565</card>
+			<card>82</card>
+			<card>6690</card>
+			<card>5622</card>
+			<card>12458</card>
+			<card>7791</card>
+		</deck>
+		<rewards>
+			<gold>121</gold>
+			<card>169</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2376</req>
+	</mission>
+
+	<mission>
+		<id>2378</id>
+		<name>Rules Broken</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>120</energy>
+		<x>730</x>
+		<y>360</y>
+		<commander>1651</commander>
+		<speech>
+			<line commander='1003'>No I cannot. I've sworn to protect you!</line>
+			<line commander='1651'>You are a fool to challenge us. But you are interesting... why are you not affected by Mesmerize's power of control?</line>
+		</speech>
+		<deck>
+			<card>32</card>
+			<card>7923</card>
+			<card>7791</card>
+			<card>927</card>
+			<card>5326</card>
+			<card>5326</card>
+			<card>321</card>
+			<card>315</card>
+			<card>315</card>
+			<card>5</card>
+		</deck>
+		<rewards>
+			<gold>132</gold>
+			<card>314</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2377</req>
+	</mission>
+
+	<mission>
+		<id>2379</id>
+		<name>Punishments Given</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>130</energy>
+		<x>820</x>
+		<y>350</y>
+		<commander>1651</commander>
+		<speech>
+			<line commander='1003'>Leave her alone! I swear I will crush you and everything you've ever loved if you do not free her.</line>
+			<line commander='1651'>How long do you think you can fight us without killing her? Without her killing you?</line>
+		</speech>
+		<deck>
+			<card>32</card>
+			<card>4</card>
+			<card>43</card>
+			<card>378</card>
+			<card>518</card>
+			<card>845</card>
+			<card>198</card>
+			<card>4416</card>
+			<card>2287</card>
+			<card>11410</card>
+		</deck>
+		<rewards>
+			<gold>143</gold>
+			<card>4</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2378</req>
+	</mission>
+	
+	<mission>
+		<id>2380</id>
+		<name>Limitless Power</name>
+		<location_id>117</location_id>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>135</energy>
+		<x>790</x>
+		<y>460</y>
+		<commander>1651</commander>
+		<speech>
+			<line commander='1003'>Nothing strikes fear into my heart. I will end your power over her by destroying your toys.</line>
+			<line commander='1651'>Destroying the Spire will only make us pause. Mesmerize's power exceeds all bounds.</line>
+		</speech>
+		<deck>
+			<card>32</card>
+			<card>4754</card>
+			<card>13573</card>
+			<card>6637</card>
+			<card>5466</card>
+			<card>5769</card>
+			<card>6089</card>
+			<card>508</card>
+			<card>360</card>
+			<card>507</card>
+		</deck>
+		<rewards>
+			<gold>148</gold>
+			<card>507</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2379</req>
+	</mission>
+	
+	<mission>
+		<id>2381</id>
+		<name>Mesmerize</name>
+		<location_id>117</location_id>
+		<mission_type>2</mission_type>
+		<event_req>31</event_req>
+		<combatBG>CombatBGLava</combatBG>
+		<energy>100</energy>
+		<x>640</x>
+		<y>490</y>
+		<commander>1642</commander>
+		<speech>
+			<line commander='1651'>No mortal can destroy Mesmerize. We will control all. All will be one.</line>
+			<line commander='1003'>You assume I'm only human. No one will ever control me!</line>
+		</speech>
+		<deck>
+			<card>32</card>
+			<card>32</card>
+			<card>11126</card>
+			<card>10415</card>
+			<card>12766</card>
+			<card>7263</card>
+			<card>14534</card>
+			<card>11240</card>
+			<card>6823</card>
+			<card>14155</card>
+		</deck>
+		<rewards>
+			<gold>120</gold>
+			<card>317</card>
+			<star>
+				<id>2</id>
+				<req type='5' compare='great_equal' amount='5' />
+			</star>
+			<star>
+				<id>3</id>
+				<req type='5' compare='great_equal' amount='10' />
+			</star>
+		</rewards>
+		<req>2380</req>
+	</mission>
+	
+	<!-- END February 2015 Missions -->
 
 	<location>
 		<id>1</id>
 		<name>Ashrock</name>
 		<mapBG>map1</mapBG> <!-- map1 -->
-		<!-- <asset_bundle>21</asset_bundle> -->
+		<!-- <asset_bundle>24</asset_bundle> -->
 	</location>
 
 	<location>
@@ -21595,12 +22339,24 @@
 		<req>10</req>
 	</location>
 	
+	<location>
+		<id>117</id>
+		<name>Precursor Ashrock</name>
+		<event_req>31</event_req>
+		<mapBG>prog_spire_w3</mapBG>
+		<asset_bundle>24</asset_bundle>
+		<!-- <map bg='prog_spire_w1' asset_bundle='24' />
+		<map bg='prog_spire_w2' asset_bundle='24' phase_id='2' />
+		<map bg='prog_spire_w3' asset_bundle='24' phase_id='3' -->
+		<req>10</req>
+	</location>
+	
 <!-- Event Portals -->
 
 	<portal>
 		<location_id>1</location_id>
-		<destination_id>116</destination_id>
-		<event_req>28</event_req>
+		<destination_id>117</destination_id>
+		<event_req>31</event_req>
 		<req>10</req>
 		<x>420</x>
 		<y>450</y>
@@ -21608,8 +22364,8 @@
 
 	<portal>
 		<location_id>2</location_id>
-		<destination_id>116</destination_id>
-		<event_req>28</event_req>
+		<destination_id>117</destination_id>
+		<event_req>31</event_req>
 		<req>10</req>
 		<x>650</x>
 		<y>250</y>
@@ -21617,8 +22373,8 @@
 
 	<portal>
 		<location_id>3</location_id>
-		<destination_id>116</destination_id>
-		<event_req>28</event_req>
+		<destination_id>117</destination_id>
+		<event_req>31</event_req>
 		<req>10</req>
 		<x>180</x>
 		<y>600</y>
@@ -21626,8 +22382,8 @@
 
 	<portal>
 		<location_id>4</location_id>
-		<destination_id>116</destination_id>
-		<event_req>28</event_req>
+		<destination_id>117</destination_id>
+		<event_req>31</event_req>
 		<req>10</req>
 		<x>270</x>
 		<y>270</y>
@@ -21635,8 +22391,8 @@
 
 	<portal>
 		<location_id>5</location_id>
-		<destination_id>116</destination_id>
-		<event_req>28</event_req>
+		<destination_id>117</destination_id>
+		<event_req>31</event_req>
 		<req>10</req>
 		<x>350</x>
 		<y>580</y>
@@ -21644,8 +22400,8 @@
 
 	<portal>
 		<location_id>6</location_id>
-		<destination_id>116</destination_id>
-		<event_req>28</event_req>
+		<destination_id>117</destination_id>
+		<event_req>31</event_req>
 		<req>10</req>
 		<x>500</x>
 		<y>600</y>
@@ -21653,8 +22409,8 @@
 
 	<portal>
 		<location_id>7</location_id>
-		<destination_id>116</destination_id>
-		<event_req>28</event_req>
+		<destination_id>117</destination_id>
+		<event_req>31</event_req>
 		<req>10</req>
 		<x>420</x>
 		<y>380</y>
@@ -21662,19 +22418,19 @@
 
 	<portal>
 		<location_id>8</location_id>
-		<destination_id>116</destination_id>
-		<event_req>28</event_req>
+		<destination_id>117</destination_id>
+		<event_req>31</event_req>
 		<req>10</req>
 		<x>840</x>
 		<y>230</y>
 	</portal>
 
 	<portal>
-		<location_id>116</location_id>
+		<location_id>117</location_id>
 		<destination_id>0</destination_id>
-		<event_req>28</event_req>
+		<event_req>31</event_req>
 		<x>100</x>
-		<y>350</y>
+		<y>550</y>
 	</portal>
 
 <!-- END Event Portals -->
