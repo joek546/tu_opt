@@ -89,6 +89,7 @@
 			</always_include>
 		</deck>
 	</raid>
+
 	<raid>
 		<id>5</id>
 		<name>Carnifex</name>
@@ -96,43 +97,68 @@
 		<levels>26</levels>
 		<deck>
 			<always_include>
-				<card>13142</card>
 				<card>13102</card>
 				<card>13112</card>
 				<card>13122</card>
 				<card>13132</card>
+				<card>13142</card>
+				<card>8247</card>
 			</always_include>
 			<card_pool amount="4">
-				<card>13142</card>
 				<card>13102</card>
 				<card>13112</card>
 				<card>13122</card>
 				<card>13132</card>
+				<card>13142</card>
 				<card>8247</card>
 			</card_pool>
 		</deck>
 	</raid>
+
 	<raid>
 		<id>6</id>
 		<name>Karkinos</name>
 		<commander>1620</commander>
 		<levels>26</levels>
 		<deck>
-			<always_include>
+			<card_pool amount="10">
 				<card>8353</card>
 				<card>8363</card>
 				<card>14167</card>
-				<card>14177</card>
-				<card>14187</card>
-				<card>14197</card>
-				<card>14207</card>
-			</always_include>
-			<card_pool amount="3">
 				<card>14167</card>
 				<card>14177</card>
+				<card>14177</card>
+				<card>14187</card>
 				<card>14187</card>
 				<card>14197</card>
+				<card>14197</card>
 				<card>14207</card>
+				<card>14207</card>
+			</card_pool>
+		</deck>
+	</raid>
+
+	<raid>
+		<id>7</id>
+		<name>Brood Mother</name>
+		<commander>1652</commander>
+		<levels>26</levels>
+		<deck>
+			<always_include>
+				<card>14810</card>
+				<card>14820</card>
+				<card>14830</card>
+				<card>14840</card>
+				<card>14850</card>
+				<card>14860</card>
+			</always_include>
+			<card_pool amount="4">
+				<card>14810</card>
+				<card>14820</card>
+				<card>14830</card>
+				<card>14840</card>
+				<card>14850</card>
+				<card>14860</card>
 			</card_pool>
 		</deck>
 	</raid>

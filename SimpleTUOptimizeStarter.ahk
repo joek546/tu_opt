@@ -3,7 +3,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-BGEffects := "none|Bloodlust 1|Bloodlust 2|Heal all 1|Heal all 2|Heal all 3|Enfeeble all X|Heal all X|Protect all X|Rally all X|Siege all X|Strike all X|Weaken all X|Enhance all Armor X|Enhance all Berserk X|Enhance all Corrosive X|Enhance all Counter X|Enhance all Enfeeble X|Enhance all Evade X|Enhance all Heal X|Enhance all Inhibit X|Enhance all Leech X|Enhance all Pierce X|Enhance all Poison X|Enhance all Protect X|Enhance all Rally X|Enhance all Siege X|Enhance all Strike X|Enhance all Weaken X|Metamorphosis|Reaping X"
+BGEffects := "none|Enfeeble all X|Heal all X|Protect all X|Rally all X|Siege all X|Strike all X|Weaken all X|Enhance all Armor X|Enhance all Berserk X|Enhance all Corrosive X|Enhance all Counter X|Enhance all Enfeeble X|Enhance all Evade X|Enhance all Heal X|Enhance all Inhibit X|Enhance all Leech X|Enhance all Pierce X|Enhance all Poison X|Enhance all Protect X|Enhance all Rally X|Enhance all Siege X|Enhance all Strike X|Enhance all Weaken X|Metamorphosis|Reaping X"
 IniFileName := "data\SimpleTUOptimizeStarter.ini"
 IniSection := "onLoad"
 
@@ -95,7 +95,7 @@ Gui, Show
 return
 
 MenuUpdate:
-MsgBox, 0, Update started, Updating fusion_recipes_cj2.xml`, missions.xml and cards.xml.`nPlease wait at least 10 seconds. A new window should open soon.`nThis Window will auto close in 2 seconds. , 2
+MsgBox, 0, Update started, Updating fusion_recipes_cj2.xml`, missions.xml`, cards.xml and raids.xml.`nPlease wait at least one minute. A new window should open soon.`nThis Window will auto close in 5 seconds. , 5
 UrlDownloadToFile, http://mobile.tyrantonline.com/assets/fusion_recipes_cj2.xml, data\fusion_recipes_cj2.xml
 had_error := false
 if ErrorLevel
@@ -115,8 +115,14 @@ if ErrorLevel
     MsgBox, Error downloading cards.xml.
     had_error := true
 }
+UrlDownloadToFile, https://raw.githubusercontent.com/andor9/tyrant_optimize/unleashed/data/raids.xml, data\raids.xml
+if ErrorLevel
+{
+    MsgBox, Error downloading raids.xml.
+    had_error := true
+}
 if !had_error
-    MsgBox, 0, Update finished, cards.xml and missions.xml successfully updated.`nThis Window will auto close in 2 seconds., 2
+    MsgBox, 0, Update finished, xml files successfully updated.`nThis Window will auto close in 2 seconds., 2
 Gui, Show
 return
 

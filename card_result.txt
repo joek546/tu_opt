@@ -1,20 +1,20 @@
 start time
-16:43:21.96
+20:21:58.21
 
 Current Best Deck:
-Optimized Deck: 36.4645: Lord Silus, Shock Disruptor, Chainslicer, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious
+Optimized Deck: 43.1705: Typhon Vex, Dreamhaunter, Bridge of Destiny, Stoneheart, Sacred Sanctuary, Chainslicer, Tazerious, Aggeroth Chaos
 
-with Bridge of Destiny:
-Optimized Deck: 43.141: Typhon Vex, Dreamhaunter, Bridge of Destiny, Stoneheart, Sacred Sanctuary, Chainslicer, Tazerious, Aggeroth Chaos
+with Ezamit Tranq:
+Optimized Deck: 42.6766: Lord Silus, Shock Disruptor, Chainslicer, Stoneheart, Bridge of Destiny, Ezamit Tranq, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Ezamit Serene
 
 with Messiah:
-Optimized Deck: 36.4327: Lord Silus, Shock Disruptor, Chainslicer, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious
+Optimized Deck: 44.0384: Typhon Vex, Dreamhaunter, Bridge of Destiny, Stoneheart, Sacred Sanctuary, Chainslicer, Messiah, Tazerious
 
 with Aasi Revealed:
-Optimized Deck: 36.4784: Lord Silus, Shock Disruptor, Chainslicer, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Tazerious
+Optimized Deck: 43.3244: Typhon Vex, Dreamhaunter, Bridge of Destiny, Stoneheart, Sacred Sanctuary, Chainslicer, Aasi Revealed, Tazerious
 
-with Chainslicer (2)
-Optimized Deck: 38.8724: Lord Silus, Shock Disruptor, Chainslicer, Stoneheart, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler, Tazerious
+with Chainslicer (2):
+Optimized Deck: 43.6077: Typhon Vex, Dreamhaunter, Bridge of Destiny, Stoneheart, Sacred Sanctuary, Chainslicer #2, Tazerious
 
 stop time
-17:46:47.34
+23:59:01.19

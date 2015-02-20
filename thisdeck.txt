@@ -20,6 +20,7 @@ Jilted Baughe (2)
 Shock Disruptor
 Messale
 Valiant Knight
+Bridge of Destiny
 Honorable Samurai
 Auger Ream
 Astral Strider
@@ -30,4 +31,4 @@ Ezamit Serene
 
 
 
-Aasi Revealed
+Chainslicer (2)

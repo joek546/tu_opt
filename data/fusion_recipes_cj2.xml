@@ -1,6 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 
+<!-- Brood Mother Raid -->
+
+	<fusion_recipe>
+		<card_id>14942</card_id>
+		<resource card_id='14941' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14948</card_id>
+		<resource card_id='14947' number='2' />
+	</fusion_recipe>
+	
+<!-- Power Box -->
+
+	<fusion_recipe>
+		<card_id>14924</card_id>
+		<resource card_id='14923' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14930</card_id>
+		<resource card_id='14929' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14960</card_id>
+		<resource card_id='14959' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14966</card_id>
+		<resource card_id='14965' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14978</card_id>
+		<resource card_id='14977' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14984</card_id>
+		<resource card_id='14983' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8475</card_id>
+		<resource card_id='8474' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>8481</card_id>
+		<resource card_id='8480' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14996</card_id>
+		<resource card_id='14995' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>15002</card_id>
+		<resource card_id='15001' number='2' />
+	</fusion_recipe>
+
+<!-- Necro Box -->
+
+	<fusion_recipe>
+		<card_id>14450</card_id>
+		<resource card_id='14449' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14456</card_id>
+		<resource card_id='14455' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14468</card_id>
+		<resource card_id='14467' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14474</card_id>
+		<resource card_id='14473' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14486</card_id>
+		<resource card_id='14485' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14492</card_id>
+		<resource card_id='14491' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14504</card_id>
+		<resource card_id='14503' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14510</card_id>
+		<resource card_id='14509' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14522</card_id>
+		<resource card_id='14521' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14528</card_id>
+		<resource card_id='14527' number='2' />
+	</fusion_recipe>
+
+<!-- Epidemic Pack -->
+	
+	<fusion_recipe>
+		<card_id>14906</card_id>
+		<resource card_id='14905' number='2' />
+	</fusion_recipe>
+	<fusion_recipe>
+		<card_id>14912</card_id>
+		<resource card_id='14911' number='2' />
+	</fusion_recipe>
+
 <!-- Vicious Cache -->
 
 	<fusion_recipe>
