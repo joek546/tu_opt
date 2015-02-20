@@ -1,0 +1,53 @@
+15:06:18.39 
+"Lightning Cannon(2)"
+level 15
+Optimized Deck: (89.8857% win, 0.00466667% stall) 90.9023: Nexor, Bridge of Destiny, Stoneheart, Sacred Sanctuary, Dreamhaunter, Honorable Samurai, Ayrkrane Syn, Zodiac Harbinger
+level 16
+Optimized Deck: (79.9783% win, 0.00566667% stall) 81.7269: Lord Silus, Bridge of Destiny, Stoneheart, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Chainslicer, Ayrkrane Syn
+level 17
+Optimized Deck: (67.8383% win, 0.00433333% stall) 70.5866: Lord Silus, Bridge of Destiny, Stoneheart, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Chainslicer, Ayrkrane Syn
+level 18
+Optimized Deck: (53.233% win, 0.00733333% stall) 57.1032: Lord Silus, Stoneheart, Bridge of Destiny, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Chainslicer, Ayrkrane Syn
+level 19
+Optimized Deck: (38.1537% win, 0.00366667% stall) 43.0886: Lord Silus, Stoneheart, Bridge of Destiny, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Chainslicer, Ayrkrane Syn
+level 20
+Optimized Deck: (25.8647% win, 0.004% stall) 31.8419: Nexor, Bridge of Destiny, Stoneheart, Sacred Sanctuary, Dreamhaunter, Zodiac Harbinger, Ayrkrane Syn, Honorable Samurai
+level 21
+Optimized Deck: (14.2717% win, 0.00366667% stall) 20.1782: Lord Silus, Stoneheart, Bridge of Destiny, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Chainslicer, Trench Hurler, Ayrkrane Syn
+level 22
+Optimized Deck: (6.43433% win, 0.00266667% stall) 12.6764: Lord Silus, Stoneheart, Bridge of Destiny, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Irrian Grafter, Trench Hurler
+"Death Factory (2)"
+level 15
+Optimized Deck: (90.319% win, 0.014% stall) 91.3766: Lord Silus, Stoneheart, Shock Disruptor, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler, Arch Nova Alpha
+level 16
+Optimized Deck: (82.1777% win, 0.0146667% stall) 84.0591: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler, Arch Nova Alpha
+level 17
+Optimized Deck: (71.1467% win, 0.011% stall) 74.0113: Lord Silus, Stoneheart, Shock Disruptor, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 18
+Optimized Deck: (57.8803% win, 0.009% stall) 61.8839: Lord Silus, Stoneheart, Shock Disruptor, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 19
+Optimized Deck: (42.988% win, 0.00933333% stall) 48.151: Lord Silus, Stoneheart, Shock Disruptor, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 20
+Optimized Deck: (28.577% win, 0.00633333% stall) 34.6807: Lord Silus, Stoneheart, Shock Disruptor, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 21
+Optimized Deck: (16.8787% win, 0.006% stall) 23.413: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler, Arch Nova Alpha
+level 22
+Optimized Deck: (10.3383% win, 0% stall) 16.2652: Lord Silus, Stoneheart, Bridge of Destiny, Shock Disruptor, Sacred Sanctuary, Dreamhaunter, Chainslicer, Trench Hurler, Ayrkrane Syn
+"Inspiring Altar(2)"
+level 15
+Optimized Deck: (80.5993% win, 0.0146667% stall) 82.6629: Constantine, Bridge of Destiny, Stoneheart, Honorable Samurai, Dreamhaunter, Zodiac Harbinger #2
+level 16
+Optimized Deck: (69.3673% win, 0.0183333% stall) 72.5175: Constantine, Bridge of Destiny, Stoneheart, Honorable Samurai, Dreamhaunter, Zodiac Harbinger #2
+level 17
+Optimized Deck: (49.9033% win, 0.276% stall) 54.73: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 18
+Optimized Deck: (38.214% win, 0.258667% stall) 43.787: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 19
+Optimized Deck: (27.6463% win, 0.213% stall) 33.7317: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 20
+Optimized Deck: (17.8563% win, 0.157333% stall) 24.2945: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 21
+Optimized Deck: (10.355% win, 0.118333% stall) 16.8707: Lord Silus, Shock Disruptor, Stoneheart, Sacred Sanctuary, Chainslicer, Dreamhaunter, Trench Hurler
+level 22
+Optimized Deck: (7.23433% win, 0.001% stall) 12.8503: Lord Silus, Bridge of Destiny, Shock Disruptor, Stoneheart, Sacred Sanctuary, Dreamhaunter, Trench Hurler, Ayrkrane Syn
+15:18:41.09
